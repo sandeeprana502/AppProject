@@ -1,32 +1,32 @@
 {
- "generated": "2026-11-01T10:05:58.072053+00:00",
+ "generated": "2026-11-01T17:18:11.732995+00:00",
  "sources_ok": 16,
  "sources_total": 17,
  "sources": [
   {
    "source": "arXiv",
    "status": "ok",
-   "items": 6
+   "items": 8
   },
   {
    "source": "bioRxiv",
    "status": "ok",
-   "items": 6
+   "items": 10
   },
   {
    "source": "Europe PMC",
    "status": "ok",
-   "items": 6
+   "items": 10
   },
   {
    "source": "PLOS ONE",
    "status": "ok",
-   "items": 6
+   "items": 10
   },
   {
    "source": "Nature",
    "status": "ok",
-   "items": 6
+   "items": 10
   },
   {
    "source": "NASA APOD",
@@ -36,12 +36,12 @@
   {
    "source": "NASA news",
    "status": "ok",
-   "items": 6
+   "items": 10
   },
   {
    "source": "ESA",
    "status": "ok",
-   "items": 6
+   "items": 7
   },
   {
    "source": "CERN",
@@ -52,12 +52,12 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 6
+   "items": 10
   },
   {
    "source": "NASA EONET",
    "status": "ok",
-   "items": 6
+   "items": 8
   },
   {
    "source": "NASA Earth Observatory",
@@ -72,22 +72,22 @@
   {
    "source": "Phys.org",
    "status": "ok",
-   "items": 6
+   "items": 10
   },
   {
    "source": "ScienceDaily",
    "status": "ok",
-   "items": 6
+   "items": 10
   },
   {
    "source": "BBC Science",
    "status": "ok",
-   "items": 6
+   "items": 10
   },
   {
    "source": "BBC Sport",
    "status": "ok",
-   "items": 6
+   "items": 10
   }
  ]
 }
