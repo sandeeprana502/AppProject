@@ -1,5 +1,5 @@
 {
-  "_help": "licence: 'open' = public domain or open licence. 'check' = terms not yet confirmed. full_summary=false keeps only a ~35 word snippet plus link. Set full_summary to true for a source only after you have read its terms. enabled=false skips a source. Feed URLs were written from memory: if a source fails, open data/run_log.json and fix its url.",
+  "_help": "licence: 'open' = public domain or open licence. 'check' = terms not yet confirmed. full_summary=false keeps only a ~35 word snippet plus link. Set full_summary to true for a source only after you have read its terms. enabled=false skips a source (Symmetry and TheSportsDB refused the first run with 403; Guardian needs GUARDIAN_API_KEY). max_age_days overrides how old an item may be (default 21). Feed URLs were written from memory: if a source fails, open data/run_log.json and fix its url.",
   "sources": [
     {"name": "arXiv", "category": "Physics", "type": "feed", "licence": "open", "full_summary": true,
      "url": "http://export.arxiv.org/api/query?search_query=cat:quant-ph+OR+cat:hep-ex+OR+cat:astro-ph.CO+OR+cat:physics.gen-ph&sortBy=submittedDate&sortOrder=descending&max_results=8"},
@@ -18,14 +18,14 @@
     {"name": "ESA", "category": "Space", "type": "feed", "licence": "check", "full_summary": false,
      "url": "https://www.esa.int/rssfeed/Our_Activities/Space_Science"},
     {"name": "CERN", "category": "Physics", "type": "feed", "licence": "check", "full_summary": false,
-     "url": "https://home.cern/api/news/news/feed.rss"},
-    {"name": "Symmetry Magazine", "category": "Physics", "type": "feed", "licence": "check", "full_summary": false,
+     "url": "https://home.cern/feed/"},
+    {"name": "Symmetry Magazine", "category": "Physics", "type": "feed", "licence": "check", "full_summary": false, "enabled": false,
      "url": "https://www.symmetrymagazine.org/feed"},
     {"name": "USGS earthquakes", "category": "Earth", "type": "usgs", "licence": "open", "full_summary": true,
-     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson"},
+     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson"},
     {"name": "NASA EONET", "category": "Earth", "type": "eonet", "licence": "open", "full_summary": true,
      "url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=open&limit=8"},
-    {"name": "NASA Earth Observatory", "category": "Earth", "type": "feed", "licence": "open", "full_summary": true,
+    {"name": "NASA Earth Observatory", "category": "Earth", "type": "feed", "licence": "open", "full_summary": true, "max_age_days": 180,
      "url": "https://earthobservatory.nasa.gov/feeds/earth-observatory.rss"},
     {"name": "NOAA", "category": "Earth", "type": "feed", "licence": "open", "full_summary": true,
      "url": "https://www.noaa.gov/rss.xml"},
@@ -35,11 +35,11 @@
      "url": "https://www.sciencedaily.com/rss/top/science.xml"},
     {"name": "BBC Science", "category": "Science", "type": "feed", "licence": "check", "full_summary": false,
      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"},
-    {"name": "Guardian Science", "category": "Science", "type": "guardian", "licence": "check", "full_summary": false,
+    {"name": "Guardian Science", "category": "Science", "type": "guardian", "licence": "check", "full_summary": false, "enabled": false,
      "url": "https://content.guardianapis.com/search", "env_key": "GUARDIAN_API_KEY", "params": {"section": "science"}},
     {"name": "BBC Sport", "category": "Sports", "type": "feed", "licence": "check", "full_summary": false,
      "url": "https://feeds.bbci.co.uk/sport/rss.xml"},
-    {"name": "TheSportsDB", "category": "Sports", "type": "sportsdb", "licence": "check", "full_summary": false,
+    {"name": "TheSportsDB", "category": "Sports", "type": "sportsdb", "licence": "check", "full_summary": false, "enabled": false,
      "url": "https://www.thesportsdb.com/api/v1/json/3/eventspastleague.php", "params": {"id": "4328"}}
   ]
 }
