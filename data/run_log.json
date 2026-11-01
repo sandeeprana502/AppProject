@@ -1,0 +1,112 @@
+{
+ "generated": "2026-11-01T08:30:06.560890+00:00",
+ "sources_ok": 15,
+ "sources_total": 20,
+ "sources": [
+  {
+   "source": "arXiv",
+   "status": "ok",
+   "items": 6
+  },
+  {
+   "source": "bioRxiv",
+   "status": "ok",
+   "items": 6
+  },
+  {
+   "source": "Europe PMC",
+   "status": "ok",
+   "items": 6
+  },
+  {
+   "source": "PLOS ONE",
+   "status": "ok",
+   "items": 6
+  },
+  {
+   "source": "Nature",
+   "status": "ok",
+   "items": 6
+  },
+  {
+   "source": "NASA APOD",
+   "status": "failed",
+   "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY",
+   "kept_previous": 0
+  },
+  {
+   "source": "NASA news",
+   "status": "ok",
+   "items": 6
+  },
+  {
+   "source": "ESA",
+   "status": "ok",
+   "items": 6
+  },
+  {
+   "source": "CERN",
+   "status": "failed",
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://home.cern/api/news/news/feed.rss",
+   "kept_previous": 0
+  },
+  {
+   "source": "Symmetry Magazine",
+   "status": "failed",
+   "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.symmetrymagazine.org/feed",
+   "kept_previous": 0
+  },
+  {
+   "source": "USGS earthquakes",
+   "status": "ok",
+   "items": 1
+  },
+  {
+   "source": "NASA EONET",
+   "status": "ok",
+   "items": 6
+  },
+  {
+   "source": "NASA Earth Observatory",
+   "status": "ok",
+   "items": 0
+  },
+  {
+   "source": "NOAA",
+   "status": "ok",
+   "items": 5
+  },
+  {
+   "source": "Phys.org",
+   "status": "ok",
+   "items": 6
+  },
+  {
+   "source": "ScienceDaily",
+   "status": "ok",
+   "items": 6
+  },
+  {
+   "source": "BBC Science",
+   "status": "ok",
+   "items": 6
+  },
+  {
+   "source": "Guardian Science",
+   "status": "failed",
+   "error": "RuntimeError: GUARDIAN_API_KEY not set (free key at open-platform.theguardian.com)",
+   "kept_previous": 0
+  },
+  {
+   "source": "BBC Sport",
+   "status": "ok",
+   "items": 6
+  },
+  {
+   "source": "TheSportsDB",
+   "status": "failed",
+   "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/eventspastleague.php?id=4328",
+   "kept_previous": 0
+  }
+ ]
+}
