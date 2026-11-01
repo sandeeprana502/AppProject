@@ -6,6 +6,11 @@ on:
     - cron: "0 */3 * * *"
   workflow_dispatch:
 
+# Prevent simultaneous workflow runs from pushing together
+concurrency:
+  group: fetch-news-main
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -14,29 +19,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
-      # Setup Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
 
-      # Install dependencies
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # Run news pipeline
       - name: Run pipeline
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
           GUARDIAN_API_KEY: ${{ secrets.GUARDIAN_API_KEY }}
         run: python fetch_news.py
 
-      # Commit updated news data
       - name: Save results
         run: |
           git config user.name "news-bot"
@@ -46,7 +48,15 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Update news"
-            git push
+
+            # Get the latest remote changes
+            git fetch origin main
+
+            # Rebase our commit on top of remote changes
+            git rebase origin/main
+
+            # Push updated branch
+            git push origin HEAD:main
           else
             echo "No changes to save."
           fi
