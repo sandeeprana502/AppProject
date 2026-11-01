@@ -25,7 +25,7 @@ LOG = ROOT / "data" / "run_log.json"
 UA = {"User-Agent": "ScienceInShortBot/0.1 (+https://github.com/sandeeprana502)"}
 TIMEOUT = 25
 MIN_WORDS, MAX_WORDS, SNIPPET_WORDS = 100, 150, 35
-PER_SOURCE, MAX_ITEMS, MAX_AGE_DAYS = 6, 60, 21
+PER_SOURCE, MAX_ITEMS, MAX_AGE_DAYS = 10, 100, 21
 
 
 # ---------- helpers ----------
