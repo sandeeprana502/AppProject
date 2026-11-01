@@ -10,6 +10,7 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -28,10 +29,25 @@ PER_SOURCE, MAX_ITEMS, MAX_AGE_DAYS = 6, 60, 21
 
 
 # ---------- helpers ----------
-def get(url, params=None):
-    r = requests.get(url, params=params, headers=UA, timeout=TIMEOUT)
-    r.raise_for_status()
-    return r
+def get(url, params=None, tries=3):
+    """GET with a few retries for network errors and 5xx server errors."""
+    last = None
+    for attempt in range(tries):
+        try:
+            r = requests.get(url, params=params, headers=UA, timeout=TIMEOUT)
+            if r.status_code >= 500:
+                raise requests.HTTPError(f"{r.status_code} Server Error for url: {url}", response=r)
+            r.raise_for_status()
+            return r
+        except (requests.ConnectionError, requests.Timeout) as exc:
+            last = exc
+        except requests.HTTPError as exc:
+            last = exc
+            if exc.response is not None and exc.response.status_code < 500:
+                raise  # 403/404 etc. will not fix themselves by retrying
+        if attempt < tries - 1:
+            time.sleep(2 * (attempt + 1))
+    raise last
 
 
 def clean_text(raw):
@@ -261,9 +277,9 @@ def load_previous():
 def run(config_path=CONFIG):
     sources = [s for s in json.loads(Path(config_path).read_text(encoding="utf-8"))["sources"]
                if s.get("enabled", True)]
-    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
     previous, items, log = load_previous(), [], []
     for src in sources:
+        cutoff = datetime.now(timezone.utc) - timedelta(days=src.get("max_age_days", MAX_AGE_DAYS))
         try:
             got = process(src, HANDLERS[src["type"]](src), cutoff)
             log.append({"source": src["name"], "status": "ok", "items": len(got)})
