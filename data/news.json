@@ -1,7 +1,46 @@
 {
- "generated": "2026-11-01T08:30:06.561123+00:00",
+ "generated": "2026-11-01T10:05:58.072286+00:00",
  "count": 60,
  "items": [
+  {
+   "id": "ce0b0e75b421",
+   "title": "Spill from vandalised home oil tank kills 13 birds",
+   "summary": "A number of birds are also injured after the spill from the oil tank earlier this week.",
+   "words": 17,
+   "category": "Science",
+   "source": "BBC Science",
+   "author": "",
+   "published": "2026-11-01T08:57:56+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b9/live/727760b0-d47e-11f1-b441-2b33b063138f.jpg",
+   "licence": "check"
+  },
+  {
+   "id": "1955477539c6",
+   "title": "M 4.8 - 33 km SE of Jiufen, Taiwan",
+   "summary": "A magnitude 4.8 earthquake was recorded 33 km SE of Jiufen, Taiwan. The event happened on 01 November 2026 at 08:20 UTC, at a depth of about 119 km. About 5 people reported feeling it. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 57,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-01T08:20:07.549000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tunq",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "9c4ef47e7466",
+   "title": "Third-choice? Inside Alexander-Arnold's struggles in Madrid",
+   "summary": "Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?",
+   "words": 15,
+   "category": "Sports",
+   "source": "BBC Sport",
+   "author": "",
+   "published": "2026-11-01T07:42:08+00:00",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b465/live/040177b0-d460-11f1-ab12-eb0c94f5b382.jpg",
+   "licence": "check"
+  },
   {
    "id": "22464375637d",
    "title": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
@@ -16,6 +55,19 @@
    "licence": "check"
   },
   {
+   "id": "d7fc83afb8da",
+   "title": "M 4.7 - 191 km NW of Port-Olry, Vanuatu",
+   "summary": "A magnitude 4.7 earthquake was recorded 191 km NW of Port-Olry, Vanuatu. The event happened on 01 November 2026 at 07:37 UTC, at a depth of about 10 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 51,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-01T07:37:47.343000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tung",
+   "image": "",
+   "licence": "open"
+  },
+  {
    "id": "47dd0d67ebd6",
    "title": "'Fascinating' rare beetle found in Wales again after 60 years",
    "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
@@ -25,7 +77,33 @@
    "author": "",
    "published": "2026-11-01T07:08:04+00:00",
    "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7665/live/9d4c36f0-d378-11f1-bf63-739fb2907d03.png",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc3/live/07a4ce50-d37d-11f1-bf63-739fb2907d03.jpg",
+   "licence": "check"
+  },
+  {
+   "id": "100f7ca05051",
+   "title": "M 5.1 - 201 km NW of Port-Olry, Vanuatu",
+   "summary": "A magnitude 5.1 earthquake was recorded 201 km NW of Port-Olry, Vanuatu. The event happened on 01 November 2026 at 07:00 UTC, at a depth of about 10 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 51,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-01T07:00:54.331000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tund",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "2580ea9c5c29",
+   "title": "Wales hit by Australia century in World Cup record defeat",
+   "summary": "Wales women concede 21 tries in Sydney as defending Rugby League World Cup champions Australia rewrite the international record books.",
+   "words": 20,
+   "category": "Sports",
+   "source": "BBC Sport",
+   "author": "",
+   "published": "2026-11-01T06:57:05+00:00",
+   "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cked34glxp0no?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbef/live/0e215400-d5b8-11f1-a012-e5d60a7e6c41.jpg",
    "licence": "check"
   },
   {
@@ -68,6 +146,32 @@
    "licence": "check"
   },
   {
+   "id": "578abaff8bdd",
+   "title": "M 5.4 - 203 km NW of Port-Olry, Vanuatu",
+   "summary": "A magnitude 5.4 earthquake was recorded 203 km NW of Port-Olry, Vanuatu. The event happened on 01 November 2026 at 06:26 UTC, at a depth of about 10 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 51,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-01T06:26:42.287000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "cad4da952752",
+   "title": "M 4.8 - 71 km NNW of San Antonio de los Cobres, Argentina",
+   "summary": "A magnitude 4.8 earthquake was recorded 71 km NNW of San Antonio de los Cobres, Argentina. The event happened on 01 November 2026 at 05:31 UTC, at a depth of about 202 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 55,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-01T05:31:54.598000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy",
+   "image": "",
+   "licence": "open"
+  },
+  {
    "id": "75a6b776b7a0",
    "title": "Scientists say a forgotten particle may explain why the universe exists",
    "summary": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist.",
@@ -107,6 +211,19 @@
    "licence": "check"
   },
   {
+   "id": "fed558c5860b",
+   "title": "M 4.5 - 55 km SSW of Ollagüe, Chile",
+   "summary": "A magnitude 4.5 earthquake was recorded 55 km SSW of Ollagüe, Chile. The event happened on 01 November 2026 at 01:24 UTC, at a depth of about 120 km. About 1 people reported feeling it. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 57,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-01T01:24:52.448000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly",
+   "image": "",
+   "licence": "open"
+  },
+  {
    "id": "fa8e75c94676",
    "title": "On 'tense' Antonelli's big weekend, this was Hamilton's day",
    "summary": "As Kimi Antonelli bids to become F1's youngest world champion, veteran Lewis Hamilton rolled back the years to take his first Ferrari pole.",
@@ -133,6 +250,19 @@
    "licence": "check"
   },
   {
+   "id": "2eb31e8ee785",
+   "title": "NASA Science",
+   "summary": "What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy. A red- or yellow-colored moon usually indicates a moon seen near the horizon. There, some of the blue light has been scattered away by a long path through the Earth's atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles.",
+   "words": 110,
+   "category": "Space",
+   "source": "NASA APOD",
+   "author": "NASA APOD",
+   "published": "2026-11-01T00:00:00+00:00",
+   "url": "https://apod.nasa.gov/apod/ap261101.html",
+   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+   "licence": "open"
+  },
+  {
    "id": "cd2e88caedcf",
    "title": "Super Typhoon In-fa",
    "summary": "NASA’s Earth Observatory Natural Event Tracker lists an open event in the category severe storms. The tracker collects reports from official agencies and updates them as an event develops. Open the source page for the latest details and maps.",
@@ -148,7 +278,7 @@
   {
    "id": "cd083ea56718",
    "title": "Are Manchester United really at risk of a relegation scrap?",
-   "summary": "Manchester United's current tally of nine points from seven games would not even get them 30 points if it was continued for the full season.",
+   "summary": "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.",
    "words": 25,
    "category": "Sports",
    "source": "BBC Sport",
@@ -156,32 +286,6 @@
    "published": "2026-10-31T23:52:28+00:00",
    "url": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg",
-   "licence": "check"
-  },
-  {
-   "id": "e7a461e762f0",
-   "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
-   "summary": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.",
-   "words": 28,
-   "category": "Sports",
-   "source": "BBC Sport",
-   "author": "",
-   "published": "2026-10-31T22:30:16+00:00",
-   "url": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d7/live/c15e4960-d55e-11f1-a701-fddedf244c16.jpg",
-   "licence": "check"
-  },
-  {
-   "id": "67bf5d121985",
-   "title": "Brighton pick up first away league victory over Man City",
-   "summary": "Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat.",
-   "words": 23,
-   "category": "Sports",
-   "source": "BBC Sport",
-   "author": "",
-   "published": "2026-10-31T22:30:05+00:00",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3234/live/ef24d060-d560-11f1-b441-2b33b063138f.jpg",
    "licence": "check"
   },
   {
@@ -338,19 +442,6 @@
    "published": "2026-10-31T01:27:05+00:00",
    "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg",
-   "licence": "check"
-  },
-  {
-   "id": "71f9a632c23b",
-   "title": "UK could see 10 days without rain after 'wettest week in two years'",
-   "summary": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.",
-   "words": 22,
-   "category": "Science",
-   "source": "BBC Science",
-   "author": "",
-   "published": "2026-10-31T00:06:31+00:00",
-   "url": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8a4/live/d7b9f090-d452-11f1-93e1-3b657b665bcf.jpg",
    "licence": "check"
   },
   {
@@ -679,19 +770,6 @@
    "licence": "check"
   },
   {
-   "id": "64345fbb2045",
-   "title": "M 6.4 - southeast of Easter Island",
-   "summary": "A magnitude 6.4 earthquake was recorded southeast of Easter Island. The event happened on 29 October 2026 at 07:49 UTC, at a depth of about 10 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
-   "words": 49,
-   "category": "Earth",
-   "source": "USGS earthquakes",
-   "author": "USGS",
-   "published": "2026-10-29T07:49:50.928000+00:00",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz",
-   "image": "",
-   "licence": "open"
-  },
-  {
    "id": "7532106dd0e0",
    "title": "Nanobiomechanics in Oncology: Atomic Force Microscopy for Cancer Mechanophenotyping Using Cellular Young's Modulus.",
    "summary": "This review examines the current literature on the application of atomic force microscopy (AFM) to cancer mechanophenotyping, with particular emphasis on cellular Young's modulus and its potential diagnostic significance. A structured electronic search of PubMed, Scopus and Google Scholar was conducted to identify studies published between 1999 and 2025 reporting AFM-based measurements of cellular Young's modulus in cancer-related models. Across multiple malignancies, reduced cellular stiffness is frequently observed in malignant compared with non-malignant cells and is associated with cytoskeletal remodelling, increased deformability and altered cell-matrix interactions. However, the relationship between Young's modulus and malignancy is not universally monotonic. Nanomechanical properties may vary across different pathological states and malignant phenotypes rather than following a simple monotonic trajectory, while invasive and metastatic cells can dynamically remodel their cytoskeleton and modify their stiffness in response to environmental and mechanical constraints.",
@@ -701,84 +779,6 @@
    "author": "Tjoa H, Mei L, De Silva H, Tong D, Guan G.",
    "published": "2026-10-29T00:00:00+00:00",
    "url": "https://europepmc.org/article/MED/42960010",
-   "image": "",
-   "licence": "open"
-  },
-  {
-   "id": "485764d04ea5",
-   "title": "Wildfire South Tank Trail, Perry, Mississippi",
-   "summary": "NASA’s Earth Observatory Natural Event Tracker lists an open event in the category wildfires. The tracker collects reports from official agencies and updates them as an event develops. Open the source page for the latest details and maps.",
-   "words": 38,
-   "category": "Earth",
-   "source": "NASA EONET",
-   "author": "NASA EONET",
-   "published": "2026-10-28T18:02:00+00:00",
-   "url": "https://irwin.doi.gov/observer/incidents/2026-MSMNF-000680",
-   "image": "",
-   "licence": "open"
-  },
-  {
-   "id": "3bad8f16b112",
-   "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
-   "summary": "NASA’s Earth Observatory Natural Event Tracker lists an open event in the category wildfires. The tracker collects reports from official agencies and updates them as an event develops. Open the source page for the latest details and maps.",
-   "words": 38,
-   "category": "Earth",
-   "source": "NASA EONET",
-   "author": "NASA EONET",
-   "published": "2026-10-28T11:22:00+00:00",
-   "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001563",
-   "image": "",
-   "licence": "open"
-  },
-  {
-   "id": "df40fb560184",
-   "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
-   "summary": "NASA’s Earth Observatory Natural Event Tracker lists an open event in the category wildfires. The tracker collects reports from official agencies and updates them as an event develops. Open the source page for the latest details and maps.",
-   "words": 38,
-   "category": "Earth",
-   "source": "NASA EONET",
-   "author": "NASA EONET",
-   "published": "2026-10-28T11:21:00+00:00",
-   "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001597",
-   "image": "",
-   "licence": "open"
-  },
-  {
-   "id": "693eebe97826",
-   "title": "Prescribed Fire Newman 3 Piles RX, Coconino, Arizona",
-   "summary": "NASA’s Earth Observatory Natural Event Tracker lists an open event in the category wildfires. The tracker collects reports from official agencies and updates them as an event develops. Open the source page for the latest details and maps.",
-   "words": 38,
-   "category": "Earth",
-   "source": "NASA EONET",
-   "author": "NASA EONET",
-   "published": "2026-10-28T10:09:00+00:00",
-   "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001600",
-   "image": "",
-   "licence": "open"
-  },
-  {
-   "id": "bc2166a15699",
-   "title": "Tropical Cyclone Arnab",
-   "summary": "NASA’s Earth Observatory Natural Event Tracker lists an open event in the category severe storms. The tracker collects reports from official agencies and updates them as an event develops. Open the source page for the latest details and maps.",
-   "words": 39,
-   "category": "Earth",
-   "source": "NASA EONET",
-   "author": "NASA EONET",
-   "published": "2026-10-28T06:00:00+00:00",
-   "url": "https://www.metoc.navy.mil/jtwc/products/io0226.tcw",
-   "image": "",
-   "licence": "open"
-  },
-  {
-   "id": "ca745751f17a",
-   "title": "Epstein-Barr Virus Serologic Profiles in Multiple Sclerosis and Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease.",
-   "summary": "Background and objectives Although the link between Epstein-Barr virus (EBV) and multiple sclerosis (MS) is well established, geographic variation in EBV epidemiology warrants region-specific data from Asian populations. Beyond MS, the role of EBV in myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) remains far less studied. This study aimed to compare EBV serostatus and antibody titers in patients with MS, MOGAD, and controls in a Korean cohort. Methods We analyzed MS (n = 130), MOGAD (n = 125), and untreated tumor controls without known EBV association (n = 132). MS and controls were frequency-matched to MOGAD by age at sampling. Serum Epstein-Barr nuclear antigen 1 (EBNA1) IgG, viral capsid antigen (VCA) IgG, VCA IgM, and early antigen (EA) IgG were measured using chemiluminescence immunoassays (LIAISON, DiaSorin).",
-   "words": 125,
-   "category": "Research",
-   "source": "Europe PMC",
-   "author": "Kang YR, Kim KH, Heo N, Min JH, Kim W, Kim SW, Shin HY, Huh SY, Hyun JW, Kim SH, Nam TS, Kim HJ.",
-   "published": "2026-10-28T00:00:00+00:00",
-   "url": "https://europepmc.org/article/MED/42956321",
    "image": "",
    "licence": "open"
   }
