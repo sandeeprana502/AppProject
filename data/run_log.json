@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02T20:56:19.448451+00:00",
- "sources_ok": 15,
+ "generated": "2026-11-04T02:57:05.916293+00:00",
+ "sources_ok": 16,
  "sources_total": 17,
  "sources": [
   {
@@ -11,28 +11,27 @@
   {
    "source": "bioRxiv",
    "status": "ok",
-   "items": 10
+   "items": 20
   },
   {
    "source": "Europe PMC",
    "status": "ok",
-   "items": 10
+   "items": 20
   },
   {
    "source": "PLOS ONE",
    "status": "ok",
-   "items": 10
+   "items": 20
   },
   {
    "source": "Nature",
    "status": "ok",
-   "items": 10
+   "items": 20
   },
   {
    "source": "NASA APOD",
-   "status": "failed",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=25)",
-   "kept_previous": 1
+   "status": "ok",
+   "items": 1
   },
   {
    "source": "NASA news",
@@ -42,7 +41,7 @@
   {
    "source": "ESA",
    "status": "ok",
-   "items": 7
+   "items": 6
   },
   {
    "source": "CERN",
@@ -53,7 +52,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 10
+   "items": 20
   },
   {
    "source": "NASA EONET",
@@ -68,27 +67,27 @@
   {
    "source": "NOAA",
    "status": "ok",
-   "items": 6
+   "items": 5
   },
   {
    "source": "Phys.org",
    "status": "ok",
-   "items": 10
+   "items": 20
   },
   {
    "source": "ScienceDaily",
    "status": "ok",
-   "items": 10
+   "items": 20
   },
   {
    "source": "BBC Science",
    "status": "ok",
-   "items": 10
+   "items": 20
   },
   {
    "source": "BBC Sport",
    "status": "ok",
-   "items": 10
+   "items": 20
   }
  ]
 }
