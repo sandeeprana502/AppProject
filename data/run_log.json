@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-04T02:57:05.916293+00:00",
- "sources_ok": 16,
+ "generated": "2026-11-05T03:19:17.171677+00:00",
+ "sources_ok": 15,
  "sources_total": 17,
  "sources": [
   {
@@ -40,8 +40,9 @@
   },
   {
    "source": "ESA",
-   "status": "ok",
-   "items": 6
+   "status": "failed",
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_Science",
+   "kept_previous": 0
   },
   {
    "source": "CERN",
@@ -67,7 +68,7 @@
   {
    "source": "NOAA",
    "status": "ok",
-   "items": 5
+   "items": 7
   },
   {
    "source": "Phys.org",
