@@ -43,13 +43,26 @@ jobs:
         run: |
           python fetch_news.py
 
-      - name: Summarise news (AI, optional)
-        continue-on-error: true   # if the AI step fails, the news still gets saved
+      
+      - name: Summarise news
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
         run: |
-          python summarize_news.py
+          echo "Checking input news.json..."
+          ls -lh data/
+
+          echo "Running summarization..."
+          python -u summarize_news.py
+
+          echo "Checking generated files..."
+          ls -lh data/
+
+          if [ ! -f data/summarized_news.json ]; then
+            echo "ERROR: summarized_news.json was not generated"
+            exit 1
+          fi
+
 
       - name: Save results
         run: |
