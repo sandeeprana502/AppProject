@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T13:48:01.553229+00:00",
+  "generated": "2026-11-06T20:42:54.728271+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -342,6 +342,96 @@
       "ai_title": "Project Jukebox and Weather Events Featured by NOAA",
       "ai_summary": "The University of Alaska Fairbanks Oral History Program's Project Jukebox is noted in a NOAA update alongside imagery of a thunderstorm crossing the Hudson River into lower Manhattan.",
       "content_source": "rss",
+      "flow": []
+    },
+    "9923d5664f2a": {
+      "ai_title": "Unused Chemicals in Drug Development",
+      "ai_summary": "During the long drug development process, which often spans a decade or more, researchers create tens of thousands of chemical compounds that ultimately fail to become marketable medicines.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "95868f56fbc9": {
+      "ai_title": "Researchers Build First Tunable Three-Component Hubbard System",
+      "ai_summary": "An international team of scientists spanning Germany, Thailand, India, China, and the United States has successfully built a three-component Hubbard system featuring tunable interactions in a laboratory setting.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "eee351d5d5cc": {
+      "ai_title": "Balancing Carbon Storage and Wildlife Habitats in European Forests",
+      "ai_summary": "Forest regions serve multiple environmental functions, operating simultaneously as carbon sinks and essential ecosystems for thousands of species, though these roles do not always overlap in the same location.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "0a3de9060ad1": {
+      "ai_title": "New European Weather Satellite Shares Initial Images",
+      "ai_summary": "EUMETSAT has published the first imagery captured by the Flexible Combined Imager aboard the Meteosat Third Generation Imager 2 satellite, arriving shortly after its August launch.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "d2f1055f26a8": {
+      "ai_title": "Study Examines Ancient Magma Activity in Continental Arcs",
+      "ai_summary": "Continental arcs, which are chains of volcanoes, typically develop in regions where oceanic crust subducts underneath continental crust.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "37c8b6709d45": {
+      "ai_title": "Elon Musk Criticizes Film Adaptation",
+      "ai_summary": "Tech billionaire Elon Musk recently criticized director Christopher Nolan's film adaptation of Homer's \"Odyssey,\" taking issue with its diverse casting and arguing that the project lacks historical accuracy.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "b560a747a6aa": {
+      "ai_title": "Artificial Intelligence Explores Mitochondrial Proteins",
+      "ai_summary": "Scientists at Texas A&M AgriLife Research are utilizing artificial intelligence to quickly investigate the functions of hundreds of mysterious proteins located within human cell mitochondria.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9671e3df4fd1": {
+      "ai_title": "Buatsi Faces Jeers at Weigh-In Ahead of WBC Rematch",
+      "ai_summary": "Joshua Buatsi faced boos from Willy Hutchinson's supporters during the weigh-in for their upcoming WBC light-heavyweight title rematch in Manchester. Hutchinson stepped on the scales first to loud cheers from his fanbase, while Buatsi required a second attempt to make the light-heavyweight limit after initially coming in slightly overweight. The bout, originally scheduled as an interim title fight, was upgraded after the previous belt holder moved up in weight. Both fighters enter the ring with impressive professional records, setting the stage for a tense showdown at the AO Arena.",
+      "content_source": "article",
+      "flow": []
+    },
+    "56daf250ac79": {
+      "ai_title": "The Role of Honesty During Corporate Crises",
+      "ai_summary": "When businesses experience severe incidents such as data leaks, cyberattacks, or public scandals, communicating honestly with the public is considered an essential first step in managing the fallout.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9b6371b1db1e": {
+      "ai_title": "Study Links Soil and Pressure to Severe Heat Waves",
+      "ai_summary": "Research indicates that extreme heat waves become ten percent hotter due to a self-reinforcing cycle involving atmospheric pressure, soil moisture, and rising temperatures.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "eaba109b04e4": {
+      "ai_title": "Crick Institute Study Uncovers Insect Dehydration Defense",
+      "ai_summary": "Scientists at the Francis Crick Institute discovered a unique lipid barrier within fruit fly pupae that shields the insects from severe dehydration in hot and dry climates.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "bb37b1893150": {
+      "ai_title": "Addressing Solid-Electrolyte Failure in Next-Gen Batteries",
+      "ai_summary": "Researchers are investigating why battery materials that perform well in laboratory settings frequently fail in practical applications, posing a major hurdle for safe solid-electrolyte battery development.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "a94d7f5122d7": {
+      "ai_title": "UV-Reactive Packaging Tracks Meat Spoilage",
+      "ai_summary": "Researchers are developing smart packaging films that illuminate under ultraviolet light when chemical alterations indicate that meat is losing its freshness.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "3a7b47c7b885": {
+      "ai_title": "Patriots Running Back TreVeyon Henderson Sidelined by Neurological Symptoms",
+      "ai_summary": "New England Patriots running back TreVeyon Henderson revealed that unexplained neurological symptoms, which required multiple days of hospitalization, are the reason for his ongoing absence from the team. The 24-year-old was initially listed on the injury report with an illness and missed the recent victory over the Miami Dolphins. Although comprehensive medical tests returned reassuring results, the underlying cause of the neurological issues remains unknown. The symptoms have impacted his strength, physical coordination, and overall physical functions. Henderson stated that he is working closely with medical specialists and physical therapists to focus on his recovery, emphasizing that his long-term health and wellbeing are his top priorities. He is expected to miss the upcoming game against the Green Bay Packers.",
+      "content_source": "article",
+      "flow": []
+    },
+    "98ee90803406": {
+      "ai_title": "Jamie George Says Press Report Will Unite England Rugby Squad",
+      "ai_summary": "England hooker Jamie George stated that the national rugby squad is deeply upset by a newspaper report alleging player unrest over head coach Steve Borthwick's leadership. The article claimed that players sought summit talks regarding Borthwick's man-management and coaching staff changes during the summer tour in Argentina. George dismissed the report as largely untrue and questioned its timing just days before an upcoming match against Australia. He noted that the squad addressed the situation collaboratively during a leadership meeting called by Maro Itoje, and believes the controversy will ultimately draw the team closer together to support Borthwick. Borthwick also rejected the depiction of an unstable environment, noting that reviews and challenges are a standard part of professional sports preparations.",
+      "content_source": "article",
       "flow": []
     }
   }

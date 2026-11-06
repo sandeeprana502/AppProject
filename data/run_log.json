@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T13:46:37.125831+00:00",
+ "generated": "2026-11-06T20:42:02.740048+00:00",
  "sources_ok": 14,
  "sources_total": 17,
  "sources": [
@@ -54,7 +54,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 91
+   "items": 90
   },
   {
    "source": "NASA EONET",
@@ -69,7 +69,7 @@
   {
    "source": "NOAA",
    "status": "ok",
-   "items": 10
+   "items": 7
   },
   {
    "source": "Phys.org",
@@ -89,7 +89,7 @@
   {
    "source": "BBC Sport",
    "status": "ok",
-   "items": 66
+   "items": 56
   }
  ]
 }
