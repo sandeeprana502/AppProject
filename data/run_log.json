@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-06T04:21:07.531467+00:00",
- "sources_ok": 14,
+ "generated": "2026-11-06T04:33:18.327847+00:00",
+ "sources_ok": 15,
  "sources_total": 17,
  "sources": [
   {
@@ -30,9 +30,8 @@
   },
   {
    "source": "NASA APOD",
-   "status": "failed",
-   "error": "HTTPError: 500 Server Error for url: https://api.nasa.gov/planetary/apod",
-   "kept_previous": 1
+   "status": "ok",
+   "items": 1
   },
   {
    "source": "NASA news",
