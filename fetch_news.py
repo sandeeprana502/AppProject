@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Science In-Short pipeline: fetch -> parse -> clean -> tag -> publish data/news.json.
+"""Science In-Short pipeline: fetch -> parse -> clean -> tag -> publish data/news.json (everything from the last 21 days).
 
 Run locally:  python fetch_news.py
 Runs on a schedule in GitHub Actions (see .github/workflows/fetch.yml).
@@ -11,6 +11,8 @@ import os
 import re
 import sys
 import time
+from html.parser import HTMLParser
+from urllib.parse import urljoin
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -19,13 +21,18 @@ import requests
 
 ROOT = Path(__file__).parent
 CONFIG = ROOT / "sources.json"
-OUT = ROOT / "data" / "news.json"
-LOG = ROOT / "data" / "run_log.json"
+DATA = ROOT / "data"
+OUT = DATA / "news.json"            # raw feed: every item of the last 21 days
+LOG = DATA / "run_log.json"
+WORK = ROOT / "work"               # job-local scratch, never committed
+TEXT = WORK / "source_text.json"   # longer source text, used only by summarize_news.py
 
 UA = {"User-Agent": "ScienceInShortBot/0.1 (+https://github.com/sandeeprana502)"}
 TIMEOUT = 25
 MIN_WORDS, MAX_WORDS, SNIPPET_WORDS = 100, 150, 35
-PER_SOURCE, MAX_ITEMS, MAX_AGE_DAYS = 20, 100, 21
+MAX_AGE_DAYS = 21          # keep everything published in the last 21 days
+CAP_PER_CATEGORY = 500     # safety limit so the file can never grow without bound
+TEXT_WORDS = 700           # how much source text is handed to the AI step
 
 
 # ---------- helpers ----------
@@ -118,29 +125,109 @@ def date_window(days=7):
     return (end - timedelta(days=days)).isoformat(), end.isoformat()
 
 
+def _num(value):
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return 0
+
+
+def best_image(entry):
+    """Largest picture a feed entry offers (feeds often list a tiny thumbnail first)."""
+    found = []
+    for key in ("media_content", "media_thumbnail"):
+        for m in entry.get(key) or []:
+            found.append((_num(m.get("width")) or _num(m.get("height")), m.get("url", "")))
+    for enc in entry.get("enclosures") or []:
+        if str(enc.get("type", "")).startswith("image"):
+            found.append((0, enc.get("href", "")))
+    found = [f for f in found if f[1]]
+    return max(found, key=lambda f: f[0])[1] if found else ""
+
+
+_OG1 = re.compile(r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]*content=["\']([^"\']+)["\']', re.I)
+_OG2 = re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*(?:property|name)=["\'](?:og:image|twitter:image)["\']', re.I)
+
+
+def og_image(url):
+    """The picture a page names for sharing (Open Graph image). Usually full size. '' if none."""
+    try:
+        page = get(url, tries=1).text[:300000]
+    except Exception:
+        return ""
+    m = _OG1.search(page) or _OG2.search(page)
+    return urljoin(url, html.unescape(m.group(1))) if m else ""
+
+
+class _Paras(HTMLParser):
+    """Fallback article reader: collects the text of <p> tags outside menus, footers and scripts."""
+    SKIP = {"script", "style", "nav", "footer", "header", "aside", "form", "noscript"}
+
+    def __init__(self):
+        super().__init__()
+        self.paras, self._buf, self._in_p, self._skip = [], [], False, 0
+
+    def _flush(self):
+        if self._in_p:
+            self.paras.append(" ".join("".join(self._buf).split()))
+        self._in_p, self._buf = False, []
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self.SKIP:
+            self._skip += 1
+        elif tag == "p" and not self._skip:
+            self._flush()
+            self._in_p = True
+
+    def handle_endtag(self, tag):
+        if tag in self.SKIP and self._skip:
+            self._skip -= 1
+        elif tag == "p":
+            self._flush()
+
+    def handle_data(self, data):
+        if self._in_p and not self._skip:
+            self._buf.append(data)
+
+
+def extract_article_text(page_html):
+    """Main text of an article page. Uses trafilatura when installed, else a simple reader."""
+    try:
+        import trafilatura
+        text = trafilatura.extract(page_html, include_comments=False, include_tables=False)
+        if text and len(text.split()) >= 80:
+            return clean_text(text)
+    except Exception:
+        pass
+    p = _Paras()
+    p.feed(page_html)
+    p._flush()
+    return clean_text(" ".join(x for x in p.paras if len(x.split()) >= 8))
+
+
+def fetch_article_text(url):
+    try:
+        return extract_article_text(get(url, tries=1).text)
+    except Exception:
+        return ""
+
+
 # ---------- fetchers: each returns a list of raw() dicts ----------
 def fetch_feed(src):
     feed = feedparser.parse(get(src["url"]).content)
     items = []
-    for e in feed.entries[:PER_SOURCE * 2]:
+    for e in feed.entries:
         body = e.get("summary") or (e.get("content") or [{}])[0].get("value", "")
         authors = [a.get("name", "") for a in e.get("authors", [])] or [e.get("author", "")]
-        image = ""
-        for key in ("media_content", "media_thumbnail"):
-            if e.get(key):
-                image = e[key][0].get("url", "")
-                break
-        if not image and e.get("enclosures"):
-            image = e["enclosures"][0].get("href", "")
         items.append(raw(e.get("title", ""), body, e.get("link", ""), names(authors),
-                         to_dt(e.get("published_parsed") or e.get("updated_parsed")), image))
+                         to_dt(e.get("published_parsed") or e.get("updated_parsed")), best_image(e)))
     return items
 
 
 def fetch_usgs(src):
     data = get(src["url"]).json()
     items = []
-    for f in data.get("features", [])[:PER_SOURCE * 2]:
+    for f in data.get("features", []):
         p, g = f.get("properties", {}), f.get("geometry", {})
         when = to_dt(p.get("time"))
         depth = (g.get("coordinates") or [0, 0, None])[2]
@@ -161,7 +248,7 @@ def fetch_usgs(src):
 def fetch_eonet(src):
     data = get(src["url"]).json()
     items = []
-    for ev in data.get("events", [])[:PER_SOURCE * 2]:
+    for ev in data.get("events", []):
         cat = (ev.get("categories") or [{}])[0].get("title", "natural event")
         geo = (ev.get("geometry") or [{}])[-1]
         link = (ev.get("sources") or [{}])[0].get("url") or ev.get("link", "")
@@ -186,7 +273,7 @@ def fetch_apod(src):
 def fetch_europepmc(src):
     start, end = date_window()
     params = {"query": f"OPEN_ACCESS:y AND FIRST_PDATE:[{start} TO {end}]", "format": "json",
-              "resultType": "core", "pageSize": PER_SOURCE * 2, "sort": "P_PDATE_D desc"}
+              "resultType": "core", "pageSize": 100, "sort": "P_PDATE_D desc"}
     items = []
     for r in get(src["url"], params).json().get("resultList", {}).get("result", []):
         url = f"https://europepmc.org/article/{r.get('source', 'MED')}/{r.get('id', '')}"
@@ -196,9 +283,9 @@ def fetch_europepmc(src):
 
 
 def fetch_biorxiv(src):
-    start, end = date_window()
+    start, end = date_window(3)  # runs every 3 hours, so a short window is enough
     url = src["url"].replace("{from}", start).replace("{to}", end)
-    rows = get(url).json().get("collection", [])[-PER_SOURCE * 2:]
+    rows = get(url).json().get("collection", [])
     return [raw(r.get("title", ""), r.get("abstract", ""),
                 f"https://www.biorxiv.org/content/{r.get('doi', '')}v{r.get('version', '1')}",
                 names([a.strip() for a in (r.get("authors") or "").split(";")]),
@@ -210,7 +297,7 @@ def fetch_guardian(src):
     if not key:
         raise RuntimeError("GUARDIAN_API_KEY not set (free key at open-platform.theguardian.com)")
     params = dict(src.get("params", {}), **{"api-key": key, "show-fields": "trailText,byline",
-                                            "page-size": PER_SOURCE * 2})
+                                            "page-size": 50})
     res = get(src["url"], params).json()["response"]["results"]
     return [raw(r.get("webTitle", ""), (r.get("fields") or {}).get("trailText", ""),
                 r.get("webUrl", ""), (r.get("fields") or {}).get("byline", ""),
@@ -220,7 +307,7 @@ def fetch_guardian(src):
 def fetch_sportsdb(src):
     events = get(src["url"], src.get("params")).json().get("events") or []
     items = []
-    for e in events[-PER_SOURCE * 2:]:
+    for e in events:
         text = (f"{e.get('strHomeTeam')} played {e.get('strAwayTeam')} in {e.get('strLeague')}"
                 f" on {e.get('dateEvent')}. The final score was {e.get('intHomeScore')} to {e.get('intAwayScore')}. "
                 "Open the source page for the full match details.")
@@ -245,15 +332,18 @@ def process(src, rows, cutoff):
         if r["published"] and r["published"] < cutoff:
             continue
         summary, n = summarise(r["text"], bool(src.get("full_summary")))
-        out.append({
+        item = {
             "id": hashlib.sha1(r["url"].encode()).hexdigest()[:12],
             "title": r["title"], "summary": summary, "words": n,
             "category": src["category"], "source": src["name"],
             "author": r["author"], "published": r["published"].isoformat() if r["published"] else "",
-            "url": r["url"], "image": r["image"], "licence": src["licence"],
-        })
-    out.sort(key=lambda i: i["published"], reverse=True)
-    return out[:PER_SOURCE]
+            "url": r["url"], "image": r["image"] if src["licence"] == "open" else "", "licence": src["licence"],
+            "_text": " ".join(r["text"].split()[:TEXT_WORDS]),
+        }
+        if not r["published"]:
+            item["added"] = datetime.now(timezone.utc).isoformat()  # lets undated items age out
+        out.append(item)
+    return out
 
 
 def dedupe(items):
@@ -274,34 +364,120 @@ def load_previous():
         return []
 
 
+def age_key(item):
+    """Date used for sorting and ageing: publish date, or the day we first saw it."""
+    return item["published"] or item.get("added", "")
+
+
+def write_if_changed(path, payload):
+    """Save JSON only when something other than the 'generated' time changed.
+    Keeps the repo free of pointless commits every 3 hours."""
+    def core(d):
+        return {k: v for k, v in d.items() if k != "generated"}
+    try:
+        if core(json.loads(path.read_text(encoding="utf-8"))) == core(payload):
+            return False
+    except (OSError, ValueError):
+        pass
+    path.parent.mkdir(exist_ok=True)
+    tmp = path.with_suffix(".tmp")
+    tmp.write_text(json.dumps(payload, indent=1, ensure_ascii=False), encoding="utf-8")
+    tmp.replace(path)
+    return True
+
+
+def _int_env(name, default):
+    try:
+        return int(os.environ.get(name) or default)
+    except ValueError:
+        return default
+
+
 def run(config_path=CONFIG):
-    sources = [s for s in json.loads(Path(config_path).read_text(encoding="utf-8"))["sources"]
-               if s.get("enabled", True)]
-    previous, items, log = load_previous(), [], []
-    for src in sources:
-        cutoff = datetime.now(timezone.utc) - timedelta(days=src.get("max_age_days", MAX_AGE_DAYS))
+    all_sources = json.loads(Path(config_path).read_text(encoding="utf-8"))["sources"]
+    window = {s["name"]: s.get("max_age_days", MAX_AGE_DAYS) for s in all_sources}
+    now = datetime.now(timezone.utc)
+    previous = load_previous()
+    prev_by_id = {p["id"]: p for p in previous}
+    fresh, log = [], []
+    for src in (s for s in all_sources if s.get("enabled", True)):
+        cutoff = now - timedelta(days=window[src["name"]])
         try:
             got = process(src, HANDLERS[src["type"]](src), cutoff)
             log.append({"source": src["name"], "status": "ok", "items": len(got)})
-            items += got
-        except Exception as exc:  # one broken source must not stop the run
-            kept = [p for p in previous if p["source"] == src["name"]]
-            items += kept
+            fresh += got
+        except Exception as exc:  # one broken source must never break the run
+            kept = sum(1 for p in previous if p["source"] == src["name"])
             log.append({"source": src["name"], "status": "failed",
-                        "error": f"{type(exc).__name__}: {exc}"[:300], "kept_previous": len(kept)})
-    items = dedupe(sorted(items, key=lambda i: i["published"], reverse=True))[:MAX_ITEMS]
+                        "error": f"{type(exc).__name__}: {exc}"[:300], "kept_previous": kept})
+
+    texts = {}
+    for item in fresh:
+        texts[item["id"]] = item.pop("_text", "")
+        old = prev_by_id.get(item["id"])
+        if old and "added" in old and not item["published"]:
+            item["added"] = old["added"]  # keep the first-seen day so it can age out
+        if old and old.get("image") and not item["image"]:
+            item["image"] = old["image"]  # keep a picture found earlier (for example from the article page)
+
+    def still_fresh(p):
+        when = to_dt(age_key(p))
+        return when is None or when >= now - timedelta(days=window.get(p["source"], MAX_AGE_DAYS))
+
+    merged = dedupe(fresh + [p for p in previous if still_fresh(p)])  # fresh copies win
+    merged.sort(key=age_key, reverse=True)
+    counts, items = {}, []
+    for it in merged:
+        n = counts.get(it["category"], 0)
+        if n < CAP_PER_CATEGORY:
+            items.append(it)
+            counts[it["category"]] = n + 1
+
+    by_name = {s["name"]: s for s in all_sources}
+
+    # Pictures: only open sources keep one. For new items without a picture, try the article's own.
+    og_budget = _int_env("MAX_OG_FETCH", 40)
+    for it in items:
+        if it.get("licence") != "open":
+            it["image"] = ""
+        elif not it.get("image") and it["id"] not in prev_by_id and og_budget > 0 \
+                and by_name.get(it["source"], {}).get("og_image"):
+            og_budget -= 1
+            it["image"] = og_image(it["url"])
+
+    # Article text for the AI step. Opt-in (set FETCH_ARTICLE_TEXT=1 on your laptop), open sources
+    # only, and only for items the AI has not summarised yet. It is kept in work/, never committed.
+    if os.environ.get("FETCH_ARTICLE_TEXT") == "1":
+        done = set()
+        try:
+            summarised = json.loads(OUT.with_name("summarized_news.json").read_text(encoding="utf-8"))
+            done = {i["id"] for i in summarised.get("items", []) if i.get("summary_by") == "llm"}
+        except (OSError, ValueError):
+            pass
+        budget = _int_env("MAX_ARTICLE_FETCH", 60)
+        for it in items:
+            if budget <= 0:
+                break
+            wanted = by_name.get(it["source"], {}).get("article_text")
+            if wanted and it["licence"] == "open" and it["id"] not in done \
+                    and len(texts.get(it["id"], "").split()) < 150:
+                budget -= 1
+                got = fetch_article_text(it["url"])
+                if got:
+                    texts[it["id"]] = " ".join(got.split()[:TEXT_WORDS])
+                time.sleep(1)  # be polite to the site
+
     ok = sum(1 for entry in log if entry["status"] == "ok")
-    LOG.parent.mkdir(exist_ok=True)
-    LOG.write_text(json.dumps({"generated": datetime.now(timezone.utc).isoformat(),
-                               "sources_ok": ok, "sources_total": len(log), "sources": log},
-                              indent=1), encoding="utf-8")
+    stamp = now.isoformat()
+    write_if_changed(LOG, {"generated": stamp, "sources_ok": ok, "sources_total": len(log), "sources": log})
     if not items:
-        print("No items fetched; leaving the previous news.json untouched.", file=sys.stderr)
+        print("No items fetched and none saved earlier; nothing written.", file=sys.stderr)
         return 1
-    OUT.write_text(json.dumps({"generated": datetime.now(timezone.utc).isoformat(),
-                               "count": len(items), "items": items}, indent=1, ensure_ascii=False),
-                   encoding="utf-8")
-    print(f"Wrote {len(items)} items. Sources ok: {ok}/{len(log)}.")
+    write_if_changed(OUT, {"generated": stamp, "count": len(items), "items": items})
+    WORK.mkdir(exist_ok=True)
+    TEXT.write_text(json.dumps({i["id"]: texts[i["id"]] for i in items if i["id"] in texts}), encoding="utf-8")
+
+    print(f"news.json: {len(items)} items ({len(fresh)} fetched this run). Sources ok: {ok}/{len(log)}.")
     for entry in log:
         if entry["status"] != "ok":
             print(f"  FAILED {entry['source']}: {entry['error']}")
