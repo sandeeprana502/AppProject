@@ -10,7 +10,6 @@ permissions:
 
 concurrency:
   group: fetch-news-main
-  cancel-in-progress: false
 
 jobs:
   fetch-news:
@@ -44,24 +43,29 @@ jobs:
           python fetch_news.py
 
       
-      - name: Summarise news
+      
+      - name: Summarise news (AI)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
         run: |
-          echo "Checking input news.json..."
+          echo "===== INPUT FILES ====="
           ls -lh data/
 
-          echo "Running summarization..."
+          echo "===== RUN SUMMARIZATION ====="
           python -u summarize_news.py
 
-          echo "Checking generated files..."
+          echo "===== OUTPUT FILES ====="
           ls -lh data/
 
+          echo "===== VERIFY OUTPUT ====="
           if [ ! -f data/summarized_news.json ]; then
-            echo "ERROR: summarized_news.json was not generated"
+            echo "ERROR: data/summarized_news.json was not created"
             exit 1
           fi
+
+          echo "SUCCESS: summarized_news.json exists"
+
 
 
       - name: Save results
