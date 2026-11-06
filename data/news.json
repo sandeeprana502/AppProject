@@ -1,7 +1,72 @@
 {
- "generated": "2026-11-06T05:37:27.134370+00:00",
- "count": 528,
+ "generated": "2026-11-06T06:38:00.532738+00:00",
+ "count": 533,
  "items": [
+  {
+   "id": "38e3674e485b",
+   "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+   "summary": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+   "words": 20,
+   "category": "Sports",
+   "source": "BBC Sport",
+   "author": "",
+   "published": "2026-11-06T06:22:00+00:00",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
+   "image": "",
+   "licence": "check"
+  },
+  {
+   "id": "50423ecd0e43",
+   "title": "'Extra special' tamarin twins born at zoo",
+   "summary": "Shaldon Wildlife Trust says it is one of two European zoos to breed the species in 2026.",
+   "words": 17,
+   "category": "Science",
+   "source": "BBC Science",
+   "author": "",
+   "published": "2026-11-06T06:15:18+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmx23zzlezp8o?at_medium=RSS&at_campaign=rss",
+   "image": "",
+   "licence": "check"
+  },
+  {
+   "id": "5aec35e9a023",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "words": 14,
+   "category": "Sports",
+   "source": "BBC Sport",
+   "author": "",
+   "published": "2026-11-06T06:13:26+00:00",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo?at_medium=RSS&at_campaign=rss",
+   "image": "",
+   "licence": "check"
+  },
+  {
+   "id": "dfb0cd15dded",
+   "title": "APOD: 2026 November 6 – A Farewell to Swift",
+   "summary": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell […]",
+   "words": 55,
+   "category": "Space",
+   "source": "NASA news",
+   "author": "",
+   "published": "2026-11-06T05:05:00+00:00",
+   "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "2e2e88a15428",
+   "title": "Taking a Gander at Utah’s Goosenecks",
+   "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
+   "words": 14,
+   "category": "Space",
+   "source": "NASA news",
+   "author": "",
+   "published": "2026-11-06T05:01:00+00:00",
+   "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+   "image": "",
+   "licence": "open"
+  },
   {
    "id": "58b00a43df0f",
    "title": "Jones - the smiling wind-up artist who refuses to fade away",
@@ -304,8 +369,8 @@
   {
    "id": "c9d0289506e9",
    "title": "NASA Science",
-   "summary": "One of our Solar System's most tantalizing worlds, Enceladus is backlit by the Sun in this Cassini spacecraft image from November 1, 2009. The dramatic illumination reveals the plumes that continuously spew into space from the south pole of Saturn's 500 kilometer diameter moon. Discovered by Cassini in 2005, the icy plumes are likely connected to an ocean beneath the ice shell of Enceladus. They supply material directly to Saturn's outer, tenuous E ring and make the surface of Enceladus as reflective as snow. Across the scene, Saturn's icy rings scatter sunlight toward Cassini's cameras. Beyond the rings (lower right), the night side of 80 kilometer diameter moon Pandora is faintly lit by Saturnlight.Tomorrow's picture: pixels in space",
-   "words": 118,
+   "summary": "It is time to say goodbye to NASA's Neil Gehrels Swift Observatory. After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia. The featured image is a mosaic created in 2018 using the first one million images captured by the satellite's Ultraviolet/Optical Telescope. Swift had a combination of instruments, including an X-ray telescope and a gamma-ray telescope, that worked together to enable humanity to study, in unprecedented detail, the fastest and most energetic explosions in the universe. The most recent solar maximum accelerated the decay of the satellite's orbit.",
+   "words": 103,
    "category": "Space",
    "source": "NASA APOD",
    "author": "NASA APOD",
@@ -601,7 +666,7 @@
    "licence": "check"
   },
   {
-   "id": "257bafaba4b6",
+   "id": "35d968dc15de",
    "title": "BBC Inside Science",
    "summary": "A glimpse into the world of the incredibly tiny",
    "words": 9,
@@ -609,7 +674,7 @@
    "source": "BBC Science",
    "author": "",
    "published": "2026-11-05T21:00:00+00:00",
-   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss",
    "image": "",
    "licence": "check"
   },
@@ -1525,7 +1590,7 @@
   },
   {
    "id": "d1606ab22ee3",
-   "title": "'Taking people for fools' - Gloucestershire to rebrand as Bristol for T20 Blast",
+   "title": "Gloucestershire to rebrand as Bristol for T20 Blast",
    "summary": "Gloucestershire will compete under the name of Bristol in the T20 Blast from next season in a big to attract new audiences and address falling revenue.",
    "words": 26,
    "category": "Sports",
