@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T06:44:05.574014+00:00",
+  "generated": "2026-11-06T13:48:01.553229+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -233,6 +233,114 @@
     "7da46dd2de7d": {
       "ai_title": "Persistent Chemicals Found in Biosolid Fertilizers",
       "ai_summary": "Engineers at UNSW have highlighted specific chemicals found in sewage-based fertilizers that can persist in farmland soils for years, prompting calls for closer regulatory scrutiny.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9ab8a89c8294": {
+      "ai_title": "England Claims Pool A Victory in Wheelchair Rugby",
+      "ai_summary": "England defeated Ireland with a score of 68-32, securing the top position in Pool A and advancing to the semi-finals of the Wheelchair Rugby League World Cup.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "5c37bec6417d": {
+      "ai_title": "Afghan Women Cricketers Criticize International Players Over Franchise League",
+      "ai_summary": "Members of the Afghanistan Refugee Women's cricket team have criticized international players who signed up for the upcoming Afghanistan Premier League, arguing that participation ignores the severe human rights abuses and restrictions on women under Taliban rule. Women's sport has been outlawed in Afghanistan since 2021, forcing many players to flee. Despite calls from refugee players and the English cricket board for athletes to reconsider, numerous international cricketers, including several from England, have joined the league. Afghan players emphasized that while they support men's cricket, participating without addressing the suppression of women sends a harmful message that their suffering is acceptable.",
+      "content_source": "article",
+      "flow": []
+    },
+    "1074aabf303a": {
+      "ai_title": "Study Links High Grocery Prices to Food Insufficiency and Mental Distress",
+      "ai_summary": "A Penn State study reveals that rising grocery prices lead to increased household spending alongside a greater risk of food insufficiency and declining mental health.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "b8949bc46b2f": {
+      "ai_title": "Review Highlights Social Media's Role in Disaster Relief",
+      "ai_summary": "A recent literature review published in the International Journal of Services and Standards indicates that social media platforms can significantly enhance humanitarian supply chain management and disaster aid coordination.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "87c335d154c1": {
+      "ai_title": "Wales Cancels Funding for Uganda Tree-Planting Project",
+      "ai_summary": "The Welsh government has decided to terminate funding for a tree-planting initiative in Uganda led by the charity Size of Wales, citing budgetary pressures and the need to prioritize domestic resources. Since 2015, Wales has contributed over £4 million to the project, which supported Indigenous communities in planting millions of trees in the Mount Elgon region. The decision drew mixed reactions from politicians, with right-wing parties welcoming the move to redirect funds locally, while left-wing critics condemned the cancellation as a short-sighted retreat from international climate responsibilities. Funding for the charity's school education program and the tree-planting grant will officially conclude at the end of March 2027.",
+      "content_source": "article",
+      "flow": []
+    },
+    "88aa6b8fa161": {
+      "ai_title": "Lee Westwood Expresses Concerns Over DP World Tour Following LIV Golf's Demise",
+      "ai_summary": "Former world number one Lee Westwood has voiced concerns about the future of the Europe-based DP World Tour following the collapse of LIV Golf. LIV confirmed it is winding down operations after losing financial backing from Saudi Arabia's Public Investment Fund and prospective investors. While the downfall benefits the PGA Tour, Westwood questions the strength of the DP World Tour's position and expects the PGA Tour to play hardball in future financial and operational negotiations. Although a strategic alliance exists between the American and European tours, Westwood notes that many questions remain unanswered regarding future prize funds and pathways, particularly as the PGA Tour emphasizes its own developmental circuits.",
+      "content_source": "article",
+      "flow": []
+    },
+    "586b4fc48353": {
+      "ai_title": "EU Climate Monitor Predicts 2026 Could Be Second-Hottest Year",
+      "ai_summary": "The European Union's climate monitor stated that 2026 is on track to become the second-hottest year on record, driven by human-induced global warming combined with a strong El Niño weather pattern.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "cf363ce67e18": {
+      "ai_title": "Study Examines Human Reaction to Flood Warnings Under Pressure",
+      "ai_summary": "As floods grow more frequent, severe, and widespread, researchers are conducting an innovative study to test how people respond to flood warnings under pressure, highlighting the critical importance of effective emergency communication.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "e682b78c2215": {
+      "ai_title": "Ollie Chessum Addresses England Captaincy Speculation Ahead of Australia Test",
+      "ai_summary": "Leicester Tigers captain and England lock Ollie Chessum has addressed speculation linking him to the long-term national team captaincy, stating that while he enjoys leadership, he is currently focused on learning from existing skipper Maro Itoje and the senior leadership group. Chessum also dismissed concerns regarding recent club-level on-pitch clashes with England teammates, describing them as fierce competitors who leave club rivalries behind when entering the national camp. As England prepares to face Australia at Allianz Stadium, Chessum acknowledged fan frustrations following recent inconsistent performances but expressed strong optimism regarding the squad's youthful talent and long-term potential under the current coaching and leadership setup.",
+      "content_source": "article",
+      "flow": []
+    },
+    "6b504fa741f1": {
+      "ai_title": "US Rocket Manufacturer Leap Eyes Inactive Scottish Spaceport",
+      "ai_summary": "Colorado-based rocket manufacturer Leap has agreed to work with Highlands and Islands Enterprise to potentially take over the mothballed Sutherland Spaceport in the Scottish Highlands. The site previously faced delays and halted construction after initial developer Orbex collapsed. Leap plans to use the location as its first launch site outside the United States, focusing on deploying small satellites for European and UK customers as part of a broader global logistics network. Local representatives and officials have welcomed the partnership, viewing it as a promising development for the UK's commercial space industry.",
+      "content_source": "article",
+      "flow": []
+    },
+    "49c55d3bf272": {
+      "ai_title": "Rugby Football Union Confirms Approach from Welsh Union Regarding Anglo-Welsh League",
+      "ai_summary": "Rugby Football Union chief executive Bill Sweeney has confirmed that the Welsh Rugby Union has officially submitted a written request to join an Anglo-Welsh league. While the English Premiership aims to expand from 10 to 12 teams by the 2029-30 season, no formal discussions have taken place yet. The RFU stated that several key questions must be addressed first, notably how the WRU would legally exit its current commitments to the United Rugby Championship, where it is contracted to supply four professional teams until 2028. Meanwhile, the WRU is currently reviewing its domestic structure, which includes plans to reduce its four professional sides down to three by 2028.",
+      "content_source": "article",
+      "flow": []
+    },
+    "ced2be47e027": {
+      "ai_title": "Gravitational Lensing Aids Early Universe Research",
+      "ai_summary": "Astronomers utilize gravitational lensing as a primary technique to observe and study the early universe, providing unique insights into distant cosmic structures like the galaxy nicknamed Misty Moons.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "b93dc2c835c4": {
+      "ai_title": "State Withdrawal Linked to Political Radicalization in Eastern Europe",
+      "ai_summary": "The growing trend of towns being abandoned by the state, financial capital, and local residents across Europe has been increasingly linked to rising political radicalization in Eastern Europe.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "4b9f51d92de7": {
+      "ai_title": "Online Literacy Programs Show Success for Autistic Children During Pandemic",
+      "ai_summary": "A feasibility study revealed that autistic children made significant literacy progress through online instruction despite the various obstacles posed by COVID-19 lockdowns and home-based learning.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9eb8ca54f22f": {
+      "ai_title": "Amateur Cricketer Banned Over Viral Cheating Incident",
+      "ai_summary": "An amateur cricketer has received a two-year ban from all cricket under the England and Wales Cricket Board following a viral cheating scandal. Brian Devine, playing for Saltburn second XI, was caught on video clicking his fingers to mimic the sound of a ball edging the bat during a match against Norton. The incident led to an opposing batsman being wrongly given out. In addition to Devine's suspension, Saltburn's second XI was relegated to Division Three, penalized with a 60-point deduction, and fined 300 pounds following a formal league investigation into multiple complaints.",
+      "content_source": "article",
+      "flow": []
+    },
+    "08d7bbda9958": {
+      "ai_title": "Digital Support Program Benefits Dementia Caregivers",
+      "ai_summary": "A seven-week digital support program helped Chinese American family caregivers of people with dementia feel more in control, competent, and positive about their caregiving responsibilities.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "4036f0a4264d": {
+      "ai_title": "Annual Oral History Association Meeting Announced",
+      "ai_summary": "The 60th Annual Oral History Association Meeting is scheduled for November 6, 2026, according to NOAA announcements.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "5ee01b803f32": {
+      "ai_title": "Project Jukebox and Weather Events Featured by NOAA",
+      "ai_summary": "The University of Alaska Fairbanks Oral History Program's Project Jukebox is noted in a NOAA update alongside imagery of a thunderstorm crossing the Hudson River into lower Manhattan.",
       "content_source": "rss",
       "flow": []
     }

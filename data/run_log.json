@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T06:42:47.282620+00:00",
+ "generated": "2026-11-06T13:46:37.125831+00:00",
  "sources_ok": 14,
  "sources_total": 17,
  "sources": [
@@ -31,7 +31,7 @@
   {
    "source": "NASA APOD",
    "status": "failed",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=25)",
+   "error": "HTTPError: 500 Server Error for url: https://api.nasa.gov/planetary/apod",
    "kept_previous": 1
   },
   {
@@ -69,7 +69,7 @@
   {
    "source": "NOAA",
    "status": "ok",
-   "items": 8
+   "items": 10
   },
   {
    "source": "Phys.org",
@@ -89,7 +89,7 @@
   {
    "source": "BBC Sport",
    "status": "ok",
-   "items": 59
+   "items": 66
   }
  ]
 }
