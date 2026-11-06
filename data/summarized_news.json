@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-06T04:33:31.381241+00:00",
- "count": 526,
- "provider": "none",
+ "generated": "2026-11-06T04:51:15.184578+00:00",
+ "count": 528,
+ "provider": "gemini",
  "items": [
+  {
+   "id": "58b00a43df0f",
+   "title": "Jones - the smiling wind-up artist who refuses to fade away",
+   "summary": "You never know whether you'll get a compliment, acutting observation, verbal grenade or all three from mischievous Eddie Jones.",
+   "words": 19,
+   "category": "Sports",
+   "source": "BBC Sport",
+   "author": "",
+   "published": "2026-11-06T04:42:05+00:00",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckm233n7gerlo?at_medium=RSS&at_campaign=rss",
+   "image": "",
+   "licence": "check",
+   "summary_by": "extract"
+  },
+  {
+   "id": "201420a90098",
+   "title": "Investigation links Australian deforestation to beef farming and major bank loans",
+   "summary": "ACF's latest report, \"Bulldozers and Broken Promises,\" an investigation into deforestation, has ruffled a few feathers. But someone has to do it. Why? Because deforestation is a huge problem in Australia.",
+   "words": 31,
+   "category": "Science",
+   "source": "Phys.org",
+   "author": "",
+   "published": "2026-11-06T04:40:01+00:00",
+   "url": "https://phys.org/news/2026-11-links-australian-deforestation-beef-farming.html",
+   "image": "",
+   "licence": "check",
+   "summary_by": "extract"
+  },
   {
    "id": "2158d1ce9e52",
    "title": "Adaptation isn't keeping up with global warming, UN warns",
@@ -328,8 +356,8 @@
   {
    "id": "6ecc3498d66b",
    "title": "Paired DNA strands recognize shape, not just sequence, in new small-molecule sensing method",
-   "summary": "You have probably performed a sandwich assay before, even if you didn't know it. Sandwich assays are the molecular sensing technology behind lateral flow tests like the at-home COVID test.",
-   "words": 30,
+   "summary": "Sandwich assays power lateral flow tests such as at-home COVID tests. In these assays, target viral proteins bind to detector antibodies on gold particles and to anchored antibodies on a test strip. Accumulated gold particles turn the test line visible red.",
+   "words": 41,
    "category": "Science",
    "source": "Phys.org",
    "author": "",
@@ -337,13 +365,13 @@
    "url": "https://phys.org/news/2026-11-paired-dna-strands-sequence-small.html",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "b925fb7d6863",
    "title": "Underwater cameras can estimate fish weight in real time without generating full depth maps",
-   "summary": "Accurate fish-weight estimates can help aquaculture operators manage feeding, monitor growth and plan harvests. However, conventional underwater imaging methods often require substantial computing power and can struggle with reflections, bubbles and turbid water.",
-   "words": 33,
+   "summary": "Estimating fish weight accurately helps aquaculture operators plan harvests, manage feeding, and track growth. However, standard underwater imaging techniques require significant computing power and often face difficulties caused by turbid water, reflections, and bubbles.",
+   "words": 34,
    "category": "Science",
    "source": "Phys.org",
    "author": "",
@@ -351,13 +379,13 @@
    "url": "https://phys.org/news/2026-11-underwater-cameras-fish-weight-real.html",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "b28d8df42295",
    "title": "Anderson could be given chance to join Surrey",
-   "summary": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
-   "words": 15,
+   "summary": "James Anderson may receive an opportunity to extend his legendary career by joining Surrey.",
+   "words": 14,
    "category": "Sports",
    "source": "BBC Sport",
    "author": "",
@@ -365,13 +393,13 @@
    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "a4b0865246c7",
    "title": "New placenta-on-a-chip model allows engineers to study effects of environmental toxins",
-   "summary": "Exposure to toxic metals like cadmium has been associated with adverse pregnancy outcomes such as miscarriage, preterm birth and low birth weight.",
-   "words": 22,
+   "summary": "Exposure to toxic metals such as cadmium is linked to miscarriage, low birth weight, and preterm birth. Because studying these impacts directly in pregnant women presents ethical and practical challenges, the exact effects of such exposures remain poorly understood.",
+   "words": 39,
    "category": "Science",
    "source": "Phys.org",
    "author": "",
@@ -379,13 +407,13 @@
    "url": "https://phys.org/news/2026-11-placenta-chip-effects-environmental-toxins.html",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "0fa3da904685",
    "title": "France's shorter workweek hit lower-skilled workers harder",
-   "summary": "Doing more with less has become standard operating procedure for many in the current economic climate.",
-   "words": 16,
+   "summary": "France introduced a workweek reduction reform in 1998 that continues to be debated today. Following the change, many workers had to do more with less, a practice that has since become standard in the modern economic climate.",
+   "words": 37,
    "category": "Science",
    "source": "Phys.org",
    "author": "",
@@ -393,13 +421,13 @@
    "url": "https://phys.org/news/2026-11-france-shorter-workweek-skilled-workers.html",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "890426ba65a2",
    "title": "Antibiotic pollution may be key factor in honeybee colony collapses",
-   "summary": "High losses of honeybee colonies, which play a crucial role in global food production, have caused concern around the world.",
-   "words": 20,
+   "summary": "Global losses of honeybee colonies threaten world food production. While many causes for these population declines are discussed, a new article suggests that environmental antibiotic pollution from agriculture is a major, overlooked threat to pollinator health.",
+   "words": 36,
    "category": "Science",
    "source": "Phys.org",
    "author": "",
@@ -407,13 +435,13 @@
    "url": "https://phys.org/news/2026-11-antibiotic-pollution-key-factor-honeybee.html",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "927ac1fd8263",
    "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-   "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
-   "words": 17,
+   "summary": "The Delhi government has announced a four-month winter action plan, but experts state that this measure will not be enough.",
+   "words": 20,
    "category": "Science",
    "source": "BBC Science",
    "author": "",
@@ -421,13 +449,13 @@
    "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "1b334369e02b",
    "title": "Pinning down the structure of quark-gluon plasma, the universe's first fluid",
-   "summary": "In the first fraction of a second following the Big Bang, matter existed as a trillion-degree plasma of quarks and gluons—subatomic particles that zinged around at close to the speed of light.",
-   "words": 32,
+   "summary": "Shortly after the Big Bang, matter formed a trillion-degree plasma of quarks and gluons moving near light speed. Within microseconds, these subatomic particles combined to create more stable protons and neutrons.",
+   "words": 31,
    "category": "Science",
    "source": "Phys.org",
    "author": "",
@@ -435,13 +463,13 @@
    "url": "https://phys.org/news/2026-11-pinning-quark-gluon-plasma-universe.html",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "5b71029accc3",
    "title": "M 4.6 - 147 km SSE of False Pass, Alaska",
-   "summary": "A magnitude 4.6 earthquake was recorded 147 km SSE of False Pass, Alaska. The event happened on 05 November 2026 at 23:04 UTC, at a depth of about 16 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
-   "words": 52,
+   "summary": "A magnitude 4.6 earthquake occurred 147 kilometers south-southeast of False Pass, Alaska, on November 5, 2026, at 23:04 UTC. The seismic event was detected at a depth of approximately 16 kilometers. The agency noted that reported magnitude and location details might change as data is further reviewed. Additional updates, safety information, and a map are available on the agency event page.",
+   "words": 61,
    "category": "Earth",
    "source": "USGS earthquakes",
    "author": "USGS",
@@ -449,13 +477,18 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twd4",
    "image": "",
    "licence": "open",
-   "summary_by": "extract"
+   "summary_by": "llm",
+   "flow": [
+    "An earthquake occurs near False Pass, Alaska.",
+    "The agency reviews the earthquake data.",
+    "Magnitude and location information may change."
+   ]
   },
   {
    "id": "f4d464f8e45b",
    "title": "What AI can lose when it makes Holocaust writings easier to read",
-   "summary": "In an Amsterdam prison during the Nazi occupation, Sal Bramson drew his cell on pieces of cotton cloth.",
-   "words": 18,
+   "summary": "During the Nazi occupation, prisoner Sal Bramson drew his cell on cotton cloth with handwritten notes to message his mother. Hidden inside shirt collars, the ordinary material enabled his notes to safely leave the Amsterdam prison.",
+   "words": 36,
    "category": "Science",
    "source": "Phys.org",
    "author": "",
@@ -463,13 +496,13 @@
    "url": "https://phys.org/news/2026-11-ai-holocaust-easier.html",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "4f9e0dad780a",
    "title": "New research explores how offshore wind development may alter marine food webs",
-   "summary": "As offshore wind development expands along the U.S. Atlantic Coast, understanding its potential effects on marine ecosystems is increasingly important.",
-   "words": 20,
+   "summary": "With the growth of offshore wind development along the U.S. Atlantic Coast, it is becoming more important to understand how these projects could affect marine ecosystems.",
+   "words": 26,
    "category": "Science",
    "source": "Phys.org",
    "author": "",
@@ -477,13 +510,13 @@
    "url": "https://phys.org/news/2026-11-explores-offshore-marine-food-webs.html",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "1cbfe488e5db",
    "title": "Deschamps not interested in Man Utd job - Friday's gossip",
-   "summary": "Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
-   "words": 21,
+   "summary": "Didier Deschamps is not interested in taking the job as Manchester United's manager. In other news, Arsenal are interested in Club Brugge striker Nicolo Tresoldi.",
+   "words": 25,
    "category": "Sports",
    "source": "BBC Sport",
    "author": "",
@@ -491,13 +524,13 @@
    "url": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "7155517857c1",
    "title": "Leaf nutrient balance helps explain earlier fall color in US forests",
-   "summary": "For devout leaf peepers, timing is everything. A new study led by researchers from Duke University's Nicholas School of the Environment shows that leaf nutrient levels affect the onset of fall color.",
-   "words": 32,
+   "summary": "A study by researchers at Duke University's Nicholas School of the Environment reveals that nutrient balance in leaves influences when fall colors begin. Published in Nature Communications, the findings may help improve leaf drop predictions and track carbon cycles.",
+   "words": 39,
    "category": "Science",
    "source": "Phys.org",
    "author": "",
@@ -505,13 +538,13 @@
    "url": "https://phys.org/news/2026-11-leaf-nutrient-earlier-fall-forests.html",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "00063d028726",
    "title": "New research explores what our appetite for a digital detox can tell us",
-   "summary": "How we feel about taking a break from our screens could tell us something important about the way we behave online, according to new research from the University of Bath and Goethe University Frankfurt.",
-   "words": 34,
+   "summary": "Researchers from the University of Bath and Goethe University Frankfurt created a scale to measure people's feelings about temporarily reducing digital screen time. The study shows that individual attitudes toward taking a digital detox vary significantly and reflect online behavior.",
+   "words": 40,
    "category": "Science",
    "source": "Phys.org",
    "author": "",
@@ -519,13 +552,13 @@
    "url": "https://phys.org/news/2026-11-explores-appetite-digital-detox.html",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "88f5cea647df",
    "title": "M 4.6 - south of the Fiji Islands",
-   "summary": "A magnitude 4.6 earthquake was recorded south of the Fiji Islands. The event happened on 05 November 2026 at 22:34 UTC, at a depth of about 523 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
-   "words": 50,
+   "summary": "A magnitude 4.6 earthquake occurred south of the Fiji Islands on November 5, 2026, at a depth of roughly 523 kilometers. The recorded magnitude and location remain subject to review, while the reporting agency provides maps and safety updates.",
+   "words": 39,
    "category": "Earth",
    "source": "USGS earthquakes",
    "author": "USGS",
@@ -533,7 +566,7 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twcy",
    "image": "",
    "licence": "open",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "181c253c0437",
@@ -748,8 +781,8 @@
   {
    "id": "6349eb3d6a24",
    "title": "Dynamical effects induced by synthetic SU(1,1) gauge fields",
-   "summary": "Compact gauge fields are powerful tools for controlling quantum dynamics and topological phases of matter. Non-compact gauge fields are particularly relevant for open systems, where particles or energy are exchanged with the environment. Here, we investigate the wavepacket and entanglement dynamics induced by an $\\mathrm{SU}(1,1)$ gauge field. The wavepacket undergoes non-Abelian non-compact Bloch oscillations, in which the spectrum of an auxiliary one-dimensional quantum problem determines the transition between stable oscillations and unstable amplification. In the unstable adiabatic regime, the wavepacket probes an $\\mathrm{SU}(1,1)$ topological defect, and its amplification is determined solely by a hyperbolic solid angle in Minkowski space. Threading an $\\mathrm{SU}(1,1)$ gauge field through a bosonic tight-binding model yields the bosonic Kitaev model, whose volume or super-volume entanglement scaling is governed by the stability of the gauge field.",
-   "words": 129,
+   "summary": "Researchers studied how an SU(1,1) gauge field affects wavepacket and entanglement dynamics. The wavepacket undergoes non-Abelian non-compact Bloch oscillations, where an auxiliary one-dimensional quantum system's spectrum dictates the transition from stable oscillations to unstable amplification. In the unstable adiabatic regime, the wavepacket interacts with an SU(1,1) topological defect, causing amplification that depends entirely on a Minkowski space hyperbolic solid angle. Applying this gauge field to a bosonic tight-binding system creates the bosonic Kitaev model. In this model, the stability of the gauge field determines whether entanglement scales by volume or super-volume. The study suggests implementing an SU(1,1) gauge field experimentally using a spinor condensate. These findings can be extended to higher dimensions and other non-compact groups, offering a geometric approach to managing entanglement, controlling selective amplification, and directing energy transfer in quantum systems.",
+   "words": 133,
    "category": "Physics",
    "source": "arXiv",
    "author": "Chenwei Lv",
@@ -757,13 +790,18 @@
    "url": "https://arxiv.org/abs/2611.08447v1",
    "image": "",
    "licence": "open",
-   "summary_by": "extract"
+   "summary_by": "llm",
+   "flow": [
+    "Thread SU(1,1) gauge field through bosonic model.",
+    "Yield the bosonic Kitaev model.",
+    "Gauge field stability governs entanglement scaling."
+   ]
   },
   {
    "id": "f6d2f11ef010",
    "title": "'I don't fear for my safety from online abuse - because we're so used to it'",
-   "summary": "Britain's Jodie Burrage speaks to BBC Sport about the online abuse she received after her recent defeat - and why it no longer comes as a surprise.",
-   "words": 27,
+   "summary": "British tennis player Jodie Burrage discussed the online harassment she experienced following a recent loss with BBC Sport, explaining why such abuse no longer surprises her because she has grown accustomed to it.",
+   "words": 33,
    "category": "Sports",
    "source": "BBC Sport",
    "author": "",
@@ -771,13 +809,13 @@
    "url": "https://www.bbc.co.uk/sport/tennis/articles/cmq8nn2q01wdo?at_medium=RSS&at_campaign=rss",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "baf7f81e5457",
    "title": "'One of the giants of the modern game' - Murphy retires from Donegal duty",
-   "summary": "Donegal's All-Ireland winning captain Michael Murphy retires from inter-county football, the county confirms.",
-   "words": 13,
+   "summary": "Michael Murphy, who served as Donegal's All-Ireland winning captain, has retired from playing inter-county football. His retirement from inter-county football was officially confirmed by the county.",
+   "words": 26,
    "category": "Sports",
    "source": "BBC Sport",
    "author": "",
@@ -785,13 +823,13 @@
    "url": "https://www.bbc.co.uk/sport/articles/cwp9ggrmk9pzo?at_medium=RSS&at_campaign=rss",
    "image": "",
    "licence": "check",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "2d5b4d8c0759",
    "title": "Polynomial-time classical simulation of boson and fermion sampling under thermal loss",
-   "summary": "Sampling experiments are a leading approach to demonstrating quantum computational advantage, yet their robustness to experimental noise is not completely understood. We develop a common framework for classical simulation of boson and fermion sampling under thermal loss, including pure loss. For Fock-state boson sampling, Gaussian boson sampling with fixed uniform squeezing, and fermion sampling with magic inputs, we obtain polynomial-time sampling at inverse-polynomial total variation error, for any fixed nonzero overall loss rate, and with high probability over Haar-random interferometers. A milder flatness assumption on the ideal output distribution suffices for quasipolynomial-time simulation without Haar randomness. With constant thermal loss per layer, the same flatness assumption gives polynomial-time simulation at logarithmic depth.",
-   "words": 112,
+   "summary": "Researchers developed a unified framework to classically simulate boson and fermion sampling subjected to thermal loss, including pure loss. For Fock-state boson sampling, Gaussian boson sampling with uniform squeezing, and fermion sampling using magic inputs, the framework achieves polynomial-time sampling with inverse-polynomial total variation error for any fixed nonzero loss rate, holding with high probability across Haar-random interferometers. Under a milder flatness condition on ideal output distributions, quasipolynomial-time simulation is possible without relying on Haar randomness, while constant thermal loss per layer allows polynomial-time simulation at logarithmic depth. For Fock-state boson sampling, the bounds apply to dilute and saturated regimes. When nearly all input modes are filled, the noisy output for Haar-random interferometers approaches a distribution that is completely independent of the interferometer as mode numbers increase.",
+   "words": 127,
    "category": "Physics",
    "source": "arXiv",
    "author": "Armando Angrisani, Hela Mhiri",
@@ -799,13 +837,19 @@
    "url": "https://arxiv.org/abs/2611.08444v1",
    "image": "",
    "licence": "open",
-   "summary_by": "extract"
+   "summary_by": "llm",
+   "flow": [
+    "Increase input mode filling near full capacity.",
+    "Grow the total number of modes.",
+    "Noisy output converges for Haar-random interferometers.",
+    "Output distribution becomes independent of the interferometer."
+   ]
   },
   {
    "id": "2238ed6b682a",
    "title": "DiffSequence-Q: Diffusion Design with Quantum Assistance for Biologically Active Proteins",
-   "summary": "Designing protein sequences that satisfy both secondary structure requirements and solubility targets remains challenging. We present DiffSequence-Q, a hybrid multinomial diffusion model conditioned on secondary structure at each residue and a continuous solubility target. To introduce quantum auxiliary supervision during training, we employ a quantum neural network (QNN) or quantum Kolmogorov-Arnold network (QKAN) as an auxiliary solubility prediction head over shared Transformer representations. The auxiliary prediction loss is jointly optimized with the diffusion objective, allowing quantum auxiliary supervision to influence the learned denoising model. Once trained, protein sequences are generated entirely through classical reverse diffusion. On the CATH benchmark, DiffSequence-Q achieved the highest secondary structure recovery among the four evaluated models for complete sequence generation.",
-   "words": 115,
+   "summary": "Researchers introduced DiffSequence-Q, a hybrid multinomial diffusion model designed to generate protein sequences conditioned on residue-level secondary structure and target solubility. During training, quantum auxiliary supervision is incorporated using a quantum neural network or quantum Kolmogorov-Arnold network as an auxiliary head over shared Transformer representations. This auxiliary loss is jointly optimized alongside the diffusion objective to shape the denoising model, while classical reverse diffusion handles full sequence generation after training. On the CATH benchmark, DiffSequence-Q attained the highest secondary structure recovery among four models tested. Models using quantum heads showed average predicted solubility scores 14.0% and 22.7% higher than a standard multilayer perceptron baseline. Experiments confirmed biological activity in three protein families, including defensin inhibition of Aspergillus niger and enzymatic activity in xylanases and dehydrogenases.",
+   "words": 125,
    "category": "Physics",
    "source": "arXiv",
    "author": "Ke-Xin Tang, Zhen-Qiang Weng, Kai Yan et al.",
@@ -813,7 +857,13 @@
    "url": "https://arxiv.org/abs/2611.08434v1",
    "image": "",
    "licence": "open",
-   "summary_by": "extract"
+   "summary_by": "llm",
+   "flow": [
+    "Jointly optimize quantum auxiliary loss with diffusion objective.",
+    "Train the shared Transformer denoising model.",
+    "Generate protein sequences using classical reverse diffusion.",
+    "Produce biologically active proteins across distinct families."
+   ]
   },
   {
    "id": "5ee7e036c53a",
@@ -1238,8 +1288,8 @@
   {
    "id": "6f0b6e3414e3",
    "title": "PIP5K isoforms and phosphoinositide molecular species in EGF-stimulated PIP 3 synthesis: A multi-method approach using enzyme genetic suppression and chemical inhibition in MCF10A cells",
-   "summary": "by Iosif Alexandrou, Vikki Flemington, Martin E. Swarbrick, Sabina Cosulich, Phillip T. Hawkins, Len R. Stephens The membrane phospholipid PI(4,5)P 2 has structural functions and is a substrate for PLC and PI3K enzymes to generate Ins(1,4,5)P 3 , DAG and PI(3,4,5)P 3 signals. PIP5Ks, that 5-phosphorylate PI4P, are the major source of PI(4,5)P 2 in mammalian cells. Current thinking suggests distinct pools of PI(4,5)P 2 may be differentially generated by PIP5Kα, β and γ isoforms and involved in different physiological functions. Phosphoinositides are comprised of families of acyl-chain variants but are uniquely enriched in C38:4 species. There is evidence that PIP5Ks are selective for certain acyl chain species of PI(4)P.",
-   "words": 110,
+   "summary": "Researchers investigated how inhibiting PIP5K enzymes influences the production of PIP3 and lipid species in human MCF10A cells. Using genetic knockout, siRNA, chemical inhibitors, and lipidomics, the team found that MCF10A cells express only the PIP5Kα and PIP5Kγ isoforms. Reducing or removing either isoform genetically did not alter total levels or acyl chain profiles of phosphoinositides in EGF-stimulated cells. However, chemical inhibition of PIP5Ks decreased PIP2 and EGF-stimulated PIP3 levels while increasing PIP levels, without shifting acyl chain profiles. This chemical inhibition also reduced the phosphorylation of Akt, Epidermal Growth Factor Receptor (EGFR), and MAPK. Additionally, using a selective PI3Kα inhibitor blocked PIP3 accumulation and reduced Akt and MAPK phosphorylation without altering total EGFR or its phosphorylation. These results suggest cross-talk between class I PI3K and MAPK pathways in EGF-stimulated cells.",
+   "words": 131,
    "category": "Research",
    "source": "PLOS ONE",
    "author": "Iosif Alexandrou, Vikki Flemington, Martin E. Swarbrick et al.",
@@ -1247,13 +1297,19 @@
    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362260",
    "image": "",
    "licence": "open",
-   "summary_by": "extract"
+   "summary_by": "llm",
+   "flow": [
+    "PIP5K enzymes are chemically inhibited in cells.",
+    "PIP2 and EGF-stimulated PIP3 levels decrease.",
+    "Intracellular PIP levels increase.",
+    "Phosphorylation of Akt, EGFR, and MAPK drops."
+   ]
   },
   {
    "id": "cf8b0ab018e2",
    "title": "Gender differences in pre-surgical motivations, expectations, and patient-reported outcomes in Class III orthognathic surgery patients: An item-level analysis",
-   "summary": "by Gizem Altundal, Asuman Deniz Gümrü Celikel, Gülnaz Marsan Objective To evaluate gender differences in pre-surgical motivations, expectations, functional and psychosocial evaluations, and treatment process perceptions among adult patients with skeletal Class III malocclusion undergoing orthodontic preparation for orthognathic surgery. Methods In this single-center, cross-sectional study, 81 adults (37 females, 44 males) with skeletal Class III malocclusion completed a 27-item investigator-developed questionnaire during pre-surgical orthodontic preparation, covering demographics, problem awareness, functional and psychosocial evaluations, motivation and expectations, treatment process, and patient engagement. Gender differences were analyzed item by item with Mann-Whitney U, chi-square, or Fisher’s exact tests. P-values for the 37 comparisons were adjusted with the Benjamini-Hochberg false discovery rate (FDR) procedure within questionnaire domains, and effect sizes with 95% confidence intervals were estimated.",
-   "words": 124,
+   "summary": "A study examined potential gender differences among 81 adult patients (37 females and 44 males) with skeletal Class III malocclusion undergoing pre-surgical orthodontic preparation for orthognathic surgery. Participants completed a 27-item questionnaire assessing demographics, problem awareness, functional and psychosocial factors, motivations, expectations, and treatment engagement. Initially, seven item-level differences between genders met an unadjusted significance threshold. However, none of these differences remained statistically significant after applying false discovery rate adjustments. The strongest exploratory findings involved differences in social self-confidence, perceived adequacy of information, and pre-operative satisfaction. Because the study was not originally designed or powered to detect gender differences, the non-significant outcomes do not prove that male and female patients share identical experiences. The authors emphasize that these exploratory findings require confirmation through larger, adequately powered, multi-center longitudinal research.",
+   "words": 129,
    "category": "Research",
    "source": "PLOS ONE",
    "author": "Gizem Altundal, Asuman Deniz Gümrü Celikel, Gülnaz Marsan",
@@ -1261,13 +1317,13 @@
    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362253",
    "image": "",
    "licence": "open",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "fa88b42e5a1a",
    "title": "Ecological traits predict extinction risk of the world’s traded carnivores",
-   "summary": "by Erik Joaquín Torres-Romero, Maximilian L. Allen, Vincent Nijman, Moreno Di Marco, Christopher J. O’Bryan, Vincenzo Penteriani Wildlife trade is a major driver of biodiversity loss, yet how trade interacts with species’ ecological traits and extinction risk remains underexplored. Carnivores warrant special attention because they are disproportionately exploited and vulnerable to extinction compared to other taxa. We analyzed 171,637 international trade records spanning 50 years (1975–2024) for 129 carnivore species listed under the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES). We analyzed trade volumes across the globe and then used logistic regression to evaluate associations between ecological traits and extinction risk, as well as family-level differences in extinction risk.",
-   "words": 115,
+   "summary": "Researchers analyzed 171,637 international trade records from 1975 to 2024 covering 129 carnivore species listed under CITES to evaluate trade patterns and ecological drivers of extinction risk. Global trade volumes were dominated by exports from North America and Europe, with imports primarily concentrated in East Asia. Statistical modeling revealed that specific ecological traits significantly influence extinction risk among these traded species. Species characterized by longer generation lengths and greater dispersal distances faced a higher risk of extinction. Conversely, species with broader habitat breadth showed a lower risk of extinction. When comparing carnivore families against Canidae, only Ursidae displayed significantly higher odds of being threatened. These findings demonstrate that ecological traits correlate with extinction risk in internationally traded carnivores, supporting trait-based methodologies to enhance wildlife conservation assessments and monitoring.",
+   "words": 128,
    "category": "Research",
    "source": "PLOS ONE",
    "author": "Erik Joaquín Torres-Romero, Maximilian L. Allen, Vincent Nijman et al.",
@@ -1275,13 +1331,13 @@
    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362196",
    "image": "",
    "licence": "open",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "d4114c1c36d8",
    "title": "Effectiveness of nurse-led hypertension interventions on retention, adherence, and blood pressure control among adults in low- and middle-income countries: A systematic review",
-   "summary": "by Tagese Yakob, Charuai Suwanbamrung, Cua Ngoc Le, Abebe Sorsa Badacho, Udomsak Saengow Background Hypertension affects more than 1.28 billion adults globally and remains the leading modifiable risk factor for cardiovascular disease, stroke, renal failure, and premature death. This burden is inconsistently distributed across Low- and Middle-Income Countries (LMICs), where nearly three-quarters of adults live with hypertension. This gap is largely driven by poor adherence and low retention. This systematic review aims to assess the effectiveness of nurse-led interventions on retention in care, medication adherence, and blood pressure among adult patients with hypertension in primary health care settings in LMICs.",
-   "words": 100,
+   "summary": "A systematic review examined eleven studies encompassing 19,005 adult patients to assess nurse-led hypertension interventions in primary healthcare facilities across low- and middle-income countries. Ten of the reviewed studies utilized multicomponent interventions. The review found that nurse-led strategies effectively improved blood pressure control among adults. A majority of studies reporting systolic outcomes observed a mean systolic blood pressure reduction exceeding 10 mmHg, while all studies measuring diastolic outcomes reported reductions ranging from 1.8 to 20.6 mmHg. However, retention in care varied widely across different metrics, with appointment attendance ranging between 12.6% and 96.5% and routine clinical retention between 27.0% and 62.8%. Evidence regarding medication adherence remained limited and inconsistent. The authors conclude that while nurse-led interventions are promising for controlling blood pressure in these regions, future research must adopt standardized definitions and robust methodologies.",
+   "words": 134,
    "category": "Research",
    "source": "PLOS ONE",
    "author": "Tagese Yakob, Charuai Suwanbamrung, Cua Ngoc Le et al.",
@@ -1289,13 +1345,13 @@
    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362190",
    "image": "",
    "licence": "open",
-   "summary_by": "extract"
+   "summary_by": "llm"
   },
   {
    "id": "363abcbdb63b",
    "title": "Antiviral activity of Rumex crispus extract and its bioactive constituent emodin against human coronavirus OC43",
-   "summary": "by Seungju Cho, Jang Hoon Kim, Siyun Lee, Chunghyeon Lee, Yong-Goo Kim, Eunji Cho, Jayhyun Park, Junsoo Park Coronaviruses are responsible for diseases ranging from mild respiratory symptoms to severe infections such as COVID-19. Despite the availability of vaccines and therapeutic agents, the emergence of new variants and drug-resistant strains highlights the need for additional antiviral strategies. In this study, Rumex crispus was investigated as a potential source of antiviral compounds. The ethanol (EtOH) extract of R. crispus roots was prepared and subsequently fractionated into n-hexane (n-hex), ethyl acetate (EA), and aqueous fractions. Among these, the n-hexane and EA fractions exhibited significant antiviral activity against human coronavirus OC43, as demonstrated by Western blot, qRT-PCR, and plaque assays.",
-   "words": 117,
+   "summary": "Researchers investigated the plant Rumex crispus to identify potential antiviral treatments against human coronavirus OC43. They prepared an ethanol extract from Rumex crispus roots and fractionated it into n-hexane, ethyl acetate, and aqueous components. Testing through Western blot, qRT-PCR, and plaque assays demonstrated that both the n-hexane and ethyl acetate fractions possessed significant antiviral activity against the virus. High-performance liquid chromatography analysis of the plant extract led to the identification of epicatechin, naphthalene derivatives, and various anthraquinones. Notably, the anthraquinone emodin displayed strong antiviral action and was found to be concentrated within the active n-hexane and ethyl acetate fractions. These results indicate that emodin contributes significantly to the antiviral effects of Rumex crispus extract, though additional bioactive components within the plant may also play a role.",
+   "words": 126,
    "category": "Research",
    "source": "PLOS ONE",
    "author": "Seungju Cho, Jang Hoon Kim, Siyun Lee et al.",
@@ -1303,7 +1359,13 @@
    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362181",
    "image": "",
    "licence": "open",
-   "summary_by": "extract"
+   "summary_by": "llm",
+   "flow": [
+    "Ethanol extract of Rumex crispus roots is prepared.",
+    "The extract is fractionated into multiple solvent portions.",
+    "Hexane and ethyl acetate fractions show strong antiviral activity.",
+    "HPLC identifies emodin enriched within the active fractions."
+   ]
   },
   {
    "id": "d225730d714b",

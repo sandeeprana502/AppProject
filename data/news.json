@@ -1,7 +1,33 @@
 {
- "generated": "2026-11-06T04:21:07.531467+00:00",
- "count": 526,
+ "generated": "2026-11-06T04:46:26.197187+00:00",
+ "count": 528,
  "items": [
+  {
+   "id": "58b00a43df0f",
+   "title": "Jones - the smiling wind-up artist who refuses to fade away",
+   "summary": "You never know whether you'll get a compliment, acutting observation, verbal grenade or all three from mischievous Eddie Jones.",
+   "words": 19,
+   "category": "Sports",
+   "source": "BBC Sport",
+   "author": "",
+   "published": "2026-11-06T04:42:05+00:00",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckm233n7gerlo?at_medium=RSS&at_campaign=rss",
+   "image": "",
+   "licence": "check"
+  },
+  {
+   "id": "201420a90098",
+   "title": "Investigation links Australian deforestation to beef farming and major bank loans",
+   "summary": "ACF's latest report, \"Bulldozers and Broken Promises,\" an investigation into deforestation, has ruffled a few feathers. But someone has to do it. Why? Because deforestation is a huge problem in Australia.",
+   "words": 31,
+   "category": "Science",
+   "source": "Phys.org",
+   "author": "",
+   "published": "2026-11-06T04:40:01+00:00",
+   "url": "https://phys.org/news/2026-11-links-australian-deforestation-beef-farming.html",
+   "image": "",
+   "licence": "check"
+  },
   {
    "id": "2158d1ce9e52",
    "title": "Adaptation isn't keeping up with global warming, UN warns",
