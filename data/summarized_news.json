@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T05:25:12.667035+00:00",
+  "generated": "2026-11-06T05:37:45.625328+00:00",
   "count": 528,
   "provider": "gemini",
   "items": [
@@ -648,7 +648,7 @@
       "summary_by": "extract"
     },
     {
-      "id": "35d968dc15de",
+      "id": "257bafaba4b6",
       "title": "BBC Inside Science",
       "summary": "A glimpse into the world of the incredibly tiny",
       "words": 9,
@@ -656,7 +656,7 @@
       "source": "BBC Science",
       "author": "",
       "published": "2026-11-05T21:00:00+00:00",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
       "image": "",
       "licence": "check",
       "summary_by": "extract"
