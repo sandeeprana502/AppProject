@@ -48,8 +48,10 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          MAX_NEW_PER_RUN: "10"
+          BATCH_SIZE: "5"
         run: |
-          echo "===== INPUT FILES ====="
+          python -u summarize_news.py
           ls -lh data/
 
           echo "===== RUN SUMMARIZATION ====="
