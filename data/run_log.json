@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-06T03:17:36.603074+00:00",
- "sources_ok": 14,
+ "generated": "2026-11-06T04:06:27.028937+00:00",
+ "sources_ok": 15,
  "sources_total": 17,
  "sources": [
   {
@@ -11,28 +11,27 @@
   {
    "source": "bioRxiv",
    "status": "ok",
-   "items": 20
+   "items": 30
   },
   {
    "source": "Europe PMC",
    "status": "ok",
-   "items": 20
+   "items": 87
   },
   {
    "source": "PLOS ONE",
    "status": "ok",
-   "items": 20
+   "items": 30
   },
   {
    "source": "Nature",
    "status": "ok",
-   "items": 20
+   "items": 75
   },
   {
    "source": "NASA APOD",
-   "status": "failed",
-   "error": "HTTPError: 500 Server Error for url: https://api.nasa.gov/planetary/apod",
-   "kept_previous": 1
+   "status": "ok",
+   "items": 1
   },
   {
    "source": "NASA news",
@@ -54,7 +53,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 20
+   "items": 93
   },
   {
    "source": "NASA EONET",
@@ -74,22 +73,22 @@
   {
    "source": "Phys.org",
    "status": "ok",
-   "items": 20
+   "items": 30
   },
   {
    "source": "ScienceDaily",
    "status": "ok",
-   "items": 20
+   "items": 60
   },
   {
    "source": "BBC Science",
    "status": "ok",
-   "items": 20
+   "items": 32
   },
   {
    "source": "BBC Sport",
    "status": "ok",
-   "items": 20
+   "items": 59
   }
  ]
 }
