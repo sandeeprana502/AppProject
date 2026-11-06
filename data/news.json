@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-06T04:06:27.028937+00:00",
- "count": 518,
+ "generated": "2026-11-06T04:21:07.531467+00:00",
+ "count": 526,
  "items": [
   {
    "id": "2158d1ce9e52",
@@ -627,6 +627,84 @@
    "licence": "check"
   },
   {
+   "id": "a0e76a06d8c6",
+   "title": "Provable circuit-level thresholds for non-abelian topological phases",
+   "summary": "We provide an explicit scheme to realize a quantum memory in any 2D non-chiral topological order. For this, we construct syndrome extraction circuits based on the Turaev-Viro path integral as well as a classical algorithm for decoding on the fly. We prove that our scheme has a threshold under a local stochastic circuit-level noise model and discuss how to generalize it to implement topological logical gates.",
+   "words": 66,
+   "category": "Physics",
+   "source": "arXiv",
+   "author": "Yuanjie Ren, Margarita Davydova, Shankar Balasubramanian et al.",
+   "published": "2026-11-05T18:59:44+00:00",
+   "url": "https://arxiv.org/abs/2611.08488v1",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "80f6041951ac",
+   "title": "Joint analysis of the Macquart relation and the dispersion measure power spectrum: cross-covariance and redshift self-calibration",
+   "summary": "The dispersion measures (DMs) of fast radio bursts (FRBs) trace ionised baryons along the line of sight, probing baryonic feedback. Two complementary observables can be constructed from an FRB catalogue: the DM-redshift (Macquart) relation of host-identified FRBs, and the angular power spectrum of the DM field of the full catalogue. Their joint analysis requires their cross-covariance. We derive it within the halo model and show it is a super-sample effect: only the monopole of an individual DM correlates with the angular power spectrum, yielding an exact, model-independent bound on the correlation coefficient. We validate the calculation against log-normal forward simulations of $10^4$ FRBs.",
+   "words": 103,
+   "category": "Physics",
+   "source": "arXiv",
+   "author": "Amy Wayland, Robert Reischke",
+   "published": "2026-11-05T18:59:19+00:00",
+   "url": "https://arxiv.org/abs/2611.08481v1",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "0d11175b893a",
+   "title": "Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems",
+   "summary": "Knowledge distillation transfers predictions, representations, or other supervisory information between learning models and is increasingly investigated in quantum machine learning. Its applications extend beyond compression to cross-architecture transfer, circuit approximation, distributed learning, and classical deployment of models trained using quantum-derived supervision. This survey reviews these approaches using two complementary classification axes: teacher-student configuration and the role of quantum resources in the distillation process. Quantum-inspired methods are discussed separately from methods that simulate quantum computations classically or execute them on quantum hardware. We explain how measurement probabilities, expectation values, classical readouts, state overlaps, and circuit-level objectives support different transfer mechanisms. We then critically assess the presented results against baseline design, execution conditions, uncertainty, and resource costs.",
+   "words": 115,
+   "category": "Physics",
+   "source": "arXiv",
+   "author": "Aldana Al-Sulaiti, Kuan-Cheng Chen, Muhammad Bilal Akram Dastagir et al.",
+   "published": "2026-11-05T18:53:05+00:00",
+   "url": "https://arxiv.org/abs/2611.08461v1",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "ca912bcabf42",
+   "title": "Room-Temperature Quantum Emission from Boron Nitride Nanotubes",
+   "summary": "Quantum information systems such as quantum key distribution and quantum communications require bright, high-purity, stable sources of single photons to act as carriers of quantum information. As such, methods for obtaining single photon emitters (SPEs) in solid-state devices capable of articulating with quantum photonic circuits are a necessary obstacle that must be overcome. Hexagonal boron nitride (hBN) flakes have been extensively studied as a host material for SPEs, though working in two dimensions is accompanied by engineering complexity. However, dimensionality can be reduced through the implementation of boron nitride nanotubes (BNNTs). Here we investigate the potential of BNNTs as room-temperature SPEs using confocal photoluminescence microscopy and Hanbury Brown-Twiss interferometry.",
+   "words": 109,
+   "category": "Physics",
+   "source": "arXiv",
+   "author": "Ke-Sean J. M. Peter, Ryan A. Kowalski, David A. Curie et al.",
+   "published": "2026-11-05T18:51:59+00:00",
+   "url": "https://arxiv.org/abs/2611.08460v1",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "73264c8915c3",
+   "title": "Testing the Spin of New Physics with Top Precision Measurements",
+   "summary": "Precision measurements can reveal not only the presence of new physics, but also information about the dynamics that generated it. We study this question in top-pair production by comparing three top-philic scenarios: a colored scalar top partner, a colored vector-like fermion, and a spin-one $Z^\\prime$ mediator. The first two contribute through loop corrections, while the $Z^\\prime$ contributes at tree level. We show that the scalar and vector-like fermion scenarios match onto the same effective operator structure at low energies,making their distinction unfeasible using the EFT approach. However, near or above threshold their full loop amplitudes develop distinct momentum-dependent interference patterns.",
+   "words": 100,
+   "category": "Physics",
+   "source": "arXiv",
+   "author": "André Lessa, Vinícius Rocca, Veronica Sanz",
+   "published": "2026-11-05T18:50:17+00:00",
+   "url": "https://arxiv.org/abs/2611.08459v1",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "6349eb3d6a24",
+   "title": "Dynamical effects induced by synthetic SU(1,1) gauge fields",
+   "summary": "Compact gauge fields are powerful tools for controlling quantum dynamics and topological phases of matter. Non-compact gauge fields are particularly relevant for open systems, where particles or energy are exchanged with the environment. Here, we investigate the wavepacket and entanglement dynamics induced by an $\\mathrm{SU}(1,1)$ gauge field. The wavepacket undergoes non-Abelian non-compact Bloch oscillations, in which the spectrum of an auxiliary one-dimensional quantum problem determines the transition between stable oscillations and unstable amplification. In the unstable adiabatic regime, the wavepacket probes an $\\mathrm{SU}(1,1)$ topological defect, and its amplification is determined solely by a hyperbolic solid angle in Minkowski space. Threading an $\\mathrm{SU}(1,1)$ gauge field through a bosonic tight-binding model yields the bosonic Kitaev model, whose volume or super-volume entanglement scaling is governed by the stability of the gauge field.",
+   "words": 129,
+   "category": "Physics",
+   "source": "arXiv",
+   "author": "Chenwei Lv",
+   "published": "2026-11-05T18:43:17+00:00",
+   "url": "https://arxiv.org/abs/2611.08447v1",
+   "image": "",
+   "licence": "open"
+  },
+  {
    "id": "f6d2f11ef010",
    "title": "'I don't fear for my safety from online abuse - because we're so used to it'",
    "summary": "Britain's Jodie Burrage speaks to BBC Sport about the online abuse she received after her recent defeat - and why it no longer comes as a surprise.",
@@ -651,6 +729,32 @@
    "url": "https://www.bbc.co.uk/sport/articles/cwp9ggrmk9pzo?at_medium=RSS&at_campaign=rss",
    "image": "",
    "licence": "check"
+  },
+  {
+   "id": "2d5b4d8c0759",
+   "title": "Polynomial-time classical simulation of boson and fermion sampling under thermal loss",
+   "summary": "Sampling experiments are a leading approach to demonstrating quantum computational advantage, yet their robustness to experimental noise is not completely understood. We develop a common framework for classical simulation of boson and fermion sampling under thermal loss, including pure loss. For Fock-state boson sampling, Gaussian boson sampling with fixed uniform squeezing, and fermion sampling with magic inputs, we obtain polynomial-time sampling at inverse-polynomial total variation error, for any fixed nonzero overall loss rate, and with high probability over Haar-random interferometers. A milder flatness assumption on the ideal output distribution suffices for quasipolynomial-time simulation without Haar randomness. With constant thermal loss per layer, the same flatness assumption gives polynomial-time simulation at logarithmic depth.",
+   "words": 112,
+   "category": "Physics",
+   "source": "arXiv",
+   "author": "Armando Angrisani, Hela Mhiri",
+   "published": "2026-11-05T18:36:21+00:00",
+   "url": "https://arxiv.org/abs/2611.08444v1",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "2238ed6b682a",
+   "title": "DiffSequence-Q: Diffusion Design with Quantum Assistance for Biologically Active Proteins",
+   "summary": "Designing protein sequences that satisfy both secondary structure requirements and solubility targets remains challenging. We present DiffSequence-Q, a hybrid multinomial diffusion model conditioned on secondary structure at each residue and a continuous solubility target. To introduce quantum auxiliary supervision during training, we employ a quantum neural network (QNN) or quantum Kolmogorov-Arnold network (QKAN) as an auxiliary solubility prediction head over shared Transformer representations. The auxiliary prediction loss is jointly optimized with the diffusion objective, allowing quantum auxiliary supervision to influence the learned denoising model. Once trained, protein sequences are generated entirely through classical reverse diffusion. On the CATH benchmark, DiffSequence-Q achieved the highest secondary structure recovery among the four evaluated models for complete sequence generation.",
+   "words": 115,
+   "category": "Physics",
+   "source": "arXiv",
+   "author": "Ke-Xin Tang, Zhen-Qiang Weng, Kai Yan et al.",
+   "published": "2026-11-05T18:28:09+00:00",
+   "url": "https://arxiv.org/abs/2611.08434v1",
+   "image": "",
+   "licence": "open"
   },
   {
    "id": "5ee7e036c53a",
