@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T20:42:02.740048+00:00",
+ "generated": "2026-11-07T00:38:58.555938+00:00",
  "sources_ok": 14,
  "sources_total": 17,
  "sources": [
@@ -16,7 +16,7 @@
   {
    "source": "Europe PMC",
    "status": "ok",
-   "items": 87
+   "items": 85
   },
   {
    "source": "PLOS ONE",
@@ -54,7 +54,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 90
+   "items": 87
   },
   {
    "source": "NASA EONET",
@@ -89,7 +89,7 @@
   {
    "source": "BBC Sport",
    "status": "ok",
-   "items": 56
+   "items": 64
   }
  ]
 }
