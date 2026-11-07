@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T00:40:57.531659+00:00",
+  "generated": "2026-11-07T09:39:58.494587+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -120,12 +120,6 @@
     "50423ecd0e43": {
       "ai_title": "Critically Endangered Pied Tamarin Twins Born at Shaldon Wildlife Trust",
       "ai_summary": "Shaldon Wildlife Trust in Devon is celebrating the birth of critically endangered pied tamarin twins. Born on September 29 to parents Bobby and Pedra, the infants are among the rarest primates in South America. Zoo officials kept the birth secret for a few weeks to ensure the delicate family remained undisturbed. The trust is one of only two European zoos to successfully breed the species this year. The thriving twins have now begun riding on their parents' backs as they explore their enclosure.",
-      "content_source": "article",
-      "flow": []
-    },
-    "5aec35e9a023": {
-      "ai_title": "Test Your Knowledge with Daily Sports Quizzes",
-      "ai_summary": "Challenge your football knowledge with BBC Sport's daily interactive games. Guess the mystery footballer in as few attempts as possible, unlocking new clues after each incorrect guess. Continue testing your skills by answering five correct questions within five minutes in Five in Five, or take on the challenging Brainteaser puzzle.",
       "content_source": "article",
       "flow": []
     },
@@ -552,6 +546,124 @@
       "ai_title": "Transfer Rumors: European Giants Monitor Goalkeeper Suzuki",
       "ai_summary": "Real Madrid and Paris St-Germain are reportedly tracking Aston Villa goalkeeper Zion Suzuki, alongside attention from several other top clubs. Meanwhile, Inter Milan is considering a move for Crystal Palace defender Chris Richards as his contract nears expiration. In managerial news, Manchester United is reportedly unconvinced by Eddie Howe as a successor to Michael Carrick. Other notable updates include Bayern Munich prioritizing a contract extension for Michael Olise following Harry Kane's new deal, Barcelona working on a fresh agreement for young midfielder Marc Bernal, and Real Madrid preparing to secure the arrival of 16-year-old midfielder JJ Gabriel. Additionally, Napoli ownership plans crisis talks following a disappointing start to the season under head coach Massimiliano Allegri.",
       "content_source": "article",
+      "flow": []
+    },
+    "8ea1cbe43530": {
+      "ai_title": "New Zealand Defeats Samoa to Secure Women's World Cup Final Spot",
+      "ai_summary": "New Zealand advanced to the Rugby League World Cup final with a 32-0 victory over Samoa in difficult weather conditions at Newcastle's McDonald Jones Stadium. Mackenzie Wiki opened the scoring within the first two minutes, setting the tone for the Kiwi Ferns. Stacey Waaka starred with a hat-trick of tries and a player-of-the-match performance, supported by tries from Mele Hufanga, Kaiyah Atai, and Raecene McGregor. Despite strong defensive efforts and bright spots from players like Fanua Rimoni, Samoa struggled with handling errors and missed attacking opportunities. The win puts New Zealand into their seventh consecutive World Cup final, where they will likely face Australia, assuming the Jillaroos defeat debutants Fiji in the other semi-final.",
+      "content_source": "article",
+      "flow": []
+    },
+    "b82f5bab6309": {
+      "ai_title": "Boxing Experts Share Predictions for Buatsi vs Hutchinson Rematch",
+      "ai_summary": "British light-heavyweights Joshua Buatsi and Willy Hutchinson are set to meet in Manchester for the vacant WBC world title, renewing a rivalry that began in September 2024 when Buatsi won by a split decision. Ahead of the rematch, figures from the boxing world have offered mixed predictions. Supporters of Buatsi, such as Chantelle Cameron, Denzel Bentley, Tony Bellew, Zelfa Barrett, and Ade Olapido, point to his previous victory, body punch resilience, and potential for a late stoppage. Meanwhile, backers of Hutchinson, including David Allen, Carl Frampton, Viddal Riley, Sam Jones, and Darren Barker, believe the Scottish fighter has matured significantly, gained momentum, and is catching a potentially aging Buatsi at the right time.",
+      "content_source": "article",
+      "flow": []
+    },
+    "da1e2ffd5599": {
+      "ai_title": "James Trafford Discusses Mental Wellbeing After Manchester City Exit",
+      "ai_summary": "Leeds United goalkeeper James Trafford has opened up about his struggles with a lack of playing time at Manchester City last season, stating that not playing was detrimental to his mental wellbeing and ultimately drove his summer transfer.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "be597fb3b6d0": {
+      "ai_title": "James Trafford Opens Up About Difficult Spell at Manchester City",
+      "ai_summary": "Leeds United goalkeeper James Trafford has described his lack of playing time at Manchester City last season as a \"horrendous\" experience that negatively impacted his mental wellbeing. After returning to City in July 2025, Trafford found himself behind Gianluigi Donnarumma in the pecking order, making only one Premier League start following the Italian's arrival. Despite winning the League Cup and FA Cup and being part of England's 2026 World Cup squad, Trafford knew he needed regular first-team football. He transferred to Leeds United in a deal worth up to £45m. He has started all nine Premier League matches for Leeds, keeping three clean sheets, and aims to eventually become England's starting goalkeeper while helping Leeds push toward European qualification.",
+      "content_source": "article",
+      "flow": []
+    },
+    "2f2777db842b": {
+      "ai_title": "Restoration Work Begins at New Forest Wildfire Site",
+      "ai_summary": "Forestry England has launched a long-term restoration project following a summer wildfire that destroyed over one square kilometre of the New Forest. Triggered by a burning van on August 9, the blaze severely damaged rare heathland, ancient woodlands, and peat layers essential for carbon storage, while closing the A31 for nearly two weeks. Specialist teams are now working to protect vulnerable areas before winter and encourage natural recovery. Methods include spreading heather harvested from nearby areas to create a protective seed mat, similar to a successful restoration effort used after a 1989 fire. While complete recovery will take decades, officials note that resilient boggy areas and wildlife are already beginning to return.",
+      "content_source": "article",
+      "flow": [
+        "Harvest seed-rich heather from nearby parts of the forest",
+        "Spread the harvested heather across the worst-affected fire sites to form a protective mat",
+        "Implement measures to protect the roots of damaged ancient beech and oak trees",
+        "Monitor resilient boggy areas where plants and wildlife are naturally beginning to return"
+      ]
+    },
+    "35cdecf397e6": {
+      "ai_title": "Moderate Earthquake Strikes South Sandwich Islands",
+      "ai_summary": "A magnitude 4.6 earthquake occurred in the South Sandwich Islands region on November 7, 2026, at 07:14 UTC. The seismic event had a depth of approximately 104 km. Relevant agencies note that the recorded magnitude and exact location remain subject to change as incoming data is reviewed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "116e1f33ec6b": {
+      "ai_title": "Daily Quizzes Released by BBC Sport",
+      "ai_summary": "BBC Sport has launched its daily set of trivia challenges, featuring a footballer guessing game called Who Am I?, alongside the Five in Five and Brainteaser quizzes. Participants try to solve clues with minimal attempts or time.",
+      "content_source": "article",
+      "flow": []
+    },
+    "dc5bf1e8ac41": {
+      "ai_title": "Altrincham Prepares for FA Cup Clash Against Notts County",
+      "ai_summary": "Non-league club Altrincham prepares to face League One side Notts County in the FA Cup first round, hoping to add another giant-killing scalp to their history. Having previously eliminated 17 Football League opponents, the fifth-tier team looks to channel the determination of their golden era from the 1970s and 1980s. Former player Graham Heathcote and current manager Neil Gibson emphasize the historic significance and the opportunity for the squad to create new memories on live television.",
+      "content_source": "article",
+      "flow": []
+    },
+    "193d0dabee8d": {
+      "ai_title": "Wales Begins Crucial Autumn Rugby Campaign Against Japan",
+      "ai_summary": "Wales enters a pivotal month of international rugby by hosting Japan in Cardiff as the inaugural Nations Championship continues. Head coach Steve Tandy leads a squad featuring a record number of players from English clubs, aiming to build on recent momentum ahead of upcoming fixtures against New Zealand and Australia. Beyond on-field performances, the Welsh Rugby Union faces financial scrutiny and fan apathy regarding attendance numbers and future structural reforms within the sport.",
+      "content_source": "article",
+      "flow": []
+    },
+    "06407556cd7c": {
+      "ai_title": "Telescopic Image Highlights Potential Lunar Landing Site",
+      "ai_summary": "A detailed telescopic image captured on October 31 showcases the De Gerlache-Kocher massif near the lunar south pole. Rising roughly four kilometers above its environment, the mountainous region is considered a strong candidate for future crewed Artemis missions and early human settlement. The area features permanently shadowed craters that may hold water ice alongside peaks bathed in nearly continuous sunlight ideal for solar power generation. A favorable lunar wobble helped enhance this oblique view of the Moon's edge.",
+      "content_source": "article",
+      "flow": [
+        "Capture an oblique telescopic image of the lunar limb during a favorable libration angle",
+        "Identify the De Gerlache-Kocher massif near the lunar south pole rising four kilometers high",
+        "Evaluate the location's permanently shadowed craters for potential water ice deposits",
+        "Assess the sunlit peaks for future solar power generation to support human settlement"
+      ]
+    },
+    "bb76bbd34ed9": {
+      "ai_title": "Massive Rubble Cleanup in Jamaica Following Hurricane Melissa",
+      "ai_summary": "United Nations satellites revealed that clearing 4.8 million metric tons of debris across western Jamaica after Hurricane Melissa in 2025 required approximately 480,000 truckloads.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "6a71e33ba24d": {
+      "ai_title": "Leonid Meteor Shower Lights Up November Skies",
+      "ai_summary": "The annual Leonid meteor shower is underway across the UK, running through November 30 and peaking on the night of November 17. Observers may spot up to 10 to 15 fast-moving meteors per hour, created by dust particles left by Comet 55P/Tempel-Tuttle entering Earth's atmosphere at high speeds. While the weekend brings mixed weather with cloud cover and potential fog in some regions, southern and western areas of England and Wales offer the best chances for clear skies on Friday and Saturday nights. Experts recommend finding a dark, wide-open location and allowing eyes time to adapt, with the constellation Leo serving as the radiant point for the shooting stars.",
+      "content_source": "article",
+      "flow": []
+    },
+    "2d4c1bafab5d": {
+      "ai_title": "Telescopic View Spotlights Lunar South Pole Massif",
+      "ai_summary": "A close-up telescopic image captured on October 31 reveals the De Gerlache-Kocher massif, a mountainous formation rising four kilometers high near the Moon's south pole. Enhanced by a favorable lunar wobble, the view highlights a region valued for its potential in human exploration. The south pole boasts crater floors in permanent shadow that likely harbor water ice, alongside peaks receiving nearly continuous sunlight for solar energy. These characteristics make the De Gerlache-Kocher massif a prime candidate for future crewed Artemis missions and early lunar settlements.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "f331425629ed": {
+      "ai_title": "Moderate Earthquake Strikes Near Yigo Village, Guam",
+      "ai_summary": "A magnitude 4.6 earthquake occurred 11 kilometers east-northeast of Yigo Village, Guam, at a depth of 113 kilometers on November 6, 2026. Only a couple of people reported feeling the tremor.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "3255a35e8610": {
+      "ai_title": "Future Global Warming to Bring More Intense Heat Waves",
+      "ai_summary": "Recent extreme heat waves may only act as a preview for even more severe temperature events caused by ongoing climate change.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "54e1fccd6470": {
+      "ai_title": "Moderate Earthquake Strikes Near Poso, Indonesia",
+      "ai_summary": "An earthquake with a magnitude of 4.8 occurred approximately 36 kilometers west-northwest of Poso, Indonesia, at a depth of about 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "ce68f18ddcbc": {
+      "ai_title": "Scotland Prepares to Face New Zealand Following a Year of Growth",
+      "ai_summary": "As Scotland prepares to play the All Blacks, the team reflects on a transformative past year marked by notable victories and tough losses. Following a narrow defeat to New Zealand and a challenging start to the Six Nations, Scotland rebounded with strong performances against top-tier international sides. Captain Sione Tuipulotu emphasizes that the squad has matured through these shared experiences, noting that success against the revitalized All Blacks will depend on maintaining toughness throughout the match.",
+      "content_source": "article",
+      "flow": []
+    },
+    "a941df506f2f": {
+      "ai_title": "Study Finds Noise Pollution Impacts Most Animal Species",
+      "ai_summary": "Research indicates that noise pollution alters the biological functions or behaviors of approximately 80 percent of the animal species that have been studied in a noisy human world.",
+      "content_source": "rss",
       "flow": []
     }
   }
