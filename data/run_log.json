@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-07T09:38:41.782787+00:00",
- "sources_ok": 15,
+ "generated": "2026-11-07T17:27:41.051420+00:00",
+ "sources_ok": 14,
  "sources_total": 17,
  "sources": [
   {
@@ -30,8 +30,9 @@
   },
   {
    "source": "NASA APOD",
-   "status": "ok",
-   "items": 1
+   "status": "failed",
+   "error": "ReadTimeout: HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=25)",
+   "kept_previous": 1
   },
   {
    "source": "NASA news",
@@ -53,7 +54,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 85
+   "items": 89
   },
   {
    "source": "NASA EONET",
@@ -88,7 +89,7 @@
   {
    "source": "BBC Sport",
    "status": "ok",
-   "items": 63
+   "items": 50
   }
  ]
 }

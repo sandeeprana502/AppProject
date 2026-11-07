@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T09:39:58.494587+00:00",
+  "generated": "2026-11-07T17:29:32.854478+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -663,6 +663,114 @@
     "a941df506f2f": {
       "ai_title": "Study Finds Noise Pollution Impacts Most Animal Species",
       "ai_summary": "Research indicates that noise pollution alters the biological functions or behaviors of approximately 80 percent of the animal species that have been studied in a noisy human world.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "7c773ec6eff7": {
+      "ai_title": "Grid Penalties Hit Top Drivers in Sao Paulo Grand Prix",
+      "ai_summary": "Ferrari's Lewis Hamilton and Red Bull's Max Verstappen will start the Sao Paulo Grand Prix from the back of the grid after taking completely new power units following practice issues. Hamilton's team-mate Charles Leclerc will receive a 10-place penalty, while Mercedes driver George Russell faces a five-place penalty. Both Leclerc and Russell installed new internal combustion engines. Wet weather conditions are expected to persist throughout the weekend. Meanwhile, Formula 1 announced that the Interlagos circuit has extended its hosting contract through 2035.",
+      "content_source": "article",
+      "flow": []
+    },
+    "5e314d3d2261": {
+      "ai_title": "Kidderminster Advances in FA Cup",
+      "ai_summary": "National League side Kidderminster achieved a major upset by defeating League One club Doncaster to advance to the second round of the FA Cup.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "6b48216dc267": {
+      "ai_title": "De Zerbi Avoids Blaming Officials After Tottenham Defeat",
+      "ai_summary": "Tottenham manager Roberto de Zerbi adopted a calm stance following his side's 1-0 defeat to Leeds United, choosing to focus on his team's poor second-half performance rather than a controversial first-half incident. Leeds defender Jayden Bogle avoided a red card after a lengthy VAR check following a challenge that injured Mathys Tel. Although the decision sparked debate and left Tottenham visibly unsettled, De Zerbi stated that his team lacked the necessary character and physicality after the break and deserved to lose.",
+      "content_source": "article",
+      "flow": []
+    },
+    "82f0f027dda9": {
+      "ai_title": "All Blacks Overwhelm Scotland with Dominant Second Half",
+      "ai_summary": "New Zealand secured a convincing 43-21 victory over Scotland at Murrayfield after a fiercely contested first half. Despite Scotland hooker Ewan Ashman scoring a historic first-half hat-trick, leaving the teams separated by just three points at the break, the All Blacks completely took control in the second half. New Zealand capitalized on Scottish penalties and discipline issues, adding tries through Josh Moorby, Beauden Barrett, and Asafo Aumua to pull away. The win extends New Zealand's dominant historical record against Scotland, leaving the home side searching for their first win in the fixture.",
+      "content_source": "article",
+      "flow": []
+    },
+    "7af000bf7958": {
+      "ai_title": "Magnitude 5.5 Earthquake Strikes Near Hamakita, Japan",
+      "ai_summary": "A magnitude 5.5 earthquake occurred approximately 10 kilometers northwest of Hamakita, Japan, at a depth of about 38 kilometers. Approximately 35 individuals reported feeling the tremor, while officials noted that location and magnitude figures may be adjusted following further data review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "65072e1c3772": {
+      "ai_title": "New Tiny Jellyfish Species Discovered off Spanish Coast",
+      "ai_summary": "Researchers have discovered a brand new jellyfish species, named Copula lucentia, in the Mediterranean waters near Alicante, Spain. The newly identified organism measures only a few millimeters in length.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "454645970e7f": {
+      "ai_title": "National League South Match Abandoned After Player Collapses",
+      "ai_summary": "The National League South fixture between Folkestone Invicta and Truro City was called off prior to kickoff after Truro midfielder Yassine En-Neyah collapsed during the pre-match warm-up. The 26-year-old received medical attention at the stadium before being transported to William Harvey Hospital in Ashford for additional care. Truro City stated that they would release further updates regarding the player's condition in due course. Prior to the postponement, Truro sat second in the league standings.",
+      "content_source": "article",
+      "flow": []
+    },
+    "8b2d0c0f06ea": {
+      "ai_title": "New Zealand Advances to World Cup Final Past Tonga",
+      "ai_summary": "Led by the return of Kalyn Ponga, New Zealand defeated Tonga 34-10 in an intense match to secure their first Rugby League World Cup final appearance since 2013.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "abf2e26e6e8f": {
+      "ai_title": "Odegaard Secures Late Win for Arsenal Against Hull City",
+      "ai_summary": "Arsenal secured a hard-fought victory at Emirates Stadium against a resilient Hull City side, courtesy of a late goal from Martin Odegaard. The Gunners applied considerable pressure throughout the match, with Noni Madueke and Odegaard serving as major attacking threats. Hull defended resolutely, with strong performances from John Egan and Semi Ajayi, while goalkeeper Konstantinos Tzolakis kept his side in contention. However, after sustained second-half pressure and tactical substitutions by Arsenal, Odegaard capitalized on a rebound from Madueke's shot to score the decisive winner. The narrow victory allowed the Gunners to overcome a stubborn visiting defense and claim all three points.",
+      "content_source": "article",
+      "flow": []
+    },
+    "d1b4bbec36c2": {
+      "ai_title": "Kyren Wilson Wins International Championship Final in China",
+      "ai_summary": "Kyren Wilson secured the 12th ranking title of his professional career by defeating John Higgins 10-8 in the International Championship final held in China. Higgins, aiming to become snooker's oldest ranking event winner, started strongly and established a 5-4 lead following the afternoon session. However, Wilson shifted momentum during the evening session by claiming three consecutive frames with notable breaks of 80, 52, and 101 to pull ahead 9-7. Although Higgins narrowed the gap to 9-8, Wilson sealed the championship in the 18th frame with a break of 61, adding this victory to his recent Northern Ireland Open triumph.",
+      "content_source": "article",
+      "flow": []
+    },
+    "45dd1c05fb40": {
+      "ai_title": "Heavy Rain Significantly Accelerates Alaskan Glaciers",
+      "ai_summary": "New observations indicate that heavy rainfall can more than double the speed at which glaciers move in Alaska, challenging the traditional view of glaciers as slow, unyielding blocks of ice driven solely by gravity.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "6583cac5dcb7": {
+      "ai_title": "Magnitude 4.9 Earthquake Strikes Near Khorixas, Namibia",
+      "ai_summary": "A magnitude 4.9 earthquake struck 77 kilometers north-northwest of Khorixas, Namibia, at a depth of about 8 kilometers on November 7, 2026. At least one person reported feeling the tremor.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "f1546822c451": {
+      "ai_title": "Magnitude 4.5 Earthquake Recorded in the Fiji Region",
+      "ai_summary": "A magnitude 4.5 earthquake occurred in the Fiji region on November 7, 2026, at a depth of approximately 572 kilometers, according to USGS data.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "5f52c148516f": {
+      "ai_title": "England's Josh Tongue Misses Australia Tour Due to Toe Injury",
+      "ai_summary": "England fast bowler Josh Tongue has been ruled out of the upcoming white-ball tour of Australia after suffering a toe injury in Pakistan last month. The 28-year-old will return to the UK for further assessment, missing the upcoming one-day and T20 matches. Meanwhile, Adil Rashid starred in a warm-up match in Perth, taking four wickets to help England secure a 92-run victory against Western Australia. Jofra Archer also contributed three wickets, though England's batting lineup was bowled out for 251 before closing out the win.",
+      "content_source": "article",
+      "flow": []
+    },
+    "d6c435d80691": {
+      "ai_title": "Jon Rahm Leads Abu Dhabi Championship Ahead of Final Round",
+      "ai_summary": "Jon Rahm holds a narrow one-shot lead heading into the final round of the Abu Dhabi Championship after shooting a six-under-par 66 at Yas Links. Ryder Cup team-mates Tyrrell Hatton and Francesco Laporta sit one shot back on 17 under par, while Rory McIlroy is two shots off the lead in fourth place following a strong run of birdies. Rahm is seeking his first solo tournament victory since the 2023 Masters, while McIlroy and Hatton look to mount a final-day challenge.",
+      "content_source": "article",
+      "flow": []
+    },
+    "006cfde02b8c": {
+      "ai_title": "Player Ratings from Leeds United and Tottenham Hotspur Clash",
+      "ai_summary": "Leeds United secured a victory powered by substitute Noah Okafor, who scored just two minutes after coming onto the pitch. Goalkeeper James Trafford also preserved the win with a crucial late save against Jan Paul van Hecke. For Tottenham, Van Hecke delivered one of his strongest performances with a powerful aerial presence and defensive composure, while goalkeeper Antonin Kinsky made several key saves. However, multiple Tottenham attackers struggled to make a decisive impact during the Premier League fixture.",
+      "content_source": "article",
+      "flow": []
+    },
+    "6b5225895690": {
+      "ai_title": "Medieval Sanitation Measures Unintentionally Spread Roundworm in Trondheim",
+      "ai_summary": "Deliberate medieval health and sanitation interventions in Trondheim inadvertently produced the opposite effect, increasing the spread of disease and exposing the local population to roundworm.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "e23cb596fd16": {
+      "ai_title": "Alternative Cosmological Model Suggests Older Universe Without Dark Matter",
+      "ai_summary": "A new model developed at the University of Ottawa proposes that the universe is 26.7 billion years old and operates without dark matter or dark energy, successfully passing several major cosmological tests.",
       "content_source": "rss",
       "flow": []
     }
