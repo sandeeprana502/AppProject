@@ -1,13 +1,12 @@
 {
- "generated": "2026-11-08T04:37:36.767253+00:00",
- "sources_ok": 13,
+ "generated": "2026-11-08T12:49:15.761580+00:00",
+ "sources_ok": 14,
  "sources_total": 17,
  "sources": [
   {
    "source": "arXiv",
-   "status": "failed",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=25)",
-   "kept_previous": 16
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "bioRxiv",
@@ -32,7 +31,7 @@
   {
    "source": "NASA APOD",
    "status": "failed",
-   "error": "HTTPError: 500 Server Error for url: https://api.nasa.gov/planetary/apod",
+   "error": "ReadTimeout: HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=25)",
    "kept_previous": 1
   },
   {
@@ -55,7 +54,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 91
+   "items": 87
   },
   {
    "source": "NASA EONET",
@@ -90,7 +89,7 @@
   {
    "source": "BBC Sport",
    "status": "ok",
-   "items": 64
+   "items": 68
   }
  ]
 }

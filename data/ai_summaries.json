@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T04:39:45.797803+00:00",
+  "generated": "2026-11-08T12:50:45.182640+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -589,12 +589,6 @@
       "content_source": "rss",
       "flow": []
     },
-    "116e1f33ec6b": {
-      "ai_title": "Daily Quizzes Released by BBC Sport",
-      "ai_summary": "BBC Sport has launched its daily set of trivia challenges, featuring a footballer guessing game called Who Am I?, alongside the Five in Five and Brainteaser quizzes. Participants try to solve clues with minimal attempts or time.",
-      "content_source": "article",
-      "flow": []
-    },
     "dc5bf1e8ac41": {
       "ai_title": "Altrincham Prepares for FA Cup Clash Against Notts County",
       "ai_summary": "Non-league club Altrincham prepares to face League One side Notts County in the FA Cup first round, hoping to add another giant-killing scalp to their history. Having previously eliminated 17 Football League opponents, the fifth-tier team looks to channel the determination of their golden era from the 1970s and 1980s. Former player Graham Heathcote and current manager Neil Gibson emphasize the historic significance and the opportunity for the squad to create new memories on live television.",
@@ -1012,6 +1006,141 @@
       "ai_title": "Magnitude 4.9 Earthquake Hits the Philippines",
       "ai_summary": "An earthquake measuring magnitude 4.9 struck 41 kilometers west-southwest of Gadung, Philippines, at a deep underground level of approximately 607 kilometers.",
       "content_source": "rss",
+      "flow": []
+    },
+    "b75ffda5d5e1": {
+      "ai_title": "Australia Beats Fiji to Secure World Cup Final Spot",
+      "ai_summary": "Australia advanced to their fifth consecutive Women's Rugby League World Cup final after overcoming a strong challenge from tournament debutants Fiji with a 30-14 victory at Sydney Football Stadium. Fiji stunned the reigning champions by opening the scoring and taking an 8-0 lead in the first half. However, Australia recovered before halftime and pulled away in the second half, propelled by four tries from Abbi Church. Australia will now face New Zealand in the final in Brisbane, while Fiji earned widespread respect for their physical and competitive performance throughout the tournament.",
+      "content_source": "article",
+      "flow": []
+    },
+    "1392d54fbca1": {
+      "ai_title": "Hazel Dormice Thrive at Devon National Trust Estate",
+      "ai_summary": "Hazel dormice populations are bucking national declines by thriving at the Killerton National Trust estate in Devon, thanks to targeted habitat management and monitoring efforts. While UK populations have dropped significantly due to habitat fragmentation, rangers at Killerton have maintained a stable population since 2018 by planting more hedges and trees, and maintaining protective scrub like brambles. Rangers monitor the shy, nocturnal mammals using 100 nest boxes across the estate, weighing and recording individuals from April through October to help ensure they survive the winter hibernation period.",
+      "content_source": "article",
+      "flow": [
+        "Set up and maintain nest boxes across the estate.",
+        "Weigh and record details of each dormouse between April and October.",
+        "Plant additional hedges, trees, and protective scrub like brambles to improve habitat connectivity.",
+        "Manage existing woodlands positively to provide a resilient ecosystem and food sources."
+      ]
+    },
+    "2faedd8a15cf": {
+      "ai_title": "Magnitude 4.7 Earthquake Strikes Near Huara, Chile",
+      "ai_summary": "A magnitude 4.7 earthquake occurred approximately 46 kilometers northwest of Huara, Chile, at a depth of about 69 kilometers. The seismic event was registered on November 8, 2026, and was felt by a small number of residents.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "26f964f5ad47": {
+      "ai_title": "Striker Rodrigo Muniz Reflects on Difficult Personal and Injury Struggles",
+      "ai_summary": "Fulham striker Rodrigo Muniz opened up about the personal and professional challenges he faced last season, which included a lengthy absence due to hamstring surgery and a tragic miscarriage experienced by his wife. The Brazilian forward, who recently scored his first league goal since the opening match of last season in a 1-1 draw against Newcastle United, dedicated the goal to his family. Muniz expressed his desire to secure more playing time under the manager through continued hard work in training.",
+      "content_source": "article",
+      "flow": []
+    },
+    "422d98c8690e": {
+      "ai_title": "Australia Defeats Samoa to Reach Men's Rugby League World Cup Final",
+      "ai_summary": "Australia secured a place in their 16th successive Men's Rugby League World Cup final with a 44-12 victory over Samoa at Sydney Football Stadium. Despite an intense pre-match confrontation from Samoa, including their traditional Siva Tau, Samoa struggled with discipline and errors as the match progressed. Reece Walsh scored a hat-trick of tries for Australia, while Samoa's frustration mounted following several contentious refereeing decisions and a first-half sin-binning. Australia will advance to face New Zealand in the final in Brisbane.",
+      "content_source": "article",
+      "flow": []
+    },
+    "fbc5e97f9882": {
+      "ai_title": "NASA Seeks New Astronauts for Artemis",
+      "ai_summary": "NASA is currently accepting applications for a new class of astronauts to support the ongoing development of the Artemis program and the creation of a permanent lunar base.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "0780148eb839": {
+      "ai_title": "Drone Delivers Food to Florida Chimpanzees",
+      "ai_summary": "Heavy rain and flooding at a Florida chimpanzee sanctuary forced staff to use a drone to deliver food to one of the property's 200 apes.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "5b5853844793": {
+      "ai_title": "Wales Defeats Japan in Unconvincing Performance",
+      "ai_summary": "Wales secured a 28-21 victory against Japan in the Nations Championship, but the unconvincing performance left head coach Steve Tandy and captain Dewi Lake unsatisfied. Despite strong individual displays, particularly from player-of-the-match wing Louis Rees-Zammit who made 121 metres and scored a try, the team struggled with a malfunctioning line-out, poor handling errors, and lapses in concentration. Wales conceded significant territory and possession, relying heavily on a high tackle count to fend off Japan. The scratchy win follows a difficult historical losing streak and highlights ongoing issues with slow starts to campaigns. With upcoming matches against formidable opponents like New Zealand and Australia, analysts and staff agree that significant improvements are required if Wales hopes to compete against the world's top-tier rugby teams.",
+      "content_source": "article",
+      "flow": []
+    },
+    "091c40b8df8f": {
+      "ai_title": "New Research Shows Asteroid Deflection Depends on Blast Angle",
+      "ai_summary": "A nuclear explosion could potentially deflect a dangerous asteroid from Earth, but new research shows that the success of the mission heavily depends on which side is targeted. Scientists at Sandia National Laboratories used an advanced simulation model to demonstrate that an asteroid's irregular shape causes its response to an X-ray blast to vary significantly based on the direction of the radiation. The simulations revealed nearly a fivefold difference in deflection velocity depending on the angle of the burst, alongside drastic changes in the asteroid's rotation. While previous models typically treated asteroids as uniform spheres to simplify calculations, the new algorithm combines high-energy and low-force simulation codes to account for realistic, lumpy surfaces. Researchers emphasize that carefully selecting the blast location is crucial for effective planetary defense, though obtaining precise shape data and accurately positioning a nuclear device in space remain major challenges.",
+      "content_source": "article",
+      "flow": []
+    },
+    "a35b0b99670b": {
+      "ai_title": "Rangers Maintain Unbeaten Run Despite Concerns Over Clinical Edge",
+      "ai_summary": "Rangers extended their unbeaten streak to 12 matches in all competitions with a 2-0 victory over St Mirren, moving within a point of the Scottish Premiership summit. Despite strong defensive numbers and positive individual contributions, pundits and management noted a lack of control and killer instinct in front of goal. Striker Ryan Naderi and midfielder Dan Neil secured the win, but missed opportunities and a failure by supporting attacking players to capitalize on promising positions highlighted ongoing offensive inefficiencies. With key strikers sidelined due to injury, manager Derek McInnes emphasized the need for better decision-making and a more ruthless approach as the team strives to reach its full potential.",
+      "content_source": "article",
+      "flow": []
+    },
+    "853f4670a2c1": {
+      "ai_title": "Usman Khawaja Defends Revelations in Autobiography Regarding 2018 Ball-Tampering Scandal",
+      "ai_summary": "Usman Khawaja has defended claims made in his autobiography and a media interview regarding the 2018 Australia cricket ball-tampering scandal in South Africa. Khawaja stated that blame for the incident should be shared collectively by the entire team rather than solely falling on the three players who were punished at the time, namely Steve Smith, David Warner, and Cameron Bancroft. In videos posted online, Khawaja clarified that he did not intend to throw anyone under the bus and maintained that the current team members and tour participants were not the victims. Several former teammates and coach Darren Lehmann have previously denied that everyone in the squad had knowledge of the plot. Cricket Australia stated that it remains comfortable with the findings of its original integrity process.",
+      "content_source": "article",
+      "flow": []
+    },
+    "d1b91041c49d": {
+      "ai_title": "Wales Football Manager Craig Bellamy Explores Non-League Talent for Goalkeeper Options",
+      "ai_summary": "Wales manager Craig Bellamy has called up 20-year-old Southend United goalkeeper Joe Duncan to the senior squad for upcoming Nations League matches, highlighting the value of lower-league experience in developing top-tier talent. Drawing comparisons to successful international goalkeepers like David Raya and Jordan Pickford, Bellamy noted that non-league environments challenge young players effectively. With established Welsh options entering the later stages of their careers and lacking regular club minutes, Bellamy is casting a wide net to find the national team's next generation of goalkeepers.",
+      "content_source": "article",
+      "flow": []
+    },
+    "a66663897a5c": {
+      "ai_title": "Magnitude 4.7 Earthquake Strikes Near Miyako, Japan",
+      "ai_summary": "A magnitude 4.7 earthquake occurred approximately 137 kilometers east of Miyako, Japan, at a depth of roughly 10 kilometers on November 8, 2026. Agency data and safety information remain subject to updates as officials review the event.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "69d32c5a275b": {
+      "ai_title": "Ancient Siberian Tomb Yields Earliest Direct Evidence of Psychoactive Cannabis Use",
+      "ai_summary": "Researchers analyzing a nearly 2,800-year-old Scythian tomb in southern Siberia have discovered approximately 1,000 cannabis seeds and chemical evidence of cannabis consumption in preserved human hair. Led by Dr. Gino Caspari, an international team used radiocarbon dating and high-resolution mass spectrometry to confirm the findings, marking the oldest directly dated archaeological evidence of psychoactive cannabis use. The tomb also featured elaborate burial rituals and numerous animal sacrifices. Scientists are now planning to analyze DNA from the preserved plant remains to learn more about early crop domestication and distribution.",
+      "content_source": "article",
+      "flow": []
+    },
+    "78f27ab5eed4": {
+      "ai_title": "Boxer Caroline Dubois Eyes Future Matchup Against Alycia Baumgardner",
+      "ai_summary": "Unified lightweight champion Caroline Dubois has expressed her desire to face the winner of the upcoming IBF title bout between Alycia Baumgardner and Elif Nur Turhan. Writing in her column, Dubois believes a future fight against Baumgardner could create one of the biggest rivalries in women's boxing and help elevate the sport into a new era. Dubois aims to become the undisputed world champion in 2027, targeting a fight with WBA champion Stephanie Han before pursuing a showdown with the winner of the Baumgardner-Turhan match.",
+      "content_source": "article",
+      "flow": []
+    },
+    "8cbd9f1330c9": {
+      "ai_title": "Mohamed Salah's Impact at Trabzonspor",
+      "ai_summary": "Mohamed Salah has made a surprising transfer to Turkish club Trabzonspor following the expiration of his Liverpool contract. His arrival has sparked immense enthusiasm among fans in Turkey, leading to record-breaking merchandise sales and increased flight accessibility to the region. On the pitch, the 34-year-old forward has started strongly, scoring 10 goals and providing five assists to help drive Trabzonspor's challenge in the Turkish Super Lig. Living in Yomra with a private security detail and chef, Salah is focused entirely on his football and aims to play in upcoming international tournaments before his two-year deal concludes.",
+      "content_source": "article",
+      "flow": []
+    },
+    "587992fd019f": {
+      "ai_title": "Lionel Messi Sets MLS Record with Consecutive Golden Boots",
+      "ai_summary": "Inter Miami forward Lionel Messi has made history by becoming the first player in Major League Soccer to win the Golden Boot in consecutive seasons. The eight-time Ballon d'Or winner scored 26 goals in 31 appearances during the campaign, finishing four goals ahead of FC Dallas striker Peter Musa. In addition to his scoring record, Messi contributed 17 assists, securing the league's best total for goal contributions for the second year in a row. Despite his individual success, Inter Miami finished 17 points behind Nashville in the Eastern Conference and are set to face the Columbus Crew in the first round of the play-offs.",
+      "content_source": "article",
+      "flow": []
+    },
+    "45b08ba0473a": {
+      "ai_title": "North Pennines National Landscape Launches Climate Change Strategy",
+      "ai_summary": "Councils in the North Pennines have adopted a new five-year management plan focused on preparing the region for climate change and improving public access. The North Pennines National Landscape Management Plan 2026-31 prioritizes actions such as restoring carbon-rich peatland to reduce flooding and equipping local farmers with advanced wildfire-fighting tools, including drones. Landscape officials emphasized that the strategy relies on cooperation rather than enforcement, aiming to protect fragile upland ecosystems while encouraging broader community engagement and rural tourism.",
+      "content_source": "article",
+      "flow": [
+        "Adopt the North Pennines National Landscape Management Plan 2026-31 across regional councils",
+        "Restore carbon-rich peat soils and protect existing woodlands to mitigate extreme weather impacts",
+        "Equip local farmers with wildfire prevention tools and drone technology",
+        "Collaborate with farmers to facilitate educational farm visits for the public"
+      ]
+    },
+    "4d82e96f2664": {
+      "ai_title": "Conservationists Discover Hundreds of New Seagrass Shoots in Fowey Estuary",
+      "ai_summary": "Conservationists in Cornwall are celebrating the discovery of more than 430 seagrass shoots across the Fowey Estuary following summer surveys by the Cornwall Wildlife Trust. The new growth provides fresh hope for restoring vital marine habitats after initial fears that the trial might fail when only six seedlings appeared in April. Volunteers previously collected seeds from a donor meadow in Torpoint and planted them in the estuary. Seagrass plays a crucial role in marine ecosystems by providing nursery grounds for fish, improving water quality, and capturing carbon at rates significantly faster than tropical rainforests. Additional planting and monitoring efforts are planned for future seasons.",
+      "content_source": "article",
+      "flow": [
+        "Collect seagrass seeds from a donor meadow in Torpoint during the autumn",
+        "Plant the harvested seeds into the estuary seabed",
+        "Allow the seeds to remain buried through the winter months",
+        "Monitor the site in spring and summer to record new seedling and shoot growth"
+      ]
+    },
+    "370a60b83dc9": {
+      "ai_title": "Daily Sports Quizzes from BBC Sport",
+      "ai_summary": "Test your football knowledge with BBC Sport's daily interactive challenges, including a player-guessing game with progressive clues, a five-minute trivia quiz, and a difficult brainteaser.",
+      "content_source": "article",
       "flow": []
     }
   }
