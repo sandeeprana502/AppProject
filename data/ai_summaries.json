@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T12:50:45.182640+00:00",
+  "generated": "2026-11-08T19:22:08.191257+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -1140,6 +1140,126 @@
     "370a60b83dc9": {
       "ai_title": "Daily Sports Quizzes from BBC Sport",
       "ai_summary": "Test your football knowledge with BBC Sport's daily interactive challenges, including a player-guessing game with progressive clues, a five-minute trivia quiz, and a difficult brainteaser.",
+      "content_source": "article",
+      "flow": []
+    },
+    "4c8417bb19ef": {
+      "ai_title": "JWST Detects Record Number of Magnified Stars in Distant Dragon Galaxy",
+      "ai_summary": "Astronomers using the James Webb Space Telescope identified 104 magnified stellar events in the Dragon galaxy, located approximately 6.5 billion light-years away. This achievement more than doubles the previous record of 44 detections in the same galaxy, providing new insight into stellar populations and dark matter.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "4d15ddca1b65": {
+      "ai_title": "Norris Secures Victory at Sao Paulo Grand Prix as Mercedes Clinch Constructors' Title",
+      "ai_summary": "McLaren driver Lando Norris won a challenging, wet Sao Paulo Grand Prix after starting from pole position. Norris maintained strong pace throughout the race, capitalizing on errors by his rivals. Newly crowned world champion Kimi Antonelli held an early lead for Mercedes but spun out at the first corner on dry-weather tires, while his team-mate George Russell also made a costly spin exiting the pit lane. Despite these mistakes, Antonelli and Russell finished fifth and fourth respectively, securing the 2026 constructors' championship for Mercedes. Red Bull's Max Verstappen drove from 21st on the grid to finish second behind Norris following an engine penalty, navigating tricky, changeable weather conditions at Interlagos.",
+      "content_source": "article",
+      "flow": []
+    },
+    "4bd04e0740b2": {
+      "ai_title": "Manchester United Draw with Aston Villa After Trailing Twice",
+      "ai_summary": "Manchester United head coach Michael Carrick acknowledged that his team made things difficult for themselves after recovering from a two-goal deficit twice to secure a 4-4 draw against Aston Villa at home.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "fb78e513993d": {
+      "ai_title": "Leeds Condemns Online Racist Abuse Directed at Defender Jayden Bogle",
+      "ai_summary": "Leeds United strongly condemned online racist abuse directed at defender Jayden Bogle following a 1-0 win against Tottenham. Bogle faced targeted abuse online after a controversial first-half challenge on Tottenham's Mathys Tel left the forward injured. The referee chose not to penalize the tackle following a VAR review, prompting Tottenham to file a formal complaint. Leeds stated they are working with the Premier League and authorities to identify those responsible and push for strict disciplinary measures. The incident follows a reported surge in online racist abuse targeting Premier League players across recent seasons.",
+      "content_source": "article",
+      "flow": []
+    },
+    "f5ac726411d9": {
+      "ai_title": "Understanding Space Weather and Auroras",
+      "ai_summary": "Auroras create natural light displays featuring green and red curtains across the night sky, driven by space weather that can also impact power grids on the ground.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "2def714001f9": {
+      "ai_title": "Wimborne Town Secures Historic FA Cup Upset Against Crawley",
+      "ai_summary": "Seventh-tier Wimborne Town achieved a major FA Cup upset by defeating League Two side Crawley to advance to the second round of the competition for the first time in their history.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "48395d54f4c3": {
+      "ai_title": "Manchester United and Aston Villa Play Out Dramatic Four-All Draw",
+      "ai_summary": "Manchester United twice fought back from two goals down to secure a dramatic 4-4 draw against Aston Villa. Despite a shaky start featuring defensive errors, United responded through goals from Youri Tielemans, Bruno Fernandes, Patrick Dorgu, and a stoppage-time strike by Joshua Zirkzee. Aston Villa claimed their goals through Alysson, John McGinn, Leon Goretzka, and Nicolas Jackson. The chaotic encounter highlighted defensive vulnerabilities on both sides, leaving managers to ponder missed opportunities and tactical adjustments as substitutes like Dorgu ultimately altered the course of the match.",
+      "content_source": "article",
+      "flow": []
+    },
+    "2434c647caef": {
+      "ai_title": "Xabi Alonso's Chelsea Continue Search for Identity After Sunderland Defeat",
+      "ai_summary": "Chelsea manager Xabi Alonso faced renewed questions about his team's identity following a disappointing 1-0 defeat to Sunderland, decided by an Enzo le Fee penalty. Constant changes to formations and personnel have marked Alonso's tenure, drawing comparisons to Claudio Ranieri's \"Tinkerman\" moniker. While injuries to key players like Cole Palmer, Moises Caicedo, and Reece James have forced tactical adjustments and disrupted momentum, Chelsea continue to struggle with consistency and chance creation despite sitting fifth in the Premier League table.",
+      "content_source": "article",
+      "flow": []
+    },
+    "3fbb66fe9ca9": {
+      "ai_title": "Darragh Burns Secures FAI Cup Glory for Derry City",
+      "ai_summary": "Darragh Burns scored his first goal for Derry City, a crucial low drive in the 69th minute, to secure a 1-0 victory over Waterford in the FAI Cup final at the Aviva Stadium. The win marks Derry's seventh FAI Cup title and provides a triumphant end to a turbulent season, while also earning the club qualification for the Europa League. Captain Michael Duffy described the victory as the pinnacle of his football career.",
+      "content_source": "article",
+      "flow": []
+    },
+    "463a1199fe69": {
+      "ai_title": "England Dominates Australia to Ease Pressure on Steve Borthwick",
+      "ai_summary": "England eased the pressure on head coach Steve Borthwick with an emphatic seven-try victory over a listless Australia at the Allianz Stadium.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "99e0df20d793": {
+      "ai_title": "Carlos Alcaraz Wins First Paris Masters Title With Victory Over Ben Shelton",
+      "ai_summary": "Carlos Alcaraz completed a remarkable return from a wrist injury by defeating Ben Shelton 7-6 (7-5) 7-5 to claim his first Paris Masters title. Following a four-month absence earlier in the season, the Spanish player has won three titles and secured 17 wins from 18 matches, adding a ninth ATP Masters 1000 crown to his career achievements. Alcaraz successfully saved all six break points in a tense opening set and fought back in the second set after trailing. Meanwhile, in men's doubles, Great Britain's Henry Patten and Finland's Harri Heliovaara secured the year-end world number one ranking following a run to the semi-finals in Paris.",
+      "content_source": "article",
+      "flow": []
+    },
+    "e41fe8510a98": {
+      "ai_title": "Marc Marquez Forced to Wait for Eighth MotoGP Title After Finishing Second in Qatar",
+      "ai_summary": "Marc Marquez missed the opportunity to secure a record-equalling eighth MotoGP title after finishing second behind Marco Bezzecchi in the Qatar Grand Prix. The 33-year-old Spaniard won the Saturday sprint race and could have clinched the championship if rival Jorge Martin finished outside the points. However, Martin returned from a wrist injury to finish seventh. Marquez currently holds a 60-point lead over Martin and will have another opportunity to seal the title during the upcoming race weekend in Portimao, Portugal. Bezzecchi, who secured his sixth grand prix win of the season, remains mathematically in contention as well.",
+      "content_source": "article",
+      "flow": []
+    },
+    "5115ed87bda4": {
+      "ai_title": "Manchester United Defeats Aston Villa",
+      "ai_summary": "Julia Zigiotti Olme came off the bench to score the decisive goal, securing a 1-0 victory for Manchester United over Aston Villa and moving the team up to fourth place in the WSL table.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "c72e3bb12a5c": {
+      "ai_title": "Alessia Russo Leads Arsenal to Victory Over Liverpool",
+      "ai_summary": "Alessia Russo scored two goals to lead Arsenal to a 2-1 victory against Liverpool at Anfield, helping the team climb to seventh place in the Women's Super League standings.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "4d7f3cfb83cc": {
+      "ai_title": "Stockport County Overcomes Cray Wanderers in FA Cup",
+      "ai_summary": "Ten-man League One side Stockport County avoided a major upset by defeating Isthmian League team Cray Wanderers 3-2 after extra time in the first round of the FA Cup.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "96ed79705106": {
+      "ai_title": "London City Defeats Birmingham",
+      "ai_summary": "The London City Lionesses secured a 4-1 victory against Birmingham City, moving them within four points of second-placed Chelsea in the Women's Super League standings.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "7e0f366060d8": {
+      "ai_title": "England Dominates Australia in Seven-Try Victory",
+      "ai_summary": "England delivered an emphatic 45-22 victory over Australia at Allianz Stadium, scoring seven tries in a much-needed display of support for head coach Steve Borthwick. Following questions over recent form and team unity, England dominated the match with a combination of physicality and ambition. Jamie George, Ollie Chessum, Joe Heyes, Jack van Poortvliet, Ben Spencer, and a quick-fire double from Henry Pollock sealed the comfortable win. Australia responded with tries from Max Jorgensen, Filipo Daugunu, and Jeremy Williams, but the heavy defeat leaves Wallabies coach Les Kiss with significant concerns ahead of the Rugby World Cup. The hosts suffered injury blows with Immanuel Feyi-Waboso and Seb Atkinson both forced off the field.",
+      "content_source": "article",
+      "flow": []
+    },
+    "2222e1bdb001": {
+      "ai_title": "Massive Coral Colony Discovered",
+      "ai_summary": "Researchers have identified a massive coral colony stretching over 1.5 kilometers along the outer reef of the Cocos (Keeling) Islands, ranking it among the largest known coral colonies in the world.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "b7d4ffd7d773": {
+      "ai_title": "Grimsby Overcomes Stafford in FA Cup",
+      "ai_summary": "League Two club Grimsby Town overcame a two-goal deficit against Stafford Rangers, leveling the FA Cup tie at 3-3 before securing a 3-2 victory in the penalty shootout.",
+      "content_source": "article",
+      "flow": []
+    },
+    "f18168429b21": {
+      "ai_title": "Fan Hospitalized After Stand Collapse",
+      "ai_summary": "A football fan was taken to the hospital after several Bodo/Glimt supporters fell through a hole in the away stand during a match against Tromso in Norway. The incident occurred just before half-time at Romssa Arena when the floor gave way while supporters were bouncing to a song during heavy rain. The match was temporarily paused while affected fans were relocated to other parts of the stadium. Play eventually resumed, and league leaders Bodo/Glimt secured a 2-0 victory with two goals from Ola Brynhildsen.",
       "content_source": "article",
       "flow": []
     }
