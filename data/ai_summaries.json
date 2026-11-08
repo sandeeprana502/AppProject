@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T21:30:04.620629+00:00",
+  "generated": "2026-11-08T04:39:45.797803+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -891,6 +891,126 @@
     "974300ebd62f": {
       "ai_title": "Altrincham Takes Lead Against Notts County",
       "ai_summary": "Lewis Banks scored from close range to give National League side Altrincham a 2-1 lead over League One team Notts County in the first round of the FA Cup.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "1dca26b165ea": {
+      "ai_title": "Moderate Earthquake Strikes Near Honmachi, Japan",
+      "ai_summary": "A magnitude 4.5 earthquake struck 11 kilometers west of Honmachi, Japan, at a depth of about 10 kilometers. The seismic event occurred on November 8, 2026, with authorities noting that specific details may be updated as data is reviewed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "cdf087d9a456": {
+      "ai_title": "Urban Expansion Impacts Tropical Bird Populations",
+      "ai_summary": "Tropical ecosystems are widely recognized for their remarkable and abundant biological diversity, facing notable ecological pressures as cities continue to expand into natural areas.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "ec2f1f0b3f9c": {
+      "ai_title": "Chev Clarke Stops Chris Billam-Smith in Seventh Round",
+      "ai_summary": "Former cruiserweight world champion Chris Billam-Smith was stopped for the first time in his professional career, losing to Chev Clarke after a seventh-round knockdown in their all-British non-title bout. Clarke landed a strong right hand at the start of the round, followed by a barrage of punches that prompted the referee to step in. The victory lifts Clarke to 13 wins and hands Billam-Smith his third professional defeat. In the main support bout, Denzel Bentley secured a unanimous points victory over a bloodied Shane Mosley Jr after knocking him down in the second round.",
+      "content_source": "article",
+      "flow": []
+    },
+    "9b7a13a8e0f9": {
+      "ai_title": "Barnet Defeats Tranmere Rovers with Late Goals",
+      "ai_summary": "Barnet secured a 3-0 victory over Tranmere Rovers in the first round of the FA Cup after scoring three goals during the final fifteen minutes of the match, driven by contributions from their substitutes.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "0ccabec13d7e": {
+      "ai_title": "Thick Fog Disrupts FA Cup Tie Between Altrincham and Notts County",
+      "ai_summary": "A first-round FA Cup match between Altrincham and Notts County was severely impacted by thick fog, which commentators and managers described as one of the most challenging conditions in their careers. As visibility dropped significantly past the centre circle after the 60th minute, players, managers, and broadcasters struggled to track the action, relying heavily on crowd reactions and television replays. Altrincham took a 2-1 lead before Notts County equalized late to force extra-time, eventually winning the match on penalties. The unusual weather forced teams to abandon long passes in favor of short combinations, creating a bizarre spectacle that nearly resulted in the game being postponed.",
+      "content_source": "article",
+      "flow": []
+    },
+    "4b5a2ea0aed5": {
+      "ai_title": "Charlie Savage Scores Against Father Robbie's Team in FA Cup",
+      "ai_summary": "Charlie Savage scored for Reading during their FA Cup first-round match against Peterborough United, the team managed by his father, Robbie Savage.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "832926dda400": {
+      "ai_title": "Charlie Savage Leads Reading Past Father Robbie's Peterborough",
+      "ai_summary": "Charlie Savage delivered a man-of-the-match performance and scored his first goal of the season, helping Reading eliminate Peterborough United, managed by his father Robbie, in the FA Cup first round.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "0d8f7032d8a2": {
+      "ai_title": "Crewe's Charlie McNeill Scores Stunning Goal From Halfway Line",
+      "ai_summary": "Crewe Alexandra forward Charlie McNeill opened the scoring against AFC Wimbledon in the FA Cup first round by netting a remarkable goal from the halfway line in the 12th minute.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "182794f42eab": {
+      "ai_title": "Fylde Secures Victory Over Harrogate Town in FA Cup",
+      "ai_summary": "Two late goals helped Fylde defeat Harrogate Town 4-1 in an all-National League matchup during the first round of the FA Cup.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9e4f2b11fd56": {
+      "ai_title": "Aberdeen Manager Stephen Robinson Faces Uncertain Future After Heavy Defeat",
+      "ai_summary": "Aberdeen manager Stephen Robinson insists he will keep fighting despite his team sliding into the relegation play-off zone following a dismal 4-0 home loss to Hibernian. The heavy defeat, compounded by four consecutive losses and poor summer recruitment, has left the manager under intense pressure with fans demanding his dismissal. Club legends and pundits have suggested that the struggling side lacks identity and direction, placing the burden on chief executive Adrian Bevington and the board to make a crucial decision over the weekend regarding the manager's future.",
+      "content_source": "article",
+      "flow": []
+    },
+    "e90987847d0a": {
+      "ai_title": "Pundits Debate Bogle's Challenge",
+      "ai_summary": "Match of the Day analysts Steph Houghton and Danny Murphy evaluate whether Jayden Bogle's tackle on Mathys Tel warranted a red card.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "e24ad176fa84": {
+      "ai_title": "Murphy Hails Forest Victory",
+      "ai_summary": "Danny Murphy describes Nottingham Forest's 3-1 victory over Manchester City as a potential turning point during their first season under Oliver Glasner.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "d1782fb31f92": {
+      "ai_title": "Analysis of Missed Penalty Claim",
+      "ai_summary": "Former Premier League official Darren Cann asserts that Arsenal should have received a penalty for a foul on Kai Havertz against Hull City.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "5984a2ec9daa": {
+      "ai_title": "Norris Secures Pole in Heavy Rain",
+      "ai_summary": "Lando Norris claimed pole position for the Sao Paulo Grand Prix amidst extreme wet conditions, securing his third consecutive pole in Brazil. The qualifying session was briefly suspended due to safety concerns. Both Norris and fellow front-row starter George Russell expressed concerns over visibility and aquaplaning, yet both stated a preference for a wet race on Sunday. Grid penalties for multiple drivers reshuffled the starting order, creating opportunities for drivers like Liam Lawson, Nico Hulkenberg, and Fernando Alonso. Meanwhile, Ferrari teammates Lewis Hamilton and Charles Leclerc addressed their previous on-track collision and penalties for engine replacements that placed them further down the grid.",
+      "content_source": "article",
+      "flow": []
+    },
+    "8f74b697927c": {
+      "ai_title": "York City Secures Fast FA Cup Win",
+      "ai_summary": "Ollie Pearce scored just 10 seconds into the match following a unique kick-off, helping York City defeat Northampton Town 4-0 to advance to the FA Cup second round.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "0ae7b729a504": {
+      "ai_title": "Plymouth Advances in FA Cup",
+      "ai_summary": "Plymouth secured a comfortable victory against Alvechurch to successfully advance to the second round of the FA Cup.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "0175d091fc52": {
+      "ai_title": "Focus on Private Retirement Funds",
+      "ai_summary": "Private retirement savings continue to draw significant attention as a crucial topic in ongoing public discussions and debates.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "d0ce71685f6f": {
+      "ai_title": "Magnitude 5.1 Quake Strikes Near Tonga",
+      "ai_summary": "A magnitude 5.1 earthquake occurred approximately 91 kilometers east-northeast of Hihifo, Tonga, at a depth of 10 kilometers, with one person reporting feeling the tremor.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "55d281b17528": {
+      "ai_title": "Hutchinson Defeats Buatsi to Claim WBC Light-Heavyweight Title",
+      "ai_summary": "Willy Hutchinson captured the WBC light-heavyweight championship by defeating Joshua Buatsi via a tense decision in Manchester, avenging his 2024 loss. The 28-year-old Scot delivered a disciplined performance, neutralizing Buatsi's body-shot strategy and winning on the judges' scorecards with tallies of 117-112, 115-113, and 115-113. The victory made Hutchinson the eighth British light-heavyweight champion and fulfilled a childhood ambition he wrote down at age 13. While ticket sales were modest, the raucous crowd cheered Hutchinson on throughout the bout. Following his career-best win, Hutchinson expressed interest in potential future matchups against domestic rivals such as Anthony Yarde or Ben Whittaker, as well as possible unification bouts against upcoming division opponents.",
+      "content_source": "article",
+      "flow": []
+    },
+    "18ee8df8bbac": {
+      "ai_title": "Magnitude 4.9 Earthquake Hits the Philippines",
+      "ai_summary": "An earthquake measuring magnitude 4.9 struck 41 kilometers west-southwest of Gadung, Philippines, at a deep underground level of approximately 607 kilometers.",
       "content_source": "rss",
       "flow": []
     }

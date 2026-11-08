@@ -1,12 +1,13 @@
 {
- "generated": "2026-11-07T21:28:57.022159+00:00",
- "sources_ok": 14,
+ "generated": "2026-11-08T04:37:36.767253+00:00",
+ "sources_ok": 13,
  "sources_total": 17,
  "sources": [
   {
    "source": "arXiv",
-   "status": "ok",
-   "items": 8
+   "status": "failed",
+   "error": "ReadTimeout: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=25)",
+   "kept_previous": 16
   },
   {
    "source": "bioRxiv",
@@ -16,7 +17,7 @@
   {
    "source": "Europe PMC",
    "status": "ok",
-   "items": 85
+   "items": 82
   },
   {
    "source": "PLOS ONE",
@@ -54,7 +55,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 90
+   "items": 91
   },
   {
    "source": "NASA EONET",
@@ -89,7 +90,7 @@
   {
    "source": "BBC Sport",
    "status": "ok",
-   "items": 56
+   "items": 64
   }
  ]
 }
