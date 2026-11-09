@@ -1,40 +1,78 @@
-# Science In-Short feed (backend pipeline)
+# Science In-Short: backend (AppProject)
 
-A scheduled job fetches open science sources, cleans the text, trims it to a short summary and
-saves `data/news.json`. The Flutter app downloads that one file. There is no server to pay for.
+GitHub Actions runs this every 3 hours and on demand. It collects science news, adds AI summaries, and saves JSON files that the Flutter app downloads. No server, no hosting bill.
 
 ```
-sources.json -> fetch_news.py -> data/news.json -> app (Flutter) -> local cache of 10 items
-              (GitHub Actions, every 3 hours)
+sources.json --> fetch_news.py --> data/news.json ------> summarize_news.py --> data/summarized_news.json --> app
+                                                              |        ^
+                                                              v        |
+                                                      Gemini API   data/ai_summaries.json (cache)
 ```
 
-## Set up (about 10 minutes)
+## Files
 
-1. On GitHub: **New repository**, name it `science-in-short-feed`, set it to **Public**.
-2. Upload all files in this folder (keep the `.github/workflows` folder path exactly).
-3. Optional keys, under **Settings > Secrets and variables > Actions > New repository secret**:
-   - `NASA_API_KEY`: free at api.nasa.gov. Without it the script uses NASA's shared DEMO_KEY, which is rate limited.
-   - `GUARDIAN_API_KEY`: free developer key at open-platform.theguardian.com. Without it that one source is skipped.
-4. **Actions** tab > "Fetch news" > **Run workflow**. Wait about a minute.
-5. Open `data/run_log.json` in the repo. It lists every source as `ok` or `failed` with the error.
-6. Your feed URL for the app is:
-   `https://raw.githubusercontent.com/sandeeprana502/science-in-short-feed/main/data/news.json`
+| File | Purpose |
+|---|---|
+| `sources.json` | Source list and settings. Edit this to add, remove or fix a source or category |
+| `fetch_news.py` | Fetch, clean, tag, remove duplicates, keep the last 21 days. Works as is |
+| `summarize_news.py` | Read article text, ask the AI, validate, cache, build the app feed |
+| `requirements.txt` | Python libraries (`requests`, `feedparser`, `trafilatura`) |
+| `.github/workflows/*.yml` | Schedule (`0 */3 * * *`) and the manual **Run workflow** button |
+| `data/news.json` | Original news. Keep it as the untouched source feed |
+| `data/ai_summaries.json` | Cache of accepted AI results. Do not delete it |
+| `data/summarized_news.json` | **What the app reads first** |
+| `data/run_log.json` | Each source `ok` or `failed`, with the error |
+| `merge_sources.py`, `sources_additions.json` | Optional: add a prepared batch of sources safely |
 
-## Summary length and licences
+## Sources and categories
 
-- Sources marked `"licence": "open"` and `"full_summary": true` get 100 to 150 words, taken as whole
-  sentences from the start of the source text. If the source text is shorter, the summary is shorter. Nothing is invented or padded.
-- Sources marked `"licence": "check"` keep only a snippet of about 35 words plus the link, until you read the publisher's terms and
-  set `"full_summary": true` for that source in `sources.json`.
-- The app shows the summary, the source name and a link to the exact article. It never shows the full article.
+Each entry in `sources.json` has `name`, `category`, `type`, `url`, `licence` (`open` or `check`) and `full_summary`. Optional: `enabled`, `max_age_days`, `article_text`, `og_image`, `note`.
 
-## Things to check
+- **Categories are free text.** The fetcher copies the `category` to each article. The app builds its chips from the categories in the downloaded news, so a new category appears after the next refresh. Keep the spelling consistent, because `Health` and `health` count as two topics.
+- **Types the fetcher knows:** `feed`, `usgs`, `eonet`, `apod`, `europepmc`, `biorxiv`, `guardian`, `sportsdb`. A new kind of API needs a new function in `fetch_news.py`.
+- **`open` sources** get a 100 to 150 word summary when the article text is readable. **`check` sources** keep a short snippet and the link until their terms are confirmed.
+- A broken source never stops the others. Its address is the first thing to check in `run_log.json`.
 
-- The feed addresses in `sources.json` were written from memory and have not been run against the live internet. Expect a few to fail
-  on the first run. `data/run_log.json` names them. Fix the `url` and run again.
-- A failed source keeps its previous items, so the app never loses cards because one source is down.
-- Run the tests on your computer with `python -m unittest discover tests` (no internet needed).
+### Add or fix a source
+1. Edit `sources.json`.
+2. **Actions → Fetch News → Run workflow**.
+3. Open `data/run_log.json`. Fix any `failed` source (usually the `url`) and run again.
 
-## Output format (`data/news.json`)
+## AI summaries
 
-`generated`, `count`, and `items[]` with: `id, title, summary, words, category, source, author, published, url, image, licence`.
+| Setting | Name |
+|---|---|
+| GitHub secret | `GEMINI_API_KEY` |
+| GitHub variable | `GEMINI_MODEL` (overrides the script's default: keep them consistent) |
+
+Per run: up to 10 new articles, in batches of 5. Accepted results are saved in `data/ai_summaries.json`, so an article is only summarised once. If the AI fails or the answer is rejected, the article keeps its original text (`summary_by: extract`). A publisher block (HTTP 403 or 429) is not a Gemini failure: the script falls back to the feed text.
+
+To check what you got, look at `summary_by` on each article, not at `provider` at the top of the file.
+
+### Using a local model (Ollama) instead
+Free, and it does not use the Gemini quota. Run `summarize_news.py` on your laptop with an Ollama model. Run `git pull` first, and do not run it at the same time as the Actions job: both write `ai_summaries.json`, and the uploads can clash.
+
+## Article fields
+
+`id, title, summary, category, source, url, published, image`, plus after AI processing (some may be missing):
+`original_title`, `original_summary`, `summary_by` (`gemini` or `extract`), `content_source` (`article` or `rss`), `flow` (3 to 5 short steps).
+
+## Rules to keep
+
+1. Keep API keys in GitHub secrets, never in the code.
+2. Do not delete `ai_summaries.json` without accepting the cost of re-summarising everything.
+3. Show a summary and a link, never a full article. Show pictures only from open sources.
+4. After a big change, read the Actions log and `run_log.json`.
+
+## Feed addresses used by the app (in this order)
+
+1. `https://raw.githubusercontent.com/sandeeprana502/AppProject/main/data/summarized_news.json`
+2. `https://raw.githubusercontent.com/sandeeprana502/AppProject/main/data/news.json`
+
+The app then falls back to the copy saved on the phone. GitHub caches these files for a few minutes.
+
+## Next checks
+
+- Run the fetch workflow and open `data/run_log.json`.
+- Confirm new categories appear in `summarized_news.json` or `news.json`.
+- `flutter analyze`, test on a phone, then `flutter build apk --release`.
