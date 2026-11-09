@@ -9,6 +9,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://export.arxiv.org/api/query?search_query=cat:quant-ph&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
     {
@@ -18,6 +19,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://export.arxiv.org/api/query?search_query=cat:astro-ph&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
     {
@@ -27,6 +29,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://export.arxiv.org/api/query?search_query=cat:cond-mat&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
     {
@@ -36,6 +39,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://export.arxiv.org/api/query?search_query=cat:hep-ph&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
     {
@@ -45,6 +49,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://export.arxiv.org/api/query?search_query=cat:hep-th&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
     {
@@ -54,6 +59,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://export.arxiv.org/api/query?search_query=cat:physics.optics&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
     {
@@ -63,6 +69,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://export.arxiv.org/api/query?search_query=cat:physics.app-ph&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
     {
@@ -72,6 +79,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
     {
@@ -81,6 +89,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://export.arxiv.org/api/query?search_query=cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
     {
@@ -90,6 +99,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://export.arxiv.org/api/query?search_query=cat:cs.RO&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
     {
@@ -99,6 +109,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://export.arxiv.org/api/query?search_query=cat:q-bio&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
     {
@@ -108,6 +119,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://export.arxiv.org/api/query?search_query=cat:cond-mat.mtrl-sci&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
 
@@ -118,6 +130,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://feeds.aps.org/rss/recent/pra.xml"
     },
     {
@@ -127,6 +140,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://feeds.aps.org/rss/recent/prb.xml"
     },
     {
@@ -136,6 +150,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://feeds.aps.org/rss/recent/prc.xml"
     },
     {
@@ -145,6 +160,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://feeds.aps.org/rss/recent/prd.xml"
     },
     {
@@ -154,6 +170,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://feeds.aps.org/rss/recent/pre.xml"
     },
     {
@@ -163,6 +180,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://feeds.aps.org/rss/recent/prl.xml"
     },
     {
@@ -172,6 +190,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://feeds.aps.org/rss/recent/prx.xml"
     },
     {
@@ -181,6 +200,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://feeds.aps.org/rss/recent/physics.xml"
     },
 
@@ -191,6 +211,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://pubs.acs.org/rss/acscii/asap.xml"
     },
     {
@@ -200,6 +221,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://pubs.acs.org/rss/acbcct/asap.xml"
     },
     {
@@ -209,6 +231,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://pubs.acs.org/rss/aanmf6/asap.xml"
     },
 
@@ -219,6 +242,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://journals.plos.org/plosbiology/feed/atom"
     },
     {
@@ -228,6 +252,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://journals.plos.org/ploscompbiol/feed/atom"
     },
     {
@@ -237,6 +262,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://journals.plos.org/plosgenetics/feed/atom"
     },
     {
@@ -246,6 +272,7 @@
       "licence": "open",
       "full_summary": true,
       "enabled": true,
+      "og_image": true,
       "url": "https://journals.plos.org/plospathogens/feed/atom"
     },
 
@@ -256,6 +283,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://mosdac.gov.in/isrocast.xml"
     },
     {
@@ -265,6 +293,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://mosdac.gov.in/3dimager.xml"
     },
     {
@@ -274,6 +303,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": true,
+      "og_image": true,
       "url": "https://mosdac.gov.in/3dsounder.xml"
     },
 
@@ -283,6 +313,7 @@
       "type": "feed",
       "licence": "open",
       "full_summary": true,
+      "og_image": true,
       "url": "http://export.arxiv.org/api/query?search_query=cat:quant-ph+OR+cat:hep-ex+OR+cat:astro-ph.CO+OR+cat:physics.gen-ph&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
     {
@@ -291,6 +322,7 @@
       "type": "biorxiv",
       "licence": "open",
       "full_summary": true,
+      "og_image": true,
       "url": "https://api.biorxiv.org/details/biorxiv/{from}/{to}/0/json"
     },
     {
@@ -299,6 +331,7 @@
       "type": "europepmc",
       "licence": "open",
       "full_summary": true,
+      "og_image": true,
       "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search"
     },
     {
@@ -307,6 +340,7 @@
       "type": "feed",
       "licence": "open",
       "full_summary": true,
+      "og_image": true,
       "url": "https://journals.plos.org/plosone/feed/atom"
     },
     {
@@ -315,6 +349,7 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
+      "og_image": true,
       "url": "https://www.nature.com/nature.rss"
     },
     {
@@ -323,6 +358,7 @@
       "type": "apod",
       "licence": "open",
       "full_summary": true,
+      "og_image": true,
       "url": "https://api.nasa.gov/planetary/apod",
       "env_key": "NASA_API_KEY"
     },
@@ -332,6 +368,7 @@
       "type": "feed",
       "licence": "open",
       "full_summary": true,
+      "og_image": true,
       "url": "https://www.nasa.gov/feed/"
     },
     {
@@ -341,6 +378,7 @@
   "licence": "check",
   "full_summary": false,
   "enabled": true,
+  "og_image": true,
   "url": "https://www.esa.int/rss/science.rss"
 },
     {
@@ -350,6 +388,7 @@
   "licence": "check",
   "full_summary": false,
   "enabled": false,
+  "og_image": true,
   "url": "https://home.cern/feed/"
 },
     {
@@ -359,6 +398,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": false,
+      "og_image": true,
       "url": "https://www.symmetrymagazine.org/feed"
     },
     {
@@ -367,6 +407,7 @@
       "type": "usgs",
       "licence": "open",
       "full_summary": true,
+      "og_image": true,
       "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson"
     },
     {
@@ -375,6 +416,7 @@
       "type": "eonet",
       "licence": "open",
       "full_summary": true,
+      "og_image": true,
       "url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=open&limit=8"
     },
     {
@@ -384,6 +426,7 @@
   "licence": "open",
   "full_summary": true,
   "enabled": true,
+  "og_image": true,
   "max_age_days": 180,
   "url": "https://science.nasa.gov/feed/earth-observatory/image-of-the-day"
 },
@@ -395,6 +438,7 @@
   "full_summary": true,
   "enabled": true,
   "max_age_days": 180,
+  "og_image": true,
   "url": "https://science.nasa.gov/feed/earth-observatory/natural-events"
 },
     {
@@ -403,6 +447,7 @@
       "type": "feed",
       "licence": "open",
       "full_summary": true,
+      "og_image": true,
       "url": "https://www.noaa.gov/rss.xml"
     },
     {
@@ -411,6 +456,7 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
+      "og_image": true,
       "url": "https://phys.org/rss-feed/"
     },
     {
@@ -419,6 +465,7 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
+      "og_image": true,
       "url": "https://www.sciencedaily.com/rss/top/science.xml"
     },
     {
@@ -427,6 +474,7 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
+      "og_image": true,
       "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
     },
     {
@@ -436,6 +484,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": false,
+      "og_image": true,
       "url": "https://content.guardianapis.com/search",
       "env_key": "GUARDIAN_API_KEY",
       "params": {
@@ -448,6 +497,7 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
+      "og_image": true,
       "url": "https://feeds.bbci.co.uk/sport/rss.xml"
     },
     {
@@ -457,6 +507,7 @@
       "licence": "check",
       "full_summary": false,
       "enabled": false,
+      "og_image": true,
       "url": "https://www.thesportsdb.com/api/v1/json/3/eventspastleague.php",
       "params": {
         "id": "4328"
