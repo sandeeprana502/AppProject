@@ -214,13 +214,44 @@ def fetch_article_text(url):
 
 # ---------- fetchers: each returns a list of raw() dicts ----------
 def fetch_feed(src):
-    feed = feedparser.parse(get(src["url"]).content)
+    response = get(
+        src["url"],
+        params=src.get("params")
+    )
+
+    feed = feedparser.parse(response.content)
+
+    if feed.bozo and not feed.entries:
+        raise RuntimeError(
+            f"Invalid feed: {feed.bozo_exception}"
+        )
+
     items = []
+
     for e in feed.entries:
-        body = e.get("summary") or (e.get("content") or [{}])[0].get("value", "")
-        authors = [a.get("name", "") for a in e.get("authors", [])] or [e.get("author", "")]
-        items.append(raw(e.get("title", ""), body, e.get("link", ""), names(authors),
-                         to_dt(e.get("published_parsed") or e.get("updated_parsed")), best_image(e)))
+        body = e.get("summary") or (
+            e.get("content") or [{}]
+        )[0].get("value", "")
+
+        authors = [
+            a.get("name", "")
+            for a in e.get("authors", [])
+        ] or [e.get("author", "")]
+
+        items.append(
+            raw(
+                e.get("title", ""),
+                body,
+                e.get("link", ""),
+                names(authors),
+                to_dt(
+                    e.get("published_parsed")
+                    or e.get("updated_parsed")
+                ),
+                best_image(e)
+            )
+        )
+
     return items
 
 
