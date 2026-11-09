@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T09:04:56.626222+00:00",
+  "generated": "2026-11-09T10:57:18.676907+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -1619,6 +1619,106 @@
       "ai_summary": "A magnitude 4.8 earthquake struck the central Mid-Atlantic Ridge on November 8, 2026. The tremor occurred at a shallow depth of 10 kilometers, according to initial measurements from earthquake monitoring agencies.",
       "content_source": "rss",
       "flow": []
+    },
+    "e544494dc117": {
+      "ai_title": "Ramla Ali Wins WBO and IBF Super-Bantamweight World Titles in Texas",
+      "ai_summary": "Ramla Ali secured her first world boxing title at age 36 with a split-decision victory over Mikiah Kreps in Arlington, Texas, capturing the WBO and IBF super-bantamweight belts. Ali, who survived childhood displacement from Somalia and went on to become an Olympian and activist, dedicated the emotional victory to her late father. Despite suffering a third-round knockdown, Kreps pushed Ali throughout the contest, outlanding her in total and power punches. Ali relied on motivation from her coaching corner to endure the grueling later rounds. Following the bout, Ali expressed hope that her journey would inspire young people, while potential future unification fights loom on the horizon.",
+      "content_source": "article",
+      "flow": []
+    },
+    "ada80e00fbe0": {
+      "ai_title": "Magnitude 5.3 Earthquake Strikes Near Lagunas, Peru",
+      "ai_summary": "A magnitude 5.3 earthquake occurred approximately 80 kilometers east-northeast of Lagunas, Peru, at a depth of 11 kilometers on November 9, 2026. Agency data and safety information remain subject to updates as officials review the event.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "e5349568bdf0": {
+      "ai_title": "Blades Brown Becomes Youngest PGA Tour Winner in 95 Years",
+      "ai_summary": "Nineteen-year-old Blades Brown captured the World Wide Technology Championship in Cabo San Lucas, Mexico, becoming the youngest PGA Tour winner since 1931. Overcoming a seven-shot deficit, Brown fired a nine-under-par 63 to finish tied at 23 under par before defeating fellow American Ben James on the second hole of a play-off. At 19 years and 171 days old, Brown is the first teenager to win on the PGA Tour since Jordan Spieth in 2013. Brown turned professional at age 17 and earned his PGA Tour card after finishing strongly on the Korn Ferry Tour points list earlier in the year.",
+      "content_source": "article",
+      "flow": []
+    },
+    "6120b3883ea0": {
+      "ai_title": "Researchers Use Tiny Crystals to Track Volcanic Activity",
+      "ai_summary": "University of Queensland researchers have demonstrated that tiny crystals can act as internal indicators of volcanic activity, potentially offering critical clues to help predict when volcanoes might erupt.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "e1a17bd9a6c6": {
+      "ai_title": "Magnitude 4.8 Earthquake Recorded East of Masohi, Indonesia",
+      "ai_summary": "A magnitude 4.8 earthquake was registered about 183 kilometers east of Masohi, Indonesia, at a depth of roughly 10 kilometers on November 9, 2026. Seismological agencies are continuing to review data regarding the location and magnitude.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "1ebaf694182b": {
+      "ai_title": "Moderate Earthquake Near Masohi, Indonesia",
+      "ai_summary": "A magnitude 5.4 earthquake struck approximately 160 kilometers east of Masohi, Indonesia, at a depth of about 10 kilometers on November 9, 2026. Authorities note that location and magnitude data may be updated as agencies continue to review the information.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "d7901eef042c": {
+      "ai_title": "Severe Air Pollution Impacts Outskirts of India's Capital",
+      "ai_summary": "Salesman Kanwar Singh experiences heavy toxic dust during a motorbike ride on the outskirts of India's capital, an urban region facing severe global air pollution.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "814d1a2b6376": {
+      "ai_title": "Trump Clarifies Dana White Press Secretary Offer Was a Joke",
+      "ai_summary": "US President Donald Trump stated that he was only joking when he posted on social media offering UFC boss Dana White the position of White House press secretary. The role became vacant after Katie Zacharia resigned in October following a tenure of less than five days. Trump mentioned that White is scheduled to visit him in Washington for other reasons, and while the UFC chief executive acknowledged they would talk, he did not confirm whether he would take the job. White previously expressed support for Trump's campaigns and leads several combat sports organizations.",
+      "content_source": "article",
+      "flow": []
+    },
+    "9b4aa6f7150d": {
+      "ai_title": "Scottish Professional Football League Weekend Action",
+      "ai_summary": "A review of weekend football highlights from across the Scottish Championship, League 1, and League 2, featuring notable matches and results.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "ee3ac5daf2da": {
+      "ai_title": "Exploring the History and Impact of Modern Mathematics in 'Big Math'",
+      "ai_summary": "A review of the book Big Math by Steven Strogatz and Townsend explores how mathematics shapes everyday life and powers modern technologies like artificial intelligence. The book connects historical mathematical milestones—from ancient Chinese accounting problems solved with bamboo sticks to nineteenth-century matrix concepts—to contemporary machine learning models and tech algorithms. Through various anecdotes, the authors demonstrate how foundational mathematical operations continue to drive digital innovation, healthcare tools, and search technology.",
+      "content_source": "article",
+      "flow": []
+    },
+    "540f5c4dadbc": {
+      "ai_title": "Physicists Uncover 'Gravitational Reconnection' in Einstein's Equations",
+      "ai_summary": "Researchers at Columbia University and Universidad Adolfo Ibáñez have discovered a theoretical phenomenon in Einstein's general relativity equations known as \"gravitational reconnection.\" By examining the mathematics of four-dimensional space-time, scientists found that gravitational field structures can break and reconnect in a manner analogous to magnetic reconnection in solar plasmas. This process allows energy to transfer from gravitational fields into matter. Although currently a theoretical concept, the discovery provides new constraints on how space-time evolves and could eventually help researchers understand extreme cosmic events such as merging black holes.",
+      "content_source": "article",
+      "flow": [
+        "Examine Einstein's equations using a mathematical formulation analogous to plasma physics.",
+        "Identify constraints and sheet-like structures within four-dimensional space-time.",
+        "Determine conditions under which gravitational field connections can break and reattach.",
+        "Analyze how energy is transferred from the gravitational field into matter during the process."
+      ]
+    },
+    "bb6326fc2b26": {
+      "ai_title": "Ancient Bird Fossil Found in Indonesia's Liang Bua Cave",
+      "ai_summary": "Researchers have identified a 190,000 to 120,000-year-old leg bone discovered in 2009 inside the Liang Bua cave on Flores Island as belonging to a new, exceptionally large species of ground-dwelling bird.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "65f7666838e0": {
+      "ai_title": "Cray Wanderers Score Following Red Card Against Stockport",
+      "ai_summary": "Stockport goalkeeper Luca Ashby-Hammond received a straight red card for a challenge near the edge of the penalty box, allowing Alex Hernandez to score a brilliant free-kick and double Cray Wanderers' lead.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "48ce3ec68381": {
+      "ai_title": "SETI Applies Game Theory to Extraterrestrial Search",
+      "ai_summary": "The Search for Extraterrestrial Intelligence utilizes game theory and targeted projects like Project Phoenix to determine where to look for technosignatures and signs of intelligent life around sun-like stars.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "616c0e514806": {
+      "ai_title": "NASA Launches $1 Million Moon Base Challenge for Students",
+      "ai_summary": "NASA has announced a $1 million Moon Base Student Challenge, inviting high school and post-secondary student teams across the United States to submit innovative designs for a permanent lunar base at the South Pole. Participants can compete in six categories, including power generation, life-support systems, construction, surface mobility, communications, and astronaut safety. The multiphase competition aims to engage the next generation of aerospace workers and foster creative solutions for lunar habitation. Student teams must register through the NASA STEM Gateway by January 25, 2027.",
+      "content_source": "article",
+      "flow": [
+        "Register for the competition through the NASA STEM Gateway before January 25, 2027.",
+        "Form a student team within a U.S. high school or post-secondary institution.",
+        "Develop innovative design solutions for a lunar base within one of six designated categories.",
+        "Submit deliverables such as concept proposals, trade studies, and stakeholder briefings for evaluation."
+      ]
     }
   }
 }

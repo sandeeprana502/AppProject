@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T09:03:21.871679+00:00",
+ "generated": "2026-11-09T10:56:16.120135+00:00",
  "sources_ok": 44,
  "sources_total": 47,
  "sources": [
@@ -76,7 +76,7 @@
   {
    "source": "APS - Physical Review C",
    "status": "ok",
-   "items": 56
+   "items": 48
   },
   {
    "source": "APS - Physical Review D",
@@ -96,12 +96,12 @@
   {
    "source": "APS - Physical Review X",
    "status": "ok",
-   "items": 16
+   "items": 15
   },
   {
    "source": "APS - Physics Magazine",
    "status": "ok",
-   "items": 22
+   "items": 21
   },
   {
    "source": "ACS Central Science",
@@ -197,7 +197,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 79
+   "items": 83
   },
   {
    "source": "NASA EONET",
@@ -239,7 +239,7 @@
   {
    "source": "BBC Sport",
    "status": "ok",
-   "items": 67
+   "items": 68
   }
  ]
 }
