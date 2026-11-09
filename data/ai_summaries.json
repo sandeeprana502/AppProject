@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T19:22:08.191257+00:00",
+  "generated": "2026-11-09T00:36:16.657275+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -1260,6 +1260,126 @@
     "f18168429b21": {
       "ai_title": "Fan Hospitalized After Stand Collapse",
       "ai_summary": "A football fan was taken to the hospital after several Bodo/Glimt supporters fell through a hole in the away stand during a match against Tromso in Norway. The incident occurred just before half-time at Romssa Arena when the floor gave way while supporters were bouncing to a song during heavy rain. The match was temporarily paused while affected fans were relocated to other parts of the stadium. Play eventually resumed, and league leaders Bodo/Glimt secured a 2-0 victory with two goals from Ola Brynhildsen.",
+      "content_source": "article",
+      "flow": []
+    },
+    "23fa35e7fe30": {
+      "ai_title": "Histone Subvariant H3mm15 Supports Normal Sperm Development",
+      "ai_summary": "Researchers at Kyushu University discovered that the histone H3.3 subvariant known as H3mm15 plays an important role in regular sperm development in mice by helping to regulate gene expression during spermatogenesis.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "50f962aeef14": {
+      "ai_title": "Manchester United's Defensive Struggles Analyzed",
+      "ai_summary": "Following Manchester United's conceded four preventable goals against Aston Villa in the Premier League, football analysts Dion Dublin and Leon Osman examined the team's ongoing defensive issues on Match of the Day.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "a9a025b619f6": {
+      "ai_title": "Crystal Palace Struggles at Bottom of Premier League",
+      "ai_summary": "Match of the Day analysts Dion Dublin and Leon Osman examined the difficulties facing Crystal Palace after the club dropped to the bottom of the Premier League following a period of unprecedented success.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "ebd48e78174d": {
+      "ai_title": "Lando Norris Wins Sao Paulo Grand Prix Despite Late Celebration Mishap",
+      "ai_summary": "Lando Norris delivered an impressive performance to win a wet and challenging Sao Paulo Grand Prix, overcoming a slow start and capitalizing on a mistake by new world champion Kimi Antonelli. Norris executed a well-timed pit strategy to switch to slick tires as the track dried, securing a crucial victory for McLaren. Meanwhile, Max Verstappen fought through car handling difficulties to finish second after starting far back on the grid. Mercedes secured the constructors' championship despite Antonelli spinning out of the lead and teammate George Russell encountering trouble in the pits. Team boss Toto Wolff praised the team's resilience but warned that future seasons will remain fiercely competitive among multiple top teams.",
+      "content_source": "article",
+      "flow": []
+    },
+    "17bed9ef611f": {
+      "ai_title": "Barcelona Secures Comeback Victory Against Atletico Madrid",
+      "ai_summary": "Fermin Lopez scored two goals to help Barcelona overcome an early deficit and secure a gritty victory against Atletico Madrid, allowing the club to maintain its lead at the top of the La Liga standings.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "f91730a98e99": {
+      "ai_title": "Falkirk Climbs to Third in Scottish Premiership Under McGlynn",
+      "ai_summary": "Falkirk has risen to third place in the Scottish Premiership following a run of five successive victories, including a win over defending champions Celtic and an away victory against Hearts. Manager John McGlynn oversaw a significant squad turnover in the summer, bringing in 17 new players, such as joint-top scorer Jacob Murrell. Despite a challenging start and a month ago sitting near the bottom of the table, the team has combined grit and goalscoring form. Players and pundits praise McGlynn's detailed approach, team spirit, and the leadership of captain Brad Spencer as the club enjoys its impressive return to the top flight.",
+      "content_source": "article",
+      "flow": []
+    },
+    "e8b191fd6146": {
+      "ai_title": "Oldham Athletic Defeats Sheffield Wednesday in FA Cup Thriller",
+      "ai_summary": "Oldham Athletic secured a notable FA Cup upset by defeating Sheffield Wednesday 2-1 in extra time at Boundary Park. The decisive goal was scored by Will Sutton in the 110th minute, sealing the victory and marking a difficult start for Dave Challinor in his new role.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "1a522a271b76": {
+      "ai_title": "Liquid-Assisted Crystal Growth Enhances Perovskite Solar Cells and LEDs",
+      "ai_summary": "Researchers led by Professor Seong Sik Shin at Sungkyunkwan University, alongside international collaborators, have advanced crystal growth techniques for perovskite materials. The liquid-assisted method successfully reduces defects, improving the efficiency and performance of perovskite-based solar cells and light-emitting diodes.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "533e09ee2364": {
+      "ai_title": "Lando Norris Wins Sao Paulo Grand Prix as Verstappen Shines in Wet",
+      "ai_summary": "McLaren's Lando Norris claimed his third victory of the season by winning a chaotic, weather-affected Sao Paulo Grand Prix at Interlagos. Norris secured pole position in wet conditions and ultimately triumphed after changing weather strategies played out. Max Verstappen drove an extraordinary recovery race from 21st on the grid to finish second, extending his podium streak, while Red Bull teammate Isack Hadjar completed the podium in third. The race featured varied performances across the grid, with several drivers fighting through difficult wet-to-dry transitions and handling penalties.",
+      "content_source": "article",
+      "flow": []
+    },
+    "5a5a4296387b": {
+      "ai_title": "Manchester United Draws 4-4 with Aston Villa Amid Uncertainty for Carrick",
+      "ai_summary": "Manchester United secured a dramatic 4-4 draw against Aston Villa thanks to a 96th-minute equalizer from Patrick Dorgu after trailing 4-2 late in the game. Despite showing fighting spirit by repeatedly coming from behind, the result leaves United in 18th place in the Premier League relegation zone during the international break, their lowest position at this stage in decades. Manager Michael Carrick faced intense questioning regarding his future following the eight-goal thriller, though players emphasized their commitment to turning the team's fortunes around ahead of an upcoming fixture against Liverpool.",
+      "content_source": "article",
+      "flow": []
+    },
+    "2a2623d95a77": {
+      "ai_title": "Transfer Rumours: Kamara, Araujo and Murillo",
+      "ai_summary": "Aston Villa midfielder Boubacar Kamara has drawn interest from Chelsea, Inter Milan, and Al-Hilal following his return from injury. Meanwhile, Liverpool and loanee Ronald Araujo plan to wait until the end of the season before evaluating a permanent transfer, and Manchester United are reportedly eyeing a significant bid for Nottingham Forest centre-back Murillo in the summer. Additional reports indicate that several Premier League clubs are monitoring players including Lens defender Ismaelo Ganiou, AC Milan's Koni de Winter, and forward Vitor Roque.",
+      "content_source": "article",
+      "flow": []
+    },
+    "113d005fce0e": {
+      "ai_title": "Crystal Palace Manager Pierre Sage Under Pressure After Poor Run",
+      "ai_summary": "Crystal Palace manager Pierre Sage faces mounting pressure as his side sits at the bottom of the Premier League following a 3-1 defeat to Liverpool, their fourth consecutive league loss. Palace has secured only seven points from ten matches and holds the league's worst defensive record. Internal discussions have reportedly taken place regarding Sage's future, with former Tottenham and Brentford boss Thomas Frank and ex-Nottingham Forest manager Sean Dyche emerging as potential candidates to take over. Sage, who signed a three-year contract in June, remains focused on finding solutions, though injuries and player absences have complicated the start of his tenure. Palace's upcoming fixture is an away match against Coventry following the international break.",
+      "content_source": "article",
+      "flow": []
+    },
+    "418df614afc7": {
+      "ai_title": "Pundit Selects Premier League Team of the Week",
+      "ai_summary": "Football pundit Troy Deeney has released his latest Premier League team and manager of the week following the most recent round of fixtures. The selection features standout performances from goalkeepers and defenders like Bernd Leno, Ronald Araujo, and Jair Cunha, alongside influential midfielders such as Leon Goretzka, Alexis Mac Allister, and Enzo Le Fee. Attackers including Thierno Barry and Liam Delap also earned recognition after strong scoring displays. Finally, Arsenal manager Mikel Arteta was selected as manager of the week following the team's strong league campaign performance.",
+      "content_source": "article",
+      "flow": []
+    },
+    "711b5ab0fdc9": {
+      "ai_title": "Magnitude 4.5 Earthquake Strikes Near Onagawa Chō, Japan",
+      "ai_summary": "A magnitude 4.5 earthquake struck 43 kilometres east of Onagawa Chō, Japan, at a depth of roughly 56 kilometres. The seismic event occurred on November 8, 2026.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "2d56a97e89e0": {
+      "ai_title": "Manchester United and Aston Villa Draw in Eight-Goal Match",
+      "ai_summary": "Manchester United recovered from two goals down on two separate occasions to secure a dramatic draw against Aston Villa in a high-scoring encounter at Old Trafford before heading into the international break.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9926f0f54238": {
+      "ai_title": "Brighton Defeats Ten-Man Brentford",
+      "ai_summary": "Diego Gomez scored with a long-range strike to secure a 2-0 victory for Brighton over Brentford. The win moves Fabian Hurzeler's squad up to second place in the Premier League standings, aided by a straight red card shown to Brentford's Igor Thiago.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "8efce9ae33ff": {
+      "ai_title": "Bournemouth Continues Winning Run Against Ipswich",
+      "ai_summary": "Bournemouth secured a controlled victory over Ipswich, maintaining their impressive winning streak in the Premier League. The match featured Evanilson scoring for the fifth consecutive league game.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "134673e2e1a1": {
+      "ai_title": "Liverpool Defeats Crystal Palace Away",
+      "ai_summary": "Liverpool secured a 3-1 victory against Crystal Palace at Selhurst Park. The result extends Pierre Sage's team's difficult run, marking their fourth consecutive defeat in the Premier League.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "48d9efa39bb7": {
+      "ai_title": "Sunderland Edges Chelsea to Leave Bottom Spot",
+      "ai_summary": "Sunderland secured their first Premier League victory since August by defeating Chelsea at the Stadium of Light. Enzo le Fee scored a crucial penalty that helped the hosts climb off the bottom of the league table.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9892b38de387": {
+      "ai_title": "England Rallies Behind Borthwick with Dominant Win Over Australia",
+      "ai_summary": "England responded to recent pressure with a commanding 45-22 victory over the Wallabies, displaying passionate energy and strong physical play. Immanuel Feyi-Waboso starred in the first half with 113 meters gained from eight carries before suffering an ankle injury that forced him off at halftime. Players like Ben Earl, Jamie George, and captain Maro Itoje visibly demonstrated high intensity throughout the match, easing some of the scrutiny surrounding head coach Steve Borthwick following reports of squad friction. Despite a disciplinary improvement and strong contributions from the bench, including a late cameo from Henry Pollock, England face tougher tests ahead against opponents like New Zealand, while monitoring the fitness concerns of key players.",
       "content_source": "article",
       "flow": []
     }
