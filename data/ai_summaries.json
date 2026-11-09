@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T13:55:44.235282+00:00",
+  "generated": "2026-11-09T21:59:03.788048+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -48,9 +48,6 @@
     },
     "00063d028726": {
       "summary": "Researchers from the University of Bath and Goethe University Frankfurt created a scale to measure people's feelings about temporarily reducing digital screen time. The study shows that individual attitudes toward taking a digital detox vary significantly and reflect online behavior."
-    },
-    "88f5cea647df": {
-      "summary": "A magnitude 4.6 earthquake occurred south of the Fiji Islands on November 5, 2026, at a depth of roughly 523 kilometers. The recorded magnitude and location remain subject to review, while the reporting agency provides maps and safety updates."
     },
     "6349eb3d6a24": {
       "summary": "Researchers studied how an SU(1,1) gauge field affects wavepacket and entanglement dynamics. The wavepacket undergoes non-Abelian non-compact Bloch oscillations, where an auxiliary one-dimensional quantum system's spectrum dictates the transition from stable oscillations to unstable amplification. In the unstable adiabatic regime, the wavepacket interacts with an SU(1,1) topological defect, causing amplification that depends entirely on a Minkowski space hyperbolic solid angle. Applying this gauge field to a bosonic tight-binding system creates the bosonic Kitaev model. In this model, the stability of the gauge field determines whether entanglement scales by volume or super-volume. The study suggests implementing an SU(1,1) gauge field experimentally using a spinor condensate. These findings can be extended to higher dimensions and other non-compact groups, offering a geometric approach to managing entanglement, controlling selective amplification, and directing energy transfer in quantum systems.",
@@ -1826,6 +1823,126 @@
       "ai_title": "Long-Term Study Reveals Surprising Ecological Drivers of Lyme Disease",
       "ai_summary": "A 35-year study by the Cary Institute of Ecosystem Studies has challenged traditional assumptions about Lyme disease risk. Researchers found that white-tailed deer populations have no statistically significant connection to nymphal tick abundance, whereas high mouse populations reliably predict a 40% increase in ticks the following year. Furthermore, large acorn crops can predict tick population surges two years in advance. The findings also indicate that ticks are more resilient to extreme temperatures than previously believed.",
       "content_source": "article",
+      "flow": []
+    },
+    "aef825673b67": {
+      "ai_title": "New Surfactant-Free Microemulsion Method Developed",
+      "ai_summary": "An international research team led by the University of Sydney has successfully formulated microemulsions without relying on traditional surfactants, which are frequently toxic and difficult to separate from finished products.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "4ab43f88d326": {
+      "ai_title": "Arsenal Forward Ceadach O'Neill Misses Northern Ireland Squad Due to Injury",
+      "ai_summary": "Arsenal forward Ceadach O'Neill has withdrawn from Northern Ireland's upcoming Nations League matches against Ukraine and Hungary due to an injury. The 18-year-old, who earned his first senior cap earlier this year, joins several other players on the injury list for the fixtures. Northern Ireland manager Michael O'Neill expressed disappointment over the absence but emphasized confidence in the rest of the squad. Unbeaten at the top of League B2, Northern Ireland aims to secure promotion to the top tier and potentially a Euro 2028 playoff spot during these final group matches.",
+      "content_source": "article",
+      "flow": []
+    },
+    "a03aaf73617f": {
+      "ai_title": "Chandra Observatory Identifies Cause of Giant Star Outbursts",
+      "ai_summary": "Astronomers using NASA's Chandra X-ray Observatory have successfully identified the trigger behind the repeated outbursts originating from a massive, unstable star.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "366ca8760fde": {
+      "ai_title": "Global Threat of Fungal Infections Highlighted",
+      "ai_summary": "Fungal infections claim the lives of approximately 2.5 million people around the world each year, resulting in a higher mortality toll than malaria and tuberculosis combined.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "6b5152951beb": {
+      "ai_title": "Aberdeen FC Seeks New Manager Following Stephen Robinson's Departure",
+      "ai_summary": "Aberdeen has dismissed head coach Stephen Robinson after less than eight months in charge, following a 4-0 home defeat to Hibernian. Robinson leaves the club sitting second bottom of the Scottish Premiership, having secured only three wins from 12 matches this season. His appointment in March followed a difficult period at St Mirren, and his tenure was marked by heavy squad turnover and poor results. Chairman Dave Cormack, along with sporting director Lutz Pfannenstiel and chief executive Adrian Bevington, must now search for the club's sixth permanent manager since 2021. Supporters have expressed frustration over ongoing instability, poor recruitment, and strategic missteps by the board as the team struggles near the bottom of the table.",
+      "content_source": "article",
+      "flow": []
+    },
+    "4bcbf6775ff9": {
+      "ai_title": "UCLA Astronomers Spot Unique Gas Giant",
+      "ai_summary": "Astronomers led by researchers at UCLA have identified the first known disappearing planet located approximately 1,000 light-years away. Named TOI-2535 b, the celestial body is classified as a hot Jupiter, meaning it is a gas giant that orbits very close to its host star.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "01abd2465b63": {
+      "ai_title": "New Artificial Intelligence Tool Aids Emergency Managers",
+      "ai_summary": "During disasters, emergency managers require rapid and reliable data to make critical decisions. However, dealing with a massive and constantly shifting stream of information makes it difficult to separate factual data from general noise.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "36fa5dd9f684": {
+      "ai_title": "European Football Transfer Rumours and Contract Updates",
+      "ai_summary": "Atletico Madrid is reportedly targeting Arsenal midfielder Martin Zubimendi for a potential January transfer. Meanwhile, Arsenal might face questions over the futures of Viktor Gyokeres and Mikel Merino as the club works to balance finances, though they are progressing on new deals for Martin Odegaard, Jurrien Timber, and Declan Rice. In other potential moves, Leeds United plans to advance contract talks with Dominic Calvert-Lewin, Aston Villa's Ian Maatsen nears an extension, and Everton looks at Flamengo winger Samuel Lino. Manchester United and Liverpool are monitoring Juventus defender Andrea Cambiaso. Barcelona has shown interest in Jonathan Tah, though Bayern Munich expects him to stay. Finally, Bayern Munich is considering goalkeeping options as Manuel Neuer approaches a potential retirement at the end of the season, and Napoli eyes Monza striker Gustavo Varela.",
+      "content_source": "article",
+      "flow": []
+    },
+    "e3f239032e5a": {
+      "ai_title": "CheMeleon Model Predicts Molecular Properties",
+      "ai_summary": "Finding new molecules for targeted applications remains a crucial driver of innovation across various industries. Pharmaceutical, electronics, and energy companies constantly seek advanced tools to discover new drugs and materials despite limited initial data.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9d2083abf7f3": {
+      "ai_title": "New Review Outlines Functional Fruit Packaging Strategies",
+      "ai_summary": "Freshly harvested fruits stay metabolically active and sensitive to ethylene, leading to rigorous respiration. Consequently, these harvested items remain highly vulnerable to quality issues such as softening, browning, water loss, and overall decay.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "df52f7471fc8": {
+      "ai_title": "New Dating Places Taung Child Fossil Near Three Million Years Old",
+      "ai_summary": "A recent study published in npj Palaeoecosystems has established a new age for the famous Taung Child fossil, dating it between 2.96 and 3.03 million years old a century after its initial discovery.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "2a4e9d21a71e": {
+      "ai_title": "Primates Utilized in Anthropological Research on Human Evolution",
+      "ai_summary": "Researchers investigating the path of human evolution frequently incorporate living primates, such as chimpanzees and apes, into their anthropological studies to help answer critical questions.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "31b3b30e9fc7": {
+      "ai_title": "Ancient Messel Fossil Indicates Early Owls Hunted During Daylight Hours",
+      "ai_summary": "A remarkably preserved 47-million-year-old owl fossil discovered at the Messel Pit features an undigested cockroach and specific skeletal traits, suggesting the ancient species was diurnal rather than nocturnal.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "5281c9acdb2d": {
+      "ai_title": "Physicist Suggests Theoretical Oort Cloud Source for Distant Comets",
+      "ai_summary": "High-inclination, long-period comets capable of triggering extinction-level impacts on Earth are widely believed by researchers to originate from the theoretical Oort cloud.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9a4bd2d8b5e2": {
+      "ai_title": "New Math Framework Analyzes Symmetry in Layered Materials",
+      "ai_summary": "An international research team has created an extended mathematical language to analyze symmetry in layered materials, which helps researchers better understand and design functional materials with unique properties.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "106c436d558d": {
+      "ai_title": "New Beetle Species Discovered in Ancient Amber",
+      "ai_summary": "Researchers from Spain and France have identified a newly discovered beetle species trapped and preserved inside amber for approximately 53 million years. The ancient insect has been named after the band Twenty One Pilots.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "751988dde486": {
+      "ai_title": "Study Finds Chimpanzees Can Learn Vocal Calls",
+      "ai_summary": "A study conducted by the CNRS Institute of Cognitive Sciences reveals that chimpanzees can learn specific calls from adults around them. This behavior shares a surprising parallel with how human children acquire words.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "d8ef8ee566eb": {
+      "ai_title": "Research Examines How Student Loneliness Affects Success",
+      "ai_summary": "A new study led by Constructor University professor Dr. highlights how loneliness negatively impacts student health and well-being. The research also indicates that social interaction plays an essential role in academic success for university students.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "afdb3558a953": {
+      "ai_title": "Researchers Detect Optical Fingerprints of Atomic Defects",
+      "ai_summary": "Tiny atomic defects that are critical for developing future quantum technologies can be hard to identify. However, new findings show that these defects leave behind distinct optical clues to help spot them.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "764817234374": {
+      "ai_title": "CSIRO Scientists Work to Improve Wheat Breeding",
+      "ai_summary": "Senior experimental scientist Aswin Singaram Natarajan at Australia's national science agency, CSIRO, examines wheat stems. Researchers recognize that human eyes can be deceived when evaluating seemingly healthy crops, pointing to the need for advanced breeding tools.",
+      "content_source": "rss",
       "flow": []
     }
   }
