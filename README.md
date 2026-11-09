@@ -1,4 +1,4 @@
-# Science In-Short: backend (AppProject)
+# In-Brief or Science In-Short: backend (AppProject)
 
 GitHub Actions runs this every 3 hours and on demand. It collects science news, adds AI summaries, and saves JSON files that the Flutter app downloads. No server, no hosting bill.
 
