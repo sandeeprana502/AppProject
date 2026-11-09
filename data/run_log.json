@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-09T10:56:16.120135+00:00",
- "sources_ok": 44,
+ "generated": "2026-11-09T13:53:27.445636+00:00",
+ "sources_ok": 45,
  "sources_total": 47,
  "sources": [
   {
@@ -166,7 +166,7 @@
   {
    "source": "Europe PMC",
    "status": "ok",
-   "items": 66
+   "items": 100
   },
   {
    "source": "PLOS ONE",
@@ -180,9 +180,8 @@
   },
   {
    "source": "NASA APOD",
-   "status": "failed",
-   "error": "HTTPError: 500 Server Error for url: https://api.nasa.gov/planetary/apod",
-   "kept_previous": 1
+   "status": "ok",
+   "items": 1
   },
   {
    "source": "NASA news",
@@ -197,7 +196,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 83
+   "items": 85
   },
   {
    "source": "NASA EONET",
@@ -239,7 +238,7 @@
   {
    "source": "BBC Sport",
    "status": "ok",
-   "items": 68
+   "items": 72
   }
  ]
 }
