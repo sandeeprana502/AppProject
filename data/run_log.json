@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T07:02:42.390329+00:00",
+ "generated": "2026-11-09T09:03:21.871679+00:00",
  "sources_ok": 44,
  "sources_total": 47,
  "sources": [
@@ -180,8 +180,9 @@
   },
   {
    "source": "NASA APOD",
-   "status": "ok",
-   "items": 1
+   "status": "failed",
+   "error": "HTTPError: 500 Server Error for url: https://api.nasa.gov/planetary/apod",
+   "kept_previous": 1
   },
   {
    "source": "NASA news",
@@ -189,21 +190,14 @@
    "items": 10
   },
   {
-   "source": "ESA",
-   "status": "failed",
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_Science",
-   "kept_previous": 0
-  },
-  {
-   "source": "CERN",
-   "status": "failed",
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://home.cern/feed/",
-   "kept_previous": 0
+   "source": "ESA Space Science",
+   "status": "ok",
+   "items": 15
   },
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 81
+   "items": 79
   },
   {
    "source": "NASA EONET",
@@ -211,7 +205,13 @@
    "items": 8
   },
   {
-   "source": "NASA Earth Observatory",
+   "source": "NASA Earth Observatory - Image of the Day",
+   "status": "failed",
+   "error": "RuntimeError: Invalid feed: <unknown>:8:45: not well-formed (invalid token)",
+   "kept_previous": 0
+  },
+  {
+   "source": "NASA Earth Observatory - Natural Events",
    "status": "failed",
    "error": "RuntimeError: Invalid feed: <unknown>:8:45: not well-formed (invalid token)",
    "kept_previous": 0
@@ -239,7 +239,7 @@
   {
    "source": "BBC Sport",
    "status": "ok",
-   "items": 63
+   "items": 67
   }
  ]
 }
