@@ -1,8 +1,158 @@
 {
- "generated": "2026-11-09T00:34:23.949324+00:00",
- "sources_ok": 14,
- "sources_total": 17,
+ "generated": "2026-11-09T07:02:42.390329+00:00",
+ "sources_ok": 44,
+ "sources_total": 47,
  "sources": [
+  {
+   "source": "arXiv - Quantum Physics",
+   "status": "ok",
+   "items": 8
+  },
+  {
+   "source": "arXiv - Astrophysics",
+   "status": "ok",
+   "items": 0
+  },
+  {
+   "source": "arXiv - Condensed Matter",
+   "status": "ok",
+   "items": 0
+  },
+  {
+   "source": "arXiv - High Energy Physics Phenomenology",
+   "status": "ok",
+   "items": 8
+  },
+  {
+   "source": "arXiv - High Energy Physics Theory",
+   "status": "ok",
+   "items": 8
+  },
+  {
+   "source": "arXiv - Optics",
+   "status": "ok",
+   "items": 8
+  },
+  {
+   "source": "arXiv - Applied Physics",
+   "status": "ok",
+   "items": 8
+  },
+  {
+   "source": "arXiv - Artificial Intelligence",
+   "status": "ok",
+   "items": 8
+  },
+  {
+   "source": "arXiv - Machine Learning",
+   "status": "ok",
+   "items": 8
+  },
+  {
+   "source": "arXiv - Robotics",
+   "status": "ok",
+   "items": 8
+  },
+  {
+   "source": "arXiv - Quantitative Biology",
+   "status": "ok",
+   "items": 0
+  },
+  {
+   "source": "arXiv - Materials Science",
+   "status": "ok",
+   "items": 8
+  },
+  {
+   "source": "APS - Physical Review A",
+   "status": "ok",
+   "items": 100
+  },
+  {
+   "source": "APS - Physical Review B",
+   "status": "ok",
+   "items": 100
+  },
+  {
+   "source": "APS - Physical Review C",
+   "status": "ok",
+   "items": 56
+  },
+  {
+   "source": "APS - Physical Review D",
+   "status": "ok",
+   "items": 100
+  },
+  {
+   "source": "APS - Physical Review E",
+   "status": "ok",
+   "items": 100
+  },
+  {
+   "source": "APS - Physical Review Letters",
+   "status": "ok",
+   "items": 100
+  },
+  {
+   "source": "APS - Physical Review X",
+   "status": "ok",
+   "items": 16
+  },
+  {
+   "source": "APS - Physics Magazine",
+   "status": "ok",
+   "items": 22
+  },
+  {
+   "source": "ACS Central Science",
+   "status": "ok",
+   "items": 2
+  },
+  {
+   "source": "ACS Chemical Biology",
+   "status": "ok",
+   "items": 3
+  },
+  {
+   "source": "ACS Applied Nano Materials",
+   "status": "ok",
+   "items": 7
+  },
+  {
+   "source": "PLOS Biology",
+   "status": "ok",
+   "items": 30
+  },
+  {
+   "source": "PLOS Computational Biology",
+   "status": "ok",
+   "items": 30
+  },
+  {
+   "source": "PLOS Genetics",
+   "status": "ok",
+   "items": 23
+  },
+  {
+   "source": "PLOS Pathogens",
+   "status": "ok",
+   "items": 30
+  },
+  {
+   "source": "MOSDAC SCATSAT-1",
+   "status": "ok",
+   "items": 0
+  },
+  {
+   "source": "MOSDAC INSAT-3D Imager",
+   "status": "ok",
+   "items": 0
+  },
+  {
+   "source": "MOSDAC INSAT-3D Sounder",
+   "status": "ok",
+   "items": 0
+  },
   {
    "source": "arXiv",
    "status": "ok",
@@ -30,9 +180,8 @@
   },
   {
    "source": "NASA APOD",
-   "status": "failed",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=25)",
-   "kept_previous": 1
+   "status": "ok",
+   "items": 1
   },
   {
    "source": "NASA news",
@@ -54,7 +203,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 82
+   "items": 81
   },
   {
    "source": "NASA EONET",
@@ -63,8 +212,9 @@
   },
   {
    "source": "NASA Earth Observatory",
-   "status": "ok",
-   "items": 0
+   "status": "failed",
+   "error": "RuntimeError: Invalid feed: <unknown>:8:45: not well-formed (invalid token)",
+   "kept_previous": 0
   },
   {
    "source": "NOAA",
@@ -84,7 +234,7 @@
   {
    "source": "BBC Science",
    "status": "ok",
-   "items": 32
+   "items": 33
   },
   {
    "source": "BBC Sport",

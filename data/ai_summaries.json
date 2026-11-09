@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T00:36:16.657275+00:00",
+  "generated": "2026-11-09T07:03:40.587064+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -624,12 +624,6 @@
       "content_source": "article",
       "flow": []
     },
-    "2d4c1bafab5d": {
-      "ai_title": "Telescopic View Spotlights Lunar South Pole Massif",
-      "ai_summary": "A close-up telescopic image captured on October 31 reveals the De Gerlache-Kocher massif, a mountainous formation rising four kilometers high near the Moon's south pole. Enhanced by a favorable lunar wobble, the view highlights a region valued for its potential in human exploration. The south pole boasts crater floors in permanent shadow that likely harbor water ice, alongside peaks receiving nearly continuous sunlight for solar energy. These characteristics make the De Gerlache-Kocher massif a prime candidate for future crewed Artemis missions and early lunar settlements.",
-      "content_source": "source_text",
-      "flow": []
-    },
     "f331425629ed": {
       "ai_title": "Moderate Earthquake Strikes Near Yigo Village, Guam",
       "ai_summary": "A magnitude 4.6 earthquake occurred 11 kilometers east-northeast of Yigo Village, Guam, at a depth of 113 kilometers on November 6, 2026. Only a couple of people reported feeling the tremor.",
@@ -1137,12 +1131,6 @@
         "Monitor the site in spring and summer to record new seedling and shoot growth"
       ]
     },
-    "370a60b83dc9": {
-      "ai_title": "Daily Sports Quizzes from BBC Sport",
-      "ai_summary": "Test your football knowledge with BBC Sport's daily interactive challenges, including a player-guessing game with progressive clues, a five-minute trivia quiz, and a difficult brainteaser.",
-      "content_source": "article",
-      "flow": []
-    },
     "4c8417bb19ef": {
       "ai_title": "JWST Detects Record Number of Magnified Stars in Distant Dragon Galaxy",
       "ai_summary": "Astronomers using the James Webb Space Telescope identified 104 magnified stellar events in the Dragon galaxy, located approximately 6.5 billion light-years away. This achievement more than doubles the previous record of 44 detections in the same galaxy, providing new insight into stellar populations and dark matter.",
@@ -1382,6 +1370,136 @@
       "ai_summary": "England responded to recent pressure with a commanding 45-22 victory over the Wallabies, displaying passionate energy and strong physical play. Immanuel Feyi-Waboso starred in the first half with 113 meters gained from eight carries before suffering an ankle injury that forced him off at halftime. Players like Ben Earl, Jamie George, and captain Maro Itoje visibly demonstrated high intensity throughout the match, easing some of the scrutiny surrounding head coach Steve Borthwick following reports of squad friction. Despite a disciplinary improvement and strong contributions from the bench, including a late cameo from Henry Pollock, England face tougher tests ahead against opponents like New Zealand, while monitoring the fitness concerns of key players.",
       "content_source": "article",
       "flow": []
+    },
+    "7910bf752e0e": {
+      "ai_title": "England Secures Record Victory Over Australia in Autumn Series Opener",
+      "ai_summary": "England started their autumn series with an impressive 45-22 win against Australia in the Nations Championship, marking their record points tally against the Wallabies. Driven by determination following criticism of head coach Steve Borthwick's leadership, the team displayed high levels of intensity, accuracy, and discipline. The backline, featuring standout performances from players like Fin Smith and Henry Feyi-Waboso, created strong attacking momentum. Meanwhile, bench substitute Henry Pollock scored two tries in an unfamiliar position, demonstrating the tactical depth of the squad. Former England player Matt Dawson noted that the balanced game plan and execution were a significant step up from the Six Nations, though he emphasized that consistency under greater pressure against teams like New Zealand remains the ultimate test.",
+      "content_source": "article",
+      "flow": []
+    },
+    "f5b6dbd1c7ff": {
+      "ai_title": "Daily Sports Quizzes from BBC Sport",
+      "ai_summary": "Test your sports knowledge with BBC Sport's daily challenges. Guess a mystery footballer through a series of progressive clues that unlock with each incorrect attempt. Once finished, continue playing with the Five in Five quiz or tackle the difficult daily Brainteaser question.",
+      "content_source": "article",
+      "flow": []
+    },
+    "44f50eae7d4c": {
+      "ai_title": "Nasa-Commissioned Print Featured in Bradford Pop Art Exhibition",
+      "ai_summary": "A historical screen print commissioned by Nasa in 1962 is currently on display at Cartwright Hall in Bradford. Created by Yorkshire artist Michael Fossick, the artwork honors a microcomputer involved in the early space program and was part of a project to document humanity's journey to the moon. The print later won a prize at the First British International Print Biennale in 1968. The piece is part of a new exhibition exploring the history of the Biennale, which also features works by renowned artists such as Andy Warhol and David Hockney. Curator Jill Iredale noted that the exhibition showcases rare pieces from a period when Bradford experienced a vibrant surge in youth culture and experimental printmaking.",
+      "content_source": "article",
+      "flow": []
+    },
+    "23333f5b8812": {
+      "ai_title": "Recycling Innovations Transform Textile and Leather Waste into Fashion Materials",
+      "ai_summary": "As the UK discards hundreds of thousands of tonnes of textiles annually, recycling facilities in regions like Northamptonshire and Peterborough are utilizing advanced technology to turn waste into valuable resources. Project Re:Claim operates a commercial-scale polyester recycling plant that breaks down discarded fabric, removes impurities, and melts it into pellets for new clothing. Similarly, Gen Phoenix processes waste leather from food industries into sustainable fabrics utilized by major brands like Nike and Dr Martens, as well as airline seating. While these innovative companies possess the necessary technology to significantly reduce landfill waste, industry leaders emphasize that stricter legislation and manufacturer cooperation are essential to mandate sustainable design and drive large-scale adoption.",
+      "content_source": "article",
+      "flow": []
+    },
+    "bf62f4815f6a": {
+      "ai_title": "Wildlife Trust Launches Appeal to Support Thames Valley Farmland Species",
+      "ai_summary": "The Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust has launched a campaign to raise £70,000 for its Nature Recovery Fund. The initiative aims to reverse declining populations of bees, butterflies, and farmland birds across the Thames Valley. Farmland makes up a vast majority of the region, and the trust emphasizes that conservation efforts must extend beyond protected reserves. Proposed measures include reducing agricultural chemical use, fostering healthier soil, and designating grassland patches for wildlife to help counteract sharp declines in local biodiversity.",
+      "content_source": "article",
+      "flow": []
+    },
+    "8198e05902b7": {
+      "ai_title": "Magnitude 4.8 Earthquake Strikes Near Lata, Solomon Islands",
+      "ai_summary": "A magnitude 4.8 earthquake occurred 26 kilometers southwest of Lata, Solomon Islands, at a depth of roughly 10 kilometers on November 9, 2026. Agency data remains subject to ongoing reviews and updates.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "de7f772dfc8f": {
+      "ai_title": "Astronomy Picture Features Rigel and the Witch Head Nebula",
+      "ai_summary": "The Astronomy Picture of the Day highlights IC 2118, popularly known as the Witch Head Nebula due to its resemblance to a caricature of a witch's head. Spanning roughly 50 light-years across, the nebula consists of gas and dust partially eroded by the bright star Rigel in the constellation Orion. The characteristic blue glow of the nebula is caused by Rigel's intense blue starlight combined with dust grains scattering blue light more efficiently than red light. This identical physical mechanism is responsible for making Earth's daytime sky appear blue, although the scattering agents in Earth's atmosphere are nitrogen and oxygen molecules rather than interstellar dust.",
+      "content_source": "article",
+      "flow": []
+    },
+    "bd892ae6755f": {
+      "ai_title": "Magnitude 4.6 Earthquake Registered Off Coast of Takahagi, Japan",
+      "ai_summary": "An earthquake measuring magnitude 4.6 struck 69 kilometers east-southeast of Takahagi, Japan, at a depth of approximately 35 kilometers on November 9, 2026. At least one person reported feeling the tremor, while agency data remains under review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "67db2bf75be5": {
+      "ai_title": "Study Finds Ancient Peruvian Societies Remained Peaceful Despite Climate Stress",
+      "ai_summary": "Archaeologists investigating historical reactions to climate change previously linked mass ritual human sacrifices in northern Peru to catastrophic El Niño flooding and resource scarcity. However, a recent archaeological survey of the Lambayeque Valley indicates that societal violence remained extremely rare, even amid severe ecological disruption.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "33121b8cb496": {
+      "ai_title": "Antarctic Ozone Hole Reaches Seventh Largest Extent in 2026",
+      "ai_summary": "The 2026 Antarctic ozone hole ranked as the seventh largest by area in 48 years of monitoring, driven by an unusually strong polar vortex that created favorable conditions for ozone depletion. While human-made chlorofluorocarbons historically caused significant stratospheric damage, international regulations like the 1987 Montreal Protocol have driven a slow recovery. Scientists estimate that atmospheric chlorine concentrations will return to pre-1980 levels later in the century, with complete ozone layer recovery anticipated in the 2070s.",
+      "content_source": "article",
+      "flow": []
+    },
+    "58849b835cac": {
+      "ai_title": "Magnitude 5.7 Earthquake Strikes Near Hasaki, Japan",
+      "ai_summary": "A magnitude 5.7 earthquake occurred approximately 106 kilometers east-northeast of Hasaki, Japan, at a depth of 24 kilometers. Roughly nine people reported feeling the tremor, and officials noted that data remains subject to change.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "e2969b484579": {
+      "ai_title": "Wales Wing Louis Rees-Zammit Confident Ahead of All Blacks Clash",
+      "ai_summary": "Wales winger Louis Rees-Zammit has expressed renewed confidence and form ahead of the Nations Championship match against New Zealand. Following a standout, man-of-the-match performance with a try against Japan, Rees-Zammit returns to the wing after spending time at full-back and in the NFL. Former Wales try-scorer Shane Williams noted that Rees-Zammit appears stronger, sharper, and ready to take on defenders. While Wales faces a daunting 34-game losing streak against the All Blacks stretching back to 1953, Rees-Zammit remains undeterred. He draws inspiration from last November's narrow encounter and urges his team to play bravely and fearlessly when attacking opportunities arise.",
+      "content_source": "article",
+      "flow": []
+    },
+    "adf3d9bb1ee2": {
+      "ai_title": "Magnitude 6.4 Earthquake Recorded Near Lata, Solomon Islands",
+      "ai_summary": "A magnitude 6.4 earthquake struck 30 kilometers west-southwest of Lata, the Solomon Islands, at a depth of about 17 kilometers. Only one person reported feeling the tremor, and agency data may be updated as reviews continue.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "b0ad60f4a288": {
+      "ai_title": "Magnitude 4.9 Earthquake Strikes South of Fiji Islands",
+      "ai_summary": "A magnitude 4.9 earthquake occurred south of the Fiji Islands at a depth of roughly 136 kilometers. Agency officials noted that earthquake details such as magnitude and exact location could be revised following further data analysis.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "0000d6f475b5": {
+      "ai_title": "Clinical Simulation Models Focus on Medical Standards",
+      "ai_summary": "Traditional clinical simulation methods have primarily concentrated on evaluating technical competencies and adherence to medical standards from a broad, interprofessional viewpoint.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "61164f23e3fb": {
+      "ai_title": "Underwater Marine Snow Stickiness Controls Carbon Transport to Deep Ocean",
+      "ai_summary": "Scientists discovered that the stickiness of underwater marine snow significantly influences how much carbon reaches the deep ocean. Gooier, more viscous particles resist bacterial breakdown and can transport more than six times as much carbon to the depths compared to thinner particles. Researchers utilized 3D confocal microscopy and fluorescent molecules to observe how bacteria interact with the complex structure of marine snow. They found that bacteria primarily colonize less viscous surface areas, while denser internal regions remain difficult to penetrate. This discovery highlights an unexpected connection between ocean slime and Earth's carbon cycle.",
+      "content_source": "article",
+      "flow": [
+        "Combine 3D confocal microscopy with specialized fluorescent molecules to view microscopic structures",
+        "Examine the physical terrain of individual marine snow particles and observe live bacteria",
+        "Identify that bacteria preferentially colonize less viscous regions near particle surfaces",
+        "Observe how denser, stickier interior regions resist bacterial degradation and sink deeper"
+      ]
+    },
+    "44e27d6d745a": {
+      "ai_title": "Radiocarbon Analysis Examines Sediments in the Kumano Sea",
+      "ai_summary": "Researchers at the University of Tokyo applied a novel radiocarbon analysis method to examine a sediment core retrieved from the Kumano Sea off the coast of Japan, uncovering potential traces of historical earthquakes.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "8fb2a219162d": {
+      "ai_title": "Hazel Dormouse Populations Show Signs of Recovery in UK",
+      "ai_summary": "New figures indicate that hazel dormouse populations in England and Wales may be increasing after decades of decline, with numbers rising by nearly 10 percent between 2020 and 2025. This uptick coincides with warmer, drier springs and summers, which scientists believe improve food availability and decrease the need for deep sleep or torpor. Consequently, dormice gain extra energy for feeding and breeding. Conservationists remain cautious, however, noting that populations are still significantly lower than they were in 2000 and emphasizing the continued importance of woodland habitat protection.",
+      "content_source": "article",
+      "flow": []
+    },
+    "0c59fe4db6fa": {
+      "ai_title": "Magnitude 5.1 Earthquake Strikes South of Fiji Islands",
+      "ai_summary": "A magnitude 5.1 earthquake occurred south of the Fiji Islands on November 9, 2026, at a depth of approximately 535 kilometers. Agency data and safety information remain subject to updates.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9152cd2db8e8": {
+      "ai_title": "COP31 Focuses on Climate Target Overshoot and Carbon Removal",
+      "ai_summary": "Delegates have gathered in Antalya, Turkey, for the COP31 climate summit amid confirmation that global warming will overshoot the 1.5°C Paris agreement target. With a UN report declaring temperature overshoot inevitable, discussions are turning toward large-scale carbon dioxide removal alongside emissions cuts to bring temperatures back down. While some environmental groups now back carbon removal technologies, no country has yet established clearly quantified removal targets in official UN commitments. Additionally, scientists are calling for structural reforms to the COP process, including allowing majority voting to bypass consensus blocks by individual states.",
+      "content_source": "article",
+      "flow": [
+        "Acknowledge that global warming will surpass the 1.5°C Paris agreement target",
+        "Discuss strategies for carbon dioxide removal alongside deep emissions cuts",
+        "Encourage governments to set quantified carbon removal targets in national plans",
+        "Debate potential reforms to the COP process to improve decision-making efficiency"
+      ]
     }
   }
 }
