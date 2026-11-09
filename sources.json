@@ -335,21 +335,23 @@
       "url": "https://www.nasa.gov/feed/"
     },
     {
-      "name": "ESA",
-      "category": "Space",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "url": "https://www.esa.int/rssfeed/Our_Activities/Space_Science"
-    },
+  "name": "ESA Space Science",
+  "category": "Space",
+  "type": "feed",
+  "licence": "check",
+  "full_summary": false,
+  "enabled": true,
+  "url": "https://www.esa.int/rss/science.rss"
+},
     {
-      "name": "CERN",
-      "category": "Physics",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "url": "https://home.cern/feed/"
-    },
+  "name": "CERN",
+  "category": "Physics",
+  "type": "feed",
+  "licence": "check",
+  "full_summary": false,
+  "enabled": false,
+  "url": "https://home.cern/feed/"
+},
     {
       "name": "Symmetry Magazine",
       "category": "Physics",
@@ -376,14 +378,25 @@
       "url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=open&limit=8"
     },
     {
-      "name": "NASA Earth Observatory",
-      "category": "Earth",
-      "type": "feed",
-      "licence": "open",
-      "full_summary": true,
-      "max_age_days": 180,
-      "url": "https://earthobservatory.nasa.gov/feeds/earth-observatory.rss"
-    },
+  "name": "NASA Earth Observatory - Image of the Day",
+  "category": "Earth",
+  "type": "feed",
+  "licence": "open",
+  "full_summary": true,
+  "enabled": true,
+  "max_age_days": 180,
+  "url": "https://science.nasa.gov/feed/earth-observatory/image-of-the-day"
+},
+{
+  "name": "NASA Earth Observatory - Natural Events",
+  "category": "Earth",
+  "type": "feed",
+  "licence": "open",
+  "full_summary": true,
+  "enabled": true,
+  "max_age_days": 180,
+  "url": "https://science.nasa.gov/feed/earth-observatory/natural-events"
+},
     {
       "name": "NOAA",
       "category": "Earth",
