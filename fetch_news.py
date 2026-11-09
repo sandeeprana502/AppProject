@@ -145,18 +145,69 @@ def best_image(entry):
     return max(found, key=lambda f: f[0])[1] if found else ""
 
 
-_OG1 = re.compile(r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]*content=["\']([^"\']+)["\']', re.I)
-_OG2 = re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*(?:property|name)=["\'](?:og:image|twitter:image)["\']', re.I)
+class _ImageMetaParser(HTMLParser):
+    """Extract Open Graph and Twitter image metadata."""
+
+    IMAGE_KEYS = {
+        "og:image",
+        "og:image:url",
+        "og:image:secure_url",
+        "twitter:image",
+        "twitter:image:src",
+    }
+
+    def __init__(self):
+        super().__init__()
+        self.images = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() != "meta":
+            return
+
+        data = {
+            str(k).lower(): v
+            for k, v in attrs
+            if k and v
+        }
+
+        key = (
+            data.get("property")
+            or data.get("name")
+            or ""
+        ).lower()
+
+        content = data.get("content", "").strip()
+
+        if key in self.IMAGE_KEYS and content:
+            self.images.append(content)
 
 
 def og_image(url):
-    """The picture a page names for sharing (Open Graph image). Usually full size. '' if none."""
+    """Extract the webpage's sharing image, if available."""
+
+    if not url:
+        return ""
+
     try:
-        page = get(url, tries=1).text[:300000]
+        response = get(url, tries=1)
+
+        content_type = response.headers.get("Content-Type", "")
+        if "html" not in content_type.lower():
+            return ""
+
+        parser = _ImageMetaParser()
+        parser.feed(response.text[:500000])
+
+        for image_url in parser.images:
+            image_url = urljoin(url, html.unescape(image_url))
+
+            if image_url.startswith(("https://", "http://")):
+                return image_url
+
     except Exception:
         return ""
-    m = _OG1.search(page) or _OG2.search(page)
-    return urljoin(url, html.unescape(m.group(1))) if m else ""
+
+    return ""
 
 
 class _Paras(HTMLParser):
@@ -466,15 +517,34 @@ def run(config_path=CONFIG):
 
     by_name = {s["name"]: s for s in all_sources}
 
-    # Pictures: only open sources keep one. For new items without a picture, try the article's own.
-    og_budget = _int_env("MAX_OG_FETCH", 40)
-    for it in items:
-        if it.get("licence") != "open":
-            it["image"] = ""
-        elif not it.get("image") and it["id"] not in prev_by_id and og_budget > 0 \
-                and by_name.get(it["source"], {}).get("og_image"):
-            og_budget -= 1
-            it["image"] = og_image(it["url"])
+   # Pictures:
+# 1. Keep RSS/API images.
+# 2. If missing, try the article webpage's image when enabled.
+# 3. Only retain images for sources marked as open.
+og_budget = _int_env("MAX_OG_FETCH", 40)
+
+for it in items:
+
+    # Do not retain images from sources without open image permission.
+    if it.get("licence") != "open":
+        it["image"] = ""
+        continue
+
+    source = by_name.get(it["source"], {})
+
+    # Try the article webpage if RSS/API did not provide an image.
+    # This also retries older articles that previously had no image.
+    if (
+        not it.get("image")
+        and source.get("og_image", False)
+        and og_budget > 0
+    ):
+        og_budget -= 1
+
+        image_url = og_image(it["url"])
+
+        if image_url:
+            it["image"] = image_url
 
     # Article text for the AI step. Opt-in (set FETCH_ARTICLE_TEXT=1 on your laptop), open sources
     # only, and only for items the AI has not summarised yet. It is kept in work/, never committed.
