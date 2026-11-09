@@ -1,45 +1,453 @@
+
 {
-  "_help": "licence: 'open' = public domain or open licence. 'check' = terms not yet confirmed. full_summary=false keeps only a ~35 word snippet plus link. Set full_summary to true for a source only after you have read its terms. enabled=false skips a source (Symmetry and TheSportsDB refused the first run with 403; Guardian needs GUARDIAN_API_KEY). max_age_days overrides how old an item may be (default 21). Feed URLs were written from memory: if a source fails, open data/run_log.json and fix its url.",
+  "_help": "Science In-Short source configuration. type=feed uses the generic RSS/Atom handler in fetch_news.py. Existing specialised types (apod, usgs, eonet, europepmc, biorxiv, guardian, sportsdb) require their existing Python handlers. licence=open means the content is believed to be openly licensed or public domain; verify the licence before redistributing full article text. licence=check means reuse terms need review. full_summary=true requests the longer source description/snippet; it does NOT mean AI summarization or permission to republish. enabled=false skips a source. max_age_days overrides the default 21-day age limit. Some publisher feed URLs should be validated in the first GitHub Actions run; check data/run_log.json for failures.",
   "sources": [
-    {"name": "arXiv", "category": "Physics", "type": "feed", "licence": "open", "full_summary": true,
-     "url": "http://export.arxiv.org/api/query?search_query=cat:quant-ph+OR+cat:hep-ex+OR+cat:astro-ph.CO+OR+cat:physics.gen-ph&sortBy=submittedDate&sortOrder=descending&max_results=8"},
-    {"name": "bioRxiv", "category": "Research", "type": "biorxiv", "licence": "open", "full_summary": true,
-     "url": "https://api.biorxiv.org/details/biorxiv/{from}/{to}/0/json"},
-    {"name": "Europe PMC", "category": "Research", "type": "europepmc", "licence": "open", "full_summary": true,
-     "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search"},
-    {"name": "PLOS ONE", "category": "Research", "type": "feed", "licence": "open", "full_summary": true,
-     "url": "https://journals.plos.org/plosone/feed/atom"},
-    {"name": "Nature", "category": "Research", "type": "feed", "licence": "check", "full_summary": false,
-     "url": "https://www.nature.com/nature.rss"},
-    {"name": "NASA APOD", "category": "Space", "type": "apod", "licence": "open", "full_summary": true,
-     "url": "https://api.nasa.gov/planetary/apod", "env_key": "NASA_API_KEY"},
-    {"name": "NASA news", "category": "Space", "type": "feed", "licence": "open", "full_summary": true,
-     "url": "https://www.nasa.gov/feed/"},
-    {"name": "ESA", "category": "Space", "type": "feed", "licence": "check", "full_summary": false,
-     "url": "https://www.esa.int/rssfeed/Our_Activities/Space_Science"},
-    {"name": "CERN", "category": "Physics", "type": "feed", "licence": "check", "full_summary": false,
-     "url": "https://home.cern/feed/"},
-    {"name": "Symmetry Magazine", "category": "Physics", "type": "feed", "licence": "check", "full_summary": false, "enabled": false,
-     "url": "https://www.symmetrymagazine.org/feed"},
-    {"name": "USGS earthquakes", "category": "Earth", "type": "usgs", "licence": "open", "full_summary": true,
-     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson"},
-    {"name": "NASA EONET", "category": "Earth", "type": "eonet", "licence": "open", "full_summary": true,
-     "url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=open&limit=8"},
-    {"name": "NASA Earth Observatory", "category": "Earth", "type": "feed", "licence": "open", "full_summary": true, "max_age_days": 180,
-     "url": "https://earthobservatory.nasa.gov/feeds/earth-observatory.rss"},
-    {"name": "NOAA", "category": "Earth", "type": "feed", "licence": "open", "full_summary": true,
-     "url": "https://www.noaa.gov/rss.xml"},
-    {"name": "Phys.org", "category": "Science", "type": "feed", "licence": "check", "full_summary": false,
-     "url": "https://phys.org/rss-feed/"},
-    {"name": "ScienceDaily", "category": "Science", "type": "feed", "licence": "check", "full_summary": false,
-     "url": "https://www.sciencedaily.com/rss/top/science.xml"},
-    {"name": "BBC Science", "category": "Science", "type": "feed", "licence": "check", "full_summary": false,
-     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"},
-    {"name": "Guardian Science", "category": "Science", "type": "guardian", "licence": "check", "full_summary": false, "enabled": false,
-     "url": "https://content.guardianapis.com/search", "env_key": "GUARDIAN_API_KEY", "params": {"section": "science"}},
-    {"name": "BBC Sport", "category": "Sports", "type": "feed", "licence": "check", "full_summary": false,
-     "url": "https://feeds.bbci.co.uk/sport/rss.xml"},
-    {"name": "TheSportsDB", "category": "Sports", "type": "sportsdb", "licence": "check", "full_summary": false, "enabled": false,
-     "url": "https://www.thesportsdb.com/api/v1/json/3/eventspastleague.php", "params": {"id": "4328"}}
+    {
+      "name": "arXiv - Quantum Physics",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://export.arxiv.org/api/query?search_query=cat:quant-ph&sortBy=submittedDate&sortOrder=descending&max_results=8"
+    },
+    {
+      "name": "arXiv - Astrophysics",
+      "category": "Space",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://export.arxiv.org/api/query?search_query=cat:astro-ph&sortBy=submittedDate&sortOrder=descending&max_results=8"
+    },
+    {
+      "name": "arXiv - Condensed Matter",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://export.arxiv.org/api/query?search_query=cat:cond-mat&sortBy=submittedDate&sortOrder=descending&max_results=8"
+    },
+    {
+      "name": "arXiv - High Energy Physics Phenomenology",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://export.arxiv.org/api/query?search_query=cat:hep-ph&sortBy=submittedDate&sortOrder=descending&max_results=8"
+    },
+    {
+      "name": "arXiv - High Energy Physics Theory",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://export.arxiv.org/api/query?search_query=cat:hep-th&sortBy=submittedDate&sortOrder=descending&max_results=8"
+    },
+    {
+      "name": "arXiv - Optics",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://export.arxiv.org/api/query?search_query=cat:physics.optics&sortBy=submittedDate&sortOrder=descending&max_results=8"
+    },
+    {
+      "name": "arXiv - Applied Physics",
+      "category": "Technology",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://export.arxiv.org/api/query?search_query=cat:physics.app-ph&sortBy=submittedDate&sortOrder=descending&max_results=8"
+    },
+    {
+      "name": "arXiv - Artificial Intelligence",
+      "category": "AI & Robotics",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=8"
+    },
+    {
+      "name": "arXiv - Machine Learning",
+      "category": "AI & Robotics",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://export.arxiv.org/api/query?search_query=cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=8"
+    },
+    {
+      "name": "arXiv - Robotics",
+      "category": "AI & Robotics",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://export.arxiv.org/api/query?search_query=cat:cs.RO&sortBy=submittedDate&sortOrder=descending&max_results=8"
+    },
+    {
+      "name": "arXiv - Quantitative Biology",
+      "category": "Biology",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://export.arxiv.org/api/query?search_query=cat:q-bio&sortBy=submittedDate&sortOrder=descending&max_results=8"
+    },
+    {
+      "name": "arXiv - Materials Science",
+      "category": "Materials Science",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://export.arxiv.org/api/query?search_query=cat:cond-mat.mtrl-sci&sortBy=submittedDate&sortOrder=descending&max_results=8"
+    },
+
+    {
+      "name": "APS - Physical Review A",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://feeds.aps.org/rss/recent/pra.xml"
+    },
+    {
+      "name": "APS - Physical Review B",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://feeds.aps.org/rss/recent/prb.xml"
+    },
+    {
+      "name": "APS - Physical Review C",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://feeds.aps.org/rss/recent/prc.xml"
+    },
+    {
+      "name": "APS - Physical Review D",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://feeds.aps.org/rss/recent/prd.xml"
+    },
+    {
+      "name": "APS - Physical Review E",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://feeds.aps.org/rss/recent/pre.xml"
+    },
+    {
+      "name": "APS - Physical Review Letters",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://feeds.aps.org/rss/recent/prl.xml"
+    },
+    {
+      "name": "APS - Physical Review X",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://feeds.aps.org/rss/recent/prx.xml"
+    },
+    {
+      "name": "APS - Physics Magazine",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://feeds.aps.org/rss/recent/physics.xml"
+    },
+
+    {
+      "name": "ACS Central Science",
+      "category": "Chemistry",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://pubs.acs.org/rss/acscii/asap.xml"
+    },
+    {
+      "name": "ACS Chemical Biology",
+      "category": "Biology",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://pubs.acs.org/rss/acbcct/asap.xml"
+    },
+    {
+      "name": "ACS Applied Nano Materials",
+      "category": "Materials Science",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://pubs.acs.org/rss/aanmf6/asap.xml"
+    },
+
+    {
+      "name": "PLOS Biology",
+      "category": "Biology",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://journals.plos.org/plosbiology/feed/atom"
+    },
+    {
+      "name": "PLOS Computational Biology",
+      "category": "Biology",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://journals.plos.org/ploscompbiol/feed/atom"
+    },
+    {
+      "name": "PLOS Genetics",
+      "category": "Biology",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://journals.plos.org/plosgenetics/feed/atom"
+    },
+    {
+      "name": "PLOS Pathogens",
+      "category": "Biology",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "url": "https://journals.plos.org/plospathogens/feed/atom"
+    },
+
+    {
+      "name": "MOSDAC SCATSAT-1",
+      "category": "Earth",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://mosdac.gov.in/isrocast.xml"
+    },
+    {
+      "name": "MOSDAC INSAT-3D Imager",
+      "category": "Earth",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://mosdac.gov.in/3dimager.xml"
+    },
+    {
+      "name": "MOSDAC INSAT-3D Sounder",
+      "category": "Earth",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": true,
+      "url": "https://mosdac.gov.in/3dsounder.xml"
+    },
+
+    {
+      "name": "arXiv",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "url": "http://export.arxiv.org/api/query?search_query=cat:quant-ph+OR+cat:hep-ex+OR+cat:astro-ph.CO+OR+cat:physics.gen-ph&sortBy=submittedDate&sortOrder=descending&max_results=8"
+    },
+    {
+      "name": "bioRxiv",
+      "category": "Research",
+      "type": "biorxiv",
+      "licence": "open",
+      "full_summary": true,
+      "url": "https://api.biorxiv.org/details/biorxiv/{from}/{to}/0/json"
+    },
+    {
+      "name": "Europe PMC",
+      "category": "Research",
+      "type": "europepmc",
+      "licence": "open",
+      "full_summary": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search"
+    },
+    {
+      "name": "PLOS ONE",
+      "category": "Research",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "url": "https://journals.plos.org/plosone/feed/atom"
+    },
+    {
+      "name": "Nature",
+      "category": "Research",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "url": "https://www.nature.com/nature.rss"
+    },
+    {
+      "name": "NASA APOD",
+      "category": "Space",
+      "type": "apod",
+      "licence": "open",
+      "full_summary": true,
+      "url": "https://api.nasa.gov/planetary/apod",
+      "env_key": "NASA_API_KEY"
+    },
+    {
+      "name": "NASA news",
+      "category": "Space",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "url": "https://www.nasa.gov/feed/"
+    },
+    {
+      "name": "ESA",
+      "category": "Space",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "url": "https://www.esa.int/rssfeed/Our_Activities/Space_Science"
+    },
+    {
+      "name": "CERN",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "url": "https://home.cern/feed/"
+    },
+    {
+      "name": "Symmetry Magazine",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": false,
+      "url": "https://www.symmetrymagazine.org/feed"
+    },
+    {
+      "name": "USGS earthquakes",
+      "category": "Earth",
+      "type": "usgs",
+      "licence": "open",
+      "full_summary": true,
+      "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson"
+    },
+    {
+      "name": "NASA EONET",
+      "category": "Earth",
+      "type": "eonet",
+      "licence": "open",
+      "full_summary": true,
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=open&limit=8"
+    },
+    {
+      "name": "NASA Earth Observatory",
+      "category": "Earth",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "max_age_days": 180,
+      "url": "https://earthobservatory.nasa.gov/feeds/earth-observatory.rss"
+    },
+    {
+      "name": "NOAA",
+      "category": "Earth",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "url": "https://www.noaa.gov/rss.xml"
+    },
+    {
+      "name": "Phys.org",
+      "category": "Science",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "url": "https://phys.org/rss-feed/"
+    },
+    {
+      "name": "ScienceDaily",
+      "category": "Science",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "url": "https://www.sciencedaily.com/rss/top/science.xml"
+    },
+    {
+      "name": "BBC Science",
+      "category": "Science",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+    },
+    {
+      "name": "Guardian Science",
+      "category": "Science",
+      "type": "guardian",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": false,
+      "url": "https://content.guardianapis.com/search",
+      "env_key": "GUARDIAN_API_KEY",
+      "params": {
+        "section": "science"
+      }
+    },
+    {
+      "name": "BBC Sport",
+      "category": "Sports",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "url": "https://feeds.bbci.co.uk/sport/rss.xml"
+    },
+    {
+      "name": "TheSportsDB",
+      "category": "Sports",
+      "type": "sportsdb",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": false,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventspastleague.php",
+      "params": {
+        "id": "4328"
+      }
+    }
   ]
 }
