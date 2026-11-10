@@ -1,7 +1,85 @@
 {
- "generated": "2026-11-10T09:39:16.921400+00:00",
- "count": 2050,
+ "generated": "2026-11-10T16:47:50.581004+00:00",
+ "count": 2056,
  "items": [
+  {
+   "id": "f1e81eb74762",
+   "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+   "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy. […]",
+   "words": 56,
+   "category": "Space",
+   "source": "NASA news",
+   "author": "",
+   "published": "2026-11-10T16:00:26+00:00",
+   "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+   "image": "https://assets.science.nasa.gov/content/dam/science/missions/lisa/news/2026/l3harris-award-for-test-telescope/LISA_key_visual_ESA_lg_ac.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+   "licence": "open"
+  },
+  {
+   "id": "2acaf5db71b8",
+   "title": "M 4.8 - 20 km SSW of Lata, Solomon Islands",
+   "summary": "A magnitude 4.8 earthquake was recorded 20 km SSW of Lata, Solomon Islands. The event happened on 10 November 2026 at 15:52 UTC. It occurred at a depth of about 48 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 54,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-10T15:52:55.256000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbj",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "dad9e28e62df",
+   "title": "M 5.2 - 140 km ESE of Labuha, Indonesia",
+   "summary": "A magnitude 5.2 earthquake was recorded 140 km ESE of Labuha, Indonesia. The event happened on 10 November 2026 at 15:51 UTC. It occurred at a depth of about 10 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 53,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-10T15:51:35.737000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbi",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "d2bea0ea3ec0",
+   "title": "M 4.8 - 34 km S of Puerto San José, Guatemala",
+   "summary": "A magnitude 4.8 earthquake was recorded 34 km S of Puerto San José, Guatemala. The event happened on 10 November 2026 at 15:23 UTC. It occurred at a depth of about 59 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 55,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-10T15:23:58.586000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbc",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "262906979a82",
+   "title": "CHAPEA Crew Leaves a Mark",
+   "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health […]",
+   "words": 57,
+   "category": "Space",
+   "source": "NASA news",
+   "author": "HQ Web Team",
+   "published": "2026-11-10T14:57:55+00:00",
+   "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg",
+   "licence": "open"
+  },
+  {
+   "id": "f126eee89e4a",
+   "title": "M 5.6 - 43 km S of Puerto San José, Guatemala",
+   "summary": "A magnitude 5.6 earthquake was recorded 43 km S of Puerto San José, Guatemala. The event happened on 10 November 2026 at 14:54 UTC. It occurred at a depth of about 35 km. About 15 people reported feeling it. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 61,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-10T14:54:17.647000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8",
+   "image": "",
+   "licence": "open"
+  },
   {
    "id": "62742481259d",
    "title": "M 5.0 - 58 km NE of Fef, Indonesia",
@@ -38,6 +116,32 @@
    "author": "USGS",
    "published": "2026-11-10T06:36:48.749000+00:00",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9i",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "544648849679",
+   "title": "Typhoon Cempaka",
+   "summary": "NASA's Earth Observatory Natural Event Tracker lists an open event in the category severe storms. The tracker collects reports from official agencies and updates them as an event develops. Open the source page for the latest details and maps.",
+   "words": 39,
+   "category": "Earth",
+   "source": "NASA EONET",
+   "author": "NASA EONET",
+   "published": "2026-11-10T06:00:00+00:00",
+   "url": "https://www.metoc.navy.mil/jtwc/products/wp3126.tcw",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "75be4ca554a2",
+   "title": "Tropical Storm Pena",
+   "summary": "NASA's Earth Observatory Natural Event Tracker lists an open event in the category severe storms. The tracker collects reports from official agencies and updates them as an event develops. Open the source page for the latest details and maps.",
+   "words": 39,
+   "category": "Earth",
+   "source": "NASA EONET",
+   "author": "NASA EONET",
+   "published": "2026-11-10T06:00:00+00:00",
+   "url": "https://www.metoc.navy.mil/jtwc/products/cp0426.tcw",
    "image": "",
    "licence": "open"
   },
@@ -417,32 +521,6 @@
    "url": "https://phys.org/news/2026-11-el-nio-polycrisis-health-energy.html",
    "image": "",
    "licence": "check"
-  },
-  {
-   "id": "544648849679",
-   "title": "Typhoon Cempaka",
-   "summary": "NASA's Earth Observatory Natural Event Tracker lists an open event in the category severe storms. The tracker collects reports from official agencies and updates them as an event develops. Open the source page for the latest details and maps.",
-   "words": 39,
-   "category": "Earth",
-   "source": "NASA EONET",
-   "author": "NASA EONET",
-   "published": "2026-11-10T00:00:00+00:00",
-   "url": "https://www.metoc.navy.mil/jtwc/products/wp3126.tcw",
-   "image": "",
-   "licence": "open"
-  },
-  {
-   "id": "75be4ca554a2",
-   "title": "Tropical Storm Pena",
-   "summary": "NASA's Earth Observatory Natural Event Tracker lists an open event in the category severe storms. The tracker collects reports from official agencies and updates them as an event develops. Open the source page for the latest details and maps.",
-   "words": 39,
-   "category": "Earth",
-   "source": "NASA EONET",
-   "author": "NASA EONET",
-   "published": "2026-11-10T00:00:00+00:00",
-   "url": "https://www.metoc.navy.mil/jtwc/products/cp0426.tcw",
-   "image": "",
-   "licence": "open"
   },
   {
    "id": "c6acc79d2a7f",
@@ -1546,7 +1624,7 @@
    "author": "George Nehma, Patrick Quinn, Madhur Tiwari et al.",
    "published": "2026-11-09T18:25:19+00:00",
    "url": "https://arxiv.org/abs/2611.12824v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1559,7 +1637,7 @@
    "author": "Amit Manicka, Laurent Coulon, Darwin Ang et al.",
    "published": "2026-11-09T18:21:35+00:00",
    "url": "https://arxiv.org/abs/2611.12818v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1572,7 +1650,7 @@
    "author": "Johanna Topalis, Yannick Lemaréchal, Gabriel Couture et al.",
    "published": "2026-11-09T18:21:18+00:00",
    "url": "https://arxiv.org/abs/2611.12817v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1611,7 +1689,7 @@
    "author": "Tim Schnieders, Tareq Maximilian Gabriel Ahrari, Oliver Petrovic et al.",
    "published": "2026-11-09T18:19:57+00:00",
    "url": "https://arxiv.org/abs/2611.12816v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1624,7 +1702,7 @@
    "author": "Yuqi Li, Hao-Yu Sun",
    "published": "2026-11-09T18:16:30+00:00",
    "url": "https://arxiv.org/abs/2611.12810v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1637,7 +1715,7 @@
    "author": "Bing Han, Yichuan Peng, Haoyu Dong et al.",
    "published": "2026-11-09T18:12:00+00:00",
    "url": "https://arxiv.org/abs/2611.12806v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1650,7 +1728,7 @@
    "author": "Aarya Bhave, Anushka Ajay Bhave",
    "published": "2026-11-09T18:11:45+00:00",
    "url": "https://arxiv.org/abs/2611.12805v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1663,7 +1741,7 @@
    "author": "Elias Gläßer, Gülhan Şikaroğlu, Pavlo Kupyn et al.",
    "published": "2026-11-09T18:10:28+00:00",
    "url": "https://arxiv.org/abs/2611.12804v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1676,7 +1754,7 @@
    "author": "Carolina Matté Gregory",
    "published": "2026-11-09T18:08:31+00:00",
    "url": "https://arxiv.org/abs/2611.12802v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1689,7 +1767,7 @@
    "author": "Gerald A. Miller",
    "published": "2026-11-09T18:08:16+00:00",
    "url": "https://arxiv.org/abs/2611.12801v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1702,7 +1780,7 @@
    "author": "Tingcheng Bian, Kangye Gong, Jinchang Luo et al.",
    "published": "2026-11-09T18:07:42+00:00",
    "url": "https://arxiv.org/abs/2611.12799v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1715,7 +1793,7 @@
    "author": "Thomas Huffstutler, David Miloschewsky, Supartha Podder",
    "published": "2026-11-09T18:01:58+00:00",
    "url": "https://arxiv.org/abs/2611.12795v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1728,7 +1806,7 @@
    "author": "Tao Han, Wolfgang Kilian, Yang Ma et al.",
    "published": "2026-11-09T18:01:48+00:00",
    "url": "https://arxiv.org/abs/2611.12793v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1767,7 +1845,7 @@
    "author": "Lúcio S. Fassarella",
    "published": "2026-11-09T17:56:30+00:00",
    "url": "https://arxiv.org/abs/2611.12784v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1793,7 +1871,7 @@
    "author": "Yunchao Liu, Yihui Quek, Shreya Vardhan et al.",
    "published": "2026-11-09T17:46:40+00:00",
    "url": "https://arxiv.org/abs/2611.12773v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1806,7 +1884,7 @@
    "author": "Daniele Bertacca, Raul Jimenez, Sabino Matarrese et al.",
    "published": "2026-11-09T17:46:07+00:00",
    "url": "https://arxiv.org/abs/2611.12772v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1832,7 +1910,7 @@
    "author": "Isaac Zhu, Fernando Romero-López, Phiala E. Shanahan",
    "published": "2026-11-09T17:42:39+00:00",
    "url": "https://arxiv.org/abs/2611.12771v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1845,7 +1923,7 @@
    "author": "Yanliang Huang, Peng Xie, Zhen Zhang et al.",
    "published": "2026-11-09T17:40:43+00:00",
    "url": "https://arxiv.org/abs/2611.12767v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1884,7 +1962,7 @@
    "author": "Falguni Biswas, Yeshan Juberi, Ahmed Rakin Kamal",
    "published": "2026-11-09T17:39:02+00:00",
    "url": "https://arxiv.org/abs/2611.12765v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -20870,7 +20948,7 @@
   {
    "id": "ee526d84c4b6",
    "title": "M 4.9 - 9 km N of Delta, B.C., MX",
-   "summary": "A magnitude 4.8869503562808 earthquake was recorded 9 km N of Delta, B.C., MX. The event happened on 03 November 2026 at 18:27 UTC. It occurred at a depth of about 16 km. About 320 people reported feeling it. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "summary": "A magnitude 4.8869503562808 earthquake was recorded 9 km N of Delta, B.C., MX. The event happened on 03 November 2026 at 18:27 UTC. It occurred at a depth of about 16 km. About 321 people reported feeling it. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
    "words": 60,
    "category": "Earth",
    "source": "USGS earthquakes",

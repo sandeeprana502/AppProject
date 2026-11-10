@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T09:39:16.921400+00:00",
+ "generated": "2026-11-10T16:47:50.581004+00:00",
  "sources_ok": 24,
  "sources_total": 27,
  "sources": [
@@ -106,7 +106,7 @@
   {
    "source": "NASA APOD",
    "status": "failed",
-   "error": "HTTPError: 500 Server Error for url: https://api.nasa.gov/planetary/apod",
+   "error": "ReadTimeout: HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=25)",
    "kept_previous": 1
   },
   {

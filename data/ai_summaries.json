@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T09:40:16.416898+00:00",
+  "generated": "2026-11-10T16:49:54.313605+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2149,6 +2149,66 @@
     "13543ca62d17": {
       "ai_title": "Defining the Simulability Frontiers of Photonic Quantum Computing",
       "ai_summary": "Comparing when photonic devices surpass classical simulation capabilities is difficult due to varying tasks and assumptions across studies. To address this, researchers propose using the time a classical computer needs to generate one exact sample from a device's output distribution as a common metric. The simulability frontier represents the specific device size where an exact sampler produces one sample per second. The team developed an open-source GPU library of exact samplers for various light states to measure these boundaries. Testing revealed different exact sampling limits for single photons, entangled photons, and squeezed light configurations on an NVIDIA H100 GPU. The findings also demonstrate that coherence increases simulation difficulty, whereas mid-circuit measurements have minimal impact on the single-photon frontier.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "f1e81eb74762": {
+      "ai_title": "NASA Research Shows How Upcoming Space Antenna Could Detect Exoplanets via Gravitational Waves",
+      "ai_summary": "Two new studies led by NASA astrophysicists detail how the upcoming Laser Interferometer Space Antenna observatory, slated for launch in the mid-2030s, could uncover a unique population of exoplanets. The mission will target double white dwarf systems, where the gravitational pull of an orbiting planet causes a reflex motion in the binary pair. This motion introduces a Doppler modulation into the continuous gravitational waves emitted by the stars, appearing as distinct sidebands in the signal. Researchers also propose using NASA’s James Webb Space Telescope to detect infrared light excesses and confirm these planetary discoveries up to 500 light-years away.",
+      "content_source": "article",
+      "flow": []
+    },
+    "2acaf5db71b8": {
+      "ai_title": "Magnitude 4.8 Earthquake Strikes Near Lata, Solomon Islands",
+      "ai_summary": "A magnitude 4.8 earthquake occurred 20 kilometers south-southwest of Lata, Solomon Islands, on November 10, 2026, at 15:52 UTC. The seismic event struck at a depth of approximately 48 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "dad9e28e62df": {
+      "ai_title": "Magnitude 5.2 Earthquake Recorded Near Labuha, Indonesia",
+      "ai_summary": "An earthquake with a magnitude of 5.2 hit 140 kilometers east-southeast of Labuha, Indonesia, on November 10, 2026, at 15:51 UTC. The tremor originated at a depth of about 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "d2bea0ea3ec0": {
+      "ai_title": "Magnitude 4.8 Earthquake Hits Off Puerto San José, Guatemala",
+      "ai_summary": "A magnitude 4.8 earthquake was registered 34 kilometers south of Puerto San José, Guatemala, on November 10, 2026, at 15:23 UTC. The event took place at a depth of roughly 59 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "262906979a82": {
+      "ai_title": "CHAPEA Mission 2 Crew Concludes 378-Day Mars Simulation",
+      "ai_summary": "The CHAPEA Mission 2 crew completed 378 days of isolation inside a simulated Martian habitat at NASA's Johnson Space Center in Houston. The collected health and performance data will help NASA prepare for human risks on Artemis and Moon Base missions.",
+      "content_source": "article",
+      "flow": []
+    },
+    "f126eee89e4a": {
+      "ai_title": "Moderate Earthquake Near Puerto San José, Guatemala",
+      "ai_summary": "A magnitude 5.6 earthquake struck 43 kilometers south of Puerto San José, Guatemala, at a depth of about 35 kilometers. Approximately 15 people reported feeling the tremor, and data remains subject to agency review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "56ff7f59c696": {
+      "ai_title": "Earthquake Strikes Northwest of Port-Olry, Vanuatu",
+      "ai_summary": "A magnitude 4.8 earthquake occurred northwest of Port-Olry, Vanuatu, at a depth of roughly 10 kilometers. Monitoring agencies continue to review data regarding the exact location and magnitude of the seismic event.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "422fb850b078": {
+      "ai_title": "NASA Opens Application Window for New Class of Astronaut Candidates",
+      "ai_summary": "NASA has officially opened the application process for its next astronaut candidate class. United States citizens who meet the educational and professional requirements have until December 3, 2026, to submit their documentation. The selected candidates will undergo rigorous training to support future crewed missions to the Moon, the Lunar Base, and eventually Mars. The agency plans to make final selections by late 2027 to begin the comprehensive training program, joining a long legacy of space explorers since the 1960s.",
+      "content_source": "article",
+      "flow": []
+    },
+    "f6ab620d915d": {
+      "ai_title": "Seismic Event Recorded South of Fiji Islands",
+      "ai_summary": "A magnitude 4.6 earthquake was registered south of the Fiji Islands at a depth of approximately 520 kilometers. Authorities note that location and magnitude figures may change as further review is conducted.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "954b3c348e1e": {
+      "ai_title": "Probing Spectral Order and Dephasing in Open Quantum Systems",
+      "ai_summary": "Researchers investigated how energy dephasing impacts long-range spectral order in open systems using spectral form factors. Findings show that Bragg peaks fade algebraically but persist up to nearest-neighbor coherence lifetimes despite extreme decoherence.",
       "content_source": "source_text",
       "flow": []
     }
