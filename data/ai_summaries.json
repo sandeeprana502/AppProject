@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T21:59:03.788048+00:00",
+  "generated": "2026-11-10T06:04:22.708801+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -1446,12 +1446,6 @@
       "content_source": "rss",
       "flow": []
     },
-    "b0ad60f4a288": {
-      "ai_title": "Magnitude 4.9 Earthquake Strikes South of Fiji Islands",
-      "ai_summary": "A magnitude 4.9 earthquake occurred south of the Fiji Islands at a depth of roughly 136 kilometers. Agency officials noted that earthquake details such as magnitude and exact location could be revised following further data analysis.",
-      "content_source": "rss",
-      "flow": []
-    },
     "0000d6f475b5": {
       "ai_title": "Clinical Simulation Models Focus on Medical Standards",
       "ai_summary": "Traditional clinical simulation methods have primarily concentrated on evaluating technical competencies and adherence to medical standards from a broad, interprofessional viewpoint.",
@@ -1555,12 +1549,6 @@
     "e96ee2f4ac39": {
       "ai_title": "Wales Record-Holder Jess Fishlock Concludes Illustrious Playing Career",
       "ai_summary": "Wales' most-capped player and record goalscorer Jess Fishlock has retired from professional football following Seattle Reign's play-off defeat to Gotham FC. The 39-year-old midfielder enjoyed a decorated 14-season stint in Seattle alongside spells across eight different countries, winning multiple trophies including Champions League titles. Fishlock retired from international duty in late 2025 after earning 166 caps and scoring 48 goals for Wales. She will immediately transition to coaching, joining Rhian Wilkinson's staff for Wales' upcoming World Cup play-offs against Norway.",
-      "content_source": "article",
-      "flow": []
-    },
-    "b493c7c16ae0": {
-      "ai_title": "Stargazers View the Blue Witch Head Nebula",
-      "ai_summary": "Astronomers feature the Witch Head Nebula, a massive cloud of gas and dust measuring roughly 50 light-years across. Located in the constellation Orion, the nebula is shaped by the nearby bright star Rigel, which partially erodes the material. The characteristic blue color of the nebula comes from a combination of Rigel's intense blue starlight and the efficient scattering of blue light by dust grains. This identical scattering process is responsible for making Earth's daytime sky appear blue.",
       "content_source": "article",
       "flow": []
     },
@@ -1942,6 +1930,130 @@
     "764817234374": {
       "ai_title": "CSIRO Scientists Work to Improve Wheat Breeding",
       "ai_summary": "Senior experimental scientist Aswin Singaram Natarajan at Australia's national science agency, CSIRO, examines wheat stems. Researchers recognize that human eyes can be deceived when evaluating seemingly healthy crops, pointing to the need for advanced breeding tools.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "5ca3b273e003": {
+      "ai_title": "Magnitude 4.9 Earthquake Strikes Near Hitachi, Japan",
+      "ai_summary": "A magnitude 4.9 earthquake occurred approximately 78 kilometers east-southeast of Hitachi, Japan, on November 10, 2026. The seismic event struck at a depth of 35 kilometers at 05:20 UTC, with monitoring agencies noting that initial data remains subject to future revisions.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "da1bc8f6f8f3": {
+      "ai_title": "Captured Occultation Shows Saturn Passing Behind the Moon",
+      "ai_summary": "An astronomical phenomenon known as an occultation occurs when Earth's Moon moves directly in front of a planet, temporarily blocking it from view. In early 2025, a lunar occultation of Saturn was visible across parts of Greenland, central Europe, and northern Africa. Photographers in Sardinia, Italy, captured this event after sunset, combining multiple digital exposures of Saturn and the Moon. A bright dot visible near Saturn in the composite image is actually the background star 85 Aquarii, situated further behind Saturn than the ringed planet is behind the Moon. Observers on Earth will not see the Moon pass in front of Saturn again until 2031.",
+      "content_source": "article",
+      "flow": [
+        "Photograph Saturn before it is obscured by the Moon.",
+        "Capture additional images of the Moon using different exposure lengths.",
+        "Digitally fuse the separate images into a single composite photograph."
+      ]
+    },
+    "270106a6716f": {
+      "ai_title": "Satellite Imagery Captures Autumn Valley Fog Across Appalachia",
+      "ai_summary": "Cool November mornings frequently trigger low-lying valley fog across the Appalachian Plateau and the Cumberland River region. As autumn nights lengthen, the ground radiates heat, cooling the air above it to the dew point and forming condensation. Dense, cold air subsequently flows downslope to pool in lower elevations, where nearby rivers and streams supply moisture to enhance the fog. Satellite instruments from NASA and NOAA recorded this process on November 8, 2026, capturing morning valley fog that later dissipated by afternoon to reveal clear skies and autumn foliage. Local morning temperatures dropped into the 30s Fahrenheit, prompting travel advisories in parts of the region due to reduced visibility.",
+      "content_source": "article",
+      "flow": []
+    },
+    "94ed63d715cc": {
+      "ai_title": "Magnitude 4.6 Earthquake Detected Near Solomon Islands",
+      "ai_summary": "A magnitude 4.6 earthquake struck 65 kilometers southwest of Lata in the Solomon Islands on November 10, 2026, at 04:30 UTC. The tremor originated at a shallow depth of approximately 10 kilometers, and monitoring agencies indicate that locations and magnitudes may be updated.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "7d496ae0df48": {
+      "ai_title": "AI Integration Highlights Importance of Critical Thinking",
+      "ai_summary": "Artificial intelligence continues to integrate into daily life and professional environments by generating information, summarizing data, and executing calculations. Despite these automated capabilities, experts emphasize that human conceptual understanding and critical thinking remain essential.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "544633dc4109": {
+      "ai_title": "Magnitude 5.2 Earthquake Strikes Near Solomon Islands",
+      "ai_summary": "A magnitude 5.2 earthquake struck roughly 19 kilometers west-southwest of Lata in the Solomon Islands. The tremor occurred at a depth of 10 kilometers on November 10, 2026, though location data may be subject to future revisions.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "78dc8e35bd1f": {
+      "ai_title": "Scientists Track Xenon Inner-Shell Decay Using Light Pulses",
+      "ai_summary": "Researchers in Japan have used extreme ultraviolet light pulses to observe the rapid decay of an inner-shell vacancy in xenon atoms. By examining interference fringe contrast, the team tracked the femtosecond decay process.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "cddff5e61463": {
+      "ai_title": "Magnitude 4.9 Earthquake Recorded North of Franz Josef Land",
+      "ai_summary": "An earthquake measuring magnitude 4.9 was registered north of Franz Josef Land at a depth of 10 kilometers on November 10, 2026. Agency officials noted that the recorded location and magnitude could shift as data is reviewed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "c2773819f3e4": {
+      "ai_title": "Researchers Detail Complexities of Atomic Interaction Modeling",
+      "ai_summary": "Creating precise atomic interaction models remains a complex challenge for researchers, requiring the selection of new calculations, the testing of successive models, and careful tracking of individual interaction mechanisms.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "fed7b0a63224": {
+      "ai_title": "Magnitude 5.4 Earthquake Hits Tanimbar Islands, Indonesia",
+      "ai_summary": "A 5.4 magnitude earthquake occurred near Pulau Pulau Tanimbar in Indonesia at a depth of 10 kilometers on November 10, 2026. Authorities indicate that specific measurements and coordinates might change during ongoing data reviews.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "e109ed741d26": {
+      "ai_title": "Alzheimer's Early Signs May Originate in Nerves Outside the Brain",
+      "ai_summary": "Recent research reveals that genetic mutations linked to inherited Alzheimer's disease can directly disrupt nerve-to-muscle connections without any involvement from the central nervous system. Using miniature human cell models representing the neuromuscular junction, scientists at the University of Central Florida and Hesperos demonstrated that peripheral nerve impairment occurs independently of the brain or spinal cord. This discovery helps explain why patients often experience early physical symptoms such as balance issues, gait changes, and poor coordination years before traditional memory loss appears. The findings suggest that movement difficulties could serve as early warning markers and that medical treatments focused strictly on the brain might miss critical pathology elsewhere in the body.",
+      "content_source": "article",
+      "flow": []
+    },
+    "2b14eaf20b7f": {
+      "ai_title": "KAIST Researchers Clarify Optical Properties of Barium Titanate",
+      "ai_summary": "A research team led by KAIST has successfully characterized how light propagates through and is absorbed by barium titanate, a promising material for future optical communication devices, resolving decades of inconsistent measurements.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "7a8e31b9efef": {
+      "ai_title": "New Electrical Technique Challenges Traditional Milk Dehydration",
+      "ai_summary": "Dehydrating milk into powder is currently a high-temperature, energy-intensive process, prompting researchers to explore new electrical techniques that can concentrate milk without relying on traditional thermal methods.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "69d28f4480ab": {
+      "ai_title": "Curiosity Rover Recharges Batteries and Tests New Parallelism Operations",
+      "ai_summary": "NASA's Curiosity rover spent sols 5060 through 5062 focusing on power conservation and recharging after intense drilling activities at the \"Nazca\" target. Despite keeping a lighter schedule to maintain positive energy levels, the rover successfully completed remote science observations using ChemCam, Mastcam, and Navcam to study crystal formations and bedrock. Additionally, engineers tested a new operational strategy called parallelism on sol 5061, running the CheMin \"Get Data\" CPU-heavy task simultaneously with orbiter data transmissions. This technique aims to reduce overall awake time and save power as the mission ages.",
+      "content_source": "article",
+      "flow": []
+    },
+    "7e73d2ea927c": {
+      "ai_title": "Curiosity Completes 49th Drill Hole at Nazca Target on Mars",
+      "ai_summary": "NASA's Curiosity rover successfully drilled its 49th hole, named \"Nazca,\" after passing stability and preload tests on a rock block featuring potential crystal inclusions. Before drilling, the science team analyzed the target using APXS, MAHLI, and ChemCam instruments. Following the drilling process, sample material was delivered to CheMin for analysis, while ChemCam gathered spectral and laser-induced breakdown spectroscopy data on the drill tailings and hole walls. Additional investigations targeted dark pebbles like \"Palpala\" and \"Puna\" to understand their varied compositions, and long-distance remote micro-imager mosaics were captured of the Mishe Mokwa and Cordillera buttes.",
+      "content_source": "article",
+      "flow": []
+    },
+    "6aa5fc030d14": {
+      "ai_title": "Global Fossil Fuel Emissions Expected to Drop Slightly in 2026",
+      "ai_summary": "According to research from the Global Carbon Project, worldwide carbon emissions from fossil fuels are projected to decline by 0.4% in 2026, driven by the growth of wind and solar power alongside the ongoing conflict in Iran.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "b0b338eab97b": {
+      "ai_title": "The Embarrassing Reality of Public Toddler Meltdowns",
+      "ai_summary": "A parent navigates the frustrating and embarrassing experience of leaving a farmers market early, carrying a screaming toddler under one arm without the groceries they intended to buy.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "aa5ff3ce791b": {
+      "ai_title": "CERN Physicists Find Evidence of Rare Particle Decay After 40-Year Search",
+      "ai_summary": "After more than 40 years of searching, physicists working on CERN's LHCb experiment have found statistical evidence of a rare particle decay, known as Bd to muons, which occurs roughly once in every 10 billion beauty particle decays. This milestone achievement aligns with Standard Model predictions and could help scientists indirectly discover hidden particles that are too massive to create directly in current particle accelerators. Researchers utilized detector upgrades, increased data collection rates, and machine learning techniques to separate the faint signals from overwhelming background noise. While the current findings reach a statistical significance of 3.2 standard deviations, a threshold of five is required for an official discovery. Future high-luminosity upgrades to the Large Hadron Collider are expected to provide even larger datasets to further investigate these rare processes.",
+      "content_source": "article",
+      "flow": []
+    },
+    "be1c333fded6": {
+      "ai_title": "Gatineau Park Sugar Maple Leaves Show Long-Term Legacy of Cold War Nuclear Tests",
+      "ai_summary": "A six-decade study of sugar maple leaves from Gatineau Park, analyzed by the University of Ottawa, reveals that radiocarbon levels from Cold War-era nuclear weapons testing have only recently faded from the local ecosystem.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "66f4b657625d": {
+      "ai_title": "Researchers Accidentally Discover Room-Temperature Recrystallization for Molybdenum",
+      "ai_summary": "Scientists at the University of Rochester and the Technion-Israel Institute of Technology have serendipitously found a method to alter the internal structure of molybdenum, a highly heat-resistant metal, at normal room temperature.",
       "content_source": "rss",
       "flow": []
     }
