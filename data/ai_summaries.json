@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T06:04:22.708801+00:00",
+  "generated": "2026-11-10T09:40:16.416898+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2055,6 +2055,101 @@
       "ai_title": "Researchers Accidentally Discover Room-Temperature Recrystallization for Molybdenum",
       "ai_summary": "Scientists at the University of Rochester and the Technion-Israel Institute of Technology have serendipitously found a method to alter the internal structure of molybdenum, a highly heat-resistant metal, at normal room temperature.",
       "content_source": "rss",
+      "flow": []
+    },
+    "62742481259d": {
+      "ai_title": "Magnitude 5.0 Earthquake Strikes Near Fef, Indonesia",
+      "ai_summary": "An earthquake measuring magnitude 5.0 occurred approximately 58 kilometers northeast of Fef, Indonesia, on November 10, 2026. The tremor struck at a depth of 35 kilometers at 08:34 UTC, with official agency data subject to ongoing review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "5514719f39c5": {
+      "ai_title": "Moderate Earthquake Recorded in Northern Mid-Atlantic Ridge",
+      "ai_summary": "A magnitude 4.8 earthquake hit the northern Mid-Atlantic Ridge on November 10, 2026, at 06:43 UTC. The seismic event took place at a depth of roughly 10 kilometers, and location details may be updated as agencies review the data.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "b0484932d89b": {
+      "ai_title": "Magnitude 4.7 Quake Detected South-Southeast of Tateyama, Japan",
+      "ai_summary": "On November 10, 2026, a magnitude 4.7 earthquake was registered 90 kilometers south-southeast of Tateyama, Japan, at 06:36 UTC. The earthquake had a depth of about 10 kilometers, with figures subject to potential revisions.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "544648849679": {
+      "ai_title": "Typhoon Cempaka Tracked as Severe Storm Event",
+      "ai_summary": "NASA's Earth Observatory Natural Event Tracker is monitoring Typhoon Cempaka within its severe storms category. The tracking tool gathers official agency reports and provides ongoing updates as the storm situation develops.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "75be4ca554a2": {
+      "ai_title": "Tropical Storm Pena Listed on NASA Event Tracker",
+      "ai_summary": "NASA's Earth Observatory Natural Event Tracker has registered an open severe storm event for Tropical Storm Pena. The tracker compiles official agency reports and continuously updates information as the storm progresses.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "c6acc79d2a7f": {
+      "ai_title": "Capturing a Rare Lunar Occultation of Saturn",
+      "ai_summary": "In early 2025, observers across a path spanning from Greenland through central Europe to northern Africa witnessed an occultation, where Earth's Moon passed directly in front of Saturn. Captured after sunset from Sardinia, Italy, a published featured image combines three separate digital exposures: one showing Saturn just before it disappeared, and two capturing the Moon at different lengths. A bright dot visible near Saturn is identified as the background star 85 Aquarii, positioned far behind the ringed planet. Astronomers note that the next occurrence of the Moon moving in front of Saturn, visible from parts of Earth, will take place in 2031.",
+      "content_source": "article",
+      "flow": []
+    },
+    "e0e98f1430ae": {
+      "ai_title": "Magnitude 4.9 Earthquake Strikes South of Fiji Islands",
+      "ai_summary": "A magnitude 4.9 earthquake occurred south of the Fiji Islands on November 9, 2026, at 23:45 UTC. The seismic event took place at a depth of approximately 176 kilometers, with data subject to potential future revisions by monitoring agencies.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "2efbd66871b2": {
+      "ai_title": "Perseverance Rover Detects Luminescent Minerals on Mars",
+      "ai_summary": "NASA's Perseverance rover has been using its instrument suite, including SuperCam, to study ancient Martian rocks through spectroscopy and luminescence. During laser analyses of light-colored rocks in Jezero crater's rim terrain, the SuperCam team discovered narrow luminescence peaks driven by chromium atoms inside a corundum mineral structure. Because chromium-containing corundum is scientifically classified as ruby in its gemstone form, these findings point to tiny corundum crystals on Mars. Although collectable gems have not been recovered, the mineral presence indicates local metamorphism caused by ancient, massive asteroid or meteorite impacts on a planet that typically lacks plate tectonics.",
+      "content_source": "article",
+      "flow": [
+        "The Perseverance rover uses its SuperCam laser to shoot light-toned rocks on Mars.",
+        "SuperCam performs Raman spectroscopy and measures time-resolved luminescence to detect delayed atomic transitions.",
+        "Instruments identify narrow luminescence peaks corresponding to chromium atoms inside a corundum crystal structure.",
+        "Scientists link the findings to localized metamorphism triggered by ancient asteroid or meteorite impacts."
+      ]
+    },
+    "28ce724ae892": {
+      "ai_title": "Perseverance Rover Successfully Samples Ancient Martian Gabbro",
+      "ai_summary": "NASA's Perseverance rover has successfully collected a new rock sample named \"Singita\" from a light-toned patch resembling an earlier uncorable site known as \"Badger Peak.\" Seeking an igneous gabbro rich in calcium plagioclase feldspar and pyroxene, the team located a neighboring rock with a flatter surface and deployed a fresh coring bit to drill about 3.1 centimeters deep. This marks the rover's first acquired sample in over a year. Textures inside the gabbro suggest it formed deep within the Martian crust before being excavated by one or multiple large impacts. The spacecraft remains healthy, stable, and fully operational for ongoing exploration.",
+      "content_source": "article",
+      "flow": []
+    },
+    "6b2b54559a21": {
+      "ai_title": "Magnitude 4.7 Earthquake Recorded West of Attu Station, Alaska",
+      "ai_summary": "A magnitude 4.7 earthquake struck 103 kilometers west of Attu Station, Alaska, on November 9, 2026, at 22:03 UTC. The tremor originated at a shallow depth of approximately 10 kilometers, according to initial agency data.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "7c54f445250d": {
+      "ai_title": "Optimizing Subpopulation Generalization Without Full Data Balancing",
+      "ai_summary": "Machine learning models frequently suffer from poor test performance due to subpopulation shift, even when average training accuracy is high. While enforcing fully balanced subgroup proportions is a standard data-centric remedy, it can be costly and unnecessary. Researchers investigated whether balanced data configuration is strictly unique for robust subpopulation generalization. Using an extended Gaussian feature-model framework to analyze the performance landscape, they demonstrated that significantly imbalanced configurations can match balanced performance. Furthermore, they derived gradient-based directions to adjust subgroup proportions more efficiently for better worst-group and adjusted accuracy. These insights indicate that strategic data allocation provides a flexible alternative to simple balancing. The project code is publicly available on GitHub.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "b2e98a1b565c": {
+      "ai_title": "Chiral Waveguide Framework for Error-Correctable Quantum Computing",
+      "ai_summary": "Researchers have established a first-principles framework that connects microscopic waveguide scattering directly to quantum error correction and algorithmic execution. By studying polarization-encoded single photons interacting with two-level atom ensembles inside a chiral waveguide, they derived an effective polarization quantum channel. This physical noise model for a rotated planar code reveals clear threshold behavior dependent on atom count and coupling strength. Analysis indicates that the resulting noise is heavily biased toward X errors under specific symmetric conditions. Integrating these logical errors into quantum phase estimation shows that leveraging this noise bias can improve algorithm performance, particularly through a Hadamard-basis implementation that reduces sensitivity to dominant errors.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "300fe897ea0d": {
+      "ai_title": "Trajectory-Free Learning Method for Simulating Molecular Dynamics",
+      "ai_summary": "Stochastic differential equations model processes across physics, biology, and finance, but traditional numerical integration requires millions of sequential steps to observe meaningful transitions, creating high computational costs. Deep learning offers a faster alternative through single neural network forward passes, yet existing supervised methods typically depend on long simulated trajectory data. To overcome this limitation, researchers developed Kolmogorov-Chapman Maps, an approach that learns stochastic differential equation transition kernels using only trajectory-free marginal samples along with known drift and diffusion coefficients. The method models distribution integration to any time by satisfying specific boundary conditions directly within the neural architecture and following the Kolmogorov-Chapman equation for training. Tests on peptide molecular systems show that this technique effectively integrates dynamics while outperforming classical molecular dynamics in GPU-hours.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "7f4130c0490d": {
+      "ai_title": "Preserving Convergence Rates in Rate-Limited Reinforcement Learning",
+      "ai_summary": "Addressing reinforcement learning challenges under communication constraints, researchers investigated policy evaluation with linear function approximation over finite-capacity channels. In this setting, an agent transmits quantized temporal-difference learning update directions to a server. To determine whether infinite-capacity statistical convergence rates can be maintained, the authors introduced the Batched Adaptively Quantized Temporal-Difference algorithm. The method utilizes batching to lower the variance of transmitted information alongside adaptive quantization for innovations. The analysis proves a high-probability finite-time error bound, showing that transmitting a specific number of bits over a given horizon successfully preserves the convergence rate of unquantized temporal-difference learning above a finite channel capacity threshold.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "13543ca62d17": {
+      "ai_title": "Defining the Simulability Frontiers of Photonic Quantum Computing",
+      "ai_summary": "Comparing when photonic devices surpass classical simulation capabilities is difficult due to varying tasks and assumptions across studies. To address this, researchers propose using the time a classical computer needs to generate one exact sample from a device's output distribution as a common metric. The simulability frontier represents the specific device size where an exact sampler produces one sample per second. The team developed an open-source GPU library of exact samplers for various light states to measure these boundaries. Testing revealed different exact sampling limits for single photons, entangled photons, and squeezed light configurations on an NVIDIA H100 GPU. The findings also demonstrate that coherence increases simulation difficulty, whereas mid-circuit measurements have minimal impact on the single-photon frontier.",
+      "content_source": "source_text",
       "flow": []
     }
   }

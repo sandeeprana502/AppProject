@@ -1,25 +1,22 @@
 {
- "generated": "2026-11-10T06:01:47.847181+00:00",
- "sources_ok": 36,
- "sources_total": 47,
+ "generated": "2026-11-10T09:39:16.921400+00:00",
+ "sources_ok": 24,
+ "sources_total": 27,
  "sources": [
   {
    "source": "arXiv - Quantum Physics",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:quant-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 8
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - Astrophysics",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:astro-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 0
+   "status": "ok",
+   "items": 0
   },
   {
    "source": "arXiv - Condensed Matter",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:cond-mat&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 0
+   "status": "ok",
+   "items": 0
   },
   {
    "source": "arXiv - High Energy Physics Phenomenology",
@@ -28,21 +25,18 @@
   },
   {
    "source": "arXiv - High Energy Physics Theory",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=cat:hep-th&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 7
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - Optics",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:physics.optics&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 8
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - Applied Physics",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:physics.app-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 8
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - Artificial Intelligence",
@@ -61,70 +55,13 @@
   },
   {
    "source": "arXiv - Quantitative Biology",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:q-bio&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 0
+   "status": "ok",
+   "items": 0
   },
   {
    "source": "arXiv - Materials Science",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:cond-mat.mtrl-sci&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 7
-  },
-  {
-   "source": "APS - Physical Review A",
    "status": "ok",
-   "items": 100
-  },
-  {
-   "source": "APS - Physical Review B",
-   "status": "ok",
-   "items": 100
-  },
-  {
-   "source": "APS - Physical Review C",
-   "status": "ok",
-   "items": 54
-  },
-  {
-   "source": "APS - Physical Review D",
-   "status": "ok",
-   "items": 100
-  },
-  {
-   "source": "APS - Physical Review E",
-   "status": "ok",
-   "items": 100
-  },
-  {
-   "source": "APS - Physical Review Letters",
-   "status": "ok",
-   "items": 100
-  },
-  {
-   "source": "APS - Physical Review X",
-   "status": "ok",
-   "items": 17
-  },
-  {
-   "source": "APS - Physics Magazine",
-   "status": "ok",
-   "items": 23
-  },
-  {
-   "source": "ACS Central Science",
-   "status": "ok",
-   "items": 3
-  },
-  {
-   "source": "ACS Chemical Biology",
-   "status": "ok",
-   "items": 3
-  },
-  {
-   "source": "ACS Applied Nano Materials",
-   "status": "ok",
-   "items": 10
+   "items": 8
   },
   {
    "source": "PLOS Biology",
@@ -147,25 +84,9 @@
    "items": 30
   },
   {
-   "source": "MOSDAC SCATSAT-1",
-   "status": "ok",
-   "items": 0
-  },
-  {
-   "source": "MOSDAC INSAT-3D Imager",
-   "status": "ok",
-   "items": 0
-  },
-  {
-   "source": "MOSDAC INSAT-3D Sounder",
-   "status": "ok",
-   "items": 0
-  },
-  {
    "source": "arXiv",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:quant-ph+OR+cat:hep-ex+OR+cat:astro-ph.CO+OR+cat:physics.gen-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 17
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "bioRxiv",
@@ -183,14 +104,10 @@
    "items": 30
   },
   {
-   "source": "Nature",
-   "status": "ok",
-   "items": 75
-  },
-  {
    "source": "NASA APOD",
-   "status": "ok",
-   "items": 1
+   "status": "failed",
+   "error": "HTTPError: 500 Server Error for url: https://api.nasa.gov/planetary/apod",
+   "kept_previous": 1
   },
   {
    "source": "NASA news",
@@ -198,14 +115,9 @@
    "items": 10
   },
   {
-   "source": "ESA Space Science",
-   "status": "ok",
-   "items": 15
-  },
-  {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 84
+   "items": 85
   },
   {
    "source": "NASA EONET",
@@ -228,26 +140,6 @@
    "source": "NOAA",
    "status": "ok",
    "items": 8
-  },
-  {
-   "source": "Phys.org",
-   "status": "ok",
-   "items": 30
-  },
-  {
-   "source": "ScienceDaily",
-   "status": "ok",
-   "items": 60
-  },
-  {
-   "source": "BBC Science",
-   "status": "ok",
-   "items": 32
-  },
-  {
-   "source": "BBC Sport",
-   "status": "ok",
-   "items": 67
   }
  ]
 }
