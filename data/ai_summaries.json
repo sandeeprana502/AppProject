@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:49:54.313605+00:00",
+  "generated": "2026-11-10T22:53:30.893711+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2210,6 +2210,60 @@
       "ai_title": "Probing Spectral Order and Dephasing in Open Quantum Systems",
       "ai_summary": "Researchers investigated how energy dephasing impacts long-range spectral order in open systems using spectral form factors. Findings show that Bragg peaks fade algebraically but persist up to nearest-neighbor coherence lifetimes despite extreme decoherence.",
       "content_source": "source_text",
+      "flow": []
+    },
+    "a14368506df1": {
+      "ai_title": "Magnitude 4.9 Earthquake Strikes Near Port-Olry, Vanuatu",
+      "ai_summary": "A magnitude 4.9 earthquake occurred roughly 207 kilometers northwest of Port-Olry, Vanuatu, at a depth of 12 kilometers on November 10, 2026. Authorities note that location and magnitude figures may change as data is reviewed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "0c075ce89994": {
+      "ai_title": "NASA Celebrates Voyager 1 Reaching One Light-Day Distance",
+      "ai_summary": "NASA is marking a major milestone as Voyager 1 reaches a distance of one light-day from Earth, equivalent to over 16 billion miles, nearly 50 years after its launch in 1977. To honor the event, NASA has organized public participation through a global digital light wave using smartphones to flash Voyager's call sign in Morse code. Additionally, the Jet Propulsion Laboratory will host a moderated panel discussion featuring mission members and leadership to discuss the historic journey, current status, and unique interstellar science gathered by both Voyager 1 and Voyager 2, alongside a preview of an upcoming documentary.",
+      "content_source": "article",
+      "flow": []
+    },
+    "b0a4ee550888": {
+      "ai_title": "NASA Welcomes Expedition 74 Crew Home at Space Center Houston",
+      "ai_summary": "NASA is hosting a public event at Space Center Houston to welcome home the Expedition 74 crew following their lengthy missions aboard the International Space Station. Astronauts Jessica Meir, Jack Hathaway, Chris Williams, Sophie Adenot, Sergey Kud-Sverchkov, and Sergei Mikaev spent months in orbit, accumulating hundreds of hours of scientific research, technology demonstrations, and educational outreach. The crew members completed thousands of orbits and traveled over 100 million miles while advancing studies in human health, protein crystallization, in-space manufacturing, and environmental systems to support future Artemis exploration missions.",
+      "content_source": "article",
+      "flow": []
+    },
+    "35bed8c1af20": {
+      "ai_title": "Magnitude 5.2 Earthquake Hits Near Popondetta, Papua New Guinea",
+      "ai_summary": "A magnitude 5.2 earthquake struck 21 kilometers west-northwest of Popondetta, Papua New Guinea, on November 10, 2026. The tremor occurred at a depth of 124 kilometers and was felt by approximately two people.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9053fb115b93": {
+      "ai_title": "Magnitude 5.2 Earthquake Recorded on Mid-Indian Ridge",
+      "ai_summary": "A magnitude 5.2 earthquake was registered along the Mid-Indian Ridge on November 10, 2026. The seismic event took place at a shallow depth of approximately 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "f666aa63e8af": {
+      "ai_title": "Bacterial Gene Transfer Shapes Purine Metabolism in C. elegans",
+      "ai_summary": "Disruptions in purine metabolism are linked to various human diseases, including gout, cancer, and rare genetic disorders like xanthinuria. To better understand the regulation of purine homeostasis, researchers created a Caenorhabditis elegans model of xanthine dehydrogenase deficiency, which forms rare xanthine stones similar to those seen in human xanthinuria. A forward genetic screen identified multiple loss-of-function alleles in a previously uncharacterized gene designated as gda-1 . This gene encodes an intestinal guanine deaminase critical for purine catabolism. The C. elegans genome also contains a paralog, gda-2 , which exhibits guanine deaminase activity in distinct tissues and helps compensate for the loss of gda-1 . Evolutionary analyses indicate that nematodes acquired gda-2 from bacteria via horizontal gene transfer. These insights highlight a spatially regulated purine catabolism pathway shaped by bacterial gene acquisition.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "4d93af9d61ed": {
+      "ai_title": "African Swine Fever Virus Uses Iron Homeostasis to Aid Replication",
+      "ai_summary": "African swine fever virus (ASFV) infects pigs and soft ticks, but the cellular mechanisms supporting its replication have remained poorly understood. Researchers discovered that ASFV dynamically regulates labile iron levels during infection to sustain viral propagation. At early stages, the virus promotes ferritin turnover, increases labile iron release, and induces ferroptosis-like changes in mitochondria. At later stages, it limits excessive iron-related damage to maintain a hospitable intracellular environment. Mechanistically, the viral protein pA151R interacts with NCOA4 and drives the autophagic degradation of the iron storage protein FTH1. Deleting the A151R gene disrupts this iron-modulating capability and significantly reduces viral replication. Pharmacological iron depletion also suppresses viral propagation in both porcine and tick cells, highlighting iron homeostasis and ferritinophagy as potential targets for controlling ASFV transmission.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "a43ec420296d": {
+      "ai_title": "Primate Model Reveals Variable Blood Transfusion Risks for Variant CJD",
+      "ai_summary": "Variant Creutzfeldt-Jakob disease (v-CJD) has been linked to probable transmission via blood transfusion in a small number of historical cases, prompting some countries to lift blood donor deferrals originally instituted to protect blood supplies. However, the high prevalence of silent infections and long incubation periods raise ongoing safety concerns. In a study using cynomolgus macaques experimentally contaminated with v-CJD prions, researchers observed highly heterogeneous peripheral prion replication across and within individuals, which generally corresponded to blood prion loads. Furthermore, several primates developed unexpected incomplete prion phenotypes that evaded conventional diagnostic tests and could still transmit infection to mice lacking a functional immune system. These atypical strains involve peripheral mechanisms independent of the immune system. The findings suggest that standard lymphoid prevalence studies may underestimate healthy v-CJD carriers, indicating that transfusion risk assessments should look beyond epidemiological data alone.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "49e4d2552f09": {
+      "ai_title": "Funding and Competing Interest Statements Corrected for Nigeria Pregnancy Risk Study",
+      "ai_summary": "An update has been issued to correct the funding and competing interests statements for a published study examining hypertensive disorders during pregnancy in Nigeria. The corrected disclosure states that the study received financial support through a grant from MSD for Mothers, awarded to and managed by Jhpiego Corporation, with no additional external funding. Furthermore, several authors are identified as employees of Jhpiego Corporation, while MSD for Mothers is recognized as an initiative of Merck & Co Inc. The publishers confirmed that these corrections do not alter adherence to data and material sharing policies.",
+      "content_source": "article",
       "flow": []
     }
   }
