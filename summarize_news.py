@@ -27,6 +27,10 @@ PAGE_PAUSE_SECONDS = 1
 TIMEOUT = 90
 MAX_ARTICLE_CHARS = 18000
 
+# Paid-version rule: the app feed (summarized_news.json) only contains articles from open-licence sources.
+# Set to False to keep non-open articles in the feed as snippet-and-link only (they never get AI summaries).
+OPEN_ONLY_FEED = True
+
 FULL = (100, 150)
 SNIPPET = (25, 45)
 
@@ -324,17 +328,26 @@ def run():
     batch_size = int(env("BATCH_SIZE", str(BATCH_SIZE)))
 
     # Reprocess old entries unless they have the new AI title format.
+    # Only open-licence articles are downloaded in full and rewritten by the AI.
+    # Everything else keeps its snippet and link (summary_by = "extract").
     todo = [
         item for item in raw["items"]
-        if not (
+        if item.get("licence") == "open"
+        and not (
             isinstance(cache.get(item["id"]), dict)
             and cache[item["id"]].get("ai_title")
             and cache[item["id"]].get("ai_summary")
         )
     ][:limit] if provider else []
 
+    closed = sum(1 for item in raw["items"] if item.get("licence") != "open")
+    print(f"Not open-licence ({'left out of the app feed' if OPEN_ONLY_FEED else 'snippet and link only'}, no AI): {closed}")
     print(f"Total articles: {len(raw['items'])}")
-    print(f"Already enriched: {len(raw['items']) - len(todo)}")
+    enriched = sum(
+        1 for item in raw["items"]
+        if isinstance(cache.get(item["id"]), dict) and cache[item["id"]].get("ai_title")
+    )
+    print(f"Already enriched: {enriched}")
     print(f"New articles selected: {len(todo)}")
     print(f"Provider: {provider_name}")
 
@@ -349,6 +362,9 @@ def run():
         ai_count = 0
 
         for original in raw["items"]:
+            if OPEN_ONLY_FEED and original.get("licence") != "open":
+                continue  # older articles from sources that are now disabled age out of the app feed at once
+
             item = dict(original)
             ai = merged.get(item["id"])
 
