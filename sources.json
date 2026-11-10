@@ -1,6 +1,5 @@
-
 {
-  "_help": "Science In-Short source configuration. type=feed uses the generic RSS/Atom handler in fetch_news.py. Existing specialised types (apod, usgs, eonet, europepmc, biorxiv, guardian, sportsdb) require their existing Python handlers. licence=open means the content is believed to be openly licensed or public domain; verify the licence before redistributing full article text. licence=check means reuse terms need review. full_summary=true requests the longer source description/snippet; it does NOT mean AI summarization or permission to republish. enabled=false skips a source. max_age_days overrides the default 21-day age limit. Some publisher feed URLs should be validated in the first GitHub Actions run; check data/run_log.json for failures.",
+  "_help": "In-Brief source configuration. type=feed uses the generic RSS/Atom handler in fetch_news.py. Existing specialised types (apod, usgs, eonet, europepmc, biorxiv, guardian, sportsdb) require their existing Python handlers. licence=open means the content is believed to be openly licensed or public domain; verify the licence before redistributing full article text. licence=check means reuse terms need review. full_summary=true requests the longer source description/snippet; it does NOT mean AI summarization or permission to republish. enabled=false skips a source. max_age_days overrides the default 21-day age limit. Some publisher feed URLs should be validated in the first GitHub Actions run; check data/run_log.json for failures. PAID-VERSION RULE: only licence=open sources are enabled. Every licence=check source is disabled (enabled=false) and kept in this file for later review.",
   "sources": [
     {
       "name": "arXiv - Quantum Physics",
@@ -122,16 +121,16 @@
       "og_image": true,
       "url": "https://export.arxiv.org/api/query?search_query=cat:cond-mat.mtrl-sci&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
-
     {
       "name": "APS - Physical Review A",
       "category": "Physics",
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/pra.xml"
+      "url": "https://feeds.aps.org/rss/recent/pra.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "APS - Physical Review B",
@@ -139,9 +138,10 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/prb.xml"
+      "url": "https://feeds.aps.org/rss/recent/prb.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "APS - Physical Review C",
@@ -149,9 +149,10 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/prc.xml"
+      "url": "https://feeds.aps.org/rss/recent/prc.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "APS - Physical Review D",
@@ -159,9 +160,10 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/prd.xml"
+      "url": "https://feeds.aps.org/rss/recent/prd.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "APS - Physical Review E",
@@ -169,9 +171,10 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/pre.xml"
+      "url": "https://feeds.aps.org/rss/recent/pre.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "APS - Physical Review Letters",
@@ -179,9 +182,10 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/prl.xml"
+      "url": "https://feeds.aps.org/rss/recent/prl.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "APS - Physical Review X",
@@ -189,9 +193,10 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/prx.xml"
+      "url": "https://feeds.aps.org/rss/recent/prx.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "APS - Physics Magazine",
@@ -199,20 +204,21 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/physics.xml"
+      "url": "https://feeds.aps.org/rss/recent/physics.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
-
     {
       "name": "ACS Central Science",
       "category": "Chemistry",
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://pubs.acs.org/rss/acscii/asap.xml"
+      "url": "https://pubs.acs.org/rss/acscii/asap.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "ACS Chemical Biology",
@@ -220,9 +226,10 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://pubs.acs.org/rss/acbcct/asap.xml"
+      "url": "https://pubs.acs.org/rss/acbcct/asap.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "ACS Applied Nano Materials",
@@ -230,11 +237,11 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://pubs.acs.org/rss/aanmf6/asap.xml"
+      "url": "https://pubs.acs.org/rss/aanmf6/asap.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
-
     {
       "name": "PLOS Biology",
       "category": "Biology",
@@ -275,16 +282,16 @@
       "og_image": true,
       "url": "https://journals.plos.org/plospathogens/feed/atom"
     },
-
     {
       "name": "MOSDAC SCATSAT-1",
       "category": "Earth",
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://mosdac.gov.in/isrocast.xml"
+      "url": "https://mosdac.gov.in/isrocast.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "MOSDAC INSAT-3D Imager",
@@ -292,9 +299,10 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://mosdac.gov.in/3dimager.xml"
+      "url": "https://mosdac.gov.in/3dimager.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "MOSDAC INSAT-3D Sounder",
@@ -302,11 +310,11 @@
       "type": "feed",
       "licence": "check",
       "full_summary": false,
-      "enabled": true,
+      "enabled": false,
       "og_image": true,
-      "url": "https://mosdac.gov.in/3dsounder.xml"
+      "url": "https://mosdac.gov.in/3dsounder.xml",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
-
     {
       "name": "arXiv",
       "category": "Physics",
@@ -350,7 +358,9 @@
       "licence": "check",
       "full_summary": false,
       "og_image": true,
-      "url": "https://www.nature.com/nature.rss"
+      "url": "https://www.nature.com/nature.rss",
+      "enabled": false,
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "NASA APOD",
@@ -372,25 +382,27 @@
       "url": "https://www.nasa.gov/feed/"
     },
     {
-  "name": "ESA Space Science",
-  "category": "Space",
-  "type": "feed",
-  "licence": "check",
-  "full_summary": false,
-  "enabled": true,
-  "og_image": true,
-  "url": "https://www.esa.int/rss/science.rss"
-},
+      "name": "ESA Space Science",
+      "category": "Space",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": false,
+      "og_image": true,
+      "url": "https://www.esa.int/rss/science.rss",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
+    },
     {
-  "name": "CERN",
-  "category": "Physics",
-  "type": "feed",
-  "licence": "check",
-  "full_summary": false,
-  "enabled": false,
-  "og_image": true,
-  "url": "https://home.cern/feed/"
-},
+      "name": "CERN",
+      "category": "Physics",
+      "type": "feed",
+      "licence": "check",
+      "full_summary": false,
+      "enabled": false,
+      "og_image": true,
+      "url": "https://home.cern/feed/",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
+    },
     {
       "name": "Symmetry Magazine",
       "category": "Physics",
@@ -399,7 +411,8 @@
       "full_summary": false,
       "enabled": false,
       "og_image": true,
-      "url": "https://www.symmetrymagazine.org/feed"
+      "url": "https://www.symmetrymagazine.org/feed",
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "USGS earthquakes",
@@ -420,27 +433,27 @@
       "url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=open&limit=8"
     },
     {
-  "name": "NASA Earth Observatory - Image of the Day",
-  "category": "Earth",
-  "type": "feed",
-  "licence": "open",
-  "full_summary": true,
-  "enabled": true,
-  "og_image": true,
-  "max_age_days": 180,
-  "url": "https://science.nasa.gov/feed/earth-observatory/image-of-the-day"
-},
-{
-  "name": "NASA Earth Observatory - Natural Events",
-  "category": "Earth",
-  "type": "feed",
-  "licence": "open",
-  "full_summary": true,
-  "enabled": true,
-  "max_age_days": 180,
-  "og_image": true,
-  "url": "https://science.nasa.gov/feed/earth-observatory/natural-events"
-},
+      "name": "NASA Earth Observatory - Image of the Day",
+      "category": "Earth",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "og_image": true,
+      "max_age_days": 180,
+      "url": "https://science.nasa.gov/feed/earth-observatory/image-of-the-day"
+    },
+    {
+      "name": "NASA Earth Observatory - Natural Events",
+      "category": "Earth",
+      "type": "feed",
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
+      "max_age_days": 180,
+      "og_image": true,
+      "url": "https://science.nasa.gov/feed/earth-observatory/natural-events"
+    },
     {
       "name": "NOAA",
       "category": "Earth",
@@ -457,7 +470,9 @@
       "licence": "check",
       "full_summary": false,
       "og_image": true,
-      "url": "https://phys.org/rss-feed/"
+      "url": "https://phys.org/rss-feed/",
+      "enabled": false,
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "ScienceDaily",
@@ -466,7 +481,9 @@
       "licence": "check",
       "full_summary": false,
       "og_image": true,
-      "url": "https://www.sciencedaily.com/rss/top/science.xml"
+      "url": "https://www.sciencedaily.com/rss/top/science.xml",
+      "enabled": false,
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "BBC Science",
@@ -475,7 +492,9 @@
       "licence": "check",
       "full_summary": false,
       "og_image": true,
-      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "enabled": false,
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "Guardian Science",
@@ -489,7 +508,8 @@
       "env_key": "GUARDIAN_API_KEY",
       "params": {
         "section": "science"
-      }
+      },
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "BBC Sport",
@@ -498,7 +518,9 @@
       "licence": "check",
       "full_summary": false,
       "og_image": true,
-      "url": "https://feeds.bbci.co.uk/sport/rss.xml"
+      "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+      "enabled": false,
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "TheSportsDB",
@@ -511,7 +533,8 @@
       "url": "https://www.thesportsdb.com/api/v1/json/3/eventspastleague.php",
       "params": {
         "id": "4328"
-      }
+      },
+      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     }
   ]
 }
