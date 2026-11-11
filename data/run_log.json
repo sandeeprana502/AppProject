@@ -1,55 +1,47 @@
 {
- "generated": "2026-11-11T04:50:11.255685+00:00",
- "sources_ok": 13,
+ "generated": "2026-11-11T13:37:34.482954+00:00",
+ "sources_ok": 25,
  "sources_total": 27,
  "sources": [
   {
    "source": "arXiv - Quantum Physics",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:quant-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 16
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - Astrophysics",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:astro-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 0
+   "status": "ok",
+   "items": 0
   },
   {
    "source": "arXiv - Condensed Matter",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:cond-mat&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 0
+   "status": "ok",
+   "items": 0
   },
   {
    "source": "arXiv - High Energy Physics Phenomenology",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:hep-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 24
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - High Energy Physics Theory",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:hep-th&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 14
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - Optics",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:physics.optics&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 16
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - Applied Physics",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:physics.app-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 16
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - Artificial Intelligence",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 24
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - Machine Learning",
@@ -63,15 +55,13 @@
   },
   {
    "source": "arXiv - Quantitative Biology",
-   "status": "failed",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=25)",
-   "kept_previous": 0
+   "status": "ok",
+   "items": 0
   },
   {
    "source": "arXiv - Materials Science",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:cond-mat.mtrl-sci&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 15
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "PLOS Biology",
@@ -95,9 +85,8 @@
   },
   {
    "source": "arXiv",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:quant-ph+OR+cat:hep-ex+OR+cat:astro-ph.CO+OR+cat:physics.gen-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 19
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "bioRxiv",
@@ -116,9 +105,8 @@
   },
   {
    "source": "NASA APOD",
-   "status": "failed",
-   "error": "HTTPError: 500 Server Error for url: https://api.nasa.gov/planetary/apod",
-   "kept_previous": 1
+   "status": "ok",
+   "items": 1
   },
   {
    "source": "NASA news",
@@ -128,7 +116,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 89
+   "items": 94
   },
   {
    "source": "NASA EONET",

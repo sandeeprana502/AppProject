@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T04:56:11.636833+00:00",
+  "generated": "2026-11-11T13:38:45.935981+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2087,12 +2087,6 @@
       "content_source": "rss",
       "flow": []
     },
-    "c6acc79d2a7f": {
-      "ai_title": "Capturing a Rare Lunar Occultation of Saturn",
-      "ai_summary": "In early 2025, observers across a path spanning from Greenland through central Europe to northern Africa witnessed an occultation, where Earth's Moon passed directly in front of Saturn. Captured after sunset from Sardinia, Italy, a published featured image combines three separate digital exposures: one showing Saturn just before it disappeared, and two capturing the Moon at different lengths. A bright dot visible near Saturn is identified as the background star 85 Aquarii, positioned far behind the ringed planet. Astronomers note that the next occurrence of the Moon moving in front of Saturn, visible from parts of Earth, will take place in 2031.",
-      "content_source": "article",
-      "flow": []
-    },
     "e0e98f1430ae": {
       "ai_title": "Magnitude 4.9 Earthquake Strikes South of Fiji Islands",
       "ai_summary": "A magnitude 4.9 earthquake occurred south of the Fiji Islands on November 9, 2026, at 23:45 UTC. The seismic event took place at a depth of approximately 176 kilometers, with data subject to potential future revisions by monitoring agencies.",
@@ -2376,6 +2370,101 @@
     "1610c844dd73": {
       "ai_title": "Cross-Sectional Study Links Palmar Lactic Acid to Reduced Hand Scaling and Pathogen Suppression",
       "ai_summary": "The precise relationship between palmar surface lactic acid, hand skin scaling, and antimicrobial activity remains poorly understood. A cross-sectional study evaluated 49 healthy adults following standardized hand washing and environmental acclimation to investigate these connections. Researchers measured visual scaling scores, surface lactic acid, stratum corneum ceramides and amino acids, skin properties, sweat rates, and the anti-pathogenic activity of palmar extracts against specific viral and bacterial strains. The findings revealed that higher lactic acid levels and stronger pathogen-suppressive activity were both associated with lower amounts of skin scaling. Although total ceramides and amino acids showed no significant link to scaling, specific ceramide classes and sweat rates correlated with skin outcomes. The authors note that while these insights are hypothesis-generating and point to lactic acid playing a role in skin health, causality cannot be determined from a cross-sectional design.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "4d86130e3dc0": {
+      "ai_title": "Magnitude 5.1 Earthquake Strikes Near Calama, Chile",
+      "ai_summary": "A magnitude 5.1 earthquake struck 27 kilometers west-southwest of Calama, Chile, on November 11, 2026, at 11:36 UTC. The seismic event occurred at a depth of roughly 91 kilometers, with data subject to agency review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "d45b5d4984a6": {
+      "ai_title": "Magnitude 5.1 Tremor Detected in Indonesia's Tanimbar Islands",
+      "ai_summary": "An earthquake measuring magnitude 5.1 hit the Pulau Pulau Tanimbar region in Indonesia on November 11, 2026, at 11:32 UTC. The tremor had a depth of approximately 15 kilometers, according to initial agency data.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "44ec4148c975": {
+      "ai_title": "Magnitude 4.7 Earthquake Recorded West-Southwest of Merizo Village, Guam",
+      "ai_summary": "A magnitude 4.7 earthquake occurred 152 kilometers west-southwest of Merizo Village, Guam, on November 11, 2026, at 08:37 UTC. The event registered at a depth of about 137 kilometers and may be updated as review continues.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "be006578042f": {
+      "ai_title": "Magnitude 5.1 Quake Hits Balleny Islands Area",
+      "ai_summary": "A magnitude 5.1 earthquake was registered in the Balleny Islands region on November 11, 2026, at 06:21 UTC. The tremor struck at a shallow depth of about 10 kilometers, pending further data review by monitoring agencies.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "4113b6a21766": {
+      "ai_title": "Magnitude 5.0 Earthquake Strikes Southeast of Kurilsk, Russia",
+      "ai_summary": "A magnitude 5.0 earthquake was detected 152 kilometers southeast of Kurilsk, Russia, on November 11, 2026, at 05:26 UTC. The seismic event happened at a depth of approximately 30 kilometers and remains subject to ongoing data review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "18629f80d3b7": {
+      "ai_title": "Moderate Earthquake Near Malfa, Italy",
+      "ai_summary": "A magnitude 4.6 earthquake occurred 54 kilometers west-northwest of Malfa, Italy, at a depth of roughly 10 kilometers on November 11, 2026. Agency data and reviews may cause these initial measurements to change.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "a5765ef75d55": {
+      "ai_title": "Hubble Captures Dwarf Galaxy NGC 4449",
+      "ai_summary": "The Hubble Space Telescope recently captured the dwarf galaxy NGC 4449, highlighting the significant role these small stellar systems play in the universe. Dwarf galaxies are about one-tenth the size of the Milky Way and contain a few billion stars, making them the most common type of galaxy. Observations show that NGC 4449 and similar dwarf galaxies lack expected levels of oxygen, implying that stellar winds and supernovae efficiently expel heavy elements into space. These tiny galaxies may therefore be crucial for distributing heavy elements—the fundamental building blocks for stars, planets, and life—throughout the cosmos.",
+      "content_source": "article",
+      "flow": []
+    },
+    "1697e0e7855f": {
+      "ai_title": "Heavy Rains Bring Drought Relief and Flooding to U.S. Southwest",
+      "ai_summary": "Back-to-back extreme rain events in late October and early November 2026 delivered heavy precipitation across the Four Corners region of the U.S. Southwest, providing much-needed relief from short-term drought. However, the excessive downpours also swelled rivers like the San Juan and Piedra to near-record levels, causing severe flooding, property damage, and evacuations in locations such as Pagosa Springs, Colorado. Satellite observations from Landsat 9 revealed a dramatic rise in water levels at New Mexico's Navajo Reservoir, which surged by nearly 60 feet between September and November to reach 108 percent of its average capacity. The low-pressure system responsible for the storms was fueled by high ocean temperatures and enhanced by ongoing El Niño patterns.",
+      "content_source": "article",
+      "flow": []
+    },
+    "9937ded6daf9": {
+      "ai_title": "Hubble Telescope Images Dwarf Galaxy NGC 4449",
+      "ai_summary": "The Hubble Space Telescope has imaged NGC 4449, a nearby dwarf galaxy. Comprising only a few billion stars, dwarf galaxies are the most common galactic type in the universe. Data shows that NGC 4449 and comparable dwarf galaxies contain less oxygen than standard models predict. This discrepancy indicates that stellar winds and supernovae within these small systems are remarkably efficient at expelling heavy elements. Consequently, dwarf galaxies may be instrumental in distributing the heavy elements necessary for forming stars, planets, and life across the universe.",
+      "content_source": "source_text",
+      "flow": [
+        "Identify dwarf galaxies like NGC 4449 using telescope imagery",
+        "Measure oxygen and heavy element content within the galaxy",
+        "Observe the effects of stellar winds and supernovae ejecting matter",
+        "Determine how heavy elements spread into the wider universe"
+      ]
+    },
+    "c18719c4022a": {
+      "ai_title": "Foundation Model Adaptation Outperforms Task-Specific Training Across Medical Imaging Sites",
+      "ai_summary": "Researchers investigated whether pretrained foundation models can replace task-specific training for medical image segmentation by adapting the DINOv2 model and comparing it against U-Nets and ResU-Nets trained from scratch. Testing across colonoscopy, breast ultrasound, and dermoscopy datasets demonstrated that the adapted foundation model generalized better on every independent external dataset from other institutions. Within the original training distribution, traditional task-specific models remained competitive when training data were abundant and delineated boundaries more accurately, whereas the foundation model occasionally missed smaller lesions. The experiments also revealed that only a small portion of the foundation model needs tuning, with the required capacity dictated by the imaging domain rather than the adaptation strategy.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "d88c7f4e6e98": {
+      "ai_title": "Pyrite Benchmark Evaluates AI Agents in Protein-Ligand Pose Ranking",
+      "ai_summary": "Predicting how a ligand binds to a target remains a major challenge in small-molecule drug discovery. To address this, researchers developed Pyrite, a pairwise pose-ranking benchmark containing 1,500 pose pairs across various protein-ligand complexes. Tests showed that expert chemists using 3D tools and physics-based scores perform close to random chance. To test automated solutions, the authors introduced PyriteRep, a structured representation of chemical and geometric signals, alongside two LLM-based agents: PyriteReasoner and PyriteFeaturizer. The agents achieved up to 67% and 74% accuracy, respectively, outperforming human experts. Furthermore, LLM-guided feature discovery surpassed direct reasoning, while optimization techniques allowed open-weight models to match or exceed closed-source alternatives.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "7e4dba908da2": {
+      "ai_title": "Assessing Connectome Structure-Function Claims Against Unmeasured Physiology",
+      "ai_summary": "Connectome-constrained models are frequently used to claim that a measured biological wiring diagram dictates function, though such models often confound wiring patterns with tuning choices like excitability or plasticity. Researchers tested three distinct estimands using synthetic ground truths, placebo nulls, and three Drosophila circuit models to evaluate these claims. While certain biological conclusions proved robust across protocols, others shifted significantly depending on physiological constraints and model parameters. For instance, models of the fly mushroom body showed that real wiring could either outperform or lose to shuffled alternatives depending on active cell shares, highlighting underlying model inadequacies rather than wiring deficits. The study concludes that validating structural claims requires properly matched optimization alongside data-constrained physiology.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "03d3c78c79ab": {
+      "ai_title": "Continual-ARC Benchmark Measures Lifelong Skill Acquisition in AI Agents",
+      "ai_summary": "Evaluating continual learning in AI agents has historically been hindered by single-domain limits and inconsistent comparison scales between memory-based and weight-based systems. Continual-ARC addresses this by introducing a lifelong stream built from ARC-AGI task editions that require no prior domain knowledge, featuring recurring tasks with fresh instances and incoming new tasks. The framework scores learners based on feedback consumption budgets and tests both memorization of seen tasks and generalization to unseen tasks. Testing models like Qwen3.5-9B and GLM-5.3 Flash revealed that harness persistence generally fails to improve memorization without explicit expert guidance, and harness methods typically underperform simple demonstration caching. However, weight-based learning demonstrated substantial gains on unseen tasks, pointing toward future continual learning applications.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "2af7f9f57405": {
+      "ai_title": "Bonbon Foundation Model Exhibits Emergent Capabilities in Molecular Interactions",
+      "ai_summary": "Trained on roughly 3.2 trillion tokens of paired protein-ligand sequences without task-specific supervision or structural coordinates, Bonbon is a multimodal foundation model for molecular interactions. From a single representation space, the model displays zero-shot emergent capabilities across functional, residue, and bond resolution levels that generalize to out-of-distribution complexes. Controlled scaling experiments revealed sharp performance jumps at the largest model scale of 1.6 billion parameters, demonstrating that standard pretraining loss curves do not predict these sudden capabilities. Achieving state-of-the-art binding prediction speeds, prospective wet-lab validation across nine disease targets yielded a 61.5% dose-response hit rate on de novo compounds, successfully discovering structurally novel inhibitory molecules.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "0981c8b4a698": {
+      "ai_title": "Comparing Evaluation Frameworks for Enterprise Analytics Agents",
+      "ai_summary": "Deploying LLM analytics agents in enterprise environments requires robust evaluation methods to detect failures across multi-tool workflows. A three-phase study compared three frameworks—trace-based LLM judging, text-only LLM judging with red-teaming, and deterministic heuristics—using frozen execution traces and two analytics agents. Phase 1 showed high evaluation harness stability across 97% of configurations. Phase 2 found that trace-based judging achieved the best precision-recall balance on known risks, whereas text-only evaluation produced five times more false alarms. Phase 3 uncovered 24 novel failures with zero overlap between functional testing and security red-teaming. The findings indicate that evaluation quality depends heavily on available harness information, and recommend combining trace-based functional assessment with adversarial red-teaming for security validation.",
       "content_source": "source_text",
       "flow": []
     }
