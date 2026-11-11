@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T13:38:45.935981+00:00",
+  "generated": "2026-11-11T21:46:26.691614+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2465,6 +2465,130 @@
     "0981c8b4a698": {
       "ai_title": "Comparing Evaluation Frameworks for Enterprise Analytics Agents",
       "ai_summary": "Deploying LLM analytics agents in enterprise environments requires robust evaluation methods to detect failures across multi-tool workflows. A three-phase study compared three frameworks—trace-based LLM judging, text-only LLM judging with red-teaming, and deterministic heuristics—using frozen execution traces and two analytics agents. Phase 1 showed high evaluation harness stability across 97% of configurations. Phase 2 found that trace-based judging achieved the best precision-recall balance on known risks, whereas text-only evaluation produced five times more false alarms. Phase 3 uncovered 24 novel failures with zero overlap between functional testing and security red-teaming. The findings indicate that evaluation quality depends heavily on available harness information, and recommend combining trace-based functional assessment with adversarial red-teaming for security validation.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "e99ae05a2d90": {
+      "ai_title": "Magnitude 4.5 Earthquake Strikes South of Fiji",
+      "ai_summary": "A 4.5 magnitude earthquake occurred south of the Fiji Islands on November 11, 2026, at 19:50 UTC. The tremor had a depth of approximately 528 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "c59a6c45b8fa": {
+      "ai_title": "Moderate Earthquake Recorded Near Ancud, Chile",
+      "ai_summary": "An earthquake measuring magnitude 5.0 struck 48 kilometers northwest of Ancud, Chile, on November 11, 2026, at 19:21 UTC. The depth was recorded at roughly 35 kilometers, with about four people reporting that they felt the shaking.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "2e40a09420f9": {
+      "ai_title": "Magnitude 5.1 Earthquake Hits Near Papua New Guinea",
+      "ai_summary": "On November 11, 2026, at 17:38 UTC, a magnitude 5.1 earthquake was registered 80 kilometers west of Panguna, Papua New Guinea. The seismic event occurred at a depth of about 59 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "5dfda6e61ebc": {
+      "ai_title": "Earthquake of Magnitude 5.1 Measured in South Sandwich Islands",
+      "ai_summary": "A magnitude 5.1 earthquake occurred in the South Sandwich Islands region on November 11, 2026, at 15:39 UTC. The depth of the event was estimated at about 105 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "25cbab608750": {
+      "ai_title": "Virus-Like Particles Improve Gene Editing in Pigs and Chickens",
+      "ai_summary": "Pigs and chickens are vital livestock and key model organisms for agricultural, translational, and biomedical research. While tools like CRISPR/Cas9 have advanced functional genomics, delivering these systems efficiently has remained a significant hurdle. Researchers have now addressed this limitation by using virus-like particles as delivery vehicles for genome engineering tools. Testing across porcine and avian models, the team found that virus-like particle delivery successfully enabled high CRISPR/Cas9 editing rates and efficient Cre recombination. In pigs, this worked well across cells, organoids, and oocytes. In chickens, the approach proved effective in cell cultures, tracheal organ cultures, and in ovo environments. Additional tests with reporter and dCas9 variants further highlighted the platform's broad utility. These results demonstrate that virus-like particles provide an efficient, time-saving method for livestock gene editing across various experimental models, benefiting animal health, agricultural productivity, and One Health research.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "5027effc426a": {
+      "ai_title": "Evolutionary Origins of Paired Appendages and Genetic Rewiring",
+      "ai_summary": "A recent study investigates the evolutionary origins of dorsoventral polarity in paired appendages, comparing them to symmetric median fins. Researchers found that the lmx1b gene is located in the dorsal paired fin mesenchyme but shifts to a posterior position in median fins, pointing to the genetic rewiring of an ancient toolkit.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "0958441b8065": {
+      "ai_title": "Unlocking the Invasion Mechanisms of Cryptosporidium Parasites",
+      "ai_summary": "Cryptosporidium is a major cause of severe diarrheal illness in young children, establishing a unique niche inside intestinal cells. Researchers utilized molecular markers to observe how the parasite invades host cells with high spatial and temporal resolution. The study reveals that the parasite anchors itself through the sequential discharge of specialized secretory organelles before entering the host. Additionally, a single rhoptry structure persists past the initial discharge to function as a conduit for multiple waves of effector proteins. Eventually, the rhoptry membrane transforms into the feeder organelle that divides the host and parasite cytoplasm, offering a clearer picture of intracellular parasitism.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "c312e03eec72": {
+      "ai_title": "Pepti-DrugPhAI: A Multimodal AI Tool for Peptide Drug Design",
+      "ai_summary": "Peptide drugs are promising therapeutics due to their high selectivity and activity, but poor pharmacokinetics often stall their development. To solve this, researchers developed Pepti-DrugPhAI, a multimodal algorithm capable of predicting the pharmacokinetics and toxicity of diverse peptide compounds. By simultaneously analyzing chemical structure SMILES representations and amino acid sequences, the algorithm efficiently handles canonical peptides, cyclic structures, and non-canonical modifications. The model evaluates critical ADMET parameters, membrane permeability, and toxicity profiles while calculating an adaptive suitability score based on biological activity. Tested against independent datasets, the tool demonstrates high accuracy and provides a valuable asset for selecting viable peptide drug candidates.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "8911d6c5fcfb": {
+      "ai_title": "Sphinx R Package Enhances Spatial Proteomics Analysis",
+      "ai_summary": "Spatial omics is vital for examining tissue microenvironmental heterogeneity, yet existing tools heavily favor transcriptomics over proteomics data. To bridge this gap, researchers introduced Sphinx, an R package designed to offer a complete spatial proteomics workflow encompassing preprocessing, cell annotation, spatial neighborhood modeling, and functional characterization. Sphinx introduces an adaptive parameter selection framework driven by spatial statistical metrics, alongside computational optimizations tailored for large-scale datasets. The software efficiently identifies distinct cell types and spatial functional units, such as tertiary lymphoid structures, across various tissue datasets including lung adenocarcinoma, colorectal cancer, and mouse spleen. By improving scalability and computational performance, Sphinx enables deeper characterization of tissue microenvironments and spatial organization.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "829fab1734c2": {
+      "ai_title": "Investigating Burst-to-Burst Neural Coordination and Rhythm Resetting",
+      "ai_summary": "Networks of bursting neurons drive robust sequential rhythms in multiple neural systems, such as central pattern generators that oversee motor activity. A recent study combines biophysical models of the pyloric central pattern generator with electrophysiological experiments to examine cycle-by-cycle coordination resetting. Researchers analyzed variability constraints of sequence intervals determined by burst onset and offset timing references. The study successfully identified the conditions that prompt sequential dynamical invariants to emerge as robust relationships within a cycle, as well as when these relations reset or span across consecutive cycles during slow modulatory actions.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "8ffb4325b6e1": {
+      "ai_title": "Protein Language Model Improves Antibody Binding Affinity",
+      "ai_summary": "Researchers have introduced Ab-Affinity, a fine-tuned protein language model designed to predict antibody binding affinity against target peptides in the SARS-CoV-2 spike protein. When combined with a genetic algorithm and simulated annealing for sequence optimization, Ab-Affinity successfully generated candidate antibodies with over a 100-fold increase in predicted binding affinity compared to their natural parental counterparts. Molecular docking and dynamics simulations indicated that these synthetic candidates have enhanced stability and interactions with the target peptide epitope. Additionally, in vitro experimental testing on a top candidate showed increased binding relative to the original antibody. The developers have publicly released all analysis pipelines, source code, and model weights to support reproducibility.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "4975ff8f49ea": {
+      "ai_title": "New Framework Decodes Transcriptional Bursting from Single-Cell Data",
+      "ai_summary": "Scientists have developed PhysInfer, an unsupervised framework that uses a physics-constrained neural network to infer transcriptional burst dynamics from static single-cell RNA sequencing data. The method addresses parameter unidentifiability and model mismatch by employing a physics-informed loss function that combines stationary-distribution likelihood with zero-count anchoring. This transforms microscopic rates into interpretable macroscopic burst-quantity representations of frequency and size. Validated on synthetic datasets, PhysInfer accurately recovers parameters in low-to-medium activation regimes. Applied to mouse embryonic fibroblast data, the tool successfully mapped a transcriptional dynamic manifold across thousands of genes, and its adaptive topology module identified specific genes supporting a sequential three-state representation, offering an improved approach for characterizing gene expression patterns.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "9e3774d45f6e": {
+      "ai_title": "Method Uses Fluctuation-Dissipation Theorem to Detect Brain Memory Effects",
+      "ai_summary": "A central question in neuroscience is how the brain balances local and distributed information processing across different conscious states. Researchers suggest this balance relies on memory effects, where a region's future activity depends on past feedback from the wider network. To study this, the team introduced the FDTest, a technique that evaluates local memory effects by measuring violations of a generalized Fluctuation-dissipation theorem. Testing whole-brain models fitted to human neuroimaging data showed that memory structure aligns with underlying brain connectivity. Furthermore, when applied to individuals during wakefulness and deep sleep, the method revealed stronger memory effects during wakefulness, highlighting more integrated dynamics. The findings suggest local memory is a reliable dynamical marker for different brain states.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "4e162be55d2e": {
+      "ai_title": "Tachykinin-like Signaling Modulates Thermotaxis in Caenorhabditis elegans",
+      "ai_summary": "Mammalian Neurokinin B signaling is linked to menopausal thermoregulatory issues, but the underlying mechanisms remain unclear. To study this, researchers utilized Caenorhabditis elegans thermotaxis as a model system for conserved tachykinin signaling. They found that overexpressing nlp-58, the nematode ortholog of mammalian NKB, leads to abnormal thermotaxis behaviors without altering thermosensory neuron temperature responses. This defect is mediated primarily via the tachykinin receptor TKR-1 in specific sensory neurons, and can be partially alleviated by treatment with fezolinetant, a clinical NK3R antagonist used for menopausal symptoms. The findings establish an NLP-58 and TKR-1 signaling pathway that modulates thermotaxis and provides a model for studying conserved circuit modulation.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "a9feda435bd2": {
+      "ai_title": "Baloxavir and Molnupiravir Protect Immunosuppressed Hamsters from H5N1 Infection",
+      "ai_summary": "Highly pathogenic avian influenza A(H5N1) poses ongoing zoonotic risks, and immunosuppressed individuals often face severe disease with limited antiviral guidance. Researchers evaluated the pathogenesis of an H5N1 human isolate in cyclophosphamide-immunosuppressed hamsters and tested several antiviral treatments. While normal hamsters cleared the virus, immunosuppressed subjects suffered 75% mortality, prolonged viral replication, and neuroinvasion. In treatment trials, baloxavir achieved 100% survival, shortened viral shedding, reduced inflammation, and prevented neuroinvasion. High-dose molnupiravir and certain combination therapies also prevented mortality and cleared the virus from lung and brain tissues. In contrast, oseltamivir and low-dose molnupiravir showed limited effectiveness against severe clinical signs. These results highlight baloxavir and molnupiravir regimens as promising therapeutic strategies for severe H5N1 infections.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "ad42d44b7eb0": {
+      "ai_title": "Nuclear Egress Complex Crucial for Kaposi’s Sarcoma-Associated Herpesvirus Replication",
+      "ai_summary": "During herpesvirus replication, newly assembled capsids exit the cell nucleus through a process called nuclear egress, which is mediated by the nuclear egress complex (NEC). While past studies examined NEC overexpression in uninfected cells, its precise function during lytic replication remained unclear. Researchers utilized transmission electron microscopy to investigate nuclear egress in two lytic Kaposi's Sarcoma-associated herpesvirus (KSHV) cell line models. In iSLK-BAC16 cells, the absence of the NEC led to capsid accumulation at the nuclear periphery and halted infectious virion production entirely. Furthermore, the experiments revealed that KSHV lytic replication behaviors differ between biological models, with one model displaying extensive nuclear membrane remodeling and slower egress compared to the other. These findings highlight the essential role of the NEC and emphasize the importance of studying viral replication across multiple cellular contexts.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "21a1036d2ea9": {
+      "ai_title": "Bacterial Motility and Pili Influence Macrophage Phagocytosis of Pseudomonas aeruginosa",
+      "ai_summary": "During chronic lung infections, Pseudomonas aeruginosa adapts to environmental and immune pressures, but how macrophages process these diverse bacterial populations remains unclear. Researchers investigated how P. aeruginosa evades phagocytosis by using an attenuated mutant lacking a functional type III secretion system. Through transposon insertion sequencing, the study identified key bacterial fitness factors and discovered that swimming and twitching motility disruptions decrease macrophage uptake. Live-cell imaging demonstrated that motility-impaired bacteria display reduced surface accumulation and unstable attachments to macrophages. Additionally, restoring the type III secretion system showed that cytotoxicity generally drives bacteria-macrophage competition, though a specific non-flagellated, hyper-piliated mutant exhibited surprisingly attenuated killing. Ultimately, the results indicate that swimming motility and type IV pili dictate physical interactions between P. aeruginosa and macrophages, thereby directly affecting phagocytic clearance.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "d8a6a1a72f8f": {
+      "ai_title": "Host Pore-Forming Protein APOL7C Drives Immunity Against Leishmania major",
+      "ai_summary": "Classical dendritic cells are vital for generating protective T helper type 1 immunity against Leishmania major infections by producing large quantities of IL-12. Although this process clears pathogens, the precise mechanism behind how L. major triggers robust IL-12 production remained unknown. Recent findings demonstrate that L. major infection induces the expression of a host cytosolic pore-forming protein named APOL7C in dendritic cells. Upon infection, APOL7C localizes to the parasitophorous vacuoles containing the parasites and causes them to rupture. This membrane rupture exposes pathogen-associated molecular patterns to cytosolic pattern recognition receptors, which in turn stimulates robust IL-12 production. Consequently, mice lacking APOL7C exhibit fewer IL-12-producing dendritic cells and a weakened Th1 immune response, highlighting a key mechanism by which host cells detect and respond to intracellular parasites.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "9fa3fd2747c5": {
+      "ai_title": "Correction Issued for Study on Carbapenem Resistance in Peru",
+      "ai_summary": "A correction has been published regarding an error in Figure 5, panel D, of a previous study investigating carbapenem resistance and antibiotic susceptibility in Pseudomonas aeruginosa and Enterobacterales from a reference laboratory in Lima, Peru. In the original graphical representation, susceptibility values were inadvertently assigned to the incorrect carbapenemase-production categories. The revised publication provides the corrected graphical data for panel D, ensuring accurate visualization of antibiotic susceptibility profiles among carbapenem-resistant Pseudomonas aeruginosa according to carbapenemase production status.",
+      "content_source": "article",
+      "flow": [
+        "Identify the error in panel D of Figure 5 regarding assigned susceptibility values.",
+        "Review the correct data representation for carbapenem-resistant Pseudomonas aeruginosa.",
+        "Publish the official correction to update the graphical representation in the scientific record."
+      ]
+    },
+    "283aad82819f": {
+      "ai_title": "Study Finds No Significant Link Between TyG-BMI Index and Repeat PCI Risk",
+      "ai_summary": "Most patients undergoing percutaneous coronary intervention have coronary heart disease. The triglyceride glucose-body mass index has previously been associated with coronary heart disease, prompting researchers to investigate whether this index correlates with the risk of repeat percutaneous coronary intervention. Utilizing health-record follow-up data from a community health service center covering a ten-year period, investigators applied logistic regression models and restricted cubic spline analyses to evaluate post-procedure patients, including exploratory stratifications based on glucose metabolism status. The analyses revealed no significant linear or nonlinear association between the triglyceride glucose-body mass index and the likelihood of undergoing repeat percutaneous coronary intervention. Furthermore, stratified analyses based on glucose metabolism status showed no significant correlations. Consequently, the study identified no independent association between the index and repeat intervention risk, indicating that these findings require additional verification in broader prospective cohorts.",
       "content_source": "source_text",
       "flow": []
     }
