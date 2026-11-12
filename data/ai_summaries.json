@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T21:46:26.691614+00:00",
+  "generated": "2026-11-12T05:56:41.344453+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2421,17 +2421,6 @@
       "content_source": "article",
       "flow": []
     },
-    "9937ded6daf9": {
-      "ai_title": "Hubble Telescope Images Dwarf Galaxy NGC 4449",
-      "ai_summary": "The Hubble Space Telescope has imaged NGC 4449, a nearby dwarf galaxy. Comprising only a few billion stars, dwarf galaxies are the most common galactic type in the universe. Data shows that NGC 4449 and comparable dwarf galaxies contain less oxygen than standard models predict. This discrepancy indicates that stellar winds and supernovae within these small systems are remarkably efficient at expelling heavy elements. Consequently, dwarf galaxies may be instrumental in distributing the heavy elements necessary for forming stars, planets, and life across the universe.",
-      "content_source": "source_text",
-      "flow": [
-        "Identify dwarf galaxies like NGC 4449 using telescope imagery",
-        "Measure oxygen and heavy element content within the galaxy",
-        "Observe the effects of stellar winds and supernovae ejecting matter",
-        "Determine how heavy elements spread into the wider universe"
-      ]
-    },
     "c18719c4022a": {
       "ai_title": "Foundation Model Adaptation Outperforms Task-Specific Training Across Medical Imaging Sites",
       "ai_summary": "Researchers investigated whether pretrained foundation models can replace task-specific training for medical image segmentation by adapting the DINOv2 model and comparing it against U-Nets and ResU-Nets trained from scratch. Testing across colonoscopy, breast ultrasound, and dermoscopy datasets demonstrated that the adapted foundation model generalized better on every independent external dataset from other institutions. Within the original training distribution, traditional task-specific models remained competitive when training data were abundant and delineated boundaries more accurately, whereas the foundation model occasionally missed smaller lesions. The experiments also revealed that only a small portion of the foundation model needs tuning, with the required capacity dictated by the imaging domain rather than the adaptation strategy.",
@@ -2589,6 +2578,129 @@
     "283aad82819f": {
       "ai_title": "Study Finds No Significant Link Between TyG-BMI Index and Repeat PCI Risk",
       "ai_summary": "Most patients undergoing percutaneous coronary intervention have coronary heart disease. The triglyceride glucose-body mass index has previously been associated with coronary heart disease, prompting researchers to investigate whether this index correlates with the risk of repeat percutaneous coronary intervention. Utilizing health-record follow-up data from a community health service center covering a ten-year period, investigators applied logistic regression models and restricted cubic spline analyses to evaluate post-procedure patients, including exploratory stratifications based on glucose metabolism status. The analyses revealed no significant linear or nonlinear association between the triglyceride glucose-body mass index and the likelihood of undergoing repeat percutaneous coronary intervention. Furthermore, stratified analyses based on glucose metabolism status showed no significant correlations. Consequently, the study identified no independent association between the index and repeat intervention risk, indicating that these findings require additional verification in broader prospective cohorts.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "25b9c6c58b62": {
+      "ai_title": "Celestial Conjunction Captures Moon, Venus, and Spica Over Poland",
+      "ai_summary": "Planets shift relative to fixed stars in celestial movements known as conjunctions, which follow precise laws of celestial mechanics. An astronomical photo captured in Poland features a crescent Moon above the Tatra Mountains alongside bright Venus. Positioned near Venus is the bright star Spica, located in the constellation of Virgo. Spica, sitting about 250 light-years away, was historically identified as a binary star system containing two massive blue stars orbiting each other every four days. However, recent findings revealed that Spica functions as a triple star system.",
+      "content_source": "article",
+      "flow": [
+        "Planets shift positions relative to fixed stars to form conjunctions.",
+        "A photograph captures the crescent Moon and bright Venus in the Polish night sky.",
+        "The bright star Spica appears near Venus in the constellation of Virgo.",
+        "Scientists recognize Spica as a multiple star system rather than a single star."
+      ]
+    },
+    "2d81832da3e7": {
+      "ai_title": "Scotland's Flow Country Peat Bogs Store Vast Amounts of Carbon",
+      "ai_summary": "The Flow Country in northern Scotland features extensive blanket bogs that store massive amounts of carbon. Because these soggy, waterlogged soils prevent microbes from fully breaking down dead plant material, partially decayed matter accumulates into thick layers of peat. These unique ecosystems require abundant rainfall, poor drainage, and low evapotranspiration. Covering about 1,900 square kilometers of the Scottish Highlands, the area represents Europe's largest blanket bog ecosystem and the first of its kind to earn UNESCO World Heritage status. While forests typically store carbon in living trees that can release it when damaged, peat bogs can preserve carbon for thousands of years. Globally, peatlands cover a tiny fraction of Earth's land surface yet store more than twice as much carbon as all the world's forests combined.",
+      "content_source": "article",
+      "flow": []
+    },
+    "b811879b74c0": {
+      "ai_title": "Magnitude 4.8 Earthquake Strikes Near Noda, Japan",
+      "ai_summary": "A magnitude 4.8 earthquake occurred east of Noda, Japan, on November 12, 2026, at 04:07 UTC. The seismic event struck at a depth of approximately 33 kilometers, with data subject to potential future revisions.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "534c92dbfbc2": {
+      "ai_title": "Magnitude 5.4 Earthquake Registered in South Sandwich Islands",
+      "ai_summary": "A magnitude 5.4 earthquake was detected in the South Sandwich Islands region on November 12, 2026, at 03:45 UTC. The earthquake registered at a depth of roughly 122 kilometers, and agency reviews may update the preliminary data.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "620cac0352a7": {
+      "ai_title": "Magnitude 4.8 Earthquake Hits Near Severo-Kuril'sk, Russia",
+      "ai_summary": "A magnitude 4.8 earthquake struck southeast of Severo-Kuril'sk, Russia, on November 12, 2026, at 01:18 UTC. The tremor occurred at a depth of about 74 kilometers, according to initial agency measurements.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "0708a0cf0f92": {
+      "ai_title": "Curiosity Completes Drilling at Nazca Site to Investigate Crystal Forms",
+      "ai_summary": "The Curiosity rover finished its drilling operations at the \"Nazca\" bedrock location, which features unique disk-shaped and potato chip-shaped crystal forms. Throughout the week, the rover delivered drill samples to the SAM instrument, conducted ChemCam LIBS measurements on various crystal targets like \"Ahi Veremos,\" \"Colca,\" and \"Bermejo,\" and captured extensive Mastcam and RMI image mosaics. Environmental monitoring included dust devil surveys and horizon movies. Friday's plans prioritized imaging a solar eclipse by the Martian moon Phobos, executing nighttime MAHLI LED imaging of the crystals, and driving the rover away from the drill site to resume its southerly exploration route.",
+      "content_source": "article",
+      "flow": []
+    },
+    "2b7df4a6537a": {
+      "ai_title": "Captured Image Highlights Planetary Conjunction Over Poland",
+      "ai_summary": "Planets appear to wander across the night sky relative to fixed background stars, creating alignments known as conjunctions that follow precise celestial mechanics. A recently highlighted photograph taken in Poland features a crescent Moon positioned above the Tatra Mountains alongside bright Venus lower on the horizon. To the left of Venus lies Spica, a prominent star in the constellation Virgo. Discovered to be a binary star in 1890, recent findings from earlier this year indicate that Spica is actually a triple star system consisting of massive blue stars.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "f22505492ce1": {
+      "ai_title": "Magnitude 4.6 Earthquake Strikes Near Gyalshing, India",
+      "ai_summary": "A magnitude 4.6 earthquake occurred approximately 73 kilometers north-northwest of Gyalshing, India, on November 11, 2026, at 23:00 UTC. The seismic event took place at a depth of about 10 kilometers, and roughly four people reported feeling the tremor.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "d1cdcf759939": {
+      "ai_title": "Magnitude 4.9 Earthquake Recorded Near Saint Helena",
+      "ai_summary": "A magnitude 4.9 earthquake was registered about 116 kilometers east of Georgetown, Saint Helena, on November 11, 2026, at 22:03 UTC. The earthquake occurred at a depth of approximately 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "3dd38e8e3eaa": {
+      "ai_title": "Magnitude 4.5 Earthquake Strikes Near Camiña, Chile",
+      "ai_summary": "A magnitude 4.5 earthquake struck 41 kilometers south-southeast of Camiña, Chile, on November 11, 2026, at 20:45 UTC. The tremor originated at a depth of about 113 kilometers, and at least one person reported feeling it.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "cb1512e84a8f": {
+      "ai_title": "Family Emotional Synchrony Impacts Adolescent Well-Being",
+      "ai_summary": "Recent research investigated how dynamic emotional synchrony within families affects adolescent well-being. Using ecological momentary assessment and network modeling on 40 family triads, scientists tracked emotional fluctuations across parents and adolescents. The study revealed greater synchrony in positive affect than negative affect. At the person level, positive affect synchrony correlated with higher adolescent well-being and lower distress. Conversely, momentary increases in negative affect synchrony temporarily aligned with higher concurrent well-being and lower stress. Between-family synchrony continued to predict adolescent outcomes even after controlling for general affect levels, highlighting the importance of system-level emotional dynamics.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "862dd0106d9e": {
+      "ai_title": "Umbrella Review Estimates Intimate Partner Violence Prevalence in Ethiopia",
+      "ai_summary": "A comprehensive umbrella review investigated the prevalence and predictors of intimate partner violence against women in Ethiopia by synthesizing six systematic reviews and meta-analyses, encompassing 80 primary studies and 43,785 women. The overall pooled prevalence of intimate partner violence was estimated at 35%. Specific forms included 18% for sexual violence, 19% for physical violence, and 27% for psychological violence. Subgroup analyses showed a 32% prevalence among pregnant women and 33% during the COVID-19 pandemic. Key predictors identified included educational status of partners and women, partner alcohol consumption, women's decision-making power, substance use, and pandemic-related income loss. Researchers emphasize the need for stronger policy implementation and expanded survivor-centered services.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "7a1547f0b643": {
+      "ai_title": "Evaluating SARS-CoV-2 3CLpro for Recombinant Protein Tag Removal",
+      "ai_summary": "Researchers evaluated the SARS-CoV-2 3C-like protease as a sequence-specific tool for removing fusion tags from recombinant proteins. Testing standard purification conditions, the protease successfully cleaved substrate containing the canonical recognition sequence AVLQSG, while a variant sequence showed no cleavage. The enzyme maintained its activity across diverse pH levels, temperatures, and typical protein stabilization reagents. Furthermore, the cleavage mechanism was successfully integrated into multiple processing workflows, including in-solution, on-column, and dialysis-coupled methods. Validating its practical utility with a modular expression vector and a botulinum neurotoxin model protein, the study highlights the protease as a viable option for recombinant protein processing.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "edbf42a8a976": {
+      "ai_title": "Study Examines Sun Protection Awareness Among Hajj Pilgrims and Nurses",
+      "ai_summary": "A qualitative study explored awareness, attitudes, and behaviors regarding sun protection among Saudi pilgrims and registered nurses following the 2025 Hajj season. Through remote semi-structured interviews, researchers identified five primary themes: the physical and emotional impact of sun exposure, limited awareness and knowledge gaps, cultural attitudes toward ultraviolet protection factor products, practical barriers like cost and availability, and recommendations for improvement. Many participants viewed sun exposure as a spiritual trial rather than a health risk, while ultraviolet protection factor items were poorly understood. The findings indicate an urgent need for targeted education distinguishing heat illness from ultraviolet risks, alongside better access to protective gear.",
+      "content_source": "source_text",
+      "flow": [
+        "Conduct retrospective semi-structured interviews with Saudi pilgrims and registered nurses after the Hajj season.",
+        "Explore participant perspectives on ultraviolet awareness, sun protection behaviors, and experienced barriers.",
+        "Analyze interview transcripts thematically using Braun and Clarke’s six-phase approach.",
+        "Identify key knowledge gaps and formulate recommendations for culturally appropriate sun safety education."
+      ]
+    },
+    "ba54c03320ec": {
+      "ai_title": "Elevated UHRF1 Expression Linked to Poor Outcomes in Adult T-Cell Leukemia/Linfoma",
+      "ai_summary": "This study examined the clinical and biological significance of the susceptibility gene UHRF1 in adult T-cell leukemia/lymphoma. Researchers performed immunohistochemistry on tumor tissues from 72 patients and 30 control subjects to evaluate UHRF1 protein expression levels. Additionally, cellular experiments using Western blotting, quantitative PCR, and shRNA-mediated knockdown were deployed to observe proliferation and apoptosis in cell lines. The investigation aims to clarify how UHRF1 influences pathogenesis and its utility as a prognostic marker for patient outcomes.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "f73882fb1c5e": {
+      "ai_title": "New Framework Enhances Bubble Feature Extraction in Flotation Froth Images",
+      "ai_summary": "Researchers have proposed a new flotation froth image analysis framework designed to overcome challenges such as bubble adhesion, overlap, weak boundaries, and uneven illumination. The method combines a boundary-aware U-Net segmentation model with a segmentation-guided adaptive Hough transform. In the first stage, the U-Net architecture uses explicit boundary-oriented supervision to better separate adherent and overlapping bubbles. In the second stage, geometric priors derived from the segmentation results constrain the Hough-based detection process to improve bubble counting and geometric feature extraction. Experiments show that the proposed approach achieves high accuracy and efficiency, offering a promising tool for intelligent monitoring in mineral processing.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "ef957ca93ea1": {
+      "ai_title": "Instance Causal Multiple Instance Learning Framework Improves Whole Slide Image Classification",
+      "ai_summary": "Whole slide images often have extremely high resolutions and lack fine-grained annotations, making multiple instance learning the standard weakly supervised classification paradigm. However, existing methods frequently overlook confounding factors, leading to spurious instance-level associations that hurt generalization. To resolve this, researchers developed the Instance Causal Multiple Instance Learning framework. This approach integrates a backdoor-adjustment-inspired prototype module during instance aggregation. By using clustered prototypes as proxy contextual patterns, the model reduces its reliance on potentially misleading confounding cues. Evaluations on the Camelyon16 and TCGA-NSCLC datasets show that the framework achieves competitive performance, improves existing baselines, and features a plug-and-play capability.",
+      "content_source": "source_text",
+      "flow": [
+        "Extract features and prepare whole slide images for multiple instance learning.",
+        "Introduce a backdoor-adjustment-inspired prototype module during instance aggregation.",
+        "Utilize clustered prototypes as proxy contextual patterns to reduce the impact of confounding cues.",
+        "Classify whole slide images using the refined instance-level associations."
+      ]
+    },
+    "1f331a0883d1": {
+      "ai_title": "Identifying Risk Factors for Chronic Evolution in Vogt–Koyanagi–Harada Disease",
+      "ai_summary": "A retrospective clinical cohort study investigated predictive factors for the risk of chronic evolution in Vogt–Koyanagi–Harada disease one month after pulse steroid therapy. Evaluating 121 eyes from 61 treatment-naïve patients, researchers categorized outcomes based on fundus results at 12 months. Multivariable and receiver operating characteristic curve analyses revealed that lower best-corrected visual acuity and increased corneal thickness at one month significantly correlate with subsequent development of sunrise-glow fundus. Determining these optimal cut-off values can help clinicians design more targeted therapeutic strategies for patients with acute Vogt–Koyanagi–Harada disease.",
       "content_source": "source_text",
       "flow": []
     }
