@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T14:40:48.160245+00:00",
+ "generated": "2026-11-12T21:43:56.666438+00:00",
  "sources_ok": 24,
  "sources_total": 27,
  "sources": [
@@ -76,7 +76,7 @@
   {
    "source": "PLOS Genetics",
    "status": "ok",
-   "items": 22
+   "items": 23
   },
   {
    "source": "PLOS Pathogens",
@@ -106,7 +106,7 @@
   {
    "source": "NASA APOD",
    "status": "failed",
-   "error": "HTTPError: 500 Server Error for url: https://api.nasa.gov/planetary/apod",
+   "error": "HTTPError: 503 Server Error for url: https://api.nasa.gov/planetary/apod",
    "kept_previous": 1
   },
   {
@@ -117,7 +117,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 102
+   "items": 103
   },
   {
    "source": "NASA EONET",

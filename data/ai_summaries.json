@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T14:43:09.363168+00:00",
+  "generated": "2026-11-12T21:45:41.989606+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2790,6 +2790,135 @@
         "Assess binding stability, free-energy ranking, and electronic features using molecular modeling and DFT",
         "Identify lead compounds M2 and M4 based on computed affinity and catalytic engagement"
       ]
+    },
+    "341a4664d13d": {
+      "ai_title": "Katie Spicer's Path to NASA Lander Integration Lead",
+      "ai_summary": "Katie Spicer serves as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, supporting the Artemis program. Working at NASA’s Johnson Space Center, Spicer evaluates the spacecraft's design from an astronaut's operational perspective, focusing on usability, handrails, display controls, and hygiene systems. Spicer's unconventional career path began with a microbiology degree, followed by years as a homemaker before taking a part-time lab role at NASA. She later advanced to operate space station science payloads and spent five years as a certified flight controller and Operations and Support Officer in Mission Control without holding a formal engineering degree.",
+      "content_source": "article",
+      "flow": []
+    },
+    "42ae96195520": {
+      "ai_title": "Magnitude 4.9 Earthquake Strikes Near Weining, China",
+      "ai_summary": "A magnitude 4.9 earthquake occurred 41 kilometers north of Weining, China, on November 12, 2026, at 20:03 UTC. The seismic event struck at a shallow depth of approximately 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "14c088e766cd": {
+      "ai_title": "US Air Force Thunderbirds Perform at NASA Kennedy Space Center",
+      "ai_summary": "The U.S. Air Force Thunderbirds drew a heart-shaped smoke trail in the sky near the Vehicle Assembly Building during the MAX POWER aerospace festival and air show at NASA’s Kennedy Space Center in Florida.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "d0db878e429d": {
+      "ai_title": "NASA Ames Highlights November 2026 Stars of the Month",
+      "ai_summary": "The NASA Ames Science Directorate has recognized three individuals for their contributions to space exploration and scientific research. Alyssa Villanueva, an engineer with Blue Marble in the Space Biosciences Division, was honored for her dedication and testing support on the LEIA team. Steve Howell received recognition for his leadership in scientific teams and astronomical instrumentation, which recently earned him the Catherine Wolfe Bruce Gold Medal. Samuel LeBlanc, a research scientist with the Bay Area Environmental Research Institute, was acknowledged for his technical leadership and innovative flight planning capabilities within the Earth Science Division.",
+      "content_source": "article",
+      "flow": [
+        "Identify outstanding contributions within space biosciences, astrophysics, and earth science divisions.",
+        "Recognize Alyssa Villanueva for engineering validation testing on the LEIA team.",
+        "Acknowledge Steve Howell for astronomical instrumentation leadership and the Catherine Wolfe Bruce Gold Medal.",
+        "Honor Samuel LeBlanc for advancing NASA airborne science flight planning capabilities."
+      ]
+    },
+    "486ac15ec957": {
+      "ai_title": "Magnitude 4.5 Earthquake Hits Near Bitung, Indonesia",
+      "ai_summary": "A magnitude 4.5 earthquake struck 115 kilometers east-southeast of Bitung, Indonesia, on November 12, 2026, at 14:58 UTC. The earthquake registered a depth of approximately 39 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "a29bc3111cdc": {
+      "ai_title": "Study Finds Gene Importance Does Not Predict Mutation Rates",
+      "ai_summary": "Recent claims suggest that mutation is not entirely random, with arguments proposing that essential genes or those needed for rapid adaptation are protected or given higher mutation rates based on factors like gene importance and strand location. To evaluate these theories, researchers analyzed mutation accumulation data for wild-type Escherichia coli and Saccharomyces cerevisiae using a multiple parameter-controlled approach. The analysis accounted for protein levels, essentiality, transcription rates, and replication strands. The results showed nearly uniformly unsupportive trends that varied between species and exhibited negligible effect sizes. Highly essential or abundant proteins did not display lower mutation rates, and strand differences were absent in E. coli and other prokaryotes. Ultimately, the findings indicate that gene importance does not predict mutation rates, supporting the traditional view of mutation as a random process.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "4bf1dc8ef7d6": {
+      "ai_title": "Mice Use Sound Statistics and Interneurons to Detect Targets in Noise",
+      "ai_summary": "Detecting specific sounds within natural background noise like rain or wind remains a major challenge. While humans can leverage the statistical predictability of such sound textures, the underlying neural mechanisms are poorly understood. Researchers trained mice to detect vocalizations embedded in sound textures with varying statistical predictability while monitoring and modulating neural activity in the auditory cortex. The experiments revealed that mice perform better and show improved neural encoding when given more time to sample sound statistics per trial, or when listening to textures with higher cross-frequency correlations. Additionally, optogenetic activation of parvalbumin-positive interneurons played a crucial role in temporal integration, yielding asymmetric effects on detection depending on acoustic context. The study demonstrates that mice successfully exploit stimulus statistics to isolate sounds in noise.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "8f759d54a4d0": {
+      "ai_title": "Category Learning Drives Attentional Gain in the Auditory Cortex",
+      "ai_summary": "Humans and animals develop cognitive specializations to process complex signals, such as voices that convey words alongside cues about identity and internal state. Expert perception requires discovering regularities and flexibly weighting information as task demands shift. Researchers investigated whether this process involves attentional gain by employing auditory category learning tasks where participants categorized novel soundscapes by alien identity and size. Using functional MRI, the team observed whether participants prioritized frequency bands diagnostic for identity. Only participants who achieved expert-level identity categorization showed neural prioritization of the diagnostic frequency band. This neural selectivity mirrored patterns driven by explicit, sustained selective attention to pure tones. The findings indicate that learning complex categories can directly drive attentional gain toward the specific input dimensions that are most diagnostic for the task.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "05285a770725": {
+      "ai_title": "Kelp Species Adjust Reproduction Strategy Based on Environmental Cues",
+      "ai_summary": "Many organisms alternate between distinct life stages and can switch between sexual and asexual reproduction, though the mechanisms coordinating these choices remain unclear. Researchers explored the molecular basis of life stage identity and reproductive modes in the kelp Laminaria pallida by combining gene expression analyses, developmental experiments, and population-level approaches. The study shows that asexual reproduction in this kelp is linked to endoreduplication and reduced fitness, and while it is preserved in natural populations, it is rarely expressed. Crucially, the presence of potential mating partners actively reduces asexual development, demonstrating that the kelp adjusts its reproductive mode depending on available opportunities. This conditional strategy allows asexual reproduction to serve as a backup when mates are scarce, while preserving the long-term benefits of sexual reproduction when partners are accessible.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "6dfbb8fa6cab": {
+      "ai_title": "Decomposing Bacterial Pangenomes into Additive Gene Modules",
+      "ai_summary": "Bacterial pangenomes combine vertically inherited chromosomes with horizontally acquired mobile elements, creating complex architectures that traditional phylogenetic methods struggle to resolve. To address this, researchers utilized non-negative matrix factorization to decompose the accessory pangenome of 1,398 Staphylococcus aureus genomes into 24 additive gene modules called phylons. This framework cleanly separates lineage-defining components from mobile genetic elements with high accuracy and precision. The additive representation successfully recovered known biological structures and uncovered new insights, such as horizontal transfer events linking pandemic lineages. The approach also accurately discriminated host origins and antibiotic resistance profiles without retraining, while external validations on independent assemblies demonstrated robust performance. This organism-agnostic framework offers a scalable way to dissect the modular architecture of bacterial pangenomes.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "35983767dac7": {
+      "ai_title": "Updated GapMind Tool Enhances Prokaryotic Amino Acid Pathway Analysis",
+      "ai_summary": "Researchers have updated the automated web-based tool GapMind to better annotate amino acid biosynthesis pathways in archaeal and bacterial genomes. By combining comparative genomics and high-throughput genetics, the team identified candidate genes to fill previously unknown metabolic gaps and verified the activity of ten new enzymes using cross-species complementation assays. Notable additions include a new route to glycine via glyoxylate, alternative enzymes for phosphoserine phosphatase, N-succinyl-L,L-diaminopimelate desuccinylase, N-acetylornithine deacetylase, and a putative bifunctional MetB/MetC. Following these updates, the average number of unexplained missing steps in amino acid biosynthesis across 208 high-quality prokaryotic genomes dropped significantly from 1.4 to 0.7 per genome. The remaining gaps are predominantly tied to the gain or loss of phosphate groups.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "5a4ccca77b41": {
+      "ai_title": "Fish Virus Protein Exploits FTR86 to Inhibit Innate Immunity",
+      "ai_summary": "Researchers explored the role of the fish-specific TRIM subfamily protein EcFTR86 during Singapore grouper iridovirus infection. They found that EcFTR86 localizes to lysosomes and is heavily upregulated in grouper spleen cells during viral infection. Overexpressing EcFTR86 promoted viral replication, while knocking it down reduced infection, confirming its role as a pro-viral factor. Mechanistically, EcFTR86 negatively regulated type I interferon signaling by triggering the autophagic degradation of the STING-TBK1 axis, a process mediated by the cargo receptor Tollip. Furthermore, the viral protein VP018 interacted with EcFTR86 to accelerate this targeted degradation and suppress the host interferon response.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "3fb276d70cc2": {
+      "ai_title": "Correction Published for Study on Intestinal Organoids and Lipopolysaccharide",
+      "ai_summary": "A correction has been issued for a research paper exploring lipopolysaccharide-induced changes in barrier integrity and inflammatory signaling within porcine small intestinal organoids, noting that S1 Table was originally uploaded incorrectly.",
+      "content_source": "article",
+      "flow": []
+    },
+    "85cc893e95e9": {
+      "ai_title": "Study Links Social Media Integration to PTSD Symptoms Among South African Students",
+      "ai_summary": "A cross-sectional study of 491 South African university students investigated how social media integration relates to PTSD-consistent symptomatology, with a focus on problem-solving appraisals and perceived social support. The findings indicate that higher social media integration correlates positively with increased PTSD symptom severity across multiple clusters. Conversely, effective problem-solving appraisals and perceived social support appear to act as protective factors. Problem-solving partially mediated the link between social media use and symptom severity, while social support moderated several specific symptom dimensions. Researchers suggest that interventions bolstering coping strategies and social networks could help mitigate trauma-related distress among frequent social media users.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "4dcc5410679f": {
+      "ai_title": "Study Examines Myeloid Transcriptional Programs and Ex Vivo Sensitivity in ARDS",
+      "ai_summary": "Acute respiratory distress syndrome (ARDS) is biologically diverse, prompting researchers to investigate how myeloid transcriptional programs relate across blood and lung compartments. The study evaluated whether a pre-specified neutrophil degranulation program and a perturbation-response module provide convergent evidence across public cohorts. Utilizing patient samples, purified neutrophil comparisons, and ex vivo treatments, researchers assessed gene coexpression networks and cellular responses. Results showed that the neutrophil degranulation program increased consistently in ARDS patients, rose after granulocyte-macrophage colony-stimulating factor exposure, and decreased following broad PI3K inhibition. However, the findings support an ARDS-associated myeloid effector program rather than establishing a prognostic signature, a causal outcome mechanism, or targeted therapeutic efficacy.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "2f78230f7e6c": {
+      "ai_title": "Study Links Social Media Dietary Habits and Behavioral Constructs in University Students",
+      "ai_summary": "University students frequently encounter nutrition information, peer norms, and food marketing on digital platforms, yet research connecting these exposures to Integrated Behavioral Model constructs remains limited. A cross-sectional study of 385 undergraduates at King Khalid University investigated these dynamics using an Arabic questionnaire on social media and dietary habits. The findings revealed that all model constructs were positively correlated with dietary habits. Multiple linear regression indicated that positive attitudes, regular physical activity, and moderate daily social media use of up to four hours were associated with higher dietary habit scores. These results highlight that behavioral beliefs and lifestyle contexts can inform digital nutrition programs aimed at young adults.",
+      "content_source": "source_text",
+      "flow": [
+        "Recruit 385 university undergraduates using convenience sampling between February and April 2026.",
+        "Administer the Arabic IBM-based Social Media and Dietary Habits Questionnaire.",
+        "Perform descriptive statistics, correlation analyses, and multiple linear regressions on the collected data.",
+        "Adjust regression coefficient p-values using the Holm-Bonferroni procedure across tested coefficients."
+      ]
+    },
+    "2d927e8c62a8": {
+      "ai_title": "Researchers Find Evidence of Cretaceous Strandline Deposit in Wyoming's Lance Formation",
+      "ai_summary": "Excavations at the Hanson Ranch within the Maastrichtian Lance Formation of Wyoming have historically uncovered tens of thousands of disarticulated vertebrate fossils across various bonebeds. Recently, however, seven newly discovered quarries yielded associated remains of multiple dinosaur taxa, including Triceratops, Edmontosaurus, Thescelosaurus, and Anzu, in a configuration previously unseen at the site. These quarries align along a southeasterly direction, matching the orientation of long axes in many elongate bones found within the deposits. The preservation of associated skeletal elements indicates that soft-tissue connections or integumentary containment remained intact during transport and burial. Scientists conclude that these encapsulated, floating carcasses were stranded along a shoreline of the Western Interior Seaway.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "d4dcef319ab8": {
+      "ai_title": "New Multiplex Real-Time PCR Assay Detects Parasites Directly in Canid Feces",
+      "ai_summary": "Echinococcus multilocularis and Echinococcus granulosus sensu lato cause alveolar and cystic echinococcosis, posing significant public health concerns. Traditional diagnostic methods like copromicroscopy are labor-intensive and require specialized personnel, while certain molecular assays lack adequate sensitivity or specificity. To address these limitations, researchers developed a real-time PCR assay utilizing species-specific probes to detect both parasites directly from domestic and wild canid fecal samples. The protocol demonstrated high analytical performance, achieving a limit of detection of a single egg per reaction and 100% specificity for both species. By extracting DNA directly from feces and eliminating sequencing requirements through specific probes, the method significantly reduces laboratory processing time and expenses during wildlife surveillance.",
+      "content_source": "source_text",
+      "flow": [
+        "Collect fresh canid fecal samples during field surveillance activities.",
+        "Extract DNA directly from the collected fecal material without standard scraping procedures.",
+        "Perform multiplex real-time PCR using species-specific probes for target parasites.",
+        "Evaluate analytical performance by estimating the limit of detection and assay specificity."
+      ]
+    },
+    "9a6e86cb09a1": {
+      "ai_title": "Study Explores Physiological and Cognitive Responses to Watching Long Videos",
+      "ai_summary": "As online learning and conferences expand, understanding how prolonged video viewing impacts psychological states and physiological regulation becomes increasingly important. Researchers evaluated autonomic nervous system and hypothalamo-pituitary-adrenal axis activities while twenty-six university students watched 90-minute high-interest comedy videos and low-interest lecture videos. Participants provided subjective ratings and submitted saliva samples for stress markers, while heart rate and heart rate variability were monitored. Subjective concentration, comprehension, and interest scores were significantly higher during the high-interest video, whereas fatigue was lower. Physiological metrics showed distinct temporal variations in heart rate and heart rate variability across time, and salivary cortisol decreased throughout viewing, though stress indicators like amylase showed no significant changes.",
+      "content_source": "source_text",
+      "flow": []
     }
   }
 }
