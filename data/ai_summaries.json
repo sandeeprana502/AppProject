@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T05:56:41.344453+00:00",
+  "generated": "2026-11-12T14:43:09.363168+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2703,6 +2703,93 @@
       "ai_summary": "A retrospective clinical cohort study investigated predictive factors for the risk of chronic evolution in Vogt–Koyanagi–Harada disease one month after pulse steroid therapy. Evaluating 121 eyes from 61 treatment-naïve patients, researchers categorized outcomes based on fundus results at 12 months. Multivariable and receiver operating characteristic curve analyses revealed that lower best-corrected visual acuity and increased corneal thickness at one month significantly correlate with subsequent development of sunrise-glow fundus. Determining these optimal cut-off values can help clinicians design more targeted therapeutic strategies for patients with acute Vogt–Koyanagi–Harada disease.",
       "content_source": "source_text",
       "flow": []
+    },
+    "2757e2f27173": {
+      "ai_title": "PLOS One Retracts Study on Hydrogen and Atrial Fibrillation Due to Image Concerns",
+      "ai_summary": "PLOS One has retracted a 2025 article examining the effects of hydrogen on AngII-induced atrial fibrillation and fibrosis. The decision follows concerns raised about panel overlaps across multiple figures, unauthorized reuse of previously published images from other sources without proper citation, and underlying dataset integrity issues. The first author attributed the errors to issues during image selection and figure assembly, but editorial assessments determined the explanations and provided data did not resolve the reliability concerns. All authors agreed with the retraction.",
+      "content_source": "article",
+      "flow": [
+        "Identify image overlaps and potential duplicate publication across figures",
+        "Request explanations, corrections, and original data from the authors",
+        "Evaluate the submitted data and determine that integrity concerns remain unresolved",
+        "Retract the article with the agreement of all authors"
+      ]
+    },
+    "e2f6c18250ec": {
+      "ai_title": "Study Analyzes Spatiotemporal Evolution of Organic Agriculture in Shandong",
+      "ai_summary": "Researchers investigated the spatiotemporal evolution and driving mechanisms of enterprise-led organic agriculture across 16 prefecture-level cities in Shandong Province, China, from 2014 to 2023. Using spatial statistical analysis, Local Moran's I, and two-way fixed-effects regression, the study revealed that certified organic production bases expanded significantly but became increasingly concentrated, establishing a core-periphery structure centered on the Jiaodong Peninsula. The findings indicate that factors such as transportation infrastructure, e-commerce connectivity, and geographical indication-protected products are positively associated with base expansion. Conversely, fiscal expenditure showed a negative association, likely pointing to compensatory policy allocations directed toward less-developed regions. Overall, the research highlights a layered Pressure-Transformation-Support-Market mechanism driving sustainable agricultural development.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "75329e253624": {
+      "ai_title": "Study Evaluates Machine Learning Model for Elephant Hospitalization Outcomes",
+      "ai_summary": "Researchers evaluated a random forest model designed to classify hospitalization outcomes for Asian elephants using data collected in 2025 across three Thai wildlife hospitals. The evaluation included temporal validation at the original development center alongside institutional validation at two additional facilities. Tested on a final cohort of 237 hospitalization episodes from 215 elephants, the model achieved an overall accuracy of 0.793 and a macro-averaged balanced accuracy of 0.732. Performance was notably stronger for ongoing and recovered cases compared to deceased cases, which were limited in number and created uncertainty. Because the model relies on length of stay as a predictor, it functions as a hospitalization-course classifier rather than an admission-time prognostic tool. Investigators emphasize that the modest performance improvements and reliance on duration data mean the findings require cautious interpretation before any routine clinical adoption.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "3e0fbb13e394": {
+      "ai_title": "Study Examines Sports Heritage and Tourism Coordination in China's Wuling Mountain Area",
+      "ai_summary": "Researchers analyzed the spatiotemporal patterns and county-level coordination between sports-related intangible cultural heritage and tourism development in China's Wuling Mountain Area. Examining 71 county-level units across specific years from 2010 to 2024, the study utilized geographical concentration indices, kernel density estimation, entropy weighting, and coupling coordination models. The findings show that while sports-related heritage coverage expanded and geographical concentration declined, tourism development experienced rapid growth prior to 2019 followed by slower increases, maintaining a clear core-periphery structure. The joint level between heritage and tourism rose over time, largely driven by newly added counties entering the official inventory, though heritage-lagging counties remained predominant. The results provide insights for cross-provincial regional safeguarding and tourism planning in ethnically diverse mountain regions.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "e8dad5c8e21c": {
+      "ai_title": "Hubble Gravitational Lenses Prepare Ground for Roman Space Telescope",
+      "ai_summary": "A new gallery of gravitational lenses captured by the Hubble Space Telescope highlights diverse cosmic formations that will serve as targets for the upcoming Nancy Grace Roman Space Telescope. Gravitational lensing happens when a massive foreground object bends and magnifies the light of a distant background object. Researchers use these distorted light patterns to study mass distribution and dark matter. While Hubble excels at high-resolution images of individual lenses, Roman will capture broader cosmic panoramas. Combining data from both observatories allows scientists to build precise lens models, detect small dark matter clumps, and improve understanding of galaxy evolution.",
+      "content_source": "article",
+      "flow": []
+    },
+    "8dfedd22892e": {
+      "ai_title": "NASA Photographers Reflect on Final Space Shuttle Endeavour Flight",
+      "ai_summary": "As the Samuel Oschin Air and Space Center at the California Science Center prepares to open an exhibit displaying the space shuttle Endeavour upright in launch position, NASA photographers are looking back at its final ferry flight on September 21, 2012. Millions watched as the shuttle flew atop a 747 carrier aircraft over major California landmarks. NASA team members engaged in extensive planning with local agencies, police departments, and aviation authorities to design a safe and scenic flight path. Photographers and videographers flew in escort fighter jets and police helicopters to document the historic journey, capturing iconic images of the spacecraft's farewell tour across the state.",
+      "content_source": "article",
+      "flow": []
+    },
+    "fe23cba2d4d0": {
+      "ai_title": "Magnitude 4.5 Earthquake Strikes Off Oregon Coast",
+      "ai_summary": "A magnitude 4.5 earthquake occurred off the coast of Oregon on November 12, 2026, at 08:17 UTC. The seismic event took place at a depth of roughly 10 kilometers. Agency data and safety details remain subject to review and updates.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "2b0af505743c": {
+      "ai_title": "Correction Issued for Aluminum Chip Recycling Study",
+      "ai_summary": "The journal PLOS ONE published a correction for a study regarding the optimization of strength in recycled aluminum chip parts via sustainable hot forging. The update amends the abstract to specify the optimal conditions for maximum ultimate tensile strength as 550 degrees Celsius, 120 minutes, and 15.4 square millimeters per cubic millimeter. Additionally, the correction replaces incorrect percentage-error values found in Table 11 of the original publication. The research continues to be distributed under an open access creative commons license.",
+      "content_source": "article",
+      "flow": [
+        "Identify errors within the published study's abstract and data tables.",
+        "Determine the correct parameters for the optimization process and artificial neural network error values.",
+        "Publish an official correction notice detailing the updated abstract sentence and Table 11 data."
+      ]
+    },
+    "4adaa2671a91": {
+      "ai_title": "PLOS One Retracts Study on Mangiferin and Hepatic Damage Due to Image Concerns",
+      "ai_summary": "PLOS One has retracted a 2013 paper examining the protective effects of mangiferin against liver damage after concerns were raised regarding repetitive clusters and unexpected similarities across multiple figures and panels. The corresponding author acknowledged some FACS similarities and attributed another overlap to a figure preparation error, but could not provide original raw data files. Without underlying data to resolve these integrity concerns, the journal decided to retract the article, drawing mixed agreements from the authors.",
+      "content_source": "article",
+      "flow": [
+        "Identify repetitive clusters and unexpected similarities across multiple figures",
+        "Request original raw data and explanations from the corresponding author",
+        "Evaluate the unresolvable data absence and issue a formal retraction"
+      ]
+    },
+    "23313e4d29f1": {
+      "ai_title": "Study Examines Impact of Concurrent Cognitive Tasks on Drop Jump Performance",
+      "ai_summary": "This study investigated how a concurrent cognitive task affects force-time metrics and reliability during drop jumps. Thirty-five healthy participants performed single-task and dual-task drop jumps in a randomized order. Results showed that performing a cognitive task concurrently reduced jump height and the reactive strength index while lengthening ground contact time. Additionally, vertical ground reaction force decreased during braking and propulsion phases and varied during landing. These findings indicate that cognitive loads alter force production and landing mechanics during explosive physical movements.",
+      "content_source": "source_text",
+      "flow": [
+        "Recruit healthy participants to perform drop jump trials under single-task and dual-task conditions",
+        "Collect force-time metrics and vertical ground reaction force waveforms during testing",
+        "Compare metrics between conditions using paired t-tests, Bayesian analysis, and statistical parametric mapping"
+      ]
+    },
+    "170cdb629529": {
+      "ai_title": "Computational Study Identifies Promising SARS-CoV-2 Protease Inhibitors",
+      "ai_summary": "Researchers used a multiscale computational strategy to evaluate chromone-phenyl-tetrazole hybrids as potential non-covalent inhibitors of the SARS-CoV-2 main protease. The evaluated compounds demonstrated favorable oral drug-like properties and manageable predicted acute toxicity profiles. Among the tested candidates, M2 exhibited the highest computed binding affinity driven by dispersion forces, while M4 showed direct catalytic engagement through key anchoring sites. Density functional theory and related analyses highlighted favorable electronic characteristics, suggesting these compounds serve as valuable lead chemotypes for future experimental validation against the viral protease.",
+      "content_source": "source_text",
+      "flow": [
+        "Prioritize chromone-phenyl-tetrazole hybrids using a multiscale computational strategy",
+        "Assess binding stability, free-energy ranking, and electronic features using molecular modeling and DFT",
+        "Identify lead compounds M2 and M4 based on computed affinity and catalytic engagement"
+      ]
     }
   }
 }
