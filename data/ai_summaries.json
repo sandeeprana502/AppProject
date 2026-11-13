@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T13:59:31.541066+00:00",
+  "generated": "2026-11-13T21:14:24.783937+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2087,12 +2087,6 @@
       "content_source": "rss",
       "flow": []
     },
-    "e0e98f1430ae": {
-      "ai_title": "Magnitude 4.9 Earthquake Strikes South of Fiji Islands",
-      "ai_summary": "A magnitude 4.9 earthquake occurred south of the Fiji Islands on November 9, 2026, at 23:45 UTC. The seismic event took place at a depth of approximately 176 kilometers, with data subject to potential future revisions by monitoring agencies.",
-      "content_source": "rss",
-      "flow": []
-    },
     "2efbd66871b2": {
       "ai_title": "Perseverance Rover Detects Luminescent Minerals on Mars",
       "ai_summary": "NASA's Perseverance rover has been using its instrument suite, including SuperCam, to study ancient Martian rocks through spectroscopy and luminescence. During laser analyses of light-colored rocks in Jezero crater's rim terrain, the SuperCam team discovered narrow luminescence peaks driven by chromium atoms inside a corundum mineral structure. Because chromium-containing corundum is scientifically classified as ruby in its gemstone form, these findings point to tiny corundum crystals on Mars. Although collectable gems have not been recovered, the mineral presence indicates local metamorphism caused by ancient, massive asteroid or meteorite impacts on a planet that typically lacks plate tectonics.",
@@ -2472,12 +2466,6 @@
     "2e40a09420f9": {
       "ai_title": "Magnitude 5.1 Earthquake Hits Near Papua New Guinea",
       "ai_summary": "On November 11, 2026, at 17:38 UTC, a magnitude 5.1 earthquake was registered 80 kilometers west of Panguna, Papua New Guinea. The seismic event occurred at a depth of about 59 kilometers.",
-      "content_source": "rss",
-      "flow": []
-    },
-    "5dfda6e61ebc": {
-      "ai_title": "Earthquake of Magnitude 5.1 Measured in South Sandwich Islands",
-      "ai_summary": "A magnitude 5.1 earthquake occurred in the South Sandwich Islands region on November 11, 2026, at 15:39 UTC. The depth of the event was estimated at about 105 kilometers.",
       "content_source": "rss",
       "flow": []
     },
@@ -2978,6 +2966,120 @@
       "ai_title": "Exploring NGC 206 Within the Andromeda Galaxy",
       "ai_summary": "NASA's Astronomy Picture of the Day features NGC 206, a massive stellar association located inside the spiral Andromeda galaxy, situated roughly 2.5 million light-years away. Spanning approximately 4,000 light-years, NGC 206 is characterized by bright, young blue stars that are less than 10 million years old. The region resides within the dusty spiral arms alongside pinkish star-forming areas. This immense stellar grouping is significantly larger than typical open clusters found within the Milky Way disk, matching the scale of giant star-forming nebulae like NGC 604 in the M33 galaxy and the Tarantula Nebula.",
       "content_source": "article",
+      "flow": []
+    },
+    "b5d52ec7d6a9": {
+      "ai_title": "Magnitude 4.8 Quake Strikes Near Kavieng, Papua New Guinea",
+      "ai_summary": "An earthquake measuring 4.8 in magnitude occurred northwest of Kavieng, Papua New Guinea, on November 13, 2026. The tremor struck at a depth of 10 kilometers at 19:49 UTC, with potential for data revisions by monitoring agencies.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "0313bcb7a332": {
+      "ai_title": "Magnitude 4.5 Earthquake Registered Near Chaparral, Colombia",
+      "ai_summary": "On November 13, 2026, at 19:43 UTC, a 4.5 magnitude earthquake hit west-southwest of Chaparral, Colombia. The seismic event registered at a depth of approximately 10 kilometers, and location details remain subject to ongoing data review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "dc15533728a9": {
+      "ai_title": "Magnitude 5.1 Tremor Detected in South Sandwich Islands Area",
+      "ai_summary": "A 5.1 magnitude earthquake shook the South Sandwich Islands region on November 13, 2026, at 19:04 UTC. The seismic event occurred at an approximate depth of 64 kilometers, with updates and maps available through the agency page.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "47d181e51d71": {
+      "ai_title": "Deep Magnitude 4.9 Earthquake Recorded South of Fiji",
+      "ai_summary": "A deep earthquake with a magnitude of 4.9 struck south of the Fiji Islands on November 13, 2026, at 18:55 UTC. The seismic event had a depth of about 563 kilometers, subject to further data analysis.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "3fa6e64b68c0": {
+      "ai_title": "NOAA Reports on U.S. Fisheries Status, Trends, and Economics",
+      "ai_summary": "NOAA Fisheries released information regarding the status, trends, and economic impacts of United States fisheries on November 13, 2026, providing imagery and data related to the fisheries sector.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "fffafa8c6220": {
+      "ai_title": "NOAA Explores Local Fishery Impacts from El Niño",
+      "ai_summary": "NOAA provides information and resources on how climate patterns driven by El Niño impact local fisheries, highlighting related research and data imagery.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "4f5b7dd9d7fc": {
+      "ai_title": "Magnitude 5.8 Earthquake Strikes Near Changuillo, Peru",
+      "ai_summary": "A 5.8 magnitude earthquake occurred approximately 79 kilometers west-southwest of Changuillo, Peru, at a depth of 10 kilometers, with a small number of people reporting mild tremors.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "1cbd2bca9bd5": {
+      "ai_title": "Astronomers Uncover Triggers of Volatile Star Outbursts",
+      "ai_summary": "Using NASA's Chandra X-ray Observatory, astronomers identified the trigger for repeated outbursts in AT 2016blu, a massive and unstable star located roughly 30 million light-years away in the galaxy NGC 4559.",
+      "content_source": "article",
+      "flow": []
+    },
+    "d98c03d13122": {
+      "ai_title": "Magnitude 4.8 Earthquake Hits Near Guaymate, Dominican Republic",
+      "ai_summary": "An earthquake measuring magnitude 4.8 struck 10 kilometers southwest of Guaymate, Dominican Republic, at a depth of 137 kilometers. About 25 residents reported feeling the shaking.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "7876cbc4192c": {
+      "ai_title": "Magnitude 5.2 Earthquake Recorded Northeast of Kuqa, China",
+      "ai_summary": "A magnitude 5.2 earthquake struck 79 kilometers northeast of Kuqa, China, at a depth of 10 kilometers, according to initial agency data.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "17ce9d884138": {
+      "ai_title": "Gemini Space Photos Sparked Earth Observation Programs",
+      "ai_summary": "During the final Gemini XII mission in November 1966, astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. captured photographs of Earth's surface from space. These images demonstrated the scientific value of orbital imagery and helped researchers make a strong case for dedicated Earth observation satellite programs. William T. Pecora, director of the United States Geological Survey, later noted that this Mercury and Gemini photography directly inspired the creation of the Earth Resources Observation Satellite program. That initiative ultimately paved the way for the Landsat program, which has spent over five decades providing essential global data for monitoring agriculture, wildfires, flooding, and other environmental changes.",
+      "content_source": "article",
+      "flow": []
+    },
+    "a3868e96091d": {
+      "ai_title": "Magnitude 5.2 Earthquake Strikes West Chile Rise",
+      "ai_summary": "A magnitude 5.2 earthquake occurred at the West Chile Rise on November 13, 2026, at 14:12 UTC. The seismic event struck at a depth of approximately 10 kilometers. Officials note that location and magnitude data may be updated as agencies continue reviewing the information.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "69649a6a4cac": {
+      "ai_title": "Children with Developmental Language Disorder Exhibit Impaired Low-Frequency Speech Tracking",
+      "ai_summary": "Researchers investigated whether automatic cortical tracking mechanisms are altered in children with developmental language disorder by recording magnetoencephalography while participants listened to a story. The study found that children with developmental language disorder exhibited significantly reduced speech-brain coherence in the 0.9 to 2.5 Hertz range, which is associated with prosodic information, particularly within the left supramarginal gyrus and bilateral auditory cortex. Reductions were also noted in the 2.5 to 5 Hertz range linked to syllabic-rate modulations. Furthermore, stronger low-frequency speech-brain coherence correlated with better language performance, indicating that these cortical tracking differences are behaviourally meaningful and relevant to language outcomes in developmental language disorder.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "73b0cc51889d": {
+      "ai_title": "Stoichiometric Objectives Influence Microbial Catabolism",
+      "ai_summary": "Microbial catabolism serves two primary functions: synthesizing charged energy carriers and producing carbon precursors. Understanding the relationship between these energetic and biosynthetic parameters remains a core challenge in microbiology. Researchers introduced an unbiased method to quantify stoichiometric relationships within genome-scale metabolic models across various heterotrophic species and growth conditions. The findings reveal that heterotrophic catabolism diversity stems from the entanglement of energy carrier charging and precursor synthesis. Acetyl-CoA emerged as the sole universal precursor across species, while ATP requirements for biomass varied widely. Maximal energetic efficiency is achieved by maximizing charged energy carrier yields during precursor synthesis while minimizing the demand for those carriers during macromolecule conversion.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "a7be39e7ad7f": {
+      "ai_title": "HandShake Predicts Protein Binding Sites Using Sequence Data Only",
+      "ai_summary": "Researchers have developed HandShake, a sequence-only predictor designed to identify partner-specific protein-protein binding sites and pairwise contact matrices. The tool integrates the ProstT5 protein language model with Low-Rank Adaptation, cross-chain attention, and a contact supervision head. Tested across various sequence identity thresholds, the authors found that sequence redundancy significantly inflates performance metrics like AUROC and MCC, highlighting a major methodological confound in computational biology. Even at a strict 30% redundancy threshold, HandShake outperformed previous sequence-only methods and matched the performance of techniques that rely on explicit three-dimensional structural information at test time.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "605150c9dfe0": {
+      "ai_title": "Genomic Analysis Reveals Extreme Diversity and Conserved Structure in Beetle Evolution",
+      "ai_summary": "A comprehensive study analyzing 190 chromosome-level genome assemblies across 39 beetle families has shed light on chromosomal evolution within the most species-rich animal order. The findings indicate that while beetle genomes vary greatly in size, chromosome count, and transposable element composition, ancestral linkage groups known as Stevens elements remain remarkably conserved across many lineages for over 200 million years. In contrast, groups like leaf beetles have undergone frequent chromosomal fusions and fissions. Additionally, the analysis identified neo-sex chromosomes in roughly 19.5% of the studied species, revealing a much higher frequency than previously estimated and establishing beetles as an ideal model for exploring chromosomal stability and rearrangement.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "2cc08f390391": {
+      "ai_title": "Antimicrobial Peptide Mutations Impact Sleep and Memory Differently in Drosophila",
+      "ai_summary": "Molecules involved in host defense can act independently as sleep regulators. Researchers examined mutants of various antimicrobial peptides in Drosophila to understand their roles in sleep and behavioral plasticity. AMP mutants generally slept less, exhibited longer sleep latency, and had lowered arousal thresholds. Notably, double mutants for the anti-fungal peptides Metchnikowin and Drosomycin showed the most severe sleep reductions and exaggerated sleep rebounds, yet retained normal learning, memory, and reduced synapse abundance. In contrast, other AMP mutants suffered concurrent memory impairments that could be reversed by enhancing sleep pharmacologically or behaviorally. These findings demonstrate that different antimicrobial peptides uniquely influence sleep modulation and its downstream cognitive outcomes.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "f391c0748759": {
+      "ai_title": "Small RNA Arp Regulates DNA Uptake and Motility in Acinetobacter baumannii",
+      "ai_summary": "Acinetobacter baumannii is an opportunistic pathogen capable of natural transformation driven by type IV pili, which facilitate horizontal gene transfer and antimicrobial resistance. While transcriptional control of these pili is studied, post-transcriptional mechanisms remained unexplored. Researchers identified a small RNA named Arp that acts as a post-transcriptional repressor of type IV pili functions. Through structural probing and reporter assays, the team demonstrated that Arp binds to the 5 prime end of the pilA mRNA, blocking the Shine-Dalgarno sequence and inhibiting translation. Deleting arp increased DNA uptake and twitching motility, whereas overexpressing Arp depleted pilA mRNA and severely impaired these phenotypes. This discovery highlights a regulatory layer that could potentially be targeted to impede antibiotic resistance spreading.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "d0d208d35bb1": {
+      "ai_title": "Parasite-Derived MicroRNA Suppresses Liver Fibrosis by Targeting Host Pathways",
+      "ai_summary": "Clonorchis sinensis is a food-borne parasite that promotes liver fibrosis in hosts by activating hepatic stellate cells. Researchers investigated the role of extracellular vesicles derived from the parasite and discovered that a specific microRNA, Csi-miR-71a, is significantly enriched in both these vesicles and infected host cells. Using cellular assays and a carbon tetrachloride-induced mouse model, the team demonstrated that overexpressing Csi-miR-71a suppresses fibrotic markers and alleviates liver damage. Bioinformatic and luciferase assays confirmed that Csi-miR-71a directly targets the Scube3 gene, which subsequently inhibits the TGF-beta/Smad and PI3K/AKT signaling pathways. These findings uncover a novel molecular mechanism of parasite-host communication that regulates host fibrosis responses.",
+      "content_source": "source_text",
       "flow": []
     }
   }
