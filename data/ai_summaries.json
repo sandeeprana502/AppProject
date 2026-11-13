@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T21:45:41.989606+00:00",
+  "generated": "2026-11-13T05:18:04.617907+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2622,12 +2622,6 @@
       "content_source": "article",
       "flow": []
     },
-    "2b7df4a6537a": {
-      "ai_title": "Captured Image Highlights Planetary Conjunction Over Poland",
-      "ai_summary": "Planets appear to wander across the night sky relative to fixed background stars, creating alignments known as conjunctions that follow precise celestial mechanics. A recently highlighted photograph taken in Poland features a crescent Moon positioned above the Tatra Mountains alongside bright Venus lower on the horizon. To the left of Venus lies Spica, a prominent star in the constellation Virgo. Discovered to be a binary star in 1890, recent findings from earlier this year indicate that Spica is actually a triple star system consisting of massive blue stars.",
-      "content_source": "source_text",
-      "flow": []
-    },
     "f22505492ce1": {
       "ai_title": "Magnitude 4.6 Earthquake Strikes Near Gyalshing, India",
       "ai_summary": "A magnitude 4.6 earthquake occurred approximately 73 kilometers north-northwest of Gyalshing, India, on November 11, 2026, at 23:00 UTC. The seismic event took place at a depth of about 10 kilometers, and roughly four people reported feeling the tremor.",
@@ -2918,6 +2912,36 @@
       "ai_title": "Study Explores Physiological and Cognitive Responses to Watching Long Videos",
       "ai_summary": "As online learning and conferences expand, understanding how prolonged video viewing impacts psychological states and physiological regulation becomes increasingly important. Researchers evaluated autonomic nervous system and hypothalamo-pituitary-adrenal axis activities while twenty-six university students watched 90-minute high-interest comedy videos and low-interest lecture videos. Participants provided subjective ratings and submitted saliva samples for stress markers, while heart rate and heart rate variability were monitored. Subjective concentration, comprehension, and interest scores were significantly higher during the high-interest video, whereas fatigue was lower. Physiological metrics showed distinct temporal variations in heart rate and heart rate variability across time, and salivary cortisol decreased throughout viewing, though stress indicators like amylase showed no significant changes.",
       "content_source": "source_text",
+      "flow": []
+    },
+    "26e1ce34d009": {
+      "ai_title": "Magnitude 4.7 Earthquake Strikes Near Labuan Lombok, Indonesia",
+      "ai_summary": "An earthquake measuring magnitude 4.7 struck 27 kilometers north-northeast of Labuan Lombok, Indonesia, on November 13, 2026. The tremor occurred at a depth of 10 kilometers at 04:49 UTC, with potential for revisions as data is reviewed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "997ef1b85fc4": {
+      "ai_title": "Moderate Earthquake Hits Northern Mariana Islands Region",
+      "ai_summary": "The USGS recorded a magnitude 4.9 earthquake in the Pagan region of the Northern Mariana Islands on November 13, 2026, at 02:55 UTC. The seismic event struck at a depth of approximately 220 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "f314a3e18a62": {
+      "ai_title": "Deep Magnitude 4.5 Earthquake Recorded East of Levuka, Fiji",
+      "ai_summary": "A magnitude 4.5 earthquake struck 278 kilometers east of Levuka, Fiji, on November 13, 2026, at 02:26 UTC. The seismic event occurred at a significant depth of about 527 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "11488352eca7": {
+      "ai_title": "Magnitude 5.0 Earthquake Strikes Democratic Republic of the Congo",
+      "ai_summary": "A magnitude 5.0 earthquake was detected 85 kilometers west of Mwene-Ditu in the Democratic Republic of the Congo on November 13, 2026. The tremor struck at a depth of 10 kilometers at 01:12 UTC.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "950a385a26a0": {
+      "ai_title": "Magnitude 5.1 Earthquake Shakes Southern Greece",
+      "ai_summary": "A magnitude 5.1 earthquake occurred 39 kilometers south of Moíres, Greece, on November 13, 2026, at 00:05 UTC. The tremor had a depth of about 43 kilometers and was reported felt by approximately two people.",
+      "content_source": "rss",
       "flow": []
     }
   }
