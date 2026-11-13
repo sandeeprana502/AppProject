@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T05:18:04.617907+00:00",
+  "generated": "2026-11-13T13:59:31.541066+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2942,6 +2942,42 @@
       "ai_title": "Magnitude 5.1 Earthquake Shakes Southern Greece",
       "ai_summary": "A magnitude 5.1 earthquake occurred 39 kilometers south of Moíres, Greece, on November 13, 2026, at 00:05 UTC. The tremor had a depth of about 43 kilometers and was reported felt by approximately two people.",
       "content_source": "rss",
+      "flow": []
+    },
+    "17b6995f9ce6": {
+      "ai_title": "Global Satellite Data Reveals Surprising Recovery of Mangrove Forests",
+      "ai_summary": "After decades of widespread loss, global mangrove forests have experienced an unexpected rebound. Researchers analyzing Landsat satellite imagery from 1984 to 2023 discovered that while nearly 3,000 square kilometers of mangroves were lost between 1984 and 2010, the trend reversed around 2010. Since then, the world has seen an increase of nearly 2,000 square kilometers of mangroves, alongside denser canopies indicating healthier ecosystems. About two-thirds of this expansion stems from natural colonization, while the remaining third is attributed to restoration and regrowth. Regions like Southeast Asia, South America, and Australia led the comeback, driven by stronger legal protections, post-tsunami awareness, sediment deposition, and abandoned agricultural fields being reclaimed by nature. However, experts warn that localized losses continue due to tropical cyclones and human activity, meaning ongoing conservation remains critical.",
+      "content_source": "article",
+      "flow": []
+    },
+    "023ee232c1df": {
+      "ai_title": "Moderate Earthquake Strikes Near Houma, Tonga",
+      "ai_summary": "On November 13, 2026, a 4.8 magnitude earthquake struck 59 kilometers west-southwest of Houma, Tonga, at a depth of approximately 163 kilometers. Agency officials note that data may be subject to future revisions.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9b70e40b5153": {
+      "ai_title": "Earthquake Measures 4.9 Near Loyalty Islands",
+      "ai_summary": "A 4.9 magnitude earthquake occurred southeast of the Loyalty Islands on November 13, 2026. The tremor struck at a shallow depth of about 10 kilometers, with ongoing data review by monitoring agencies.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "b9910d37f95d": {
+      "ai_title": "Magnitude 4.6 Quake Registered Near Barcelona, Philippines",
+      "ai_summary": "An earthquake with a magnitude of 4.6 was detected 84 kilometers east of Barcelona, Philippines, on November 13, 2026. The seismic event occurred at a depth of roughly 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "812fe75d732a": {
+      "ai_title": "4.6 Magnitude Tremor Recorded Close to Río Grande, Panama",
+      "ai_summary": "On November 13, 2026, a 4.6 magnitude earthquake hit 18 kilometers west-northwest of Río Grande, Panama. The tremor originated at a depth of about 10 kilometers, according to initial agency reports.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "03c2d7073afe": {
+      "ai_title": "Exploring NGC 206 Within the Andromeda Galaxy",
+      "ai_summary": "NASA's Astronomy Picture of the Day features NGC 206, a massive stellar association located inside the spiral Andromeda galaxy, situated roughly 2.5 million light-years away. Spanning approximately 4,000 light-years, NGC 206 is characterized by bright, young blue stars that are less than 10 million years old. The region resides within the dusty spiral arms alongside pinkish star-forming areas. This immense stellar grouping is significantly larger than typical open clusters found within the Milky Way disk, matching the scale of giant star-forming nebulae like NGC 604 in the M33 galaxy and the Tarantula Nebula.",
+      "content_source": "article",
       "flow": []
     }
   }
