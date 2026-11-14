@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T21:14:24.783937+00:00",
+  "generated": "2026-11-14T05:07:13.056996+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -79,33 +79,6 @@
         "Train the shared Transformer denoising model.",
         "Generate protein sequences using classical reverse diffusion.",
         "Produce biologically active proteins across distinct families."
-      ]
-    },
-    "6f0b6e3414e3": {
-      "summary": "Researchers investigated how inhibiting PIP5K enzymes influences the production of PIP3 and lipid species in human MCF10A cells. Using genetic knockout, siRNA, chemical inhibitors, and lipidomics, the team found that MCF10A cells express only the PIP5Kα and PIP5Kγ isoforms. Reducing or removing either isoform genetically did not alter total levels or acyl chain profiles of phosphoinositides in EGF-stimulated cells. However, chemical inhibition of PIP5Ks decreased PIP2 and EGF-stimulated PIP3 levels while increasing PIP levels, without shifting acyl chain profiles. This chemical inhibition also reduced the phosphorylation of Akt, Epidermal Growth Factor Receptor (EGFR), and MAPK. Additionally, using a selective PI3Kα inhibitor blocked PIP3 accumulation and reduced Akt and MAPK phosphorylation without altering total EGFR or its phosphorylation. These results suggest cross-talk between class I PI3K and MAPK pathways in EGF-stimulated cells.",
-      "flow": [
-        "PIP5K enzymes are chemically inhibited in cells.",
-        "PIP2 and EGF-stimulated PIP3 levels decrease.",
-        "Intracellular PIP levels increase.",
-        "Phosphorylation of Akt, EGFR, and MAPK drops."
-      ]
-    },
-    "cf8b0ab018e2": {
-      "summary": "A study examined potential gender differences among 81 adult patients (37 females and 44 males) with skeletal Class III malocclusion undergoing pre-surgical orthodontic preparation for orthognathic surgery. Participants completed a 27-item questionnaire assessing demographics, problem awareness, functional and psychosocial factors, motivations, expectations, and treatment engagement. Initially, seven item-level differences between genders met an unadjusted significance threshold. However, none of these differences remained statistically significant after applying false discovery rate adjustments. The strongest exploratory findings involved differences in social self-confidence, perceived adequacy of information, and pre-operative satisfaction. Because the study was not originally designed or powered to detect gender differences, the non-significant outcomes do not prove that male and female patients share identical experiences. The authors emphasize that these exploratory findings require confirmation through larger, adequately powered, multi-center longitudinal research."
-    },
-    "fa88b42e5a1a": {
-      "summary": "Researchers analyzed 171,637 international trade records from 1975 to 2024 covering 129 carnivore species listed under CITES to evaluate trade patterns and ecological drivers of extinction risk. Global trade volumes were dominated by exports from North America and Europe, with imports primarily concentrated in East Asia. Statistical modeling revealed that specific ecological traits significantly influence extinction risk among these traded species. Species characterized by longer generation lengths and greater dispersal distances faced a higher risk of extinction. Conversely, species with broader habitat breadth showed a lower risk of extinction. When comparing carnivore families against Canidae, only Ursidae displayed significantly higher odds of being threatened. These findings demonstrate that ecological traits correlate with extinction risk in internationally traded carnivores, supporting trait-based methodologies to enhance wildlife conservation assessments and monitoring."
-    },
-    "d4114c1c36d8": {
-      "summary": "A systematic review examined eleven studies encompassing 19,005 adult patients to assess nurse-led hypertension interventions in primary healthcare facilities across low- and middle-income countries. Ten of the reviewed studies utilized multicomponent interventions. The review found that nurse-led strategies effectively improved blood pressure control among adults. A majority of studies reporting systolic outcomes observed a mean systolic blood pressure reduction exceeding 10 mmHg, while all studies measuring diastolic outcomes reported reductions ranging from 1.8 to 20.6 mmHg. However, retention in care varied widely across different metrics, with appointment attendance ranging between 12.6% and 96.5% and routine clinical retention between 27.0% and 62.8%. Evidence regarding medication adherence remained limited and inconsistent. The authors conclude that while nurse-led interventions are promising for controlling blood pressure in these regions, future research must adopt standardized definitions and robust methodologies."
-    },
-    "363abcbdb63b": {
-      "summary": "Researchers investigated the plant Rumex crispus to identify potential antiviral treatments against human coronavirus OC43. They prepared an ethanol extract from Rumex crispus roots and fractionated it into n-hexane, ethyl acetate, and aqueous components. Testing through Western blot, qRT-PCR, and plaque assays demonstrated that both the n-hexane and ethyl acetate fractions possessed significant antiviral activity against the virus. High-performance liquid chromatography analysis of the plant extract led to the identification of epicatechin, naphthalene derivatives, and various anthraquinones. Notably, the anthraquinone emodin displayed strong antiviral action and was found to be concentrated within the active n-hexane and ethyl acetate fractions. These results indicate that emodin contributes significantly to the antiviral effects of Rumex crispus extract, though additional bioactive components within the plant may also play a role.",
-      "flow": [
-        "Ethanol extract of Rumex crispus roots is prepared.",
-        "The extract is fractionated into multiple solvent portions.",
-        "Hexane and ethyl acetate fractions show strong antiviral activity.",
-        "HPLC identifies emodin enriched within the active fractions."
       ]
     },
     "38e3674e485b": {
@@ -720,12 +693,6 @@
     "6583cac5dcb7": {
       "ai_title": "Magnitude 4.9 Earthquake Strikes Near Khorixas, Namibia",
       "ai_summary": "A magnitude 4.9 earthquake struck 77 kilometers north-northwest of Khorixas, Namibia, at a depth of about 8 kilometers on November 7, 2026. At least one person reported feeling the tremor.",
-      "content_source": "rss",
-      "flow": []
-    },
-    "f1546822c451": {
-      "ai_title": "Magnitude 4.5 Earthquake Recorded in the Fiji Region",
-      "ai_summary": "A magnitude 4.5 earthquake occurred in the Fiji region on November 7, 2026, at a depth of approximately 572 kilometers, according to USGS data.",
       "content_source": "rss",
       "flow": []
     },
@@ -3079,6 +3046,141 @@
     "d0d208d35bb1": {
       "ai_title": "Parasite-Derived MicroRNA Suppresses Liver Fibrosis by Targeting Host Pathways",
       "ai_summary": "Clonorchis sinensis is a food-borne parasite that promotes liver fibrosis in hosts by activating hepatic stellate cells. Researchers investigated the role of extracellular vesicles derived from the parasite and discovered that a specific microRNA, Csi-miR-71a, is significantly enriched in both these vesicles and infected host cells. Using cellular assays and a carbon tetrachloride-induced mouse model, the team demonstrated that overexpressing Csi-miR-71a suppresses fibrotic markers and alleviates liver damage. Bioinformatic and luciferase assays confirmed that Csi-miR-71a directly targets the Scube3 gene, which subsequently inhibits the TGF-beta/Smad and PI3K/AKT signaling pathways. These findings uncover a novel molecular mechanism of parasite-host communication that regulates host fibrosis responses.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "fa9a6c3baa95": {
+      "ai_title": "Moderate Earthquake Strikes Northwestern Argentina",
+      "ai_summary": "A 4.7 magnitude earthquake struck northwest of San Antonio de los Cobres, Argentina, on November 14, 2026. The tremor occurred at a depth of 216 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "f27793d65036": {
+      "ai_title": "Magnitude 5.2 Tremor Recorded Off Northern Sumatra",
+      "ai_summary": "An earthquake measuring magnitude 5.2 hit off the west coast of northern Sumatra on November 14, 2026, at a depth of 10 kilometers. At least one person reported feeling the shaking.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "f018dbe5ee79": {
+      "ai_title": "Deep Magnitude 4.5 Earthquake Hits Fiji Region",
+      "ai_summary": "The Fiji region experienced a magnitude 4.5 earthquake on November 14, 2026. The seismic event struck at a considerable depth of approximately 587 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "8cbccb780e36": {
+      "ai_title": "Earthquake Off the Coast of Lebu, Chile",
+      "ai_summary": "A 4.6 magnitude earthquake was registered west-southwest of Lebu, Chile, on November 13, 2026. The tremor originated at a shallow depth of 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "d9dd637c5544": {
+      "ai_title": "Magnitude 5.1 Tremor Near Kavieng, Papua New Guinea",
+      "ai_summary": "A magnitude 5.1 earthquake struck northwest of Kavieng, Papua New Guinea, on November 13, 2026. The event occurred at a depth of 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "b14ff8effe3f": {
+      "ai_title": "Magnitude 4.6 Earthquake Strikes Near Yudomari, Japan",
+      "ai_summary": "A magnitude 4.6 earthquake occurred south of Yudomari, Japan, on November 13, 2026. The seismic event struck at a depth of roughly 41 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "50fb561069a9": {
+      "ai_title": "Magnitude 4.9 Earthquake Recorded South of Kermadec Islands",
+      "ai_summary": "An earthquake measuring magnitude 4.9 was detected south of the Kermadec Islands on November 13, 2026. The tremor registered at a depth of approximately 37 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "fc0067771827": {
+      "ai_title": "Magnitude 4.6 Earthquake Hits Near La Libertad, El Salvador",
+      "ai_summary": "A 4.6 magnitude earthquake was registered southwest of La Libertad, El Salvador, on November 13, 2026. The tremor occurred at a depth of about 59 kilometers and was felt by approximately three people.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9bc5592a0862": {
+      "ai_title": "PLOS Biology Issues Republished Correction for Guppy Population Study",
+      "ai_summary": "PLOS Biology republished an article regarding ancient inversion polymorphisms in guppy populations on November 3, 2026, to restore missing Supplemental Tables. The publisher apologized for the omission.",
+      "content_source": "article",
+      "flow": []
+    },
+    "f1c0b64959cf": {
+      "ai_title": "Macrophage Differentiation Affects Chikungunya Virus Susceptibility and Antiviral Responses",
+      "ai_summary": "Researchers investigated how cytokine-driven macrophage differentiation influences human susceptibility to the Chikungunya virus. Using donor-matched primary macrophage cultures, the study found that GM-CSF-differentiated macrophages are highly permissive to Chikungunya and Mayaro virus infections, supporting strong viral replication. In contrast, M-CSF-differentiated macrophages resist viral replication and lack detectable viral protein expression. Despite these differing replication outcomes, infected cells from both differentiation states exhibited a pro-inflammatory, M1-skewed profile. Furthermore, M-CSF-differentiated macrophages produced higher levels of antiviral factors such as IFNα and IP10/CXCL10, indicating a protective antiviral state. Additional experiments using double-stranded RNA analogs suggested that dsRNA sensing is more significant than ssRNA sensing in driving these cellular antiviral responses. These insights demonstrate that macrophage differentiation significantly dictates susceptibility and immune defense during Chikungunya infections.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "e7635f7b3332": {
+      "ai_title": "Andes Virus Outbreak on Cruise Ship Highlights Public Health Gaps",
+      "ai_summary": "In May 2026, a cluster of laboratory-confirmed Andes virus (ANDV) infections occurred among passengers aboard the cruise ship MV Hondius, originating in Argentina and traveling through the South Atlantic. The outbreak involved individuals from 23 countries, resulting in at least 13 cases and three deaths. This event marks the first multi-continental range for an ANDV outbreak and reinforces evidence supporting human-to-human transmission. Currently, no approved treatments or vaccines exist for the virus, highlighting the urgent need for therapeutic and prophylactic development. Researchers emphasize that the outbreak reveals both strengths and weaknesses in global public health infrastructure, underscoring the necessity for expanded genomic surveillance, standardized diagnostic protocols, and accelerated clinical translation of antiviral candidates to enhance future pandemic preparedness.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "ee81536db5e9": {
+      "ai_title": "Host Protein CTCF Enhances AAV Vector Gene Expression via Chromatin Remodeling",
+      "ai_summary": "Adeno-Associated Viruses (AAVs) are widely utilized to deliver therapeutic transgenes through recombinant AAV vectors. However, limitations in understanding viral gene expression have restricted their efficiency. Researchers investigated regulatory elements outside the inverted terminal repeats of wild-type AAVs to improve vector performance. Using in silico analysis, biochemical pulldowns, and high-throughput sequencing, the study identified that the host architectural protein CCCTC-binding Factor associates with the wild-type AAV type 2 genome. Specifically, a CTCF binding element located upstream of the P5 promoter regulates viral gene expression and shapes the local chromatin landscape. By re-engineering recombinant AAV vectors to include this binding element, scientists observed up to a four-fold increase in transduction efficiency and reporter gene expression across various cell types, driven by increased production of nascent RNA transcripts.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "230b1fcd3669": {
+      "ai_title": "Maternal Mortality Trends in Taiyuan, China Reveal Persistent Urban-Rural Disparities",
+      "ai_summary": "A population-based observational study examined maternal mortality trends and causes in Taiyuan, China, using surveillance data from 2016 through 2024. Analyzing municipal records encompassing 424,392 live births and 33 maternal deaths, researchers calculated an overall maternal mortality ratio of 7.76 per 100,000 live births. While urban areas experienced significant declines in mortality ratios, rural regions did not show the same statistical improvement, pointing to sustained urban-rural disparities. Indirect obstetric causes emerged as the predominant factor among maternal deaths, signaling a shift in the overall spectrum of fatal complications. The findings indicate that while sustained investments have successfully maintained a low overall ratio, targeted strategies focusing on rural health services and equitable life-course care are required to prevent further maternal deaths.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "e70605239c73": {
+      "ai_title": "Correction Issued for Study on Diversification and Network Embeddings",
+      "ai_summary": "A formal correction has been published for the research article examining the latent structure of diversification from relatedness and network embeddings. The update corrects an author affiliation error for Niclas Frederic Sturm, Bruno Damásio, and Flávio L. Pinheiro, updating it to the NOVA Information Management School at Universidade NOVA de Lisboa in Portugal. Additionally, the article's funding statement has been revised to properly acknowledge financial support and specific project grants provided by Fundação para a Ciência e Tecnologia in Portugal. The publishers confirmed that the funding agency played no role in the study design, data collection, analysis, decision to publish, or manuscript preparation.",
+      "content_source": "article",
+      "flow": [
+        "Identify the error in author affiliations and funding statements.",
+        "Determine the correct NOVA Information Management School affiliation details.",
+        "Compile the correct list of FCT project grants and funding reference numbers.",
+        "Publish the formal correction notice linked to the original article."
+      ]
+    },
+    "2635812796f3": {
+      "ai_title": "Correction Published for Study on Kidney Transplantation Weight Gain Prediction",
+      "ai_summary": "The publisher has issued a correction regarding an extraneous repetition in the title of a study evaluating a machine learning model for kidney transplantation outcomes. The initial publication erroneously duplicated a descriptive phrase within the main title. The updated record clarifies that the correct title for the work is 'Feasibility of a machine learning model for predicting weight gain after kidney transplantation.' The correction ensures proper bibliographic citation and indexing under the Open Access Creative Commons Attribution License.",
+      "content_source": "article",
+      "flow": [
+        "Detect the redundant title text in the published article record.",
+        "Determine the intended and correct article title.",
+        "Format the proper citation incorporating the corrected title and metadata.",
+        "Publish the official correction notice for the scientific community."
+      ]
+    },
+    "37a6d82fd910": {
+      "ai_title": "Sustainable Biopolymer Treatment Enhances Loess Shear Stiffness",
+      "ai_summary": "Geotechnical stability is often threatened by the susceptibility of loess to water-induced deterioration. Researchers investigated the small-strain dynamic behavior of loess treated with tremella fuciformis polysaccharide (TFP), a sustainable biopolymer, using resonant column tests. The study analyzed the evolution of maximum shear modulus and reference shear strain under varying confining pressures, water contents, and TFP dosages. Results indicated that TFP treatment significantly bolsters small-strain shear stiffness. Scanning electron microscope observations revealed film-like and filament-like features around soil particles, pointing to microstructural changes. These findings demonstrate the potential of TFP as a bio-based method to improve loess shear stiffness, particularly in high-water-content conditions.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "20fd17fa67f9": {
+      "ai_title": "Real-Time PCR Assay Improves Rabies Detection in Non-Brain Samples",
+      "ai_summary": "Rabies remains a significant public health issue in endemic areas, where disease control relies on post-mortem confirmation in animal reservoirs. Traditional methods like the direct fluorescent antibody test depend on fresh brain tissue and are vulnerable to specimen degradation, limiting their use in decentralized systems. A recent study evaluated a locally optimized real-time reverse transcription-quantitative PCR assay targeting the nucleoprotein gene in non-brain animal tissues. The assay demonstrated high analytical sensitivity and strong concordance with results from post-mortem brain samples of dogs. Consistent performance in alternative tissues, such as the nasal planum and follicle-sinus complex, supports the use of safer and more accessible specimens for routine animal rabies surveillance.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "0191528905ce": {
+      "ai_title": "Study Links Higher Physical Activity to Lower Risk of Self-Reported Emphysema",
+      "ai_summary": "Emphysema represents a major public health concern, prompting researchers to investigate the relationship between physical activity intensity and respiratory health. A cross-sectional study utilized data collected from the National Health and Nutrition Examination Survey between 2007 and 2016. Using multivariable logistic regression models, researchers examined the association between different levels of physical activity and self-reported physician-diagnosed emphysema among older adults, while adjusting for various demographic, lifestyle, and comorbidity factors. The results revealed that higher physical activity levels, specifically 3000 MET-minutes per week or more, correlated with lower odds of self-reported emphysema. A clear dose-response relationship emerged as increasing activity levels matched progressively lower odds of the condition. However, because the study is cross-sectional, causal relationships cannot be established, and prospective studies are required to confirm the findings.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "13bbad344021": {
+      "ai_title": "Contrast-Only CT Angiography Safely Reduces Radiation in Aortic Pathology Imaging",
+      "ai_summary": "Acute aortic pathologies are traditionally evaluated using multiphase computed tomography angiography protocols that include an unenhanced phase, which contributes to higher patient radiation exposure. A retrospective study examined whether omitting the unenhanced phase is feasible for detecting and characterizing acute aortic conditions while reducing radiation doses. Researchers evaluated 160 patients who underwent multiphase imaging, comparing a contrast-only protocol against a conventional multiphase protocol across predefined aortic segments. The contrast-only approach demonstrated non-inferior diagnostic performance in detecting major aortic pathologies, including aneurysms, dissections, intramural hematomas, and penetrating atherosclerotic ulcers. Furthermore, the protocol achieved a radiation dose reduction of approximately 32%. These findings indicate that omitting the unenhanced phase is clinically feasible and reduces cumulative radiation exposure, particularly for serial surveillance imaging.",
+      "content_source": "source_text",
+      "flow": [
+        "Review retrospective multiphase CT angiography data from patients evaluated for acute aortic syndrome.",
+        "Independently evaluate aortic segments for pathologies using both standard multiphase and simulated contrast-only protocols.",
+        "Assess non-inferiority in diagnostic detection rates and measure inter-protocol agreement using statistical methods.",
+        "Compare radiation dose metrics between the standard and contrast-only imaging approaches."
+      ]
+    },
+    "f4d57539494b": {
+      "ai_title": "Mobile Radiation Shielding System Cuts Scatter Dose in Orthopedic Wards",
+      "ai_summary": "Portable radiography performed in crowded orthopedic wards exposes healthcare workers and nearby patients to scatter radiation. To address this, researchers designed and evaluated a foldable mobile radiation shielding system consisting of two three-panel units with lead sheets, deployed along the lateral sides of a patient's bed. Scatter dose rates were measured across common orthopedic X-ray projections at multiple distances and angular positions using a survey meter and a portable X-ray unit. The two-unit configuration achieved a median scatter dose reduction of 94.1 percent. Reductions remained substantial across various distances and tube voltages, though effectiveness varied by angular position due to open axial ends. The mobile shield effectively lowers estimated annual occupational doses below standard safety limits and received favorable feedback from medical personnel.",
       "content_source": "source_text",
       "flow": []
     }
