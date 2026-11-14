@@ -1,49 +1,42 @@
 {
- "generated": "2026-11-14T05:03:01.001295+00:00",
- "sources_ok": 14,
+ "generated": "2026-11-14T12:59:47.219512+00:00",
+ "sources_ok": 24,
  "sources_total": 27,
  "sources": [
   {
    "source": "arXiv - Quantum Physics",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:quant-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 32
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - Astrophysics",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:astro-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 0
+   "status": "ok",
+   "items": 0
   },
   {
    "source": "arXiv - Condensed Matter",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:cond-mat&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 0
+   "status": "ok",
+   "items": 0
   },
   {
    "source": "arXiv - High Energy Physics Phenomenology",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:hep-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 40
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - High Energy Physics Theory",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:hep-th&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 37
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - Optics",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:physics.optics&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 31
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - Applied Physics",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=cat:physics.app-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 28
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "arXiv - Artificial Intelligence",
@@ -62,15 +55,13 @@
   },
   {
    "source": "arXiv - Quantitative Biology",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=cat:q-bio&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 0
+   "status": "ok",
+   "items": 0
   },
   {
    "source": "arXiv - Materials Science",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:cond-mat.mtrl-sci&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 30
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "PLOS Biology",
@@ -94,9 +85,8 @@
   },
   {
    "source": "arXiv",
-   "status": "failed",
-   "error": "HTTPError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat:quant-ph+OR+cat:hep-ex+OR+cat:astro-ph.CO+OR+cat:physics.gen-ph&sortBy=submittedDate&sortOrder=descending&max_results=8",
-   "kept_previous": 22
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "bioRxiv",
@@ -127,7 +117,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 122
+   "items": 121
   },
   {
    "source": "NASA EONET",

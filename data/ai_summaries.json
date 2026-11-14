@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T05:07:13.056996+00:00",
+  "generated": "2026-11-14T13:00:56.782800+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -3183,6 +3183,69 @@
       "ai_summary": "Portable radiography performed in crowded orthopedic wards exposes healthcare workers and nearby patients to scatter radiation. To address this, researchers designed and evaluated a foldable mobile radiation shielding system consisting of two three-panel units with lead sheets, deployed along the lateral sides of a patient's bed. Scatter dose rates were measured across common orthopedic X-ray projections at multiple distances and angular positions using a survey meter and a portable X-ray unit. The two-unit configuration achieved a median scatter dose reduction of 94.1 percent. Reductions remained substantial across various distances and tube voltages, though effectiveness varied by angular position due to open axial ends. The mobile shield effectively lowers estimated annual occupational doses below standard safety limits and received favorable feedback from medical personnel.",
       "content_source": "source_text",
       "flow": []
+    },
+    "0e2bbfd05dd3": {
+      "ai_title": "Magnitude 5.5 Earthquake Strikes Northern Mid-Atlantic Ridge",
+      "ai_summary": "Seismologists registered a magnitude 5.5 earthquake at the northern Mid-Atlantic Ridge on November 14, 2026. The tremor struck at a depth of 10 kilometers, and authorities noted that specific metrics may shift as data analysis continues.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "850c9a06cbf1": {
+      "ai_title": "Magnitude 4.6 Tremor Hits Near Hihifo, Tonga",
+      "ai_summary": "An earthquake measuring magnitude 4.6 occurred approximately 102 kilometers north-northeast of Hihifo, Tonga, on November 14, 2026. The depth was measured at roughly 10 kilometers, with potential updates expected following further data review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "8e52bb29b000": {
+      "ai_title": "Magnitude 5.2 Earthquake Recorded in Yap, Micronesia",
+      "ai_summary": "A 5.2 magnitude earthquake struck the State of Yap in the Federated States of Micronesia on November 14, 2026. The seismic event happened at a depth of about 10 kilometers, and agency data remains subject to ongoing review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "f32138fb0084": {
+      "ai_title": "Magnitude 4.8 Seismic Event Detected at West Chile Rise",
+      "ai_summary": "A magnitude 4.8 earthquake was registered in the West Chile Rise region on November 14, 2026, at a depth of about 10 kilometers. Agency officials advise that initial location and magnitude measurements could change as reviews proceed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "257d492c6511": {
+      "ai_title": "Magnitude 4.5 Earthquake Hits Western Indian-Antarctic Ridge",
+      "ai_summary": "On November 14, 2026, a magnitude 4.5 earthquake took place along the western Indian-Antarctic Ridge at a depth of roughly 10 kilometers. Reviewing agencies indicate that the preliminary location and magnitude figures may be updated.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "e2453dc301c9": {
+      "ai_title": "Study Examines Qat Chewing Habits and Temporomandibular Disorder Treatments in Yemen",
+      "ai_summary": "A prospective cohort study evaluated the short-term response to conservative management of temporomandibular disorders among habitual qat chewers and non-chewers in conflict-affected Yemen. Conducted at Sana’a University and Al-Kuwait Teaching Hospital between October 2018 and October 2020, the study tracked 148 consecutive patients diagnosed with temporomandibular disorders, including 54 habitual chewers. All participants received standard care involving reassurance, education, self-care advice, and clinical interventions like NSAIDs, diazepam, amitriptyline, or stabilization splints. At the three-month follow-up, improvement was reported in 87.0% of chewers and 93.6% of non-chewers. While conservative management generally benefited most patients, the study's design and limited sample size mean the findings regarding chewers are primarily hypothesis-generating.",
+      "content_source": "source_text",
+      "flow": [
+        "Diagnose patients using Research Diagnostic Criteria for Temporomandibular Disorders Axis I examination.",
+        "Identify habitual qat chewers and non-chewers within the patient cohort.",
+        "Provide all patients with reassurance, education, and self-care advice along with routine clinical care.",
+        "Evaluate patient-reported outcomes using a global rating of change at the three-month follow-up visit."
+      ]
+    },
+    "0905412fc2bb": {
+      "ai_title": "PLOS One Retracts Digital Economy and Green Finance Study Due to Process Manipulation Concerns",
+      "ai_summary": "PLOS One Editors have retracted a 2023 research article investigating the coupling coordination development between the digital economy and green finance across Chinese provinces. The retraction follows concerns regarding potential manipulation of the publication process, which cast doubt on the validity and provenance of the results. Additional issues identified include extensive text similarity and potential paraphrasing involving another study by different authors, as well as multiple retracted references linked to the paper. While some authors disagreed with the retraction, others could not be reached or did not respond.",
+      "content_source": "article",
+      "flow": [
+        "Identify submissions with potential publication process manipulation and text similarity.",
+        "Review references for subsequent retractions affecting the published article.",
+        "Contact the study authors to address the identified concerns.",
+        "Issue the formal article retraction notice."
+      ]
+    },
+    "40561dde517a": {
+      "ai_title": "Camera-Trap Study Evaluates Small Carnivore Occupancy and Activity in Nepal",
+      "ai_summary": "Researchers conducted camera-trap surveys between January and February 2023 to evaluate the occupancy and temporal activity overlap of five small carnivore species in the Bagmati-Ratu Complex of Nepal's Madhesh Province. Using Markov Chain Monte Carlo simulations, the team analyzed how anthropogenic and environmental variables affect community-level occupancy. The results showed that the jungle cat had the highest detection probability, while the leopard cat had the lowest. Common palm civets showed the highest occupancy, whereas large Indian civets had the lowest. Most small carnivores demonstrated strong nocturnal activity patterns to avoid humans and reduce daytime activity, with the exception of the jungle cat, which displayed some diurnal behavior. These baseline findings help document human-wildlife coexistence and support future conservation planning.",
+      "content_source": "source_text",
+      "flow": [
+        "Deploy camera-trap surveys in the Bagmati-Ratu Complex from January to February 2023.",
+        "Collect detection data for small carnivore species within the study area.",
+        "Evaluate single-season multi-species occupancy using Markov Chain Monte Carlo simulations.",
+        "Calculate pairwise activity overlap coefficients to analyze temporal interactions and nocturnal patterns."
+      ]
     }
   }
 }
