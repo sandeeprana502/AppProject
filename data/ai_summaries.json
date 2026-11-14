@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T13:00:56.782800+00:00",
+  "generated": "2026-11-14T19:44:33.838582+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -3085,12 +3085,6 @@
       "content_source": "rss",
       "flow": []
     },
-    "50fb561069a9": {
-      "ai_title": "Magnitude 4.9 Earthquake Recorded South of Kermadec Islands",
-      "ai_summary": "An earthquake measuring magnitude 4.9 was detected south of the Kermadec Islands on November 13, 2026. The tremor registered at a depth of approximately 37 kilometers.",
-      "content_source": "rss",
-      "flow": []
-    },
     "fc0067771827": {
       "ai_title": "Magnitude 4.6 Earthquake Hits Near La Libertad, El Salvador",
       "ai_summary": "A 4.6 magnitude earthquake was registered southwest of La Libertad, El Salvador, on November 13, 2026. The tremor occurred at a depth of about 59 kilometers and was felt by approximately three people.",
@@ -3246,6 +3240,122 @@
         "Evaluate single-season multi-species occupancy using Markov Chain Monte Carlo simulations.",
         "Calculate pairwise activity overlap coefficients to analyze temporal interactions and nocturnal patterns."
       ]
+    },
+    "5d56e7a17668": {
+      "ai_title": "Magnitude 4.7 Earthquake Strikes Near Yacuiba, Bolivia",
+      "ai_summary": "On November 14, 2026, a magnitude 4.7 earthquake occurred 24 kilometers south of Yacuiba, Bolivia, at a depth of 506 kilometers. Agency data and locations remain subject to review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "fe4f9337497c": {
+      "ai_title": "Magnitude 4.6 Earthquake Detected Southeast of Pondaguitan, Philippines",
+      "ai_summary": "A magnitude 4.6 earthquake struck 96 kilometers south-southeast of Pondaguitan, Philippines, on November 14, 2026. The tremor had a depth of approximately 65 kilometers, and figures may update as data is reviewed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "2c54673a9c27": {
+      "ai_title": "Magnitude 4.6 Tremor Registered Near San Antonio de los Cobres, Argentina",
+      "ai_summary": "An earthquake measuring magnitude 4.6 hit 62 kilometers west-northwest of San Antonio de los Cobres, Argentina, on November 14, 2026. The event registered at a depth of roughly 198 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "e20dbe4f7a76": {
+      "ai_title": "Magnitude 4.9 Earthquake Strikes Tagbina, Philippines",
+      "ai_summary": "On November 14, 2026, a magnitude 4.9 earthquake was registered 7 kilometers southeast of Tagbina, Philippines, at a depth of about 154 kilometers. Agency reviews may result in updated location metrics.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "041d4204bbba": {
+      "ai_title": "Magnitude 4.9 Earthquake Hits South of Kermadec Islands",
+      "ai_summary": "A magnitude 4.9 earthquake occurred south of the Kermadec Islands on November 14, 2026, at a depth of approximately 12 kilometers. Further updates may follow as agencies review the recorded data.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "00273f21cb46": {
+      "ai_title": "Moderate Earthquake Strikes Near Petropavlovsk-Kamchatsky, Russia",
+      "ai_summary": "A magnitude 4.5 earthquake occurred approximately 137 kilometers southeast of Petropavlovsk-Kamchatsky, Russia, at a depth of about 17 kilometers. The seismic event was recorded on November 14, 2026.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "f976700aae6a": {
+      "ai_title": "Study Finds Limited Evidence Linking Training Load to Lower-Limb Pain in Female Footballers",
+      "ai_summary": "Researchers conducted a secondary longitudinal analysis of the SoccerMon dataset, evaluating 50 players from two Norwegian elite women's football teams to see if training load and wellness changes precede lower-limb pain. Initial retrospective standardization suggested an interaction between acute load and soreness, but this attenuated when using only prior available observations. Consequently, the data do not provide stable evidence that short-term load deviations predict next-day pain. Investigators advise treating daily load and wellness metrics as contextual information rather than strict risk thresholds.",
+      "content_source": "source_text",
+      "flow": [
+        "Gather athlete-monitoring data from the public SoccerMon dataset",
+        "Define the outcome as the onset of self-reported lower-limb pain",
+        "Analyze the data using both full-period and prior-only standardization models",
+        "Evaluate the interaction between training load, wellness, and subsequent pain"
+      ]
+    },
+    "dc3abb0805ff": {
+      "ai_title": "Long Sleep Duration Linked to Increased Mortality Risk in Heart Disease Patients",
+      "ai_summary": "A cohort study tracking US adults with heart disease found that sleeping nine hours or more is associated with higher risks of all-cause, heart-related, and non-heart-related mortality compared to sleeping seven to eight hours. Analyzing data from the National Health Interview Survey linked to the National Death Index, researchers observed the lowest predicted mortality risk at six to seven hours of sleep. The findings suggest sleep duration can serve as a simple marker for residual risk in cardiac patients.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "808b6c46b9f3": {
+      "ai_title": "Guava-Derived Compounds Show Promising Anticancer Activity in Laboratory Study",
+      "ai_summary": "Researchers isolated two clerodane-type diterpenes, borapetoside F and borapetoside B, from the medicinal plant Psidium guajava to evaluate their anticancer properties. Using both laboratory assays and animal models, the team assessed cytotoxicity against Ehrlich Ascites Carcinoma cells. Results demonstrated that both compounds significantly inhibited cancer cell proliferation and induced apoptosis. Microscopic examination and DNA fragmentation analyses confirmed cell death characteristics, while gene expression tests showed the upregulation of pro-apoptotic markers like p53 and Bax alongside the downregulation of anti-apoptotic genes such as Bcl-2. Molecular docking further validated these findings by showing favorable interactions with apoptosis-related proteins, highlighting the compounds' potential for future drug development.",
+      "content_source": "source_text",
+      "flow": [
+        "Isolate clerodane-type diterpenes borapetoside F and borapetoside B from guava extracts",
+        "Evaluate in vitro and in vivo cytotoxicity against Ehrlich Ascites Carcinoma cells",
+        "Assess apoptosis through microscopy, DNA fragmentation, and gene expression analyses",
+        "Confirm findings using molecular docking approaches with target proteins"
+      ]
+    },
+    "4fff32d867fb": {
+      "ai_title": "Study Evaluates Feasibility of Computerized Adaptive Tests in Physical Therapy",
+      "ai_summary": "A mixed-methods study investigated the feasibility of using Dutch-Flemish PROMIS Computerized Adaptive Tests within primary care physical therapy for patients with musculoskeletal disorders. Integrated into electronic health record systems across 14 practices, the tools were assessed via therapist surveys and semi-structured interviews with both clinicians and patients. Most participants found the adaptive tests easy to use, efficient, and useful for focusing clinical discussions on symptoms and daily functioning. Reported barriers included difficulties with online portals, simultaneous use of older measurement instruments, and challenges with score interpretation. Researchers concluded that the tests are practical and clinically relevant, though future implementation should focus on phasing out legacy instruments and improving score training.",
+      "content_source": "source_text",
+      "flow": [
+        "Integrate PROMIS CATs into electronic health records across physical therapy practices",
+        "Administer tests during routine care for patients with musculoskeletal disorders",
+        "Collect feedback through therapist surveys and semi-structured interviews with patients and clinicians",
+        "Analyze data to evaluate clinical utility, efficiency, and implementation barriers"
+      ]
+    },
+    "473602ca7f2b": {
+      "ai_title": "Study Links Generative AI Competence in Accounting to Ethical Awareness and Career Readiness",
+      "ai_summary": "This study examines Generative AI-enabled accounting information systems competence among accounting and auditing students in Vietnam. Using survey data from 471 university students, the researchers analyzed relationships involving perceived usefulness, digital learning self-efficacy, AI ethics awareness, and career readiness. The baseline structural equation model revealed significant positive associations, with perceived usefulness emerging as a strong antecedent and competence showing a strong link to ethical awareness. Although endogeneity adjustments rendered certain paths non-significant, the findings underscore the importance of discipline-specific AI competence and its connection to ethical understanding and career preparation in accounting education.",
+      "content_source": "source_text",
+      "flow": [
+        "Develop a conceptual model anchored in socio-technical systems and social cognitive career theories",
+        "Collect survey data from accounting and auditing students across multiple universities",
+        "Analyze data using partial least squares structural equation modeling",
+        "Evaluate statistical associations and perform endogeneity checks on the resulting pathways"
+      ]
+    },
+    "4582e27bb8f4": {
+      "ai_title": "Decade-Long Study Reveals Decline in Diabetic Ketoacidosis Admissions at Norwegian Hospital",
+      "ai_summary": "A retrospective study conducted at a Norwegian university hospital examined diabetic ketoacidosis admissions among adults with type 1 diabetes between August 2012 and August 2032. Reviewing electronic medical records for 178 participants across 306 admissions, researchers discovered that admission frequency decreased by an estimated 6.9% annually. Despite growth in the hospital's catchment area population, this substantial decline suggests overall improvements in diabetes care. However, researchers noted that repeated admissions remained common and were closely tied to psychosocial vulnerability. While in-hospital mortality was low, five-year mortality remained notable, indicating a need for targeted follow-up care following a diabetic ketoacidosis episode.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "616b6d087426": {
+      "ai_title": "Comparing Surgical Techniques for Soft Palate Reduction in Bulldogs with BOAS",
+      "ai_summary": "A prospective clinical study compared the effectiveness of staphylectomy and folded-flap palatoplasty in reducing soft palate length, thickness, and volume in French and English bulldogs diagnosed with brachycephalic obstructive airway syndrome. Sixteen dogs underwent either staphylectomy or folded-flap palatoplasty, with computed tomography performed pre-operatively and four weeks post-operatively. Both surgical procedures successfully reduced soft palate length and volume. However, folded-flap palatoplasty additionally resulted in significant soft palate thinning, whereas staphylectomy did not. Consequently, researchers suggest that folded-flap palatoplasty may serve as the preferred treatment for dogs experiencing concurrent soft palate thickening and elongation.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "aeda4550eb95": {
+      "ai_title": "Investigating Immunogenicity and Shielding of the Foldon Trimerization Domain in Vaccines",
+      "ai_summary": "Protein subunit and mRNA vaccines that fuse viral antigens to the bacteriophage T4 fibritin Foldon trimerization domain are increasingly tested and utilized in humans, but they can trigger off-target antibody responses. Researchers demonstrated that subunit vaccine antigens containing Foldon successfully elicit antibodies against the domain itself. To mitigate this immune response, scientists engineered influenza antigens with N-glycosylation motif mutations at three distinct sites within Foldon to serve as a shield. Although mass spectrometry confirmed partial modification occupancy and some mutant antigens showed reduced antibody binding in vitro, mice immunized with these mutants did not experience a significant reduction in anti-Foldon antibody production. Ultimately, while N-glycosylation offers partial shielding, it does not substantially lower immunogenicity in a naïve setting, indicating that Foldon's immune impact must be carefully considered in clinical vaccine trials.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "fcf89f9fef4d": {
+      "ai_title": "Co-Developing an Implementation Model for Physical Activity in Special Educational Needs Schools",
+      "ai_summary": "Integrating a whole school approach to physical activity within special educational needs school settings faces distinct real-world barriers. To address this, researchers used a collaborative co-development approach involving teachers, leadership, parents, education authorities, and community sports professionals across a UK region. Through workshops guided by behavioural and implementation science, participants identified 31 implementation determinants, consisting of 18 facilitators, 12 barriers, and one mixed factor. These insights informed eight implementation strategies, alongside various outcomes and causal mechanisms, which were mapped onto a comprehensive implementation research logic model. This model ultimately supports a guidance document designed to help schools effectively promote physical activity for students with special educational needs.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "04618c948930": {
+      "ai_title": "Evaluating Online Mindfulness-Based Cognitive Therapy for Multiple Sclerosis Patients with Depression",
+      "ai_summary": "Depression is common among individuals with multiple sclerosis, yet the effectiveness and optimal implementation of online mindfulness-based cognitive therapy for this group remain understudied. This protocol outlines a type 1 hybrid effectiveness-implementation study utilizing an embedded mixed methods experimental design. The quantitative component involves a randomized controlled trial of at least 152 participants with multiple sclerosis and mild-to-moderate depression, who will complete an eight-week online mindfulness-based cognitive therapy course. Depression scores will be tracked from baseline through a three-month follow-up. Concurrently, qualitative data will be gathered via semi-structured interviews with participants, health care providers, instructors, and decision-makers. The RE-AIM PRISM tool will evaluate implementation success, providing valuable evidence on intervention feasibility and effectiveness.",
+      "content_source": "source_text",
+      "flow": []
     }
   }
 }
