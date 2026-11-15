@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T00:47:44.491162+00:00",
+  "generated": "2026-11-15T10:26:28.467835+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -3451,6 +3451,52 @@
       "ai_title": "Magnitude 4.5 Earthquake Strikes Near Lagunas, Peru",
       "ai_summary": "A magnitude 4.5 earthquake struck 86 kilometers north-northeast of Lagunas, Peru, at a depth of 10 kilometers on November 13, 2026. Agency data reviews are ongoing and locations may be subject to change.",
       "content_source": "rss",
+      "flow": []
+    },
+    "7e2aea0b1dca": {
+      "ai_title": "Moderate Earthquake Strikes Near Tonga",
+      "ai_summary": "A magnitude 4.7 earthquake occurred northwest of Houma, Tonga, on November 15, 2026. The tremor struck at a depth of roughly 178 kilometers. Authorities note that preliminary data may be subject to revision.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "37785c484d0d": {
+      "ai_title": "Deep Magnitude 5.5 Earthquake Detected in Fiji Region",
+      "ai_summary": "A magnitude 5.5 earthquake shook the Fiji region on November 15, 2026, at a depth of approximately 470 kilometers. Agency officials indicate that location and magnitude figures could change following further review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "8b6327c47cce": {
+      "ai_title": "Earthquake Measures 4.8 Near Albardón, Argentina",
+      "ai_summary": "An earthquake with a magnitude of 4.8 was registered northwest of Albardón, Argentina, on November 15, 2026. The seismic event took place at a depth of about 109 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "2327c6c41636": {
+      "ai_title": "Observing the Annual Leonid Meteor Showers",
+      "ai_summary": "Because predicting the exact appearance of the next meteor is impossible, viewing meteor showers is best done by finding a comfortable spot with a clear, dark sky. The annual Leonid meteor shower peaks in mid-November, providing a great opportunity for stargazing. A notable photograph capturing the 2022 Leonids from Hainan, China, combined multiple meteor streaks tracked over hours with an earlier foreground image. In the photo, the streaks trace back to the constellation Leo and cross the constellation Orion, with the planet Mars visible near the top. Stargazers often enjoy these celestial events with friends or loved ones.",
+      "content_source": "source_text",
+      "flow": [
+        "Find a comfortable viewing location with a wide view of a dark sky.",
+        "Monitor the sky over several hours to observe meteor streaks.",
+        "Capture multiple meteor streaks using a camera.",
+        "Combine the isolated meteor streaks with a previously recorded foreground image."
+      ]
+    },
+    "aac1b3d99d62": {
+      "ai_title": "PLOS One Issues Expression of Concern Over Decision-Making Study",
+      "ai_summary": "The editors of PLOS One have issued an Expression of Concern regarding a published research article on multiple attribute group decision-making. The action was taken following the discovery of cumulative issues related to the study's references and methodology. Specifically, several articles cited within the paper's bibliography were subsequently retracted after the initial publication. Additionally, independent concerns regarding the reported methodology have been raised publicly on the platform PubPeer across a large number of the study's cited references. Due to these combined factors, readers are strongly advised to interpret the findings and conclusions of the affected study with caution until further investigations or resolutions are provided by the journal or authors.",
+      "content_source": "article",
+      "flow": [
+        "Identify concerns regarding the retracted status of specific cited references.",
+        "Review methodology concerns raised on PubPeer for numerous other references.",
+        "Evaluate the cumulative impact of these issues on the published article.",
+        "Issue an official Expression of Concern advising readers to interpret the study cautiously."
+      ]
+    },
+    "d210ae9c8abd": {
+      "ai_title": "PLOS One Issues Expression of Concern Over Shandong Agriculture Study Due to Retraded Citations",
+      "ai_summary": "The editors of PLOS One have issued an Expression of Concern regarding a published study about agricultural informatization and economic development in Shandong Province, China. This action was taken after it was discovered that several sources cited within the bibliography—specifically References 4, 10, 36, 38, and 43—were retracted following the initial publication of the article. Consequently, readers are advised to exercise caution when interpreting the findings and conclusions presented in the paper.",
+      "content_source": "article",
       "flow": []
     }
   }

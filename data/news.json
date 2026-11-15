@@ -1,7 +1,59 @@
 {
- "generated": "2026-11-15T00:46:42.252020+00:00",
- "count": 2295,
+ "generated": "2026-11-15T10:25:45.810404+00:00",
+ "count": 2298,
  "items": [
+  {
+   "id": "7e2aea0b1dca",
+   "title": "M 4.7 - 92 km NW of Houma, Tonga",
+   "summary": "A magnitude 4.7 earthquake was recorded 92 km NW of Houma, Tonga. The event happened on 15 November 2026 at 07:36 UTC. It occurred at a depth of about 178 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 53,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-15T07:36:37.211000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "37785c484d0d",
+   "title": "M 5.5 - Fiji region",
+   "summary": "A magnitude 5.5 earthquake was recorded Fiji region. The event happened on 15 November 2026 at 05:15 UTC. It occurred at a depth of about 470 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 49,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-15T05:15:02.697000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "8b6327c47cce",
+   "title": "M 4.8 - 19 km NW of Albardón, Argentina",
+   "summary": "A magnitude 4.8 earthquake was recorded 19 km NW of Albardón, Argentina. The event happened on 15 November 2026 at 03:59 UTC. It occurred at a depth of about 109 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 53,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-15T03:59:59.682000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "2327c6c41636",
+   "title": "NASA Science",
+   "summary": "Where will the next meteor appear? Even during a meteor shower, it is practically impossible to know. Therefore, a good way to enjoy a meteor shower is to find a place where you can sit comfortably and monitor a great expanse of dark sky. And it may be satisfying to share this experience with a friend. The meteor shower depicted was the 2022 Leonids and the view is from Hainan, China looking out over the South China Sea. Meteor streaks captured over a few hours were isolated and added to a foreground image recorded earlier. Leonid meteor streaks trace back to the constellation of Leo and were here seen streaking across the constellation of Orion.",
+   "words": 115,
+   "category": "Space",
+   "source": "NASA APOD",
+   "author": "NASA APOD",
+   "published": "2026-11-15T00:00:00+00:00",
+   "url": "https://apod.nasa.gov/apod/ap261115.html",
+   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+   "licence": "open"
+  },
   {
    "id": "64d9d2cdd524",
    "title": "M 4.7 - east central Pacific Ocean",
@@ -1612,19 +1664,6 @@
    "published": "2026-11-13T00:00:00+00:00",
    "url": "https://europepmc.org/article/PMC/PMC13754019",
    "image": "",
-   "licence": "open"
-  },
-  {
-   "id": "7bdd7c095db2",
-   "title": "NASA Science",
-   "summary": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years.",
-   "words": 108,
-   "category": "Space",
-   "source": "NASA APOD",
-   "author": "NASA APOD",
-   "published": "2026-11-13T00:00:00+00:00",
-   "url": "https://apod.nasa.gov/apod/ap261113.html",
-   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
    "licence": "open"
   },
   {
