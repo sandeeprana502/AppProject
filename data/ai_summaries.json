@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T19:44:33.838582+00:00",
+  "generated": "2026-11-15T00:47:44.491162+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -3355,6 +3355,102 @@
       "ai_title": "Evaluating Online Mindfulness-Based Cognitive Therapy for Multiple Sclerosis Patients with Depression",
       "ai_summary": "Depression is common among individuals with multiple sclerosis, yet the effectiveness and optimal implementation of online mindfulness-based cognitive therapy for this group remain understudied. This protocol outlines a type 1 hybrid effectiveness-implementation study utilizing an embedded mixed methods experimental design. The quantitative component involves a randomized controlled trial of at least 152 participants with multiple sclerosis and mild-to-moderate depression, who will complete an eight-week online mindfulness-based cognitive therapy course. Depression scores will be tracked from baseline through a three-month follow-up. Concurrently, qualitative data will be gathered via semi-structured interviews with participants, health care providers, instructors, and decision-makers. The RE-AIM PRISM tool will evaluate implementation success, providing valuable evidence on intervention feasibility and effectiveness.",
       "content_source": "source_text",
+      "flow": []
+    },
+    "64d9d2cdd524": {
+      "ai_title": "Moderate Earthquake Strikes East Central Pacific Ocean",
+      "ai_summary": "A 4.7 magnitude earthquake occurred in the east central Pacific Ocean on November 14, 2026, at 22:23 UTC. The seismic event had a depth of approximately 10 kilometers, and data remains subject to future agency review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "5cef6e62212e": {
+      "ai_title": "Magnitude 4.5 Quake Registered Near Ruteng, Indonesia",
+      "ai_summary": "An earthquake measuring magnitude 4.5 was detected 25 kilometers north of Ruteng, Indonesia, on November 14, 2026. The tremor struck at a depth of about 10 kilometers at 21:24 UTC, with locations and magnitudes subject to potential updates.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "3cfc40412c2c": {
+      "ai_title": "Earthquake Hits Near Kinablangan, Philippines",
+      "ai_summary": "A 4.5 magnitude earthquake struck 22 kilometers northeast of Kinablangan, Philippines, on November 13, 2026, at 23:58 UTC. The earthquake occurred at a depth of roughly 10 kilometers, and agency data may be updated as reviews continue.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "df60122d4f9c": {
+      "ai_title": "Compact Single-Layer MIMO Antenna Designed for Unmanned Aerial Vehicle Communications",
+      "ai_summary": "Researchers have developed a single-layer circularly polarized multiple-input multiple-output (MIMO) antenna tailored for unmanned aerial vehicle (UAV) systems. The antenna features 16 truncated-corner patches organized in a 4x4 array and is capacitively driven by a probe-fed rectangular patch, maintaining a low profile of about 0.02 wavelengths at its lowest operating frequency. Testing revealed an effective operating bandwidth between 5.16 and 5.68 GHz, isolation levels exceeding 19 dB, and a peak gain of 9.4 dBi. The structure also displays favorable diversity performance metrics, including envelope correlation coefficient, channel capacity loss, and mean effective gain, indicating strong potential for aerial communication networks.",
+      "content_source": "source_text",
+      "flow": [
+        "Arrange 16 truncated-corner patches in a 4x4 configuration.",
+        "Capacitively excite the patches using a probe-fed rectangular patch.",
+        "Measure the effective operating bandwidth and isolation performance.",
+        "Evaluate diversity performance metrics like ECC, CCL, and MEG."
+      ]
+    },
+    "79166ac2a4f4": {
+      "ai_title": "Scoping Review Maps Clinical Use of Reticulocyte Hemoglobin Indices in Perinatal Care",
+      "ai_summary": "Detecting iron deficiency early in pregnancy and the postpartum period remains difficult with standard markers, leading researchers to explore reticulocyte hemoglobin equivalents and content. A scoping review following established guidelines mapped clinical and research applications of these indices across studies published between 1990 and 2026. Out of numerous records, 35 studies met the inclusion criteria, showing that reticulocyte hemoglobin indices generally offer good diagnostic accuracy for iron deficiency and correlate well with iron-related biomarkers. However, significant variations in study design, cut-off values, and limited longitudinal data present obstacles to widespread clinical adoption. While promising for tracking responses to iron therapy, further standardized research is needed before routine implementation.",
+      "content_source": "source_text",
+      "flow": [
+        "Search multiple electronic databases for studies published between 1990 and 2026.",
+        "Screen and select eligible studies involving pregnant or postpartum women.",
+        "Extract data on diagnostic accuracy, iron-related biomarkers, and therapy responses.",
+        "Construct an evidence map to visualize research distribution and identify existing gaps."
+      ]
+    },
+    "5713b01c8a79": {
+      "ai_title": "FOXA1 Expression Identified as an Independent Indicator of Poor Progression-Free Survival in Triple-Negative Breast Cancer",
+      "ai_summary": "Triple-negative breast cancer (TNBC) is known as the most aggressive and poorest-prognosis breast cancer subtype. While FOXA1 acts as a crucial pioneer factor in luminal breast cancer, its precise role in TNBC has remained unclear. A retrospective cohort study investigated 283 women with TNBC to assess FOXA1 expression and its connection to clinical survival outcomes. Using chi-square tests, t-tests, multivariate logistic and Cox regression models, and Kaplan-Meier curves, researchers discovered that FOXA1 positivity strongly correlates with grade II tumors and lower Ki-67 levels. Furthermore, multivariate and treatment-adjusted models demonstrated that FOXA1 expression serves as an independent predictor of poorer progression-free survival, irrespective of the systemic chemotherapy received.",
+      "content_source": "source_text",
+      "flow": [
+        "Select a well-characterized cohort of 283 women diagnosed with TNBC.",
+        "Perform initial statistical analyses using chi-square and t-tests to identify associations.",
+        "Apply multivariate logistic and Cox regression models to isolate independent predictors.",
+        "Evaluate survival outcomes using Kaplan-Meier curves and log-rank tests."
+      ]
+    },
+    "3d1c9b881ae8": {
+      "ai_title": "New Probabilistic Ranking Strategy Improves Efficiency in Spatio-Temporal Logistics Optimization",
+      "ai_summary": "Spatio-temporal adaptive collaborative logistics network optimization problems typically involve multiple objectives and varying evaluation times. Traditional multi-objective optimization algorithms often perform high-fidelity evaluations on all objectives for promising solutions, which can lead to computational inefficiency. To resolve this issue, researchers introduced a Surrogate-assisted Evolutionary Multi-objective Grey Wolf Optimizer with Probabilistic Ranking Strategy (SAE-MOGWO-PRS). This new method intelligently selects which population individuals and objective functions undergo high-fidelity testing. Comparative testing against four state-of-the-art surrogate-assisted algorithms across four test problems demonstrated superior performance, confirming the enhanced convergence and diversity generated by the probabilistic ranking strategy.",
+      "content_source": "source_text",
+      "flow": [
+        "Identify the limitations of traditional multi-objective optimization regarding evaluation times.",
+        "Develop the SAE-MOGWO-PRS algorithm featuring a probabilistic ranking strategy.",
+        "Determine which specific individuals and objective functions require high-fidelity evaluation.",
+        "Compare the proposed algorithm against existing state-of-the-art optimization methods."
+      ]
+    },
+    "7b1cdf21bf18": {
+      "ai_title": "Study Examines Plant Life-Form Patterns Across Elevation and Aridity Gradients in Xinjiang Deserts",
+      "ai_summary": "Mountain temperate deserts in northern Xinjiang are influenced jointly by elevational constraints and an east-west aridity gradient driven by westerly circulation. To clarify how these factors affect community structure, researchers surveyed 527 plots across five desert sub-regions during the growing seasons. The study analyzed four structural attributes across shrubs, semi-shrubs, perennial herbs, and annual herbs. Results revealed that community attributes largely followed a unimodal trend along elevations, peaking between 700 and 1100 meters, while overall performance declined from humid western regions toward hyper-arid eastern areas. Different plant life-forms also showed unique adaptive strategies, with shrubs and semi-shrubs maintaining stability under harsh conditions, perennial herbs favoring mid-elevation mesic zones, and annual herbs responding strongly to water variation.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "cf18aa8c132e": {
+      "ai_title": "Study Examines Relationships Among Algebraic Classes",
+      "ai_summary": "A new study explores the mathematical relationships connecting the BCI-algebraic class, the GB-algebraic class, and the class of algebras of type (2,0). The findings show that both the BCH-algebraic and GB-algebraic classes are distinct classes that contain the BCI-algebraic class. Furthermore, the research demonstrates that proper BCH-algebras and proper GB-algebras exist, establishing necessary and sufficient conditions for each. It also determines that all (2,0)-type algebras form a proper class, with the GB-algebraic class functioning as a proper subclass.",
+      "content_source": "source_text",
+      "flow": [
+        "Study relationships between BCI, GB, and type (2,0) algebra classes",
+        "Determine that BCH and GB algebraic classes both contain the BCI class",
+        "Identify proper BCH and GB algebras and define their conditions",
+        "Establish that the GB-algebraic class is a proper subclass of type (2,0) algebras"
+      ]
+    },
+    "15d104b287b4": {
+      "ai_title": "Machine Learning Identifies Predictors of Severe Asthma Treatment Response",
+      "ai_summary": "Researchers utilized machine learning techniques to identify real-world predictors of patient response to mepolizumab in severe asthma cases. By analyzing thirty features from the REALITI-A dataset across linear regression, random forest, and XGBoost models, the team evaluated exacerbation changes and freedom from exacerbations over one to two years. The analysis revealed that factors such as pre-exposure exacerbation rates, body mass index, baseline activity impairment, questionnaire scores, and geographic residency significantly predict patient response. These insights can help guide clinical decisions and improve therapeutic outcomes for severe asthma sufferers.",
+      "content_source": "source_text",
+      "flow": [
+        "Analyze clinically relevant features from the REALITI-A dataset",
+        "Test multiple machine learning models including random forest and XGBoost",
+        "Select the best-performing model based on accuracy and R-squared metrics",
+        "Perform SHapley Additive exPlanations post-hoc analysis to identify top predictors"
+      ]
+    },
+    "5836d693f9c0": {
+      "ai_title": "Magnitude 4.5 Earthquake Strikes Near Lagunas, Peru",
+      "ai_summary": "A magnitude 4.5 earthquake struck 86 kilometers north-northeast of Lagunas, Peru, at a depth of 10 kilometers on November 13, 2026. Agency data reviews are ongoing and locations may be subject to change.",
+      "content_source": "rss",
       "flow": []
     }
   }

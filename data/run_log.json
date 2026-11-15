@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T19:43:14.469455+00:00",
+ "generated": "2026-11-15T00:46:42.252020+00:00",
  "sources_ok": 24,
  "sources_total": 27,
  "sources": [
@@ -117,7 +117,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 122
+   "items": 119
   },
   {
    "source": "NASA EONET",
