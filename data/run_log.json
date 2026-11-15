@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-15T10:25:45.810404+00:00",
- "sources_ok": 25,
+ "generated": "2026-11-15T18:30:02.042019+00:00",
+ "sources_ok": 24,
  "sources_total": 27,
  "sources": [
   {
@@ -105,8 +105,9 @@
   },
   {
    "source": "NASA APOD",
-   "status": "ok",
-   "items": 1
+   "status": "failed",
+   "error": "HTTPError: 500 Server Error for url: https://api.nasa.gov/planetary/apod",
+   "kept_previous": 1
   },
   {
    "source": "NASA news",
@@ -116,7 +117,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 120
+   "items": 119
   },
   {
    "source": "NASA EONET",

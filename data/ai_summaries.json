@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T10:26:28.467835+00:00",
+  "generated": "2026-11-15T18:31:26.776290+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -3497,6 +3497,24 @@
       "ai_title": "PLOS One Issues Expression of Concern Over Shandong Agriculture Study Due to Retraded Citations",
       "ai_summary": "The editors of PLOS One have issued an Expression of Concern regarding a published study about agricultural informatization and economic development in Shandong Province, China. This action was taken after it was discovered that several sources cited within the bibliography—specifically References 4, 10, 36, 38, and 43—were retracted following the initial publication of the article. Consequently, readers are advised to exercise caution when interpreting the findings and conclusions presented in the paper.",
       "content_source": "article",
+      "flow": []
+    },
+    "8b48cdc624d4": {
+      "ai_title": "Magnitude 5 Earthquake Strikes Near Pārūn, Afghanistan",
+      "ai_summary": "A magnitude 5.0 earthquake struck 74 kilometers north of Pārūn, Afghanistan, on November 15, 2026. The tremor occurred at a depth of roughly 101 kilometers, with data subject to future agency updates.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "5884d4d17ff9": {
+      "ai_title": "Deep Magnitude 5.1 Earthquake Recorded Northwest of Gorontalo, Indonesia",
+      "ai_summary": "An earthquake measuring magnitude 5.1 occurred northwest of Gorontalo, Indonesia, on November 15, 2026. The seismic event struck at a deep underground depth of approximately 487 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "e70d985026a3": {
+      "ai_title": "Magnitude 5.5 Tremor Hits Near Union, Philippines",
+      "ai_summary": "A magnitude 5.5 earthquake struck 9 kilometers east of Union, Philippines, on November 15, 2026. The shallow event happened at a depth of 10 kilometers and was felt by about 12 people.",
+      "content_source": "rss",
       "flow": []
     }
   }

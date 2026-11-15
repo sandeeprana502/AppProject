@@ -1,7 +1,46 @@
 {
- "generated": "2026-11-15T10:25:45.810404+00:00",
- "count": 2298,
+ "generated": "2026-11-15T18:30:02.042019+00:00",
+ "count": 2301,
  "items": [
+  {
+   "id": "8b48cdc624d4",
+   "title": "M 5.0 - 74 km N of Pārūn, Afghanistan",
+   "summary": "A magnitude 5 earthquake was recorded 74 km N of Pārūn, Afghanistan. The event happened on 15 November 2026 at 17:48 UTC. It occurred at a depth of about 101 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 53,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-15T17:48:36.959000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "5884d4d17ff9",
+   "title": "M 5.1 - 169 km NW of Gorontalo, Indonesia",
+   "summary": "A magnitude 5.1 earthquake was recorded 169 km NW of Gorontalo, Indonesia. The event happened on 15 November 2026 at 15:41 UTC. It occurred at a depth of about 487 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 53,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-15T15:41:14.978000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "e70d985026a3",
+   "title": "M 5.5 - 9 km E of Union, Philippines",
+   "summary": "A magnitude 5.5 earthquake was recorded 9 km E of Union, Philippines. The event happened on 15 November 2026 at 13:41 UTC. It occurred at a depth of about 10 km. About 12 people reported feeling it. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 59,
+   "category": "Earth",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-15T13:41:35.701000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek",
+   "image": "",
+   "licence": "open"
+  },
   {
    "id": "7e2aea0b1dca",
    "title": "M 4.7 - 92 km NW of Houma, Tonga",
@@ -317,7 +356,7 @@
   {
    "id": "fc0067771827",
    "title": "M 4.6 - 33 km SSW of La Libertad, El Salvador",
-   "summary": "A magnitude 4.6 earthquake was recorded 33 km SSW of La Libertad, El Salvador. The event happened on 13 November 2026 at 21:19 UTC. It occurred at a depth of about 59 km. About 3 people reported feeling it. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "summary": "A magnitude 4.6 earthquake was recorded 33 km SSW of La Libertad, El Salvador. The event happened on 13 November 2026 at 21:19 UTC. It occurred at a depth of about 59 km. About 5 people reported feeling it. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
    "words": 61,
    "category": "Earth",
    "source": "USGS earthquakes",
