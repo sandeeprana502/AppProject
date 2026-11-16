@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T18:31:26.776290+00:00",
+  "generated": "2026-11-16T00:47:57.158175+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -3471,17 +3471,6 @@
       "content_source": "rss",
       "flow": []
     },
-    "2327c6c41636": {
-      "ai_title": "Observing the Annual Leonid Meteor Showers",
-      "ai_summary": "Because predicting the exact appearance of the next meteor is impossible, viewing meteor showers is best done by finding a comfortable spot with a clear, dark sky. The annual Leonid meteor shower peaks in mid-November, providing a great opportunity for stargazing. A notable photograph capturing the 2022 Leonids from Hainan, China, combined multiple meteor streaks tracked over hours with an earlier foreground image. In the photo, the streaks trace back to the constellation Leo and cross the constellation Orion, with the planet Mars visible near the top. Stargazers often enjoy these celestial events with friends or loved ones.",
-      "content_source": "source_text",
-      "flow": [
-        "Find a comfortable viewing location with a wide view of a dark sky.",
-        "Monitor the sky over several hours to observe meteor streaks.",
-        "Capture multiple meteor streaks using a camera.",
-        "Combine the isolated meteor streaks with a previously recorded foreground image."
-      ]
-    },
     "aac1b3d99d62": {
       "ai_title": "PLOS One Issues Expression of Concern Over Decision-Making Study",
       "ai_summary": "The editors of PLOS One have issued an Expression of Concern regarding a published research article on multiple attribute group decision-making. The action was taken following the discovery of cumulative issues related to the study's references and methodology. Specifically, several articles cited within the paper's bibliography were subsequently retracted after the initial publication. Additionally, independent concerns regarding the reported methodology have been raised publicly on the platform PubPeer across a large number of the study's cited references. Due to these combined factors, readers are strongly advised to interpret the findings and conclusions of the affected study with caution until further investigations or resolutions are provided by the journal or authors.",
@@ -3515,6 +3504,176 @@
       "ai_title": "Magnitude 5.5 Tremor Hits Near Union, Philippines",
       "ai_summary": "A magnitude 5.5 earthquake struck 9 kilometers east of Union, Philippines, on November 15, 2026. The shallow event happened at a depth of 10 kilometers and was felt by about 12 people.",
       "content_source": "rss",
+      "flow": []
+    },
+    "b9ff1ea41015": {
+      "ai_title": "Observing the Leonid Meteor Shower from Hainan, China",
+      "ai_summary": "Predicting the exact appearance location of a meteor is impossible, making dark sky monitoring the ideal way to watch a meteor shower. A composite image capturing the 2022 Leonids from Hainan, China, shows meteor streaks tracing back to the constellation of Leo while crossing Orion, with the planet Mars visible near the top. The Leonid meteor shower occurs annually in mid-November. The image features two astronomy enthusiasts who bonded over their shared interests, celebrated a common birthday month, and later married.",
+      "content_source": "source_text",
+      "flow": [
+        "Find a comfortable location with a wide view of a dark sky.",
+        "Capture meteor streaks over a period of several hours.",
+        "Record a separate foreground image.",
+        "Isolate the captured meteor streaks and add them to the foreground image."
+      ]
+    },
+    "ccfe26880475": {
+      "ai_title": "Magnitude 4.8 Earthquake Strikes Near Petropavlovsk-Kamchatsky, Russia",
+      "ai_summary": "A magnitude 4.8 earthquake occurred 141 kilometers east-southeast of Petropavlovsk-Kamchatsky, Russia, on November 15, 2026, at 22:38 UTC. The seismic event struck at a depth of approximately 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "0c034ad4d110": {
+      "ai_title": "Magnitude 4.9 Earthquake Recorded South of Jurm, Afghanistan",
+      "ai_summary": "An earthquake of magnitude 4.9 was registered 44 kilometers south of Jurm, Afghanistan, on November 15, 2026, at 21:37 UTC. The earthquake had a depth of about 191 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "76030130c2ef": {
+      "ai_title": "Magnitude 5.0 Earthquake Hits Southeast of Ambon, Indonesia",
+      "ai_summary": "A magnitude 5.0 earthquake struck 256 kilometers south-southeast of Ambon, Indonesia, on November 15, 2026, at 20:51 UTC. The depth of the seismic event was recorded at approximately 306 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9f3c75b81e49": {
+      "ai_title": "Magnitude 4.6 Earthquake Shakes Union, Philippines",
+      "ai_summary": "A magnitude 4.6 earthquake occurred 27 kilometers east-southeast of Union, Philippines, on November 15, 2026, at 14:17 UTC. The earthquake originated at a depth of roughly 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "c4ec8df8e843": {
+      "ai_title": "Distinct Connectivity and Cortical Modulation by Basal Forebrain Subnuclei",
+      "ai_summary": "The basal forebrain regulates multiple behavioral functions via brain-wide projections, though the anatomical reasons for this functional diversity remain poorly understood. Researchers compared two mouse basal forebrain subnuclei, the horizontal diagonal band and the substantial innominata, using tracing methods. The findings indicate that these subnuclei target largely segregated forebrain regions while receiving inputs from partially overlapping subsets of areas. Many individual neurons project to only one subnucleus, pointing to independent recruitment. Combining optogenetics and widefield calcium imaging, the study showed that stimulating prefrontal cortical projections to either subnucleus drives distinct patterns of large-scale cortical activity through a cholinergic mechanism.",
+      "content_source": "source_text",
+      "flow": [
+        "Compare subnuclei anatomical connectivity using anterograde and retrograde tracing",
+        "Combine optogenetics and widefield calcium imaging",
+        "Stimulate prefrontal cortical projections to the horizontal diagonal band or substantial innominata",
+        "Observe distinct large-scale patterns of cortical activity driven by a cholinergic mechanism"
+      ]
+    },
+    "23331a54ed70": {
+      "ai_title": "Neural Circuit Mechanisms for Visual Predator Recognition in Flies",
+      "ai_summary": "Animals survive by visually recognizing objects and responding appropriately through multi-stage processing that transforms visual scenes into object identities and motor actions. In Drosophila, researchers identified a specific neural circuit responsible for recognizing a natural predator, the parasitoid wasp, and triggering defensive behaviors. Flies exhibit defensive actions structured by the wasp's location in their field of view, driven by visual detection of the wasp's elongated antennae. Specific lobula columnar visual projection neurons respond to the wasp's features and relay signals to LC9, which builds a composite representation of the predator. Spatial filtering then maps the location of the wasp onto a descending premotor pathway to coordinate defense.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "d144a1ff4135": {
+      "ai_title": "Anticancer Drug Clofarabine Inhibits Enteric Bacterial Pathogenesis",
+      "ai_summary": "Infections caused by enteropathogenic and enterohaemorrhagic Escherichia coli lead to severe global diarrhoeal disease and feature attaching and effacing lesions where bacteria generate actin pedestals. To discover new anti-virulence treatments, researchers screened compounds and identified the anticancer nucleotide analogue clofarabine as a potent inhibitor of bacterial growth and pedestal formation. Unlike its role in oncology, clofarabine targets bacterial ATP-dependent processes, impeding gene transcription, protein synthesis, and Type III Secretion System function. However, the bacteria can counteract this by cleaving clofarabine to resume growth. Additionally, clofarabine suppresses protein translation in human monocytes, revealing shared vulnerabilities to purine antimetabolites in both hosts and pathogens.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "a91695c179a1": {
+      "ai_title": "Deep Learning Approach Enhances Prediction of Short Linear Motifs",
+      "ai_summary": "Short linear motifs are small interaction modules situated within intrinsically disordered protein regions that govern critical biological processes. Traditional identification methods often suffer from high rates of false positives because of limited motif definitions. To overcome this, researchers developed SLiMMine, a deep learning-based tool utilizing protein embeddings trained on refined annotations of known motif classes. SLiMMine improves functional motif identification, eliminates approximately 80% of false positives from standard pattern matching, and uncovers novel motifs based solely on sequence features. Furthermore, narrowing interactor-domain definitions helps link predicted motifs more precisely to known protein interactions.",
+      "content_source": "source_text",
+      "flow": [
+        "Refine annotations of known motif classes to build a high-quality training dataset",
+        "Develop the SLiMMine deep learning method utilizing protein embeddings",
+        "Identify functional short linear motifs while filtering out false positives",
+        "Uncover novel motifs and link predictions to known protein-protein interactions"
+      ]
+    },
+    "d00fe2275f76": {
+      "ai_title": "Bacterial Co-culture Enables Efficient Paracetamol and Toxic Metabolite Removal",
+      "ai_summary": "Pharmaceutical biodegradation often leaves behind toxic metabolites that threaten aquatic environments. To tackle this, researchers studied a two-species microbial co-culture combining the paracetamol-degrading bacterium Delftia P1 with Microbacterium lacus, which contains a homolog of the sadB monooxygenase gene capable of transforming the dead-end metabolite 4-aminophenol. The relative cell density between the two strains heavily influenced removal efficiency. The optimal ratio achieved complete removal of both paracetamol and 4-aminophenol in wastewater and laboratory settings without accumulating harmful byproducts, highlighting the value of complementary metabolic capabilities in co-cultures.",
+      "content_source": "source_text",
+      "flow": [
+        "Select a paracetamol-degrading bacterium that accumulates 4-aminophenol as a dead-end metabolite",
+        "Pair the primary bacterium with Microbacterium lacus containing a sadB gene homolog",
+        "Optimize the relative cell density and strain ratio for degradation efficiency",
+        "Achieve complete removal of paracetamol and 4-aminophenol without toxic accumulation"
+      ]
+    },
+    "f6a0b60059d4": {
+      "ai_title": "Chronic Airway Adaptation Alters Pseudomonas aeruginosa Antibiotic Responses",
+      "ai_summary": "Chronic Pseudomonas aeruginosa infections often persist despite intensive antibiotic therapy guided by standard susceptibility testing. Researchers investigated how longitudinal clinical isolates from cystic fibrosis patients respond to antibiotics under standard laboratory conditions compared to an airway epithelial infection model that mimics the natural infection environment. While standard tests mostly reproduced major resistance phenotypes, discordance emerged among isolates recovered after prolonged airway persistence. Several isolates classified as susceptible in standard tests showed substantial survival in the airway model, driven by mutations tied to classical resistance and chronic adaptation. These findings demonstrate that conventional laboratory assays do not fully capture bacterial responses shaped by long-term infection environments.",
+      "content_source": "source_text",
+      "flow": [
+        "Analyze six longitudinal pairs of Pseudomonas aeruginosa isolates from cystic fibrosis patients.",
+        "Quantify bacterial growth changes following antibiotic exposure under standard laboratory conditions.",
+        "Measure bacterial burden after treatment using differentiated airway epithelial cultures under air-liquid interface conditions.",
+        "Visualize phenotypes with confocal microscopy and compare them with whole-genome sequencing data."
+      ]
+    },
+    "83af5351fedb": {
+      "ai_title": "Diatoms Use Phosphoproteome Remodeling to Adapt to Fluctuating Phosphorus",
+      "ai_summary": "Diatoms play a major role in marine phosphorus cycling and rapidly adapt to fluctuating nutrient supplies by storing excess phosphorus as polyphosphate. To understand how these organisms regulate such adaptations, researchers examined system-wide changes in the Phaeodactylum tricornutum phosphoproteome during phosphorus deficiency and resupply. The study revealed widespread dephosphorylation across 44 percent of phosphosites, highlighting a novel phosphorus-sparing strategy. Following nutrient resupply, the cells quickly reprogrammed their phosphoproteome within minutes. This rapid response involves intracellular phosphorus trafficking and calcium-dependent protein kinase signaling. Overall, the findings show that the phosphoproteome acts as a flexible intracellular reservoir, allowing diatoms to successfully manage changing environmental phosphorus levels.",
+      "content_source": "source_text",
+      "flow": [
+        "Subject diatoms to phosphorus deficiency to induce starvation responses.",
+        "Resupply phosphorus and observe the cellular reaction.",
+        "Analyze systemic changes in the Phaeodactylum tricornutum phosphoproteome.",
+        "Identify dephosphorylation across phosphosites and subsequent rapid phosphoproteome reprogramming."
+      ]
+    },
+    "e7264164de3a": {
+      "ai_title": "Engineered eTasR Platform Improves PAMless Genome Editing",
+      "ai_summary": "Researchers have developed a highly active genome editing variant called eTasR by using structure-guided rational design on the compact TIGR-Tas system and fusing it with the TREX2 exonuclease. The new tool significantly increases mammalian editing efficiency and enables effective in vivo delivery.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "4e9bb3b6fc56": {
+      "ai_title": "Positive Selection Targets Exposed Regions on Human Proteins",
+      "ai_summary": "Positive selection drives the evolution of protein function by favoring amino acid substitutions that enhance fitness, yet the precise structural locations of these changes have remained debated. To clarify these patterns, researchers analyzed curated collections of positively selected genes and residues. The results show that positively selected residues in human proteins are significantly enriched in secreted and cell membrane proteins, preferentially locating on solvent-exposed surfaces, coil structures, and interaction interfaces rather than within internal domains or disordered regions. Furthermore, these residues frequently cluster near host-pathogen interaction interfaces, pointing to pathogen neutralization as a primary driver of human protein adaptation. These residues also show connections to human variation data and clinical drug targets, providing new insights into the structural basis of adaptive evolution.",
+      "content_source": "source_text",
+      "flow": [
+        "Compile a curated collection of positively selected genes and residues alongside structural datasets.",
+        "Analyze the spatial distribution and structural localization of positively selected residues across human proteins.",
+        "Integrate host-pathogen interaction data to identify interface overlap and contact points with pathogenic proteins.",
+        "Examine human variation data and clinical-stage drug target databases for enrichment patterns."
+      ]
+    },
+    "d74e69c8d184": {
+      "ai_title": "Hypoxia and Reoxygenation Drive Intestinal Repair in Drosophila",
+      "ai_summary": "Fluctuating oxygen levels challenge intestinal tissues, but the mechanisms driving damage and repair remain poorly understood. Using the adult Drosophila intestine, researchers demonstrated that hypoxia and reoxygenation trigger distinct phases of epithelial repair. During hypoxia, separate enterocyte populations activate an AMPK-p53-dependent pathway that primes cells for apoptosis and an independent cytokine response that stimulates stem cell signaling. However, neither cell death nor stem cell proliferation occurs until oxygen returns. Upon reoxygenation, enterocyte loss and stem cell division happen simultaneously to restore intestinal length. The findings reveal how the intestinal epithelium coordinates space and time during oxygen fluctuations.",
+      "content_source": "source_text",
+      "flow": [
+        "Induce hypoxia to activate separate enterocyte pathways, including apoptosis priming and cytokine signaling.",
+        "Maintain hypoxic conditions without triggering immediate cell death or stem cell proliferation.",
+        "Restore oxygen to initiate reoxygenation in the tissue.",
+        "Execute simultaneous enterocyte loss and stem cell proliferation to recover intestinal length."
+      ]
+    },
+    "8a6dc19cfc95": {
+      "ai_title": "Mechanical Stress Influences Inner-Ear Hair Cell Regeneration",
+      "ai_summary": "The regeneration capacity of inner-ear sensory hair cells (HCs) drops sharply during early postnatal development in mice, limiting recovery from hearing and balance disorders. Traditionally, HC regeneration is viewed through a classical lateral inhibition model involving neighboring supporting cells. Researchers combined live imaging with single-HC ablation in mouse vestibular explants to explore this decline. They discovered that age-dependent shifts in mechanical stress alter standard differentiation patterns. A mathematical model incorporating local mechanical regulation alongside Notch signaling successfully replicates these observations across different ages. These findings point to mechanical stress as a critical regulator of HC development and regeneration, offering a potential new target for therapeutic strategies.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "2322ec61bbfe": {
+      "ai_title": "New Tool Uses Remote Sensing to Assess Ecosystem Impacts of Beaver Dams",
+      "ai_summary": "Beavers strongly influence riparian ecosystems by altering water levels and vegetation, yet ecologists often lack accessible tools to analyze remote sensing data for these changes. To bridge this gap, researchers developed a Google Earth Engine-backed Streamlit application. This graphical user interface allows users to upload locations of active dams or installed beaver dam analogs. The app automatically generates comparable dam-absent reference locations and outputs numerical data and plots. These visuals display temporal shifts in water, vegetation, temperature, and evapotranspiration metrics. Supported by open datasets from 2017 onward, the tool is available via a static cloud URL or locally through GitHub, enabling broader conservation use without requiring specialized software expertise.",
+      "content_source": "source_text",
+      "flow": [
+        "Upload locations of observed dams or installed beaver dam analogs into the application.",
+        "Generate a set of dam-absent locations for comparison through the graphical user interface.",
+        "Process data via the Google Earth Engine backend to analyze ecological indices over time.",
+        "Receive plots and numerical data indicating changes in vegetation, water, temperature, and evapotranspiration."
+      ]
+    },
+    "edfe5d9d438d": {
+      "ai_title": "Using eDNA Time Series to Map Prey Landscapes for Endangered Beluga Whales",
+      "ai_summary": "Tracking foraging habits and prey dynamics is essential for protecting endangered species like the Cook Inlet beluga whale. Researchers utilized quantitative environmental DNA (eDNA) metabarcoding alongside visual observations to study seasonally changing prey fields across two estuarine systems. By combining coho quantitative PCR assays with MiFish 12S metabarcoding, the team estimated fish abundances and tracked predator-prey co-occurrence. Weekly time series data successfully captured shifts in predator presence and prey availability, revealing beluga whales co-occurring with spikes in coho DNA near the Twentymile River. Conversely, monthly sampling on the Kenai River showed a mismatch with spring eulachon runs. The findings highlight the effectiveness of pairing shore-based eDNA sampling with visual surveys to monitor dynamic habitats.",
+      "content_source": "source_text",
+      "flow": [
+        "Collect environmental DNA and visual observation data using weekly or monthly time series sampling.",
+        "Generate total DNA concentration estimates using a coho qPCR assay.",
+        "Determine bias-corrected proportional abundance of multiple salmonid species using MiFish 12S metabarcoding.",
+        "Analyze the temporal overlap between predator occurrence and specific prey DNA concentrations."
+      ]
+    },
+    "d5943e49ca18": {
+      "ai_title": "Drought-Resilient Trees Provide Critical Refuge for Desert Parasitoid Wasps",
+      "ai_summary": "Increasing aridity driven by climate change threatens dryland parasitoid wasps by limiting environmental resources. Native, drought-tolerant plants like Ziziphus spina-christi could help sustain these beneficial insect populations by offering floral resources and habitats. Over a two-year study across four sites spanning a rainfall gradient, researchers compared parasitoid communities on Z. spina-christi trees versus surrounding vegetation. Parasitoid abundance was consistently higher on the trees, particularly during harsh summer conditions, while diversity varied by site and season. Additionally, sugar-feeding frequency increased when flowers were more abundant. These insights indicate that Z. spina-christi acts as a vital nutritional resource and ecological refuge, supporting conservation efforts in arid ecosystems.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "9be9b62ae2d8": {
+      "ai_title": "AI-Powered Image Analysis Streamlines Insect Biodiversity Monitoring",
+      "ai_summary": "Monitoring insect biodiversity is vital for ecological assessments and sustainable landscape management, but traditional methods are hindered by the need for extensive taxonomic expertise. Researchers developed an AI-supported index that estimates flying insect biodiversity using the visual features of insect bodies. Flying insects were captured using yellow sticky traps across diverse Mediterranean habitats and seasons in Israel. The traps were scanned at high resolution, and a machine learning model automatically detected and delineated the insects to extract visual traits such as body size, color, and shape. Biodiversity was then calculated from distances among feature vectors. The AI-derived index correlated strongly with expert taxonomic identification, showing that morphological image variation serves as an effective biodiversity proxy and offering a rapid, cost-effective monitoring solution.",
+      "content_source": "source_text",
       "flow": []
     }
   }
