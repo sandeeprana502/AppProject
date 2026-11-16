@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T10:41:31.109734+00:00",
+  "generated": "2026-11-16T21:41:29.421042+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -3793,6 +3793,70 @@
     "515dc592fc86": {
       "ai_title": "How Evolutionary Selection Shapes AI Conduct and Socialization",
       "ai_summary": "Artificial intelligence agents must often balance task completion with adherence to rules of conduct, goals that can frequently conflict. Evolutionary selection models show that long-run growth is maximized when actions are taken in proportion to environment rewards. Comparing different policies reveals that task-only approaches thrive in unconstrained environments but fail when conduct matters, while fixed linear policies excessively prioritize task completion as stakes rise. In contrast, learned policies converge to the specific tradeoffs rewarded by their environment, a process termed socialization when driven by human rewards. Accumulated experience makes socialization more resilient to subsequent task-only pressures, though finite memory and potential violations can disrupt this stability. Ultimately, agent alignment depends heavily on the surrounding environments that continuously shape and sustain their operational behavior.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "2c1a340aee1e": {
+      "ai_title": "Moderate Earthquake Strikes Near Tual, Indonesia",
+      "ai_summary": "An earthquake with a magnitude of 6.6 struck west-southwest of Tual, Indonesia, at a depth of 35 kilometers on November 16, 2026. Only a few minor shaking reports were logged.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "6e0c614892de": {
+      "ai_title": "NASA Secures Sixteenth Straight Clean Financial Audit",
+      "ai_summary": "NASA has achieved its sixteenth consecutive unmodified audit opinion on its fiscal year 2026 financial statements, certified by an external auditor. This top rating confirms adherence to federal accounting standards and reflects long-term fiscal accountability as the agency pursues major missions. The 2026 financial report highlights recent milestones, including the crewed Artemis II lunar test flight, the launch of the Nancy Grace Roman Space Telescope, and the first supersonic flight of the experimental X-59 aircraft. NASA also advanced talent recruitment initiatives, workforce realignments, and international Artemis Accords partnerships. Administrator Jared Isaacman emphasized the agency's dedication to responsible resource stewardship alongside ambitious future exploration goals.",
+      "content_source": "article",
+      "flow": [
+        "An external auditor reviews NASA's fiscal year financial statements.",
+        "The auditor determines that the statements conform with Generally Accepted Accounting Principles.",
+        "NASA is awarded an unmodified, clean financial audit opinion for the sixteenth consecutive year."
+      ]
+    },
+    "149de7498bd8": {
+      "ai_title": "Sentinel-6B Satellite Depicted in New Orbit Concept",
+      "ai_summary": "An artist's concept highlights the Sentinel-6B satellite, designed to serve as the primary reference mission for future studies tracking sea surface height changes across the globe.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "c6377ff964f9": {
+      "ai_title": "Air Force Thunderbirds Headline NASA Aerospace Festival",
+      "ai_summary": "U.S. Air Force Thunderbirds jets flew over NASA's Kennedy Space Center during the inaugural MAX POWER expo and air show, celebrating American flight history and space exploration.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "8f00806eff93": {
+      "ai_title": "Magnitude 4.8 Earthquake Recorded Close to Changuillo, Peru",
+      "ai_summary": "A magnitude 4.8 earthquake occurred southwest of Changuillo, Peru, at a depth of roughly 39 kilometers on November 16, 2026, with at least one person reporting feeling the tremor.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "17f686460a71": {
+      "ai_title": "Magnitude 5.4 Earthquake Strikes Near Changuillo, Peru",
+      "ai_summary": "A magnitude 5.4 earthquake occurred approximately 95 kilometers west-southwest of Changuillo, Peru, on November 16, 2026, at 16:16 UTC. The seismic event took place at a shallow depth of about 10 kilometers. Official agencies note that data regarding the exact magnitude and location may be revised as reviews continue.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "2eb37a9d39b5": {
+      "ai_title": "Jim Mirandy Transitions from Contractor to Civil Servant at NASA Stennis",
+      "ai_summary": "Jim Mirandy has transitioned from a long-term contractor to a civil servant at NASA's Stennis Space Center in Mississippi. Hired under a workforce directive to restore core competencies, Mirandy serves as a quality assurance specialist and close call investigator. Growing up with a father who worked in the aerospace industry, Mirandy developed an early interest in fixing things and problem-solving. After starting his career hands-on as a mechanic working on the Space Shuttle External Tank, he shifted his focus toward safety and quality operations. At NASA Stennis, he contributes to institutional safety through employee committees, training programs, and rigorous testing oversight that supports missions like the Artemis program.",
+      "content_source": "article",
+      "flow": []
+    },
+    "ca57254f91f8": {
+      "ai_title": "Allosteric Inhibition Reverses Hydrocephalus Caused by Shp2 Mutation in Mice",
+      "ai_summary": "Researchers discovered that the catalytically inactive Shp2 C459S mutation leads to communicating hydrocephalus in mice by impairing ciliary development and motility, differing from mutations that alter neurogenesis. Brain tissues from mutant mice exhibited elevated GAB1 and AKT phosphorylation, pointing to dysregulated PI3K-AKT signaling as the underlying cause. The study revealed that pharmacological inhibition of PI3K successfully rescues ciliogenesis defects and alleviates hydrocephalus. Furthermore, using the allosteric SHP2 inhibitor SHP099 increased the thermal stability of the mutant protein and reduced hydrocephalus symptoms. These insights demonstrate that the condition is driven by structural conformational changes rather than catalytic activity, highlighting the therapeutic potential of conformation-specific allosteric inhibitors.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "47ba0bdc4af0": {
+      "ai_title": "Dendritic Depolarization Block Enables Single Neurons to Perform XOR Computation",
+      "ai_summary": "Using biologically realistic modeling, researchers demonstrated that single neurons can perform complex exclusive-or logic computations through dendritic depolarization block rather than relying solely on multilayer networks. Voltage-gated calcium channels facilitate a non-monotonic input-output relationship where moderate asynchronous drive generates spikes, but excessive drive causes a sustained plateau that suppresses output. This XOR-like computation is strictly governed by the temporal distribution of synaptic inputs rather than their spatial arrangement. The process remains robust across various dendritic configurations but fails under synchronous activation. Cross-morphological validation confirms that this frequency-synapse-count trade-off serves as a generalized biophysical mechanism for neural information processing.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "6574b57bb0b6": {
+      "ai_title": "New Framework Improves Epidemic Control Despite Incomplete Observation Data",
+      "ai_summary": "Incomplete reporting, testing limits, and asymptomatic infections often distort epidemic-control policies. To address this, researchers developed a three-stage computational epidemiology framework combining observation modeling, state reconstruction, and policy optimization. The approach extends a metapopulation SEIQR model and introduces ODE-DynNet, a hybrid model that uses mobility-coupled epidemic dynamics and graph-temporal learning to infer hidden infection states. Coordinated testing and isolation are then framed as a multi-agent reinforcement learning problem. Testing the pipeline with community mobility data from Shenzhen, China, demonstrated an 88% reduction in infection costs compared to decoupled policies using raw proxy data, showing that explicit state reconstruction effectively supports epidemic control under surveillance gaps.",
       "content_source": "source_text",
       "flow": []
     }
