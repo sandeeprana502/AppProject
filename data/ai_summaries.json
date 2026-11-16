@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T00:47:57.158175+00:00",
+  "generated": "2026-11-16T10:41:31.109734+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -3673,6 +3673,126 @@
     "9be9b62ae2d8": {
       "ai_title": "AI-Powered Image Analysis Streamlines Insect Biodiversity Monitoring",
       "ai_summary": "Monitoring insect biodiversity is vital for ecological assessments and sustainable landscape management, but traditional methods are hindered by the need for extensive taxonomic expertise. Researchers developed an AI-supported index that estimates flying insect biodiversity using the visual features of insect bodies. Flying insects were captured using yellow sticky traps across diverse Mediterranean habitats and seasons in Israel. The traps were scanned at high resolution, and a machine learning model automatically detected and delineated the insects to extract visual traits such as body size, color, and shape. Biodiversity was then calculated from distances among feature vectors. The AI-derived index correlated strongly with expert taxonomic identification, showing that morphological image variation serves as an effective biodiversity proxy and offering a rapid, cost-effective monitoring solution.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "d12140abb094": {
+      "ai_title": "Magnitude 5 Earthquake Strikes Near Sarangani, Philippines",
+      "ai_summary": "A magnitude 5.0 earthquake struck 68 kilometers south of Sarangani, Philippines, at a depth of about 10 kilometers on November 16, 2026. Data remains subject to agency review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "36bf02a2da24": {
+      "ai_title": "Webb Telescope Captures Star Formation and Jets in NGC 7129",
+      "ai_summary": "NASA's James Webb Space Telescope has captured a detailed infrared image of the star-forming region NGC 7129 to help researchers understand how stars develop. Gravity initially pulls together large amounts of gas to form stars, but the process becomes complex as growing stars emit powerful winds and jets, and some eventually explode. Cool stellar atmospheres can also generate opaque dust that blocks visible light when dispersed. In the captured image, younger and more mature stars appear across different colored gas regions, highlighting the physical processes at work during early stellar development.",
+      "content_source": "article",
+      "flow": []
+    },
+    "89f4b6682ce6": {
+      "ai_title": "Indonesian Tropical Glaciers Shrink to Near Disappearance",
+      "ai_summary": "Glaciers on Puncak Jaya in Indonesia have shrunk drastically since 1988, dwindling to about two percent of their former area by late 2025. Comparisons between historical and recent satellite imagery reveal that the ice has thinned significantly, broken apart, and lost its ability to flow like a glacier. Climate conditions and intense El Niño events, which bring warm air and rain instead of protective snow, have severely accelerated the melting process. Scientists warn that these high-altitude tropical ice remnants could disappear completely around 2030 or even sooner.",
+      "content_source": "article",
+      "flow": []
+    },
+    "a6e1b76ee1a7": {
+      "ai_title": "Magnitude 5.4 Earthquake Recorded Near Anamizu, Japan",
+      "ai_summary": "An earthquake measuring magnitude 5.4 occurred 20 kilometers northwest of Anamizu, Japan, on November 16, 2026. The tremor had a deep hypocenter of approximately 274 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "bd5fa59a104d": {
+      "ai_title": "Evaluating Markovian Models for Maritime Data Fusion",
+      "ai_summary": "Monitoring maritime security is difficult due to domain complexity, prompting the use of Automatic Identification System data combined with space-based radio frequency observations. This study applies a Pair Hidden Markov Model to align individual radio frequency detections with Automatic Identification System trajectories, accounting for temporal and spatial details. Evaluated on National Oceanic and Atmospheric Administration data against baseline approaches, the method achieves notable precision and area-under-curve scores for detecting unflagged vessels. While a log-odds variant improves performance, a simpler time-weighted nearest-neighbor baseline maintains higher overall accuracy.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "31af9e8bcc97": {
+      "ai_title": "FETTUCCINE Brings Brain-to-Text Decoding to Mobile Devices",
+      "ai_summary": "Researchers have introduced FETTUCCINE, an end-to-end framework designed to decode neural activity during attempted speech into text using automatic speech recognition models. Traditional brain-to-text systems rely on compute-intensive language modeling stacks that cause high and variable latencies, hindering real-world communication. FETTUCCINE addresses these issues by achieving low word error rates while running efficiently on commercial mobile devices. When tested on public data from an intracortical speech neuroprosthesis user, the framework achieved a word error rate as low as 4.39 percent and reached up to 370 times real-time throughput on mobile hardware. Furthermore, the models can be fine-tuned to adapt to daily neural changes and allow for the localization of relevant neural features.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "9d04df52e96c": {
+      "ai_title": "Training Open-Weight Reasoning Models for Native Robot Control in Simulation",
+      "ai_summary": "Robot-use agents typically achieve strong performance only through proprietary frontier models, leaving open-weight models far less capable. To bridge this gap, researchers trained an open-weight 27B reasoning model entirely in simulation using reinforcement learning without human demonstrations. By developing a Post-training Engine for Agentic Robotics, the model learned to observe environments, reason through chains of thought, and generate end-effector poses natively. Evaluated on real dual-arm robots and benchmark tasks like LIBERO, the simulated training enabled the model to succeed across unseen setups and tasks, drastically improving success rates compared to base models while preserving core reasoning and coding capabilities.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "cfa715d8e3ac": {
+      "ai_title": "Self-Supervised Human Movement Modeling via Bidirectional Latent Autoregression",
+      "ai_summary": "Understanding human movement from 3D pose sequences typically relies on self-supervised methods dependent on artificial assumptions and heuristic hyperparameters. To overcome these limitations, researchers proposed BAL, a framework that uses the natural ordering structure of everyday behavior as intrinsic supervision. Instead of predicting precise joint configurations, BAL autoregressively forecasts movements within a semantically abstract latent space in both forward and backward directions. This bidirectional approach uses past and future context while avoiding representation collapse by splitting prediction targets into global semantic components and local context-independent movement components. Experiments confirm that BAL improves performance across various motion capture, forecasting, and interpolation tasks.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "c1bccf96043c": {
+      "ai_title": "Reconstructing Dynamical Dark Energy and Gravity from Observational Data",
+      "ai_summary": "Recent cosmological data has prompted renewed interest in whether deviations from standard cosmic expansion history involve changes in gravitational dynamics. Researchers performed a joint, non-parametric reconstruction of effective dark energy density alongside gravitational response functions using data from the Cosmic Microwave Background, baryon acoustic oscillations, supernovae, and large-scale structures. The analysis revealed a persistent maximum in effective dark energy density at redshifts between 0.5 and 0.7, indicating a crossing of the effective phantom divide. Although background expansion history shows clear departures from standard models, gravitational response functions remain less constrained, highlighting areas for future Stage IV cosmological surveys to investigate.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "9810a9fe452c": {
+      "ai_title": "Investigating the Evolution and Clustering Properties of Dark Energy",
+      "ai_summary": "Recent cosmological findings have spurred investigations into whether dynamical dark energy and shifts in cosmic expansion are accompanied by modified gravitational dynamics. Scientists conducted a joint, non-parametric reconstruction using data from the Cosmic Microwave Background, baryon acoustic oscillations, and supernovae, alongside large-scale structure surveys. The study identified a broad peak in effective dark energy density around redshifts 0.6 to 0.7, accompanied by minor low-redshift enhancements in gravitational responses. However, a combined covariance-mode analysis revealed that current data primarily constrain background expansion tightly, while the gravitational clustering sector remains less certain. Consequently, upcoming Stage-IV surveys will be required to confirm whether these low-redshift anomalies share a common physical origin.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "9ce412ea7129": {
+      "ai_title": "Connecting Pure Spinors to Superspace Superfields",
+      "ai_summary": "This study links the pure spinor formalism with the superspace description of constrained superfields and gauge multiplets, primarily focusing on abelian two-dimensional N=(2,2) supersymmetry alongside three- and four-dimensional N=1 examples. By providing an explicit module over the supertranslation Chevalley-Eilenberg algebra for each multiplet, the work matches reconstructions with known superfields. First-order constraints derive from modules supported on linear subspaces of the nilpotence variety, while higher-order constraints emerge from Yoneda products. Requiring connections to act on matter and its conjugate restricts curvatures, yielding ordinary, twisted, and semichiral vector multiplets and their field strengths.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "4f1d14deb7fa": {
+      "ai_title": "Evaluating Language Models as Weight-Space Programmers via WEIGHTBENCH",
+      "ai_summary": "Recent advancements demonstrate that large language models can directly read, fix, and write neural network parameters without gradient descent, a paradigm known as Weight-Space Programming. To systematically evaluate this capability, researchers introduced WEIGHTBENCH, a benchmark consisting of 42 tasks across five tracks, including reading, fixing, writing weights, recognizing impossible edits, and data-free compression. Tested models ranged from small control policies to 7-billion parameter language models. Experimental results reveal that while frontier agents can read small networks and write control policies without executing them, they struggle with patching large language models, data-free compression, and distinguishing complex edits.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "465940559685": {
+      "ai_title": "Real-Time Simulation of Scattering and Wave Packet Preparation in Scalar Field Theory",
+      "ai_summary": "Probing real-time dynamics in quantum field theory requires precise asymptotic incoming states. Researchers optimize a superposition of single particle momentum eigenstates and a single interpolating operator via eigenvalue problems to maximize preparation fidelity from the interacting vacuum. This creates a localized excitation, allowing weighted sums over lattice sites to prepare wave packets of arbitrary spatial extent. Relative phases are calibrated using Lorentz symmetry to ensure the correct continuum limit. Analysis shows that single particle wave packet propagation creates oscillatory Airy distortions from saddle point interference at matching group velocities. These oscillations weaken near the continuum limit. Additionally, two-particle scattering simulations in scalar field theory reveal artificial inelasticity driven by coarse digitization or sampling deviations, allowing researchers to control these artifacts.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "925f7c209083": {
+      "ai_title": "Modeling Continuum Robot Friction Using Complementarity Constraints",
+      "ai_summary": "Accurate friction modeling is critical for motion control in continuum robots, yet traditional methods only predict internal friction restricted by the Coulomb friction cone, missing static friction and motion hysteresis. To address this, researchers proposed a new friction model utilizing complementarity constraints under the Coulomb friction assumption. This approach effectively predicts static friction, sliding friction, hysteresis behavior, and robot deformation caused by environmental interactions. The model operates efficiently in real time to meet robotic computing demands. Experimental validation on a tendon-driven continuum robot demonstrated that incorporating this friction model successfully reduced the maximum tip position error significantly compared to a frictionless model.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "d046f0278e1f": {
+      "ai_title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+      "ai_summary": "Demonstrations accelerate single-agent reinforcement learning, but extending this to multi-agent settings is difficult because teleoperating multiple agents simultaneously is challenging. Round-Robin Behavior Cloning allows a single demonstrator to control one agent at a time while others follow current policies, though performance remains capped by demonstration quality. To overcome this, researchers introduced Imitation Bootstrapped Multi-Agent Reinforcement Learning, extending imitation bootstrapping to cooperative teams using Round-Robin Behavior Cloning. At each step, agents receive action proposals from both imitation and reinforcement learning policies, which an ensemble of centralized critics evaluates. A gated penalty regularizes the reinforcement learning policy toward the imitation policy only when favored by critics. Across benchmarks, this framework surpassed its imitation policies faster than baseline methods and occasionally exceeded the human demonstrator.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "4dbf273f1983": {
+      "ai_title": "Elliptic Schedules and Zoloflow Sampling for Generative Models",
+      "ai_summary": "Generative modeling using stochastic interpolants requires choosing an interpolant schedule and a probability-flow ODE discretization. A new framework uses complexified ODE trajectory analyticity to design joint schedules and discretizations via conformal mapping. This approach yields variance-preserving elliptic schedules parametrized by Jacobi elliptic functions. Combined with a tailored discretization, it produces Zoloflow, a sampling algorithm related to Zolotarev's optimal rational function approximants. The method incorporates the target distribution's condition number and matches classical trigonometric schedules in specific limits. For Gaussian targets, Zoloflow achieves minimax optimality. For log-concave cases, the elliptic schedule allows efficient sampling with low Wasserstein error. Empirical evaluations on synthetic benchmarks and image generation datasets demonstrate the performance of these elliptic schedules against alternatives.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "c1a7f11b371c": {
+      "ai_title": "Geometric Quantization and Giant Gravitons in Gauge Theories",
+      "ai_summary": "Researchers describe a reorganization of gauge-invariant operators in free or twisted U(N) gauge theories into single-trace and determinant operators using open loop equations. This reorganization provides a holographic interpretation where finite-N states are reproduced by applying N-independent gauge constraints to closed strings Fock space combined with the geometric quantization of Giant Graviton D-brane moduli spaces, utilizing a quantization parameter of N inverse. The moduli space of these D-branes arises from tachyon condensation of auxiliary D-brane and anti-D-brane pairs that are Koszul dual to the original gauge theory system. Furthermore, open loop equations are imposed using BRST complexes, whose homology conjecturally recovers the finite-N BPS Hilbert space in the large auxiliary rank limit, categorifying Murthy's Giant Graviton Expansion.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "6be0f382ddf1": {
+      "ai_title": "Mathematical Theory Explains Finite Intelligence in Infinite Environments",
+      "ai_summary": "Information systems often need to learn before knowing what specific tasks they will encounter. Finite representations can succeed without recording an entire infinite environment if the tasks share collective structure. This paper formalizes this through future-task information, representing the minimum retained data required to preserve decision value. Under specific compactness conditions, every retained representation has a calibrated replacement based on a joint decision-regret state, preserving task regrets without increasing information. The resulting information-regret curve functions as an operational coding rate. Exact boundaries govern finite preservation, including weak-star closure and singular mass source-evidence laws. Collective structure dictates information requirements beyond individual question difficulty, revealing how nonlinear learning and computational separations distinguish information preservation from efficient discovery and use in complex environments.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "cd580b823d83": {
+      "ai_title": "ModHarness-RL: Evolving Harnesses for Agentic Reinforcement Learning",
+      "ai_summary": "Agentic reinforcement learning typically relies on a static, hand-written harness that controls what model interactions and guidance occur. Because optimal harnesses change depending on the domain, data, and model state during training, researchers introduced ModHarness-RL. This framework treats the harness as learnable programs that evolve alongside the reinforcement learning process. ModHarness-RL structures interactions using typed state blocks and features two core programs: a compression program that summarizes accumulated history into the context window, and a steering program that guides model behavior when it deviates. During training, candidate programs are proposed from recent trajectories, verified, and replayed over past trajectories. Experiments across CodeSearch, ALFWorld, and BIRD SQL with models ranging from 1.5B to 8B parameters show that these evolving mechanisms consistently improve held-out task performance compared to fixed-harness baselines.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "515dc592fc86": {
+      "ai_title": "How Evolutionary Selection Shapes AI Conduct and Socialization",
+      "ai_summary": "Artificial intelligence agents must often balance task completion with adherence to rules of conduct, goals that can frequently conflict. Evolutionary selection models show that long-run growth is maximized when actions are taken in proportion to environment rewards. Comparing different policies reveals that task-only approaches thrive in unconstrained environments but fail when conduct matters, while fixed linear policies excessively prioritize task completion as stakes rise. In contrast, learned policies converge to the specific tradeoffs rewarded by their environment, a process termed socialization when driven by human rewards. Accumulated experience makes socialization more resilient to subsequent task-only pressures, though finite memory and potential violations can disrupt this stability. Ultimately, agent alignment depends heavily on the surrounding environments that continuously shape and sustain their operational behavior.",
       "content_source": "source_text",
       "flow": []
     }
