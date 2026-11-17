@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T06:47:08.290745+00:00",
+  "generated": "2026-11-17T18:15:15.054297+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -3971,6 +3971,46 @@
       "ai_title": "New Agent-Based Framework Evaluates Pneumococcal Vaccine Strategies",
       "ai_summary": "Streptococcus pneumoniae remains a major global pathogen responsible for severe pneumonia and invasive bacterial diseases. Although pneumococcal conjugate vaccines have been widely deployed, their long-term effectiveness has often been undermined by serotype replacement, prompting the development of broader-coverage vaccines with lower individual immunogenicity. To assess the long-term effects of these newer formulations, researchers have introduced a flexible agent-based modeling framework that incorporates immunity, carriage, and clinical models. Unlike older paradigms that group serotypes strictly by vaccine type, this novel approach tracks individual serotype dynamics over time. The model's versatility was validated through a retrospective analysis tracking the sequential introduction of 7- and 13-valent pneumococcal vaccines in Australia.",
       "content_source": "source_text",
+      "flow": []
+    },
+    "eb8ae8da944a": {
+      "ai_title": "NASA Plans Low-Altitude Flights for Agricultural Emission Research in Texas",
+      "ai_summary": "NASA will use a Dynamic Aviation A200 aircraft to conduct low-altitude research flights over farmland near Amarillo, Texas, from October 22 to November 2. The flights are part of the FarmFlux mission, which is jointly led by NASA’s Goddard Space Flight Center, Colorado State University, and Boston University. The campaign aims to measure various gaseous and particulate emissions, including ozone, methane, ammonia, and pollutants rising from agricultural lands and livestock operations. These measurements will help scientists better understand the role of agricultural emissions in Earth's land and atmosphere systems. Additional low-altitude flights utilizing a NASA P-3 Orion aircraft are also planned for the upcoming growing season in the Midwest and California’s Central Valley.",
+      "content_source": "article",
+      "flow": []
+    },
+    "6404bbe8c5c3": {
+      "ai_title": "Curiosity Rover Resumes Its Ascent Up Mount Sharp",
+      "ai_summary": "After weeks spent drilling and analyzing samples at Basque Lakes and Nazca, NASA's Curiosity rover is continuing its climb up Mount Sharp on Mars. During its journey toward the upper Yardang unit, the rover is using instruments like APXS, ChemCam, MAHLI, and Mastcam to study rock chemistry and textures. Recent exploration areas featured rocks marked by small, regular-sized polygons with raised ridges, a unique texture previously observed lower on the mountain. Scientists believe these polygonal formations can develop through mineral water loss, temperature cycling, or burial and compaction processes. The collected data provide valuable insights into Martian environmental history and the evolution of the planet's habitability. The science team expects to encounter similar polygonal features as the rover advances along its planned route.",
+      "content_source": "article",
+      "flow": [
+        "Complete drilling and sample analysis at the Basque Lakes and Nazca sites.",
+        "Drive upward along the planned route toward the Mount Sharp Yardang unit.",
+        "Use onboard science instruments to measure rock chemistry, textures, and polygonal features.",
+        "Analyze data to understand past environmental changes and Martian habitability."
+      ]
+    },
+    "bcd64c149894": {
+      "ai_title": "NASA Sets Schedule to Reveal First Images From Roman Space Telescope",
+      "ai_summary": "NASA will broadcast the debut of the first images from the Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union Annual Meeting in San Francisco. Scheduled for December 7 at 3:30 p.m. EST, the event will showcase the telescope's capability to capture deep and panoramic views of the cosmos. The mission is designed to investigate dark energy, dark matter, and exoplanets. Ahead of the public broadcast, media briefings and an embargoed viewing will take place, followed by a fireside chat featuring NASA Administrator Jared Isaacman. On December 8, mission experts will be available for remote interviews. Additionally, the public can participate through a pixel adoption initiative, allowing individuals to claim a piece of the initial imagery and receive a digital trading card.",
+      "content_source": "article",
+      "flow": [
+        "Launch the Roman Space Telescope to a million-mile orbit at Sun-Earth Lagrange Point 2.",
+        "Complete the three-month commissioning process to turn on, adjust, and calibrate onboard systems.",
+        "Host a media preview event and preview the telescope's first observations under embargo.",
+        "Livestream the official image reveal to the public through NASA platforms and AGU channels."
+      ]
+    },
+    "3feff6ed9928": {
+      "ai_title": "Astronauts Perform Spacewalk to Install Space Station Solar Array",
+      "ai_summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk performed a spacewalk on October 29, 2026. During the excursion, the astronauts successfully installed a new roll-out solar array on the exterior of the International Space Station.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "0f2579d77da5": {
+      "ai_title": "Moderate Earthquake Strikes Near Vilyuchinsk, Russia",
+      "ai_summary": "A magnitude 4.9 earthquake occurred approximately 135 kilometers south of Vilyuchinsk, Russia, on November 17, 2026, at 15:49 UTC. The seismic event struck at a depth of roughly 83 kilometers, with location and magnitude subject to revision as data is reviewed.",
+      "content_source": "rss",
       "flow": []
     }
   }
