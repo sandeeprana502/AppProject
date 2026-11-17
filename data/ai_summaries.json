@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T21:41:29.421042+00:00",
+  "generated": "2026-11-17T06:47:08.290745+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -1624,12 +1624,6 @@
       "ai_title": "Scottish Professional Football League Weekend Action",
       "ai_summary": "A review of weekend football highlights from across the Scottish Championship, League 1, and League 2, featuring notable matches and results.",
       "content_source": "rss",
-      "flow": []
-    },
-    "ee3ac5daf2da": {
-      "ai_title": "Exploring the History and Impact of Modern Mathematics in 'Big Math'",
-      "ai_summary": "A review of the book Big Math by Steven Strogatz and Townsend explores how mathematics shapes everyday life and powers modern technologies like artificial intelligence. The book connects historical mathematical milestones—from ancient Chinese accounting problems solved with bamboo sticks to nineteenth-century matrix concepts—to contemporary machine learning models and tech algorithms. Through various anecdotes, the authors demonstrate how foundational mathematical operations continue to drive digital innovation, healthcare tools, and search technology.",
-      "content_source": "article",
       "flow": []
     },
     "540f5c4dadbc": {
@@ -3506,17 +3500,6 @@
       "content_source": "rss",
       "flow": []
     },
-    "b9ff1ea41015": {
-      "ai_title": "Observing the Leonid Meteor Shower from Hainan, China",
-      "ai_summary": "Predicting the exact appearance location of a meteor is impossible, making dark sky monitoring the ideal way to watch a meteor shower. A composite image capturing the 2022 Leonids from Hainan, China, shows meteor streaks tracing back to the constellation of Leo while crossing Orion, with the planet Mars visible near the top. The Leonid meteor shower occurs annually in mid-November. The image features two astronomy enthusiasts who bonded over their shared interests, celebrated a common birthday month, and later married.",
-      "content_source": "source_text",
-      "flow": [
-        "Find a comfortable location with a wide view of a dark sky.",
-        "Capture meteor streaks over a period of several hours.",
-        "Record a separate foreground image.",
-        "Isolate the captured meteor streaks and add them to the foreground image."
-      ]
-    },
     "ccfe26880475": {
       "ai_title": "Magnitude 4.8 Earthquake Strikes Near Petropavlovsk-Kamchatsky, Russia",
       "ai_summary": "A magnitude 4.8 earthquake occurred 141 kilometers east-southeast of Petropavlovsk-Kamchatsky, Russia, on November 15, 2026, at 22:38 UTC. The seismic event struck at a depth of approximately 10 kilometers.",
@@ -3857,6 +3840,136 @@
     "6574b57bb0b6": {
       "ai_title": "New Framework Improves Epidemic Control Despite Incomplete Observation Data",
       "ai_summary": "Incomplete reporting, testing limits, and asymptomatic infections often distort epidemic-control policies. To address this, researchers developed a three-stage computational epidemiology framework combining observation modeling, state reconstruction, and policy optimization. The approach extends a metapopulation SEIQR model and introduces ODE-DynNet, a hybrid model that uses mobility-coupled epidemic dynamics and graph-temporal learning to infer hidden infection states. Coordinated testing and isolation are then framed as a multi-agent reinforcement learning problem. Testing the pipeline with community mobility data from Shenzhen, China, demonstrated an 88% reduction in infection costs compared to decoupled policies using raw proxy data, showing that explicit state reconstruction effectively supports epidemic control under surveillance gaps.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "f8f5db754ec1": {
+      "ai_title": "Milky Way and Aurora Over Norway",
+      "ai_summary": "A striking night sky photograph captured from Kvaløya, Norway, features two massive arches appearing to intersect in the atmosphere. The left arch displays the ancient central band of the Milky Way galaxy, consisting of distant stars, gas, and dust. The right arch shows a young auroral ribbon formed hours earlier by energized atmospheric particles. Both systems share a connection to the Sun, which belongs to the Milky Way and ejects the energetic particles responsible for auroras. The background reveals additional celestial landmarks, including the Big Dipper and the distant Andromeda galaxy.",
+      "content_source": "article",
+      "flow": []
+    },
+    "947da179bbec": {
+      "ai_title": "Astronauts Capture Dazzling Views of Earth at Night from Orbit",
+      "ai_summary": "Astronauts aboard the International Space Station have shared striking descriptions and photographs of Earth at night, highlighting city lights, fishing fleets, and lightning storms. Crew members compared illuminated metropolitan areas to marquee lights and described clusters of fishing boats as unfamiliar constellations across the dark oceans. Lightning viewed from orbit appears uniquely diffused by clouds into glowing balls of light and rapid horizon flashes. On October 28, 2026, an astronaut captured these simultaneous nighttime phenomena above the South China Sea near Borneo using a digital camera. Scientific estimates indicate that thousands of thunderstorms continuously generate millions of lightning flashes globally every day, making atmospheric electrical activity a frequent highlight for orbital observers.",
+      "content_source": "article",
+      "flow": [
+        "Position the International Space Station above the South China Sea at night.",
+        "Observe city lights, offshore fishing vessels, and active thunderstorm clouds from above.",
+        "Capture the illuminated scene using a digital camera equipped with a wide lens.",
+        "Process and enhance the image for scientific and public distribution."
+      ]
+    },
+    "cc0f7ca1eab5": {
+      "ai_title": "Magnitude 4.9 Earthquake Strikes Near Port-Olry, Vanuatu",
+      "ai_summary": "A magnitude 4.9 earthquake occurred approximately 26 kilometers east of Port-Olry, Vanuatu. The seismic event was recorded at a depth of 127 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "2546d9de035b": {
+      "ai_title": "Magnitude 5.0 Earthquake Recorded Near Solomon Islands",
+      "ai_summary": "A magnitude 5.0 earthquake was registered about 137 kilometers south-southeast of Kirakira in the Solomon Islands. The tremor struck at a shallow depth of 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "5b85462e4f54": {
+      "ai_title": "Galactic Band and Auroral Ribbon Captured in Northern Skies",
+      "ai_summary": "A recent astronomical photograph taken from Kvaløya, Norway, displays a striking alignment between the Milky Way galaxy and a localized auroral ribbon. The left arch comprises the ancient stellar and dust bands of the Milky Way, located far beyond Earth. Conversely, the right arch consists of a fresh auroral ribbon formed by energized atoms in Earth's upper atmosphere. Both phenomena link back to the Sun, a stellar component of the Milky Way that produces the energetic particles required for auroras. Deeper space features, such as the Big Dipper and the distant Andromeda galaxy, are also visible in the background.",
+      "content_source": "source_text",
+      "flow": [
+        "Identify the ancient Milky Way galactic band forming the left celestial arch.",
+        "Locate the young auroral ribbon created by atmospheric particles on the right arch.",
+        "Recognize the Sun as the common source providing energetic particles for the aurora.",
+        "Observe background objects including the Big Dipper and the distant Andromeda galaxy."
+      ]
+    },
+    "d622b8aed7bb": {
+      "ai_title": "Perseverance Rover Examines Unusual Light-Toned Rocks on Mars",
+      "ai_summary": "The Perseverance rover is investigating a cluster of remarkably bright rocks in the 'Idubi' area outside Jezero Crater. Data from the SuperCam instrument reveals that these fragments are rich in hydrated silica rather than being typical igneous rocks. Because hydrated silica forms in aqueous environments and is capable of preserving microfossils, these deposits are of high astrobiological interest for understanding Mars' hydrological history and searching for potential signs of ancient life. Unlike previous encounters with silica-rich rocks that were too small for detailed study, the Idubi site offers a promising scale, prompting a comprehensive proximity science campaign.",
+      "content_source": "article",
+      "flow": []
+    },
+    "52b415c3a5a5": {
+      "ai_title": "Curiosity Rover Collage Highlights 49 Martian Drill Holes",
+      "ai_summary": "A new image collage displays 49 drill holes created by NASA’s Curiosity Mars rover as of November 2026. Each individual hole represents a rock sample gathered from the Martian surface using the drill located on the rover's robotic arm. The pulverized rock is dropped into onboard instruments inside the rover's body to analyze its chemical composition. The documentation photos were captured by the Mars Hand Lens Imager, a camera positioned on the robotic arm. Every drill hole measures 0.63 inches in diameter. The Curiosity mission is managed by the Jet Propulsion Laboratory for NASA.",
+      "content_source": "article",
+      "flow": []
+    },
+    "a6ed33729493": {
+      "ai_title": "Magnitude 4.6 Earthquake Strikes Near Isangel, Vanuatu",
+      "ai_summary": "A magnitude 4.6 earthquake occurred 146 kilometers south-southeast of Isangel, Vanuatu, on November 16, 2026, at 21:55 UTC. The seismic event took place at an approximate depth of 120 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "d00fbe058613": {
+      "ai_title": "Magnitude 4.6 Earthquake Hits Near Kavieng, Papua New Guinea",
+      "ai_summary": "A magnitude 4.6 earthquake was registered 144 kilometers northwest of Kavieng, Papua New Guinea, on November 16, 2026, at 19:33 UTC. The earthquake struck at a depth of roughly 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "91bcd8597bcd": {
+      "ai_title": "Magnitude 4.7 Earthquake Recorded West-Southwest of Changuillo, Peru",
+      "ai_summary": "A magnitude 4.7 earthquake struck 77 kilometers west-southwest of Changuillo, Peru, on November 16, 2026, at 19:26 UTC. The seismic event occurred at a depth of approximately 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "4f4ffd5ae5f8": {
+      "ai_title": "NASA Tracks Severe Storm Activity",
+      "ai_summary": "NASA's Earth Observatory Natural Event Tracker provides updates on active severe storms using reports compiled from official agencies. Users can visit the source page to view the latest tracking maps and details.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "4c4f60e656a7": {
+      "ai_title": "AMRT Framework Improves Generalizable Neural Decoding for Brain Activity",
+      "ai_summary": "Brain activity encodes motor information across multiple temporal scales, but existing neural decoding methods are typically limited to specific subjects and tasks. To overcome these constraints, researchers introduced AMRT, a shared neural decoding framework that supports heterogeneous electrode configurations and movement paradigms. AMRT uses a two-stage design that first anchors local motion through velocity estimation and then refines trajectories over longer horizons. This approach encourages the reuse of local motion tendencies across different subjects and tasks. Evaluated across three datasets, AMRT successfully generalizes to unseen trials and subjects while demonstrating strong transfer potential across diverse neural recordings and movement paradigms. The findings highlight the promise of shared neural representations and anchor-and-refine decoding strategies for achieving robust, continuous neural control.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "70fd55532132": {
+      "ai_title": "Wavelet-Energy-Driven Dynamic Patching Enhances Time Series Forecasting",
+      "ai_summary": "Patch-based transformers traditionally use fixed-size windows, restricting models to a single temporal resolution despite the multi-scale nature of real signals. While discrete wavelet transforms offer a multi-scale alternative, researchers often couple them with learnable filters, making it difficult to isolate the source of forecasting improvements. A new forecaster addresses this by converting a learnable-DWT per-scale energy map into variable-length patches through the merging of adjacent windows sharing a dominant scale. Testing reveals that multi-resolution structure and variable-length patches drive most performance gains, outperforming fixed grids across numerous settings. In contrast, learning the filter yields marginal benefits only on select datasets. Consequently, researchers suggest starting with any valid wavelet, caching patch boundaries once, and treating filter training as a situational decision rather than a default requirement.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "b2a186c2aa36": {
+      "ai_title": "Training-Free Weight Baking Optimizes Latent Space Geometry in Language Models",
+      "ai_summary": "Researchers explore whether an analyst model can improve a trained language model's latent space organization by analyzing its topological geometry without gradient training. The analyst model reads a fixed-size digest of topological descriptors from a frozen target model's layers and suggests a transformation. Closed-form ridge regression then writes this transformation directly into the feed-forward weights. Experiments using lightweight models across 126 runs demonstrate that category purity increases on unseen text while benchmark accuracy remains stable. Furthermore, a five-model round robin approach showed that many model pairs successfully enhanced category purity. These results establish a solid baseline for future research on LLM-guided, training-free model editing that avoids the manipulation of raw weights.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "cbb50a716ecb": {
+      "ai_title": "Programmable Semantic Interventions Enable Causal Abstraction Without Counterfactual Datasets",
+      "ai_summary": "Causal abstraction explains frozen neural networks by aligning their activations with simpler, interpretable models, a process traditionally requiring extensive counterfactual datasets and executable algorithms. Researchers introduce Programmable Semantic Interventions (PSI) and semantic programs, allowing investigators to directly define relationships between variable answers and expected intervention outputs. This low-rank activation subspace learns to alter model outputs according to the program, relying on answers read directly from the frozen model itself. On the MIB benchmark, PSI matches supervised alignment performance without requiring curated pairs or ground-truth labels. Additionally, on withheld natural science questions, it tracks model answers more effectively than subspaces trained on gold labels, while supporting donor-free steering for precise behavioral control.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "8930fa339505": {
+      "ai_title": "Accelerated Convergence in Hamiltonian Monte Carlo via Uniform Mixing",
+      "ai_summary": "Recent research establishes simultaneous acceleration in both condition number and dimension for critically damped Metropolis-adjusted kinetic Langevin with persistent uniforms. By examining target measures featuring specific convex and Lipschitz potentials, the study proves that this method achieves high-accuracy mixing in total variation using a quantified number of gradient evaluations. The proof introduces a novel coupling technology for general Markov chains, leveraging a weak maximal inequality derived from Hopf's ergodic theorem. This uncovers a stability mechanism within high-probability domains that supports fast local equilibration and naturally integrates framework concepts like Dobrushin and Wasserstein contractions.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "a2bfa7a69cbe": {
+      "ai_title": "Physics-Infused Lecture Notes Bridge Classical Machine Learning and Modern LLMs",
+      "ai_summary": "Designed for third- and fourth-year students, a new set of introductory lecture notes on deep learning uses physical intuition instead of heavy mathematical formalism to explain complex concepts. Developed by a physicist at Queen Mary University of London, the curriculum starts with fundamental machine learning principles such as linear regression, gradient descent, and backpropagation. It progressively advances to more complex topics including regularization, convolutional methods, and neural network normalization. The second half of the material addresses modern natural language processing and large language models, covering transformers, attention mechanisms, reinforcement learning from human feedback, and chain-of-thought reasoning. The notes require minimal prerequisites, aiming to provide a clear and intuitive pathway into modern machine learning for students and independent learners with backgrounds in physics or mathematics.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "3292b84172c3": {
+      "ai_title": "Low-Dimensional Data Sketches Improve Neural Posterior Estimation Efficiency",
+      "ai_summary": "Neural posterior estimation is a popular simulation-based inference approach that uses neural networks to approximate parameter posteriors based on simulated data. For high-dimensional observations, standard methods either rely on hand-crafted summary statistics, which require extensive scientific effort, or learn summaries from massive datasets, which can be computationally prohibitive. To overcome these challenges, researchers propose approximating parameter conditional density using low-dimensional data sketches instead of full datasets or complex summaries. The study demonstrates that for a model with a multi-dimensional parameter, a minimal number of random sketches are sufficient to achieve posterior consistency. Comparative evaluations show that this sketching method matches the performance of state-of-the-art embedding networks while significantly boosting computational efficiency.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "ef5aa1f0932d": {
+      "ai_title": "Evaluating Parallel Sampling Depth and Reconstruction Thresholds in Planned Decoders",
+      "ai_summary": "Masked diffusion models typically sample token rounds independently, whereas planned decoders generate a coarse plan before filling in tokens in parallel. Researchers investigated when and how effectively plans save computational rounds by studying broadcast trees where token dependencies are dictated by edge correlations. Findings indicate that decoders lacking a plan require significantly more rounds below the reconstruction threshold, while planned decoders can achieve logarithmic depth. Analysis reveals that a plan provides the greatest advantage near the reconstruction threshold, provided its structural units are kept small. Exact divergence calculations within a Gaussian model further confirm these theoretical lower bounds and exponents.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "abb194693c9c": {
+      "ai_title": "New Agent-Based Framework Evaluates Pneumococcal Vaccine Strategies",
+      "ai_summary": "Streptococcus pneumoniae remains a major global pathogen responsible for severe pneumonia and invasive bacterial diseases. Although pneumococcal conjugate vaccines have been widely deployed, their long-term effectiveness has often been undermined by serotype replacement, prompting the development of broader-coverage vaccines with lower individual immunogenicity. To assess the long-term effects of these newer formulations, researchers have introduced a flexible agent-based modeling framework that incorporates immunity, carriage, and clinical models. Unlike older paradigms that group serotypes strictly by vaccine type, this novel approach tracks individual serotype dynamics over time. The model's versatility was validated through a retrospective analysis tracking the sequential introduction of 7- and 13-valent pneumococcal vaccines in Australia.",
       "content_source": "source_text",
       "flow": []
     }
