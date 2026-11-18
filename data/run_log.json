@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T18:10:30.665599+00:00",
+ "generated": "2026-11-18T02:44:21.701853+00:00",
  "sources_ok": 24,
  "sources_total": 27,
  "sources": [
@@ -76,7 +76,7 @@
   {
    "source": "PLOS Genetics",
    "status": "ok",
-   "items": 24
+   "items": 27
   },
   {
    "source": "PLOS Pathogens",
@@ -105,8 +105,9 @@
   },
   {
    "source": "NASA APOD",
-   "status": "ok",
-   "items": 1
+   "status": "failed",
+   "error": "HTTPError: 500 Server Error for url: https://api.nasa.gov/planetary/apod",
+   "kept_previous": 1
   },
   {
    "source": "NASA news",
@@ -116,13 +117,12 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 104
+   "items": 105
   },
   {
    "source": "NASA EONET",
-   "status": "failed",
-   "error": "HTTPError: 500 Server Error for url: https://eonet.gsfc.nasa.gov/api/v3/events?status=open&limit=8",
-   "kept_previous": 23
+   "status": "ok",
+   "items": 8
   },
   {
    "source": "NASA Earth Observatory - Image of the Day",

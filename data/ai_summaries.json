@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T18:15:15.054297+00:00",
+  "generated": "2026-11-18T02:46:17.785126+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -1447,17 +1447,6 @@
       "ai_summary": "A magnitude 5.1 earthquake occurred south of the Fiji Islands on November 9, 2026, at a depth of approximately 535 kilometers. Agency data and safety information remain subject to updates.",
       "content_source": "rss",
       "flow": []
-    },
-    "9152cd2db8e8": {
-      "ai_title": "COP31 Focuses on Climate Target Overshoot and Carbon Removal",
-      "ai_summary": "Delegates have gathered in Antalya, Turkey, for the COP31 climate summit amid confirmation that global warming will overshoot the 1.5°C Paris agreement target. With a UN report declaring temperature overshoot inevitable, discussions are turning toward large-scale carbon dioxide removal alongside emissions cuts to bring temperatures back down. While some environmental groups now back carbon removal technologies, no country has yet established clearly quantified removal targets in official UN commitments. Additionally, scientists are calling for structural reforms to the COP process, including allowing majority voting to bypass consensus blocks by individual states.",
-      "content_source": "article",
-      "flow": [
-        "Acknowledge that global warming will surpass the 1.5°C Paris agreement target",
-        "Discuss strategies for carbon dioxide removal alongside deep emissions cuts",
-        "Encourage governments to set quantified carbon removal targets in national plans",
-        "Debate potential reforms to the COP process to improve decision-making efficiency"
-      ]
     },
     "cf9081146a78": {
       "ai_title": "Mark Connolly reflects on eventful interim managerial stint at Derry City",
@@ -4011,6 +4000,135 @@
       "ai_title": "Moderate Earthquake Strikes Near Vilyuchinsk, Russia",
       "ai_summary": "A magnitude 4.9 earthquake occurred approximately 135 kilometers south of Vilyuchinsk, Russia, on November 17, 2026, at 15:49 UTC. The seismic event struck at a depth of roughly 83 kilometers, with location and magnitude subject to revision as data is reviewed.",
       "content_source": "rss",
+      "flow": []
+    },
+    "58172f549e8a": {
+      "ai_title": "Moderate Earthquake Strikes Near Guam",
+      "ai_summary": "A magnitude 5.8 earthquake occurred approximately 150 kilometers southwest of Merizo Village, Guam, at a depth of about 10 kilometers. The seismic event was recorded on November 18, 2026, and was felt by about six people.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "981a5c92fadd": {
+      "ai_title": "Magnitude 5.3 Earthquake Measured in Romania",
+      "ai_summary": "An earthquake with a magnitude of 5.3 struck 16 kilometers west of Nereju Mic, Romania, at a depth of roughly 131 kilometers on November 18, 2026. Roughly 318 individuals reported experiencing the tremor.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "32110fc5e0f5": {
+      "ai_title": "NASA Launches Student Challenge on Space Nuclear Power",
+      "ai_summary": "NASA has initiated the Power to Explore Student Challenge, inviting students from kindergarten through 12th grade across the United States to explore space nuclear power systems. Participants are tasked with creating an original illustration depicting a nuclear-powered lunar base and writing a 200-word essay about a personal superpower that would help the mission. The competition aims to spark interest in STEM and showcase how nuclear energy can support sustainable lunar exploration by keeping instruments warm and enabling operations in shadowed polar regions. Submissions are open until March 1, 2027. Category winners will receive a trip to NASA’s Glenn Research Center in Cleveland, and all entrants will receive a digital certificate and an invitation to a virtual event with NASA experts.",
+      "content_source": "article",
+      "flow": [
+        "Learn about space nuclear power systems and lunar exploration needs.",
+        "Write a 200-word essay describing a personal superpower that helps the mission.",
+        "Create an original illustration of a nuclear-powered lunar base.",
+        "Submit the entry before the March 1, 2027 deadline."
+      ]
+    },
+    "310b0bf5a829": {
+      "ai_title": "Global NASA Space Apps Challenge Sets New Participation Records",
+      "ai_summary": "NASA's annual Space Apps Challenge achieved record-breaking participation, drawing 181,835 registered individuals across 593 global events. The two-day hackathon challenges participants to use NASA's open data and datasets from 17 international space agency partners to address real-world problems regarding Earth science and space exploration. Working in teams organized by local volunteers, participants develop projects and submit them before the deadline to compete for global awards. This year marked the fifth consecutive year of increased turnout, demonstrating the growing reach of the initiative since its inception in 2012.",
+      "content_source": "article",
+      "flow": []
+    },
+    "69fee50cb49a": {
+      "ai_title": "NASA Space Biology Program Launches Digital AVATAR Challenge",
+      "ai_summary": "NASA's Biological and Physical Sciences Division has introduced the BPS Digital AVATAR Challenge, offering $150,000 in total prizes. The challenge invites researchers to apply computational digital twin technologies to model how an astronaut bone marrow chip responds to spaceflight stressors. Following the recent return of organ-on-a-chip devices from the Artemis II mission, this new competition seeks innovative frameworks capable of processing multi-modal datasets to simulate personalized health outcomes, immune responses, and bone marrow reactions. Competitors must design models that distinguish individual crew member effects from shared responses and allow for continuous updates with new empirical data. Registration is open, and submissions close on February 12, 2027.",
+      "content_source": "article",
+      "flow": []
+    },
+    "322fa129b2e5": {
+      "ai_title": "NASA's Chandra Observatory Converts Star Data Into Sound",
+      "ai_summary": "NASA's Chandra X-ray Observatory and other space telescopes have released a new album of data turned into audio, known as sonifications, featuring active star-forming regions. By translating information captured by telescopes like Hubble and the James Webb Space Telescope into musical pitches, tones, and textures, astronomers offer a new way to explore stellar birth and the lifecycle of stars. The release highlights four distinct regions: the starburst galaxy Messier 82, the Orion Nebula, the Carina Nebula's Cosmic Cliffs, and the Rho Ophiuchi star-forming cloud. Each track maps different wavelengths of light—such as X-rays, optical, and infrared—to specific sounds to highlight elements like hot gas, dense dust, and energetic infant stars.",
+      "content_source": "article",
+      "flow": []
+    },
+    "33623c6d773d": {
+      "ai_title": "SpaceX Dragon Prepares for Space Station Departure and Return to Earth",
+      "ai_summary": "A SpaceX Dragon spacecraft is scheduled to depart the International Space Station, carrying thousands of pounds of scientific research samples and hardware back to Earth. The mission includes returning specialized cargo such as a 3D-bioprinted blood vessel construct used for studying cardiovascular aging, frozen tumor organoids for cancer research, microbial samples, and a lighting system tested for supporting astronaut sleep. Following commands from ground controllers in California, the spacecraft is slated to undock from the Harmony module and target a splashdown off the coast of California, pending weather conditions.",
+      "content_source": "article",
+      "flow": [
+        "Load the SpaceX Dragon spacecraft with thousands of pounds of cargo and scientific samples.",
+        "Undock the spacecraft from the International Space Station's Harmony module following ground commands.",
+        "Monitor weather conditions to target a safe splashdown off the coast of California."
+      ]
+    },
+    "c00a30f7ecef": {
+      "ai_title": "NASA's NICER X-ray Telescope Concludes Operations on Space Station",
+      "ai_summary": "NASA’s Neutron star Interior Composition Explorer (NICER) telescope has officially ended science operations on the International Space Station after operating for more than six years past its initial mission timeline. Launched in 2017, the X-ray instrument provided groundbreaking measurements of neutron stars, advanced our understanding of black holes, and demonstrated pulsar-based deep space navigation. Although operations were initially paused due to an unresolvable internal motor failure that restricted the telescope's tracking ability, the mission's legacy includes numerous scientific papers and spinoff applications for Earth technologies, such as prototype portable CT scanners.",
+      "content_source": "article",
+      "flow": []
+    },
+    "02cddb31f0f4": {
+      "ai_title": "Magnitude 4.5 Earthquake Strikes Near Port-Vila, Vanuatu",
+      "ai_summary": "A magnitude 4.5 earthquake was recorded approximately 26 kilometers northwest of Port-Vila, Vanuatu, at a depth of 10 kilometers. The seismic event occurred on November 17, 2026, with at least one individual reporting feeling the tremor.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "1383cd9371f2": {
+      "ai_title": "Severe Storm Tracked by NASA's Natural Event Tracker",
+      "ai_summary": "NASA's Earth Observatory Natural Event Tracker has listed an active severe storm event named Tropical Cyclone Akvan. The tracker gathers official agency reports and updates continuously as the storm develops.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "4b665371e49c": {
+      "ai_title": "Magnitude 4.8 Earthquake Strikes Near Kavieng, Papua New Guinea",
+      "ai_summary": "A magnitude 4.8 earthquake occurred northwest of Kavieng, Papua New Guinea, on November 17, 2026. The seismic event was recorded at a depth of roughly 10 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "a36839ab6e56": {
+      "ai_title": "Magnitude 4.9 Earthquake Registered Near Ozernovskiy, Russia",
+      "ai_summary": "An earthquake measuring magnitude 4.9 hit east-northeast of Ozernovskiy, Russia, on November 17, 2026, at a depth of about 87 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "8ed204017df0": {
+      "ai_title": "Magnitude 5.2 Tremor Recorded South of Kermadec Islands",
+      "ai_summary": "A magnitude 5.2 earthquake struck south of the Kermadec Islands on November 17, 2026, originating at a deepness of approximately 337 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9d53d4a65748": {
+      "ai_title": "Neural Activity States Reveal Alcohol-Seeking Behavior Mechanisms in Rats",
+      "ai_summary": "Researchers investigated the neural mechanisms driving persistent alcohol-seeking behavior by analyzing anterior cingulate cortex activity in rats performing an aversion-resistant drinking task. Using dynamic functional connectivity analysis on spike-train recordings, scientists identified latent neural states that mapped to seeking and non-seeking phases. While neural and behavioral states aligned during regular alcohol sessions across both alcohol-preferring and Wistar rat strains, this alignment diverged in alcohol-preferring rats after alcohol was devalued with quinine. The failure of these rats to form stable post-devaluation neural states points to a potential cognitive vulnerability underlying alcohol use disorder.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "5794f79c4f7e": {
+      "ai_title": "TopoPPI Platform Maps Protein Interaction Surfaces With Low Distortion",
+      "ai_summary": "Researchers introduced TopoPPI, a geometry-aware software platform designed to convert complex, curved protein-protein interaction surfaces into low-distortion two-dimensional atlases. Flattening these molecular interfaces typically causes geometric distortion or splits individual amino acid residues into separate regions. TopoPPI builds upon the OptCuts framework by integrating a contact-weighted penalty to reduce residue-footprint fragmentation while maintaining links to original atoms, residues, and contacts. Benchmarking across thousands of experimental complexes and predicted models showed that the platform significantly decreases fragmentation and preserves continuity without adding major geometric distortion. TopoPPI is available through graphical and command-line interfaces to help scientists visualize structural contacts and functional annotations.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "2f59a7ef905f": {
+      "ai_title": "GapCNV Framework Improves Copy Number Variant Detection in Low-Input Sequencing Data",
+      "ai_summary": "Detecting copy number variants in single-cell and low-input sequencing data is often hindered by uneven read counts, amplification bias, and the challenge of selecting appropriate reference samples. Normalization against references containing common copy number variants can eliminate true signals or produce false calls. To address this, researchers developed GapCNV, a statistical framework that uses preliminary cell clustering and shared profiles to build bin-specific pseudo-references from copy-neutral cells. Tested on simulations, Plasmodium falciparum, and human cancer datasets, GapCNV successfully maintained high precision, preserved common variant signals, and recovered profiles across individual cells. The results indicate that adaptive pseudo-reference construction enhances variant detection when reliable normal controls are unavailable.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "6d615cb7b5a4": {
+      "ai_title": "Hierarchical Digital Surrogates Model Complex Social Decision-Making Dynamics",
+      "ai_summary": "Social decision-making is driven by complex cognitive processes like trust-building and adaptive strategies, which are typically difficult to study using small laboratory datasets. Traditional modeling often relies on hand-tailored frameworks with strong assumptions, but modern data-driven methods allow generative models to be extracted directly from behavioral data. Researchers have created hierarchical digital surrogates from repeated trust game investments using a three-stage approach. First, these models accurately predict future investments, outperforming traditional reinforcement learning and Bayesian cognitive models. Second, their latent dynamics capture mechanistic structures related to choice uncertainty and cue representation. Finally, the generative models allow for in-silico experiments to simulate responses to novel strategies and unobserved cues, providing a new way to study social interaction dynamics.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "298dad288ea1": {
+      "ai_title": "Computationally Inexpensive Biomechanical Model Enhances Vocal Fold Dynamics Study",
+      "ai_summary": "Vocal fold posture, controlled by laryngeal muscle activation, is crucial for voice production, and abnormal configurations often lead to voice disorders. Although clinical observations show diverse glottal closure patterns, the underlying biomechanical mechanisms remain poorly understood, and existing numerical models are often too computationally expensive for large-scale studies. Researchers have introduced a new, computationally efficient vocal fold model that treats the body and cover layers as a composite beam and a coupled membrane, respectively. Intrinsic muscle activation introduces boundary moments that influence glottal conformation, matching the qualitative characteristics of high-fidelity finite-element models. This approach provides valuable biomechanical insights into incomplete glottal closure and offers a practical tool for investigating voice disorders.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "aabe3f829533": {
+      "ai_title": "Analyzing Bile Fluid Dynamics to Inform Choledochal Cyst Clinical Strategies",
+      "ai_summary": "Choledochal cysts carry a high lifetime risk of progressing to cancer, prompting surgical intervention, though optimal management strategies vary globally. Investigating bile flow dynamics can offer surgeons better insights for treatment planning. Researchers reconstructed a healthy biliary system from an MRI scan and modified it into eight choledochal cyst types based on Todani classifications. Using Particle Image Velocimetry and computational fluid dynamics simulations, they analyzed bile emptying and pathological non-Newtonian flow. The findings revealed consistently low velocities and bile accumulation in dilated cyst regions, along with extreme wall shear stress gradients up to 10,000 times higher than normal. These results demonstrate that computational fluid dynamics can provide helpful biomechanical insights into bile flow abnormalities and assist future clinical evaluations.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "7541bfd63f8d": {
+      "ai_title": "Ontology Pre-Training Enhances Machine Learning Predictions for Biological Metabolites",
+      "ai_summary": "Integrating expert biological knowledge into deep learning models can significantly improve their predictive performance in complex domains. Bio-ontologies provide a rich source of curated knowledge that can be utilized through an intermediate training step called ontology pre-training, which occurs between general-purpose pre-training and task-specific fine-tuning. Researchers demonstrated that embedding classification hierarchies derived from bio-ontologies improves predictive accuracy and reduces training time across various metabolite-related prediction tasks using MoleculeNet datasets. The greatest improvements were observed in regression tasks, such as predicting aqueous solubility and lipophilicity, while classification tasks also saw robust performance gains. This flexible approach can be adapted to accommodate diverse knowledge sources, models, and prediction tasks.",
+      "content_source": "source_text",
       "flow": []
     }
   }
