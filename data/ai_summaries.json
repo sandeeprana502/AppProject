@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T02:46:17.785126+00:00",
+  "generated": "2026-11-18T11:11:28.365364+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -3861,17 +3861,6 @@
       "content_source": "rss",
       "flow": []
     },
-    "5b85462e4f54": {
-      "ai_title": "Galactic Band and Auroral Ribbon Captured in Northern Skies",
-      "ai_summary": "A recent astronomical photograph taken from Kvaløya, Norway, displays a striking alignment between the Milky Way galaxy and a localized auroral ribbon. The left arch comprises the ancient stellar and dust bands of the Milky Way, located far beyond Earth. Conversely, the right arch consists of a fresh auroral ribbon formed by energized atoms in Earth's upper atmosphere. Both phenomena link back to the Sun, a stellar component of the Milky Way that produces the energetic particles required for auroras. Deeper space features, such as the Big Dipper and the distant Andromeda galaxy, are also visible in the background.",
-      "content_source": "source_text",
-      "flow": [
-        "Identify the ancient Milky Way galactic band forming the left celestial arch.",
-        "Locate the young auroral ribbon created by atmospheric particles on the right arch.",
-        "Recognize the Sun as the common source providing energetic particles for the aurora.",
-        "Observe background objects including the Big Dipper and the distant Andromeda galaxy."
-      ]
-    },
     "d622b8aed7bb": {
       "ai_title": "Perseverance Rover Examines Unusual Light-Toned Rocks on Mars",
       "ai_summary": "The Perseverance rover is investigating a cluster of remarkably bright rocks in the 'Idubi' area outside Jezero Crater. Data from the SuperCam instrument reveals that these fragments are rich in hydrated silica rather than being typical igneous rocks. Because hydrated silica forms in aqueous environments and is capable of preserving microfossils, these deposits are of high astrobiological interest for understanding Mars' hydrological history and searching for potential signs of ancient life. Unlike previous encounters with silica-rich rocks that were too small for detailed study, the Idubi site offers a promising scale, prompting a comprehensive proximity science campaign.",
@@ -4128,6 +4117,66 @@
     "7541bfd63f8d": {
       "ai_title": "Ontology Pre-Training Enhances Machine Learning Predictions for Biological Metabolites",
       "ai_summary": "Integrating expert biological knowledge into deep learning models can significantly improve their predictive performance in complex domains. Bio-ontologies provide a rich source of curated knowledge that can be utilized through an intermediate training step called ontology pre-training, which occurs between general-purpose pre-training and task-specific fine-tuning. Researchers demonstrated that embedding classification hierarchies derived from bio-ontologies improves predictive accuracy and reduces training time across various metabolite-related prediction tasks using MoleculeNet datasets. The greatest improvements were observed in regression tasks, such as predicting aqueous solubility and lipophilicity, while classification tasks also saw robust performance gains. This flexible approach can be adapted to accommodate diverse knowledge sources, models, and prediction tasks.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "bb697c970496": {
+      "ai_title": "Early Season Snowstorm Blankets Sierra Nevada Mountains",
+      "ai_summary": "An early-season storm brought heavy rain to lower elevations in Sacramento and roughly a foot of snow to the Sierra Nevada mountains on November 13, 2026. The severe weather disrupted travel, causing authorities to temporarily close Interstate 80 near Donner Pass and shut down several roads around Yosemite National Park. Ski areas like Mammoth Mountain also reported significant accumulations. NASA's Terra satellite captured imagery showing the stark contrast in snow cover before and after the storm. Following a brief lull, the National Weather Service issued additional winter storm warnings for mid-November, predicting further travel disruptions and potentially massive snow accumulations at higher elevations.",
+      "content_source": "article",
+      "flow": []
+    },
+    "fa8b99a03562": {
+      "ai_title": "Magnitude 5.8 Earthquake Strikes Near Ruteng, Indonesia",
+      "ai_summary": "A magnitude 5.8 earthquake struck 40 kilometers north of Ruteng, Indonesia, on November 18, 2026, at 04:41 UTC. The tremor occurred at a shallow depth of about 10 kilometers. Agency data remains subject to revision as reviews continue.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "ca824426f44d": {
+      "ai_title": "Magnitude 5.2 Earthquake Registered North-Northeast of Ruteng, Indonesia",
+      "ai_summary": "An earthquake with a magnitude of 5.2 hit 54 kilometers north-northeast of Ruteng, Indonesia, on November 18, 2026, at 04:21 UTC. The seismic event occurred at a depth of 10 kilometers and was felt by approximately one person.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "733a39f6937c": {
+      "ai_title": "Magnitude 5.8 Tremor Recorded Near Madang, Papua New Guinea",
+      "ai_summary": "A magnitude 5.8 earthquake occurred 99 kilometers east-southeast of Madang, Papua New Guinea, on November 18, 2026, at 03:42 UTC. The quake registered a depth of approximately 52 kilometers, with about five individuals reporting that they felt it.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "ddf0b3588995": {
+      "ai_title": "Magnitude 4.8 Earthquake Hits East-Northeast of Nabire, Indonesia",
+      "ai_summary": "A magnitude 4.8 earthquake was registered 134 kilometers east-northeast of Nabire, Indonesia, on November 18, 2026, at 03:23 UTC. The event took place at a depth of roughly 10 kilometers, with data remaining subject to updates.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "6c5846d3f3f4": {
+      "ai_title": "Magnitude 5.3 Earthquake Strikes Near Karakenja, Tajikistan",
+      "ai_summary": "A magnitude 5.3 earthquake occurred roughly 7 kilometers southeast of Karakenja, Tajikistan, at a depth of 10 kilometers on November 18, 2026. Authorities note that location and magnitude figures may be adjusted as data is reviewed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "317d10eaee38": {
+      "ai_title": "Capturing Solar Chromosphere and M-Class Flares",
+      "ai_summary": "A captured image of the Sun's chromosphere showcases a solar flare occurring on May 14, 2025, using an H-alpha filter to isolate light from energized hydrogen atoms. The Sun's outer atmosphere grows hotter further from the core due to energy from swirling, twisting magnetic fields. When these magnetic fields snap, they release light and energetic particles, creating solar flares. Classified as an M1 event based on GOES observations, this moderate X-ray flare demonstrates the type of activity that can cause minor radiation storms and polar radio blackouts. Space weather agencies continuously monitor these phenomena to protect assets and human life in space and on Earth.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "f8bc9ea173c2": {
+      "ai_title": "Magnitude 4.5 Earthquake Hits Owen Fracture Zone",
+      "ai_summary": "A magnitude 4.5 earthquake was detected in the Owen Fracture Zone region on November 17, 2026, at a depth of about 10 kilometers. Monitoring agencies indicate that these preliminary metrics may change as more data is analyzed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "6191b9d96a4a": {
+      "ai_title": "Constructing Two-Dimensional Conformal Field Theories with Large Primary Gaps",
+      "ai_summary": "Researchers have built the first explicit examples of compact unitary bosonic full conformal field theories in two dimensions possessing a unique vacuum and an all-spin Virasoro-primary gap greater than two. By employing asymmetric orbifolds of lattice CFTs derived from even unimodular lattices, the team ensured that no charged state falls beneath the target gap. The methodology applies gauged symmetries combining orthogonal actions and independent sign reversals, which are proven to be anomaly-free. Analyzing untwisted spectra and twisted sectors allowed the exact calculation of gaps, yielding infinite families of models with specific gap sizes derived from ternary quadratic-residue codes and Barnes-Wall lattices.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "13ba5552f16d": {
+      "ai_title": "Ambient SFT: Preventing Overfitting in Language Models via Temperature Matching",
+      "ai_summary": "Supervised fine-tuning of autoregressive language models is frequently limited by small dataset sizes, which can cause overfitting and catastrophic forgetting. To counter this, researchers developed Ambient SFT, a framework that uses a frozen pre-trained model as a noisy teacher. By requiring the post-training model's high-temperature conditional distributions to match those of the pre-trained model, the approach leverages imperfect predictions to augment the fine-tuning data. A temperature hyperparameter governs how much trust is placed in the pre-trained model. Experiments show that this technique improves performance across instruction-tuning, reasoning, and domain adaptation, achieving up to a 21 percent average relative improvement over standard fine-tuning methods.",
       "content_source": "source_text",
       "flow": []
     }
