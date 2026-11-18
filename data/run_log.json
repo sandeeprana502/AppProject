@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T11:10:42.256324+00:00",
+ "generated": "2026-11-18T20:00:14.630387+00:00",
  "sources_ok": 25,
  "sources_total": 27,
  "sources": [
@@ -76,7 +76,7 @@
   {
    "source": "PLOS Genetics",
    "status": "ok",
-   "items": 27
+   "items": 25
   },
   {
    "source": "PLOS Pathogens",
@@ -116,7 +116,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 109
+   "items": 106
   },
   {
    "source": "NASA EONET",
@@ -138,7 +138,7 @@
   {
    "source": "NOAA",
    "status": "ok",
-   "items": 10
+   "items": 9
   }
  ]
 }

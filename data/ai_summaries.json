@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T11:11:28.365364+00:00",
+  "generated": "2026-11-18T20:02:55.282422+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2198,12 +2198,6 @@
       "content_source": "source_text",
       "flow": []
     },
-    "49e4d2552f09": {
-      "ai_title": "Funding and Competing Interest Statements Corrected for Nigeria Pregnancy Risk Study",
-      "ai_summary": "An update has been issued to correct the funding and competing interests statements for a published study examining hypertensive disorders during pregnancy in Nigeria. The corrected disclosure states that the study received financial support through a grant from MSD for Mothers, awarded to and managed by Jhpiego Corporation, with no additional external funding. Furthermore, several authors are identified as employees of Jhpiego Corporation, while MSD for Mothers is recognized as an initiative of Merck & Co Inc. The publishers confirmed that these corrections do not alter adherence to data and material sharing policies.",
-      "content_source": "article",
-      "flow": []
-    },
     "302a46a1e115": {
       "ai_title": "Moderate Earthquake Strikes Near Hasaki, Japan",
       "ai_summary": "A magnitude 4.6 earthquake occurred east-northeast of Hasaki, Japan, on November 11, 2026. The tremor struck at a depth of roughly 10 kilometers. Agency data remains subject to review.",
@@ -2243,77 +2237,6 @@
     "b117d061d89d": {
       "ai_title": "Tracking SARS-CoV-2 Lineage Growth via Graph Spectra",
       "ai_summary": "Managing vast amounts of viral genomic data to detect rapid population growth in new SARS-CoV-2 lineages presents a significant monitoring challenge. To address this, researchers developed a machine learning and graph theory approach that represents sequence distances as graph Laplacians to identify features of rapid expansion. Analyzing early sequence data from the US and UK between 2021 and mid-2022 revealed that genetic diversity and graph connectivity reliably estimate growth rates of emerging lineages. Testing with data from mid-2022 to the end of 2024 accurately inferred growth rates for new lineages. Furthermore, the model successfully identified rapidly expanding lineages at low frequencies during high-sequencing periods in 2023, offering a scalable tool for real-time epidemic monitoring.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "c79463890d2b": {
-      "ai_title": "Spatial Patterns and Environmental Factors of Echinococcosis in Xizang, China",
-      "ai_summary": "Human echinococcosis remains a major zoonotic concern in Xizang, China, driven by complex climatic, topographic, and landscape gradients. Researchers analyzed surveillance data from 74 counties spanning 2019 to 2023, excluding 2022 due to missing data for certain counties. Using spatial autocorrelation methods and generalized additive mixed models, they assessed the environmental correlates of overall echinococcosis, cystic echinococcosis, and alveolar echinococcosis among screened individuals. The findings reveal distinct subtype-specific spatial clustering and nonlinear associations with environmental factors such as temperature, humidity, and elevation. While these ecological associations do not prove direct causation, they provide critical information to help authorities identify regions that require enhanced surveillance and targeted interventions.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "67cbf258ac70": {
-      "ai_title": "Educational Intervention Improves Menstrual Health Knowledge Among Nursing Students",
-      "ai_summary": "Menstrual health and hygiene remain underprioritized in professional health education, leaving future frontline healthcare workers in Bangladesh with limited structured training. To evaluate a potential solution, researchers conducted a quasi-experimental study involving 384 female nursing and midwifery students split equally into intervention and control groups. The intervention group participated in a four-week participatory educational program covering menstrual physiology, hygiene, stigma reduction, and management, while the control group did not. A post-intervention evaluation six months later revealed that students in the intervention group demonstrated greater improvements in knowledge indicators, such as recognizing average menstrual cycle lengths. However, multi-site studies with repeated follow-up assessments are still required to confirm the long-term sustainability and broader applicability of these results.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "4e69f7b89a4d": {
-      "ai_title": "Investigating Psychosocial Determinants of Hypertension in Southeastern Nigeria",
-      "ai_summary": "Southeastern Nigeria faces a severe public health challenge regarding high hypertension prevalence, yet limited research has focused on psychosocial factors such as perceived stress, anxiety, depression, coping mechanisms, and social support. To address this gap, researchers designed a sequential explanatory mixed-methods study involving adults in the region. The study uses validated psychometric instruments alongside a Health Behaviour Index to capture quantitative outcomes through regression and correlation analyses. Additionally, qualitative data is gathered via semi-structured interviews and evaluated using Braun and Clarke's six-phase thematic framework. The ultimate goal is to generate evidence supporting comprehensive psychosocial care plans that address both the mental and physical aspects of hypertension treatment in resource-limited settings.",
-      "content_source": "source_text",
-      "flow": [
-        "Gather data using validated psychometric instruments and semi-structured interviews",
-        "Analyze quantitative data via regression, correlation, and mediation models",
-        "Examine qualitative data using a six-phase thematic analysis framework",
-        "Disseminate findings through academic journals, conferences, and stakeholder meetings"
-      ]
-    },
-    "25a4c04aeb06": {
-      "ai_title": "MFMNet Improves Synergistic Anticancer Drug Prediction Using Graph Pyramids",
-      "ai_summary": "Predicting synergistic anticancer drug combinations experimentally is time-consuming, prompting the development of computational alternatives. Researchers introduced MFMNet, a framework featuring a Tri-Layer Graph Pyramid with GCN, GIN, and GAT branches to extract complementary molecular graph representations. These representations are integrated via a Cross-Scale Attention Router, which utilizes an adaptive feature-wise gating mechanism before combining them with drug embeddings and cell-line transcriptomic data. In initial five-fold cross-validation and fold-matched evaluations using the O'Neil dataset, MFMNet demonstrated strong performance metrics, outperforming several baseline models and providing a reliable computational tool for prioritizing promising drug combinations.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "941dc0a1dcea": {
-      "ai_title": "Correction Notice for Study on Smallholder Deforestation in the Colombian Amazon",
-      "ai_summary": "A published study examining incentives and smallholder deforestation in the Colombian Amazon has issued a correction for Table 5. The updated row now accurately reflects that the number of cohorts is one for IFA and three for CTS.",
-      "content_source": "article",
-      "flow": []
-    },
-    "70f48eef19d7": {
-      "ai_title": "Correction Issued for Mozambican Women Mental Health Study",
-      "ai_summary": "A correction notice has been issued for a research paper focusing on stratified and geographic patterns of depression and anxiety among women in Mozambique, along with its implications for mental health policy.",
-      "content_source": "rss",
-      "flow": []
-    },
-    "1c7d2d113f29": {
-      "ai_title": "Study Protocol Investigates Community Support for Japanese Patients Stopping Driving After Brain Injury",
-      "ai_summary": "Driving cessation following an acquired brain injury severely impacts a person's quality of life and community involvement, yet structured support programs remain scarce. Researchers in Japan have outlined a protocol for a single-center, non-randomized controlled trial to evaluate a new intervention called the Community Life Support Program for Individuals with Acquired Brain Injury after Driving Cessation. Conducted at a convalescent rehabilitation hospital, the study assigns participants either to receive this structured, participant-centered program or standard care. The primary objective is to measure occupational performance post-intervention using the Canadian Occupational Performance Measure. Secondary metrics include health-related quality of life, depressive symptoms, and mobility transition readiness. Follow-up assessments are planned at several intervals after discharge to track long-term changes and help shape future evidence-based rehabilitation strategies.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "3e67e9ed3cc9": {
-      "ai_title": "Network Toxicology Links Pyrethroid Exposure to Keloid Formation via VCAM1",
-      "ai_summary": "Keloids are fibroproliferative skin lesions characterized by the excessive buildup of extracellular matrix, but the exact molecular connections between pyrethroid insecticide exposure and keloid development have remained unclear. To identify potential links, researchers integrated network toxicology, machine learning, single-cell transcriptomics, molecular docking, and experimental validation. The analysis revealed shared candidate targets between pyrethroids and keloids, notably enriched in specific signaling pathways. Machine learning algorithms prioritized VCAM1 and FGFR1. External transcriptomic validation, molecular dynamics simulations, and quantitative real-time PCR tests confirmed that VCAM1 is significantly upregulated and structurally responsive to pyrethroid exposure, specifically showing strong interaction with theta-cypermethrin. While VCAM1 emerged as a robust candidate linking pyrethroid exposure to molecular alterations in keloids, further mechanistic study is required to understand its regulatory relationship with other genes like SOCS3.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "a57238be88a6": {
-      "ai_title": "Mid-to-Back Fusion Strategy Enhances Multimodal Internet Sentiment Recognition",
-      "ai_summary": "Previous approaches to multimodal sentiment recognition have often overlooked discrepancies between unimodal expressions and multimodal perceptions, as well as the optimal placement for modality fusion within neural networks. To address this, researchers developed a multi-task sentiment recognition model utilizing a mid-to-back fusion strategy. Text, audio, and visual inputs are encoded separately using pre-trained models and optimized with individual unimodal sentiment labels before integration. These representations are then combined through a residual multi-head self-attention module guided by multimodal labels. Tested on the Chinese CH-SIMS dataset, the model outperformed standard multi-task baselines in both three-class and binary accuracy. Additional ablation experiments demonstrated that delaying fusion significantly increases accuracy for neutral classes, and the model successfully transferred to the English CMU-MOSI benchmark.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "a5fd090474fd": {
-      "ai_title": "Herbal Extracts and Bacillus subtilis Blend Protects Against Colitis in Sheep",
-      "ai_summary": "Weaning stress in young animals frequently triggers intestinal conditions like diarrhea and enteritis, driving the need for safe, antibiotic-free alternatives. A study evaluated a compound preparation combining glycyrrhizic acid, Isatidis folium extract, and Bacillus subtilis to assess its impact on growth performance, immune modulation, and colitis relief in Hu sheep. Testing showed that while individual herbal components did not affect Bacillus subtilis growth, the combined preparation significantly inhibited harmful bacteria such as Escherichia coli and Staphylococcus aureus. Furthermore, dietary supplementation improved daily weight gain, increased serum immunoglobulin levels, and regulated cytokine expression. In sheep treated with dextran sulfate sodium to induce colitis, the preparation reduced proinflammatory cytokines while upregulating anti-inflammatory markers and intestinal barrier factors, highlighting its promise as a feed additive for livestock health.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "1610c844dd73": {
-      "ai_title": "Cross-Sectional Study Links Palmar Lactic Acid to Reduced Hand Scaling and Pathogen Suppression",
-      "ai_summary": "The precise relationship between palmar surface lactic acid, hand skin scaling, and antimicrobial activity remains poorly understood. A cross-sectional study evaluated 49 healthy adults following standardized hand washing and environmental acclimation to investigate these connections. Researchers measured visual scaling scores, surface lactic acid, stratum corneum ceramides and amino acids, skin properties, sweat rates, and the anti-pathogenic activity of palmar extracts against specific viral and bacterial strains. The findings revealed that higher lactic acid levels and stronger pathogen-suppressive activity were both associated with lower amounts of skin scaling. Although total ceramides and amino acids showed no significant link to scaling, specific ceramide classes and sweat rates correlated with skin outcomes. The authors note that while these insights are hypothesis-generating and point to lactic acid playing a role in skin health, causality cannot be determined from a cross-sectional design.",
       "content_source": "source_text",
       "flow": []
     },
@@ -4177,6 +4100,130 @@
     "13ba5552f16d": {
       "ai_title": "Ambient SFT: Preventing Overfitting in Language Models via Temperature Matching",
       "ai_summary": "Supervised fine-tuning of autoregressive language models is frequently limited by small dataset sizes, which can cause overfitting and catastrophic forgetting. To counter this, researchers developed Ambient SFT, a framework that uses a frozen pre-trained model as a noisy teacher. By requiring the post-training model's high-temperature conditional distributions to match those of the pre-trained model, the approach leverages imperfect predictions to augment the fine-tuning data. A temperature hyperparameter governs how much trust is placed in the pre-trained model. Experiments show that this technique improves performance across instruction-tuning, reasoning, and domain adaptation, achieving up to a 21 percent average relative improvement over standard fine-tuning methods.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "a874d5d62764": {
+      "ai_title": "Magnitude 6.1 Earthquake Strikes Pacific-Antarctic Ridge",
+      "ai_summary": "A magnitude 6.1 earthquake occurred at the Pacific-Antarctic Ridge on November 18, 2026, at 19:14 UTC. The seismic event had a depth of approximately 10 km, with locations and magnitudes subject to revision.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "af5d0c9506bd": {
+      "ai_title": "Managing Holiday Stress and Mental Well-Being",
+      "ai_summary": "The holiday season can introduce unique stressors, varying widely from person to person. Managing this period effectively involves acknowledging personal emotions, setting realistic expectations, and establishing a calendar and budget to avoid overcommitment. Experts recommend prioritizing self-care, maintaining regular sleep and eating habits, and scheduling time for breaks and fresh air. Individuals should focus on meaningful connections rather than anxiety-inducing activities. When feeling overwhelmed, taking moments alone to breathe or reaching out to trusted contacts, therapists, or support lines like 988 can help maintain emotional balance.",
+      "content_source": "article",
+      "flow": [
+        "Acknowledge your personal feelings and emotions regarding the holidays.",
+        "Create a holiday calendar and working budget to track events and expenses.",
+        "Set realistic expectations and give yourself permission to say no.",
+        "Prioritize self-care, sleep, and personal downtime.",
+        "Reach out for professional support or crisis resources if you feel overwhelmed."
+      ]
+    },
+    "9684ce912982": {
+      "ai_title": "Magnitude 4.5 Earthquake Recorded Near Ollagüe, Chile",
+      "ai_summary": "An earthquake with a magnitude of 4.5 struck 23 km south-southwest of Ollagüe, Chile, on November 18, 2026, at 18:46 UTC. The earthquake occurred at a depth of roughly 134 km.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "0e229a79566c": {
+      "ai_title": "NASA Launches AMPERE Challenge for Mid-Power Electric Rocket Prototypes",
+      "ai_summary": "NASA has initiated the Advanced Mid-Power Electric Rocket (AMPERE) Challenge, inviting U.S. companies to develop prototypes of mid-power Hall effect thrusters. The competition offers a total of $500,000 split between two winning teams to advance propulsion systems critical for deep space operations and satellites. The challenge consists of three phases, beginning with concept design submissions, advancing to prototype development with NASA technology access, and concluding with no-cost testing at NASA Glenn. Registration for the challenge remains open until January 27, 2027.",
+      "content_source": "article",
+      "flow": []
+    },
+    "52e87330e4f8": {
+      "ai_title": "Magnitude 5.0 Earthquake Hits Near Kilimatinde, Tanzania",
+      "ai_summary": "A magnitude 5.0 earthquake struck 46 km north-northeast of Kilimatinde, Tanzania, on November 18, 2026, at 18:08 UTC. The tremor originated at a depth of about 10 km and was felt by approximately one person.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "9b896caf0bb4": {
+      "ai_title": "Empire State Building Illuminated in Gold for Voyager 1",
+      "ai_summary": "The Empire State Building is lit in gold to celebrate NASA's Voyager 1 spacecraft reaching one light-day away from Earth. The color honors the gold-plated Golden Record aboard the historic spacecraft.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "4860f27995d2": {
+      "ai_title": "NASA Outlines Plans for Humanity's First Lunar Outpost",
+      "ai_summary": "NASA is developing humanity's first lunar outpost at the Moon's South Pole, where astronauts will live, work, and explore. Construction is split into three phases: initial robotic exploration and site selection from current years through 2028, establishing infrastructure and power systems from 2029 to 2032, and finally assembling a permanent habitable base. The lunar South Pole was chosen for its extreme environment, which includes areas of extended sunlight for solar power and permanently shadowed craters that may hold frozen water ice. Specialized equipment, such as the VIPER and PROMISE rovers, crewed lunar terrain vehicles, and propulsive drones, will map the treacherous terrain, avoid sharp regolith dust, and test technologies needed to prepare humanity for future missions to Mars.",
+      "content_source": "article",
+      "flow": []
+    },
+    "883e59987eb4": {
+      "ai_title": "NASA Expresses Gratitude to Citizen Science Volunteers",
+      "ai_summary": "NASA celebrated Thanksgiving by thanking its global community of citizen science volunteers for their contributions to various space and Earth research projects. Volunteers have analyzed data, written code, tracked wildlife, monitored air quality, and shared astronomical discoveries. Researchers highlighted specific achievements, including high school students publishing peer-reviewed research on space-flown mice, long-term participants managing weather and phenology equipment, and amateur astronomers building new tools. NASA encourages everyone interested in participating to explore open opportunities on its citizen science website.",
+      "content_source": "article",
+      "flow": [
+        "Join an open project through the NASA citizen science platform.",
+        "Contribute by taking data, analyzing information, or joining specialized field campaigns.",
+        "Collaborate with project researchers and scientists to support active discoveries."
+      ]
+    },
+    "656db8e72adf": {
+      "ai_title": "Magnitude 5.3 Earthquake Strikes Near Tsunagi, Japan",
+      "ai_summary": "A magnitude 5.3 earthquake occurred approximately 4 kilometers north-northwest of Tsunagi, Japan, on November 18, 2026. The tremor struck at a depth of 10 kilometers, and at least one person reported feeling the ground shake.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "8afa2033f8a4": {
+      "ai_title": "Magnitude 5.3 Earthquake Hits South-Southwest of Merizo Village, Guam",
+      "ai_summary": "A magnitude 5.3 earthquake was recorded about 149 kilometers south-southwest of Merizo Village, Guam, on November 18, 2026, at a depth of 10 kilometers. Authorities are reviewing data for any updates on the event.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "49c56cb191c4": {
+      "ai_title": "NASA Telescopes Observe Rare Stellar Merger in Andromeda Galaxy",
+      "ai_summary": "Researchers identified a rare stellar merger in the Andromeda galaxy involving a star slightly less massive than the Sun spiraling into and merging with a supergiant star. Nicknamed Bao, the newly single star was monitored by NASA’s James Webb Space Telescope and other observatories, providing an unprecedented look at a common envelope evolution. The primary star, a massive supergiant, engulfed its smaller companion over just seven orbits. Through updated simulations and multi-wavelength data, scientists reconstructed the event and estimated the mass of the demolished companion. This discovery paves the way for similar transient analyses using upcoming surveys from NASA's Nancy Grace Roman Space Telescope.",
+      "content_source": "article",
+      "flow": []
+    },
+    "2fd13be175a7": {
+      "ai_title": "Migration's Impact on Ungulate Evolution",
+      "ai_summary": "A new study published in PLOS Biology reveals that migration significantly influences the diversification dynamics of ungulates. By moving to more favorable areas to overcome resource limitations, these species drove changes in ecosystem properties and functioning.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "38d35fd58954": {
+      "ai_title": "Indirect Muscles Stabilize Insect Flight",
+      "ai_summary": "Flapping flight in Drosophila is inherently unstable, requiring rapid adjustments. While direct steering muscles control quick reflexes, recent connectome data show indirect steering muscles receive identical sensory synaptic inputs. Researchers demonstrated that indirect tergopleural muscles significantly contribute to flight stabilization, particularly during large pitch perturbations. When faced with large disturbances, flies alter wing pitch angles to harness extra lift and drag forces efficiently. Using optogenetics and control theory, the team found that the tergopleural muscle is activated by a proportional gain component to adjust the wing's rest angle. This highlights how insects select reflex strategies to maintain stability during time-critical behaviors.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "76bd072f46a5": {
+      "ai_title": "New Statistical Tool Decodes Complex Gene Interactions",
+      "ai_summary": "Analyzing gene-gene interactions across multiple binary phenotypes is difficult due to sparse interaction matrices and low statistical power. To address this, researchers introduced GiMat, a statistical framework extending multivariate kernel regression to model gene interactions jointly across dichotomous phenotypes. GiMat successfully captures both homogeneous and heterogeneous effects while controlling type I error. When applied to UK Biobank data concerning type 2 diabetes and hypertension comorbidity, the framework uncovered four previously unknown gene-gene interaction pairs, demonstrating its potential for robust genetic discovery.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "15b149369009": {
+      "ai_title": "Mathematical Models Reveal Role of Molecular Error Correction in Cell Memory",
+      "ai_summary": "Cells store biological information by attaching molecular marks to DNA and proteins, but random enzymatic activity normally causes these marks to degrade quickly within the timeframe of molecular turnover. Researchers used minimal mathematical models to study a cellular strategy called molecular error correction, which closely mirrors a theoretical mechanism proposed by Francis Crick. The analysis shows that Crick-like error correction significantly extends the lifetime of stored memories without requiring excessive molecular redundancy. However, ambient marking activity can generate false positives, revealing that optimal error correction operates at a moderate level rather than an unlimited maximum. Combining error correction with redundant encoding successfully produced stable memories lasting ten to one hundred times longer than normal turnover periods, providing fresh insights into noisy biological memory systems.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "2cedd5d18648": {
+      "ai_title": "Mechanistic Modeling Improves Radiopharmaceutical Therapy for Prostate Cancer",
+      "ai_summary": "Radiopharmaceutical therapy using [177Lu]Lu-PSMA is an approved treatment for metastatic castration-resistant prostate cancer, but current clinical protocols rely on nonpersonalized, empirical fixed schedules. Researchers developed a patient-personalizable mathematical model to simulate tumor response and organ-at-risk toxicity during this treatment. By integrating tumor growth dynamics, radiobiological responses, and organ-resolved pharmacokinetics from imaging data, the model allows for simulations across virtual patient cohorts. Global sensitivity analysis highlighted tumor growth, drug uptake, and radiosensitivity as major drivers of differences between patients. In silico trials evaluating various dosing strategies demonstrated that consolidated regimens with fewer, higher-activity injections improved overall survival in simulations but increased kidney toxicity. These findings suggest that mechanistic modeling can effectively help design and personalize radiopharmaceutical dosing schedules.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "9988576629c3": {
+      "ai_title": "IncD Protein Proven Essential for Chlamydia Infection and Host Interactions",
+      "ai_summary": "The bacterium Chlamydia trachomatis causes sexually transmitted infections and relies on a specialized intracellular compartment called an inclusion for replication. Within the inclusion membrane, bacterial proteins known as Inc proteins manipulate host pathways to acquire vital nutrients, particularly host sphingolipids delivered via CERT-dependent pathways. Because traditional methods disrupted vesicular and non-vesicular trafficking simultaneously, researchers engineered conditional and null incD mutants to study the specific role of the inclusion membrane protein IncD. Depleting IncD or mutating its CERT-binding region resulted in smaller inclusions, premature lysis, and fewer infectious progeny. A complete loss of IncD halted bacterial growth unless CERT was artificially redirected to the inclusion. Furthermore, tests in a mouse model confirmed that IncD is required for infection in vivo, establishing the IncD-CERT pathway as essential for Chlamydia development.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "34c3b069096d": {
+      "ai_title": "New Mycobacterial Protein Discovered Linking Cell Division and Envelope Integrity",
+      "ai_summary": "Mycobacterium tuberculosis and related species have evolved unique growth and division mechanisms that differ significantly from model bacteria like Escherichia coli. Researchers identified two novel DivIVA domain-containing proteins in mycobacteria, Msm0050 and Msm5083, thereby expanding the known repertoire of these structural elements. Detailed functional analysis of Msm5083 revealed its critical involvement in lipid biosynthesis and the maintenance of cell envelope integrity, leading to its designation as CidIVA. Subcellular localization and interactome studies showed that CidIVA targets the cell membrane and interacts with proteins involved in lipid metabolism, membrane synthesis, and transportation. Although its orthologue Rv1209 was found to be dispensable for in vitro growth, it is explicitly required for mycobacterial survival inside a living host, advancing overall understanding of bacterial cell biology.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "d11c6b2f405d": {
+      "ai_title": "Leishmania Parasites Hijack Host ER Protein to Alter Macrophage Metabolism",
+      "ai_summary": "During Leishmania infections, interactions between the parasite's vacuole and the host cell endoplasmic reticulum are vital for replication. Researchers identified the endoplasmic reticulum-shaping protein CLIMP-63 as a key host factor that promotes infection by Leishmania. Following internalization, CLIMP-63 redistributes to the parasitophorous vacuoles, where it associates with VDAC2 at endoplasmic reticulum-mitochondria contact sites using the parasite virulence glycolipid lipophosphoglycan. Further investigation revealed that CLIMP-63 is necessary for Leishmania-induced mitochondrial DNA replication, cristae biogenesis, and heightened mitochondrial respiration, all of which assist the parasite in colonizing macrophages. These findings demonstrate how Leishmania exploits host structural proteins to reprogram cellular bioenergetics.",
       "content_source": "source_text",
       "flow": []
     }
