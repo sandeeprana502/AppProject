@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T20:02:55.282422+00:00",
+  "generated": "2026-11-19T02:19:39.537815+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -62,24 +62,6 @@
     },
     "baf7f81e5457": {
       "summary": "Michael Murphy, who served as Donegal's All-Ireland winning captain, has retired from playing inter-county football. His retirement from inter-county football was officially confirmed by the county."
-    },
-    "2d5b4d8c0759": {
-      "summary": "Researchers developed a unified framework to classically simulate boson and fermion sampling subjected to thermal loss, including pure loss. For Fock-state boson sampling, Gaussian boson sampling with uniform squeezing, and fermion sampling using magic inputs, the framework achieves polynomial-time sampling with inverse-polynomial total variation error for any fixed nonzero loss rate, holding with high probability across Haar-random interferometers. Under a milder flatness condition on ideal output distributions, quasipolynomial-time simulation is possible without relying on Haar randomness, while constant thermal loss per layer allows polynomial-time simulation at logarithmic depth. For Fock-state boson sampling, the bounds apply to dilute and saturated regimes. When nearly all input modes are filled, the noisy output for Haar-random interferometers approaches a distribution that is completely independent of the interferometer as mode numbers increase.",
-      "flow": [
-        "Increase input mode filling near full capacity.",
-        "Grow the total number of modes.",
-        "Noisy output converges for Haar-random interferometers.",
-        "Output distribution becomes independent of the interferometer."
-      ]
-    },
-    "2238ed6b682a": {
-      "summary": "Researchers introduced DiffSequence-Q, a hybrid multinomial diffusion model designed to generate protein sequences conditioned on residue-level secondary structure and target solubility. During training, quantum auxiliary supervision is incorporated using a quantum neural network or quantum Kolmogorov-Arnold network as an auxiliary head over shared Transformer representations. This auxiliary loss is jointly optimized alongside the diffusion objective to shape the denoising model, while classical reverse diffusion handles full sequence generation after training. On the CATH benchmark, DiffSequence-Q attained the highest secondary structure recovery among four models tested. Models using quantum heads showed average predicted solubility scores 14.0% and 22.7% higher than a standard multilayer perceptron baseline. Experiments confirmed biological activity in three protein families, including defensin inhibition of Aspergillus niger and enzymatic activity in xylanases and dehydrogenases.",
-      "flow": [
-        "Jointly optimize quantum auxiliary loss with diffusion objective.",
-        "Train the shared Transformer denoising model.",
-        "Generate protein sequences using classical reverse diffusion.",
-        "Produce biologically active proteins across distinct families."
-      ]
     },
     "38e3674e485b": {
       "ai_title": "Wayne Rooney Wins Pundit of the Year at Broadcast Sport Awards",
@@ -4226,6 +4208,127 @@
       "ai_summary": "During Leishmania infections, interactions between the parasite's vacuole and the host cell endoplasmic reticulum are vital for replication. Researchers identified the endoplasmic reticulum-shaping protein CLIMP-63 as a key host factor that promotes infection by Leishmania. Following internalization, CLIMP-63 redistributes to the parasitophorous vacuoles, where it associates with VDAC2 at endoplasmic reticulum-mitochondria contact sites using the parasite virulence glycolipid lipophosphoglycan. Further investigation revealed that CLIMP-63 is necessary for Leishmania-induced mitochondrial DNA replication, cristae biogenesis, and heightened mitochondrial respiration, all of which assist the parasite in colonizing macrophages. These findings demonstrate how Leishmania exploits host structural proteins to reprogram cellular bioenergetics.",
       "content_source": "source_text",
       "flow": []
+    },
+    "21b7e69c062c": {
+      "ai_title": "Moderate Earthquake Strikes Near Papua New Guinea",
+      "ai_summary": "A magnitude 4.7 earthquake occurred approximately 134 kilometers southwest of Lorengau, Papua New Guinea, on November 18, 2026. The seismic event was recorded at a depth of roughly 17 kilometers at 20:38 UTC. Agency officials noted that the magnitude and precise location could be updated as data is further reviewed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "ba5ccf2fd535": {
+      "ai_title": "Calibrating Epigenetic Clocks for Longevity in Blue Zones",
+      "ai_summary": "Researchers investigated how biological aging differs from chronological age in the Nicoya blue zone of Costa Rica using DNA methylation data. By applying a machine learning ensemble approach called SuperLearner on a reference population of non-Nicoyan Costa Ricans, the team optimized predictive performance across existing epigenetic clocks. Initial estimates of Epigenetic Age Acceleration varied widely depending on the clock used. However, mean calibration aligned the results and revealed a modest biological age advantage for Nicoyan residents, which was primarily concentrated among the oldest participants.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "f66c65bc4d65": {
+      "ai_title": "Scoping Review Explores Vitamin D and Uterine Leiomyomas",
+      "ai_summary": "A scoping review examined clinical, molecular, and genetic evidence concerning the vitamin D-vitamin D receptor axis in uterine leiomyomas. Researchers searched major databases from January 2016 to December 2025, ultimately including 42 relevant studies. Most clinical findings indicated lower circulating vitamin D levels in women with uterine leiomyomas compared to controls, often showing inverse relationships with fibroid size and volume. Meanwhile, molecular studies highlighted reduced receptor expression and altered signaling pathways in leiomyoma tissue. The authors concluded that while existing data points to consistent associations, further prospective cohort studies with rigorous confounder adjustment are required to determine true causality and mechanisms.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "6f2c24705eb9": {
+      "ai_title": "Examining Older Adults' Informal Social Support Networks in Slovenia",
+      "ai_summary": "Researchers analyzed the evolution of informal social support networks among older adults in Slovenia from 2002 to 2025 using cross-sectional survey data. The study identified several distinct network types, including family dependent, private restricted, local self-contained, locally integrated, and wider community networks. Findings revealed that the proportion of older adults reporting no informal social support rose sharply to 7.8% in 2020 during the COVID-19 pandemic, but partially recovered to 4.4% by 2025. Despite this recovery, persistent inequalities remain, with older men showing a higher vulnerability to social isolation and pointing to a need for targeted public support services.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "4315718ca5e1": {
+      "ai_title": "Systematic Review Details Musculoskeletal Injuries in African Football",
+      "ai_summary": "A systematic review synthesized existing evidence regarding the epidemiology of musculoskeletal injuries among football players across Africa. Researchers systematically searched multiple databases and assessed the methodological quality of eligible studies using established tools. Out of the reviewed literature, reported injury incidence varied widely from 2.2 to 289 injuries per 1,000 athlete-exposure hours, while prevalence estimates ranged from 4.1% to 81.6%. Lower-extremity injuries, particularly involving the ankle and knee, were the most prevalent, with sprains, strains, and contusions occurring most frequently. A history of previous injury was consistently identified as a primary risk factor. The authors emphasize the need for standardized injury surveillance to improve future research and prevention strategies.",
+      "content_source": "source_text",
+      "flow": [
+        "Perform a systematic search of literature databases and conduct backward citation searching",
+        "Independently screen retrieved studies and assess methodological quality and risk of bias",
+        "Extract injury incidence, prevalence data, and associated risk factors",
+        "Synthesize findings narratively to account for methodological heterogeneity across studies"
+      ]
+    },
+    "e50b3194f638": {
+      "ai_title": "Magnitude 5.2 Earthquake Strikes Near Teluk Dalam, Indonesia",
+      "ai_summary": "An earthquake with a magnitude of 5.2 struck 141 kilometers west of Teluk Dalam, Indonesia, on November 19, 2026, at 01:34 UTC. The tremor occurred at a depth of approximately 37 kilometers. Authorities note that data remains subject to review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "eb0a1dcad2af": {
+      "ai_title": "Magnitude 4.9 Earthquake Recorded Near Kintinku, Tanzania",
+      "ai_summary": "A 4.9 magnitude earthquake occurred 45 kilometers north-northwest of Kintinku, Tanzania, on November 19, 2026, at 01:29 UTC. The seismic event had a depth of about 10 kilometers and was reportedly felt by approximately one person.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "2b43fabf0350": {
+      "ai_title": "NASA Schedules Cargo Resupply Mission to the International Space Station",
+      "ai_summary": "NASA, Northrop Grumman, and SpaceX are targeting November 29 for the launch of the CRS-25 mission to the International Space Station. A SpaceX Falcon 9 rocket will carry the Northrop Grumman Cygnus XL spacecraft, loaded with roughly 11,000 pounds of cargo and scientific investigations, from Cape Canaveral Space Force Station. The mission includes experiments focused on cancer treatment, muscle loss, and food production. Astronauts aboard the station will capture the spacecraft using the Canadarm2 robotic arm on December 1 and attach it to the Unity module. Named after astronaut James A. Lovell, the spacecraft is scheduled to remain docked until May 2027 before returning with unneeded cargo to burn up during re-entry.",
+      "content_source": "article",
+      "flow": [
+        "Launch the Cygnus XL spacecraft aboard a SpaceX Falcon 9 rocket from Cape Canaveral.",
+        "Capture the spacecraft at the International Space Station using the Canadarm2 robotic arm.",
+        "Install the spacecraft to the Unity module's Earth-facing port for cargo unloading.",
+        "Unload supplies and scientific research equipment, and later load unneeded cargo for disposal."
+      ]
+    },
+    "cc2cf52f538b": {
+      "ai_title": "Magnitude 4.8 Earthquake Hits Near Santa Gertrudis Miramar, Mexico",
+      "ai_summary": "A magnitude 4.8 earthquake was registered 11 kilometers south-southwest of Santa Gertrudis Miramar, Mexico, on November 18, 2026, at 22:06 UTC. The seismic event took place at a depth of roughly 35 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "88596f6c7b3f": {
+      "ai_title": "Magnitude 5.2 Earthquake Occurs South of Attu Station, Alaska",
+      "ai_summary": "A magnitude 5.2 earthquake struck 169 kilometers south of Attu Station, Alaska, on November 18, 2026, at 21:28 UTC. The earthquake occurred at a shallow depth of about 10 kilometers, with location data subject to further agency review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "394c6bbfb41a": {
+      "ai_title": "Biological and Genomic Analysis of Lactobacillus delbrueckii subsp. sunkii",
+      "ai_summary": "Researchers analyzed the biological characteristics, morphology, and genetic functions of Lactobacillus delbrueckii subsp. sunkii, a strain isolated from the vaginal secretions of pregnant women. Using mass spectrometry, 16S rRNA gene sequencing, electron microscopy, and whole-genome sequencing, the team examined the strain's structural and genetic properties. Laboratory assays tested its biochemical reactions, acid production, antimicrobial susceptibility, and antibacterial activity against specific pathogens. The findings indicate that the strain is a Gram-positive, facultative anaerobe that ferments sugars into acid, inhibits certain bacteria, and carries multiple antibiotic resistance genes. This research provides foundational knowledge regarding vaginal microbiota balance and potential probiotic development, though further animal studies are required to confirm its role in humans.",
+      "content_source": "source_text",
+      "flow": [
+        "Identify the bacterial strain using mass spectrometry and 16S rRNA gene sequencing.",
+        "Examine colony morphology, Gram staining, and cellular ultrastructure via scanning electron microscopy.",
+        "Perform whole-genome sequencing and bioinformatics analysis.",
+        "Conduct biochemical, acid production, and antibacterial activity experiments."
+      ]
+    },
+    "85be7a54b14e": {
+      "ai_title": "Compact Microwave Metasurface Absorber Achieves High Absorption",
+      "ai_summary": "Scientists have developed a compact metasurface-based absorber designed for the microwave band to improve the performance of small aerial platforms such as unmanned aerial vehicles. Conventional absorbers often require specific thicknesses or active components, limiting practical use. By engineering dipole resonances to achieve impedance matching, the new design reaches a maximum absorptance of 99.6% at 10 GHz. The absorber maintains an absorptance above 50% for incidence angles from 0 to 70 degrees. Utilizing finite-element simulations, researchers confirmed the physical origin of absorption and evaluated structural parameters. With a thickness of only one-thirtieth of its operating wavelength, the device offers high design freedom and presents a practical approach for miniaturized microwave hardware.",
+      "content_source": "source_text",
+      "flow": [
+        "Engineer dipole resonances to achieve proper impedance matching.",
+        "Optimize the metasurface device architecture for the microwave band.",
+        "Perform finite-element simulations to evaluate structural parameters and physical absorption mechanisms."
+      ]
+    },
+    "c21ea6bf70d8": {
+      "ai_title": "Evaluation of Research Publication Practices Among African Academics",
+      "ai_summary": "A study investigating research publication practices among African university-based researchers highlights how systemic and structural challenges impact scientific output. Using an indigenous realist evaluation approach, data were gathered from interviews with participants in research capacity-strengthening workshops. The analysis reveals that institutional pressures, such as career growth tied to publications and the 'publish or perish' mindset, drive researchers to focus on publication quantity. Additionally, misconceptions surrounding journal impact factors and the perceived prestige of Western publications influence where academics choose to submit their work. When universities establish read-and-publish agreements with Western outlets while local journals lack visibility, researchers increasingly target international journals. The findings suggest that African institutions should reevaluate their career progression and publication policies through a decolonial lens.",
+      "content_source": "source_text",
+      "flow": [
+        "Collect data through interviews with project teams and principal investigators following capacity-strengthening workshops.",
+        "Apply the Context-Mechanism-Outcome heuristic for retroductive theorising and qualitative analysis.",
+        "Examine how institutional pressures, training, and metrics influence researcher behavior and publication choices."
+      ]
+    },
+    "dfd0793d11ba": {
+      "ai_title": "Late-Pregnancy Food Insecurity Linked to Lower Newborn Birth Weights",
+      "ai_summary": "A facility-based cross-sectional study conducted in Northern Ethiopia evaluated the association between household food insecurity during late pregnancy and infant birth weight. Utilizing propensity score matching among 286 mother-newborn pairs, the study found that 38.1% of participating households experienced food insecurity. The prevalence of low birth weight was significantly higher among food-insecure mothers at 48.6%, compared to 11.3% among food-secure mothers. Statistical models revealed that newborns born to food-insecure mothers weighed an average of 204 grams less. These findings indicate a strong link between maternal food access and adverse birth outcomes, underscoring the need for nutritional assessments, targeted education, and social support interventions during antenatal care to improve maternal and child health.",
+      "content_source": "source_text",
+      "flow": [
+        "Recruit mother-newborn pairs using systematic random sampling during antenatal care visits.",
+        "Assess household food security status using the Household Food Insecurity Access Scale.",
+        "Analyze data utilizing propensity score matching to estimate treatment effects on birth weight."
+      ]
+    },
+    "3124ec97bd15": {
+      "ai_title": "Genomic and Cold-Stress Analysis of Soybean HD-ZIP IV Transcription Factors",
+      "ai_summary": "Homeodomain-leucine zipper transcription factors play vital roles in plant growth and environmental stress responses. This study characterized soybean HD-ZIP IV candidates through domain screening, genomic mapping, phylogenetic comparisons, and expression analyses. A domain audit identified 29 candidates with group IV patterns distributed across 15 chromosomes. Evolutionary analysis of candidate pairs revealed Ka/Ks ratios consistently below 1.0, pointing to purifying selection constraints. Co-expression networks and secondary cold-stress expression data further highlighted specific candidate genes responding to low temperatures. These insights establish a foundation for future functional studies on soybean cold tolerance and gene regulation mechanisms.",
+      "content_source": "source_text",
+      "flow": [
+        "Perform domain screening and genomic mapping to identify soybean HD-ZIP gene candidates.",
+        "Conduct phylogenetic comparisons and evolutionary analyses, including Ka/Ks ratio calculations.",
+        "Construct co-expression networks and analyze secondary expression data under cold-stress conditions."
+      ]
     }
   }
 }
