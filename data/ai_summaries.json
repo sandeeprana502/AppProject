@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T02:19:39.537815+00:00",
+  "generated": "2026-11-19T11:11:14.368264+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -48,14 +48,6 @@
     },
     "00063d028726": {
       "summary": "Researchers from the University of Bath and Goethe University Frankfurt created a scale to measure people's feelings about temporarily reducing digital screen time. The study shows that individual attitudes toward taking a digital detox vary significantly and reflect online behavior."
-    },
-    "6349eb3d6a24": {
-      "summary": "Researchers studied how an SU(1,1) gauge field affects wavepacket and entanglement dynamics. The wavepacket undergoes non-Abelian non-compact Bloch oscillations, where an auxiliary one-dimensional quantum system's spectrum dictates the transition from stable oscillations to unstable amplification. In the unstable adiabatic regime, the wavepacket interacts with an SU(1,1) topological defect, causing amplification that depends entirely on a Minkowski space hyperbolic solid angle. Applying this gauge field to a bosonic tight-binding system creates the bosonic Kitaev model. In this model, the stability of the gauge field determines whether entanglement scales by volume or super-volume. The study suggests implementing an SU(1,1) gauge field experimentally using a spinor condensate. These findings can be extended to higher dimensions and other non-compact groups, offering a geometric approach to managing entanglement, controlling selective amplification, and directing energy transfer in quantum systems.",
-      "flow": [
-        "Thread SU(1,1) gauge field through bosonic model.",
-        "Yield the bosonic Kitaev model.",
-        "Gauge field stability governs entanglement scaling."
-      ]
     },
     "f6d2f11ef010": {
       "summary": "British tennis player Jodie Burrage discussed the online harassment she experienced following a recent loss with BBC Sport, explaining why such abuse no longer surprises her because she has grown accustomed to it."
@@ -4061,12 +4053,6 @@
       "content_source": "rss",
       "flow": []
     },
-    "317d10eaee38": {
-      "ai_title": "Capturing Solar Chromosphere and M-Class Flares",
-      "ai_summary": "A captured image of the Sun's chromosphere showcases a solar flare occurring on May 14, 2025, using an H-alpha filter to isolate light from energized hydrogen atoms. The Sun's outer atmosphere grows hotter further from the core due to energy from swirling, twisting magnetic fields. When these magnetic fields snap, they release light and energetic particles, creating solar flares. Classified as an M1 event based on GOES observations, this moderate X-ray flare demonstrates the type of activity that can cause minor radiation storms and polar radio blackouts. Space weather agencies continuously monitor these phenomena to protect assets and human life in space and on Earth.",
-      "content_source": "source_text",
-      "flow": []
-    },
     "f8bc9ea173c2": {
       "ai_title": "Magnitude 4.5 Earthquake Hits Owen Fracture Zone",
       "ai_summary": "A magnitude 4.5 earthquake was detected in the Owen Fracture Zone region on November 17, 2026, at a depth of about 10 kilometers. Monitoring agencies indicate that these preliminary metrics may change as more data is analyzed.",
@@ -4329,6 +4315,134 @@
         "Conduct phylogenetic comparisons and evolutionary analyses, including Ka/Ks ratio calculations.",
         "Construct co-expression networks and analyze secondary expression data under cold-stress conditions."
       ]
+    },
+    "6dbc86b00e56": {
+      "ai_title": "Magnitude 5 Earthquake Strikes Near Rabaul, Papua New Guinea",
+      "ai_summary": "A magnitude 5 earthquake occurred roughly 31 kilometers west-southwest of Rabaul, Papua New Guinea, at a depth of 195 kilometers on November 19, 2026. Authorities note that preliminary data remains subject to revision.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "a7f8cf64260a": {
+      "ai_title": "Magnitude 4.7 Earthquake Recorded West of San Juan, Peru",
+      "ai_summary": "A magnitude 4.7 earthquake struck 92 kilometers west of San Juan, Peru, on November 19, 2026. The seismic event had a shallow depth of 10 kilometers. Agency data and locations are subject to ongoing review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "6d32dd8d96dc": {
+      "ai_title": "Magnitude 4.8 Earthquake Hits Near Guayaquil, Ecuador",
+      "ai_summary": "A magnitude 4.8 earthquake was registered 23 kilometers south-southeast of Guayaquil, Ecuador, on November 19, 2026, at a depth of 69 kilometers. Approximately 13 residents reported feeling the tremor, with locations and metrics subject to review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "41b2424ff360": {
+      "ai_title": "Captured Nebulas Showcased in Astronomy Picture",
+      "ai_summary": "A detailed astronomical image reveals the Horsehead and Flame Nebulas alongside surrounding cosmic structures. The bright triple star Alnitak anchors part of Orion's Belt, while the iconic dark Horsehead Nebula spans roughly five light-years and sits about 1,500 light-years away. Hydrogen gas ionized by the star Sigma Orionis creates a glowing red backdrop behind the dark dust and gas. Meanwhile, the neighboring Flame Nebula and the blue reflection nebula NGC 2023 complete the scene. Data for the celestial photograph were gathered over nearly six hours at the Utah Desert Remote Observatories using equipment controlled remotely from Illinois.",
+      "content_source": "article",
+      "flow": [
+        "Collect observation data for nearly six hours at the Utah Desert Remote Observatories.",
+        "Control the observatory equipment remotely from over 2,000 kilometers away.",
+        "Process the captured images to highlight features like the Horsehead and Flame Nebulas."
+      ]
+    },
+    "0c57e789aab0": {
+      "ai_title": "Rare Rains Transform the Atacama Desert Into a Vibrant Landscape",
+      "ai_summary": "Unusually heavy winter precipitation, driven by a strengthening El Niño and atmospheric river events, triggered a massive blooming desert phenomenon across northern Chile's Atacama Desert in spring 2026. The rainfall awakened dormant seeds, resulting in expansive displays of red-purple pata de guanaco and green-capped suspiros. Researchers utilized satellite data from Landsat 8 and 9, alongside field drones and digital cameras, to monitor the unprecedented biological event. Scientists note that this iteration stands out as the most extensive and significant blooming period of the satellite era in terms of duration and intensity.",
+      "content_source": "article",
+      "flow": []
+    },
+    "8d2370298a4b": {
+      "ai_title": "Moderate Earthquake Strikes Near Kilimatinde, Tanzania",
+      "ai_summary": "A magnitude 4.9 earthquake occurred 36 kilometers north-northeast of Kilimatinde, Tanzania, at a depth of about 10 kilometers. The seismic event was recorded on November 19, 2026, at 02:11 UTC, with approximately one person reporting feeling the shaking.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "253ba0ca5474": {
+      "ai_title": "Astrophotography Captures the Iconic Horsehead and Flame Nebulae",
+      "ai_summary": "An astrophotography setup captured stunning details of the Horsehead Nebula and surrounding cosmic features, including the blue triple star system Alnitak and the Flame Nebula. The Horsehead Nebula is a dark cloud of dust and gas standing about five light-years tall, located approximately 1,500 light-years away. Its characteristic red background glow results from hydrogen gas ionized by the bright star Sigma Orionis. Nearby, the blue reflection nebula NGC 2023 actively forms stars. Data for this image were collected over nearly six hours at the Utah Desert Remote Observatories, operated remotely by an astrophotographer located more than 2,000 kilometers away in Illinois.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "54225423c289": {
+      "ai_title": "Z-sight Unifies Robot Vision-Language-Action with Latent World Modeling",
+      "ai_summary": "Researchers introduced Z-sight, a robot foundation model that combines vision-language-action capabilities with generative latent world modeling. Unlike traditional models that incur heavy costs from pixel-level video generation or decouple feature spaces, Z-sight predicts future states directly within the visual token space used by its vision-language model. By pairing a foresight expert and a continuous action expert through a mixture-of-transformers architecture, the model jointly denoises future spatial tokens and actions without requiring pixel reconstruction or external encoders. Trained on human videos and robot trajectories, Z-sight achieves strong performance improvements across various manipulation tasks and benchmarks, maintaining an efficient processing speed of 110 milliseconds per chunk.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "94efd492168b": {
+      "ai_title": "Spherical Neural Networks Improve Primordial Gravitational Wave Inference",
+      "ai_summary": "A spherical graph convolutional network has been developed to infer the tensor-to-scalar ratio directly from multifrequency cosmic microwave background B-mode maps on the cut sky. Tested against simulated ground-based experiments featuring lensed CMB, noise, and Galactic dust and synchrotron emissions, the neural network outperforms traditional bandpower likelihood approaches. Working directly on the maps without requiring power-spectrum estimation or component separation, the network reduces the root-mean-square error by a factor of 1.3 and produces narrower, well-calibrated confidence intervals. Saliency mapping reveals that the network autonomously prioritizes the cleanest frequency channels and deepest sky regions. Although tied to its training foreground model, the network demonstrates generalization to alternative models, highlighting its potential for future cosmological analyses.",
+      "content_source": "source_text",
+      "flow": [
+        "Simulate multifrequency cosmic microwave background B-mode maps including noise and Galactic emissions.",
+        "Train a spherical graph convolutional network on 20,000 map simulations.",
+        "Perform direct map-level inference to estimate the tensor-to-scalar ratio without power-spectrum estimation."
+      ]
+    },
+    "0b58f08c4c5d": {
+      "ai_title": "Phoenix Enhances Scene Structure Representations for Robotic Manipulation",
+      "ai_summary": "Researchers introduced Phoenix, a representation learning framework that improves scene structure understanding for world-action models in robotic manipulation. Phoenix utilizes an encoder that enriches DINOv3 visual semantics through dual-teacher geometric and spatiotemporal distillation, paired with a causal variational autoencoder that compresses features into generative latents while retaining spatial layouts. Trained on approximately 39,000 hours of egocentric and robot data, Phoenix jointly predicts scene evolution and actions. It achieves state-of-the-art performance across simulation and real-world benchmarks, exhibits high robustness to perturbations, and demonstrates strong few-shot adaptation when trained with limited downstream demonstrations.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "4f3505cf5f4d": {
+      "ai_title": "Metacognitive Calibration Defines Human Value in AI-Assisted Systems",
+      "ai_summary": "When humans collaborate with advanced AI models on decision-making, a reviewer's value depends primarily on metacognitive calibration, which is the alignment between their behavioral confidence and the actual correctness of their choices. Researchers propose a trait theory featuring five key claims regarding behavioral telemetry, expertise, and agent delegation. Analyzing a six-month production window of an AI-assisted accounting system with hundreds of reviewers, the study found that pure behavioral expertise metrics can invert ground truth by favoring overconfident groups over genuine experts. Furthermore, reviewer quality remains flat across tenure, indicating that this critical trait is not simply learned on the job. Applying proper calibration logic to both humans and the AI model effectively concentrates human effort onto genuine errors, though individual causal value cannot be identified under majority-vote aggregation.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "0609611fa295": {
+      "ai_title": "Analyzing Residual Allan Stability Under Periodic Ramsey Sampling",
+      "ai_summary": "The timing of auxiliary Ramsey measurements significantly impacts frequency stability when dealing with drifting pulse shifts. Researchers derived exact residual covariance and Allan variance for periodic instantaneous observations of an Ornstein-Uhlenbeck shift, comparing the results against a continuous Kalman reference model. The findings show that periodic estimation increases cycle-averaged estimation-error variance, decreases short-time residual Allan variance, and raises its long-time value. The team extended these calculations to include multiple independent modes and incorporated a three-level Ramsey model to illustrate how dark times affect scheduling choices.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "ce38528bba10": {
+      "ai_title": "Mapping the AI Supply Chain and Ecosystem Dependencies",
+      "ai_summary": "Artificial intelligence systems rely on a complex network of organizations contributing models, data, compute, capital, and talent. Although the layers of the AI stack are generally recognized, relationships, dependencies, and potential chokepoints across these layers remain sparsely documented. Researchers have developed a data pipeline to systematically map the organizational AI supply chain, creating a large-scale, multilayered dataset that records actors, components, and their relationships. This publicly available resource aims to provide transparency into market concentration, power structures, and fragmented accountability within the industry. Illustrative analyses highlight central actors, network concentration, and critical chokepoints, though public records necessarily omit certain private deals and search-driven constraints.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "e467589ca450": {
+      "ai_title": "Grana: Vision-Language Model for Long-Horizon Robot Manipulation",
+      "ai_summary": "Robot reward modeling struggles with generalizing across different tasks and tracking progress during long-horizon manipulation. To resolve these issues, researchers introduced Grana, a vision-language robot reward model that identifies unfinished subtasks and estimates continuous progress utilizing open-vocabulary subtask descriptions. Traditional models often rely on inflexible action vocabularies or struggle with elapsed-time proxies that fail when task durations vary or errors reverse local progress. Grana bypasses this by using an annotation protocol that converts sparse subtask boundaries and action qualities into dense progress targets without requiring explicit numerical scoring. Pretraining across diverse short-horizon tasks allows the model to achieve zero-shot reward prediction on unseen tasks and enhances performance after adapting to multi-minute, long-horizon operations.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "af5b66288e6f": {
+      "ai_title": "Doppel: An Embodiment-Agnostic Video World Model for Robotics",
+      "ai_summary": "Predicting the consequences of an agent's actions requires understanding both body motion and environmental responses. Most video world models attempt to learn both aspects strictly from numerical actions, even though geometry and kinematics already define intended movements. Researchers developed Doppel, an embodiment-agnostic video world model conditioned on camera-aligned renderings of future body configurations alongside numerical action trajectories. By explicitly providing the intended motion via renderings, the model focuses on predicting object movements and interaction-driven environmental shifts, while using rendered motion as a universal visual interface across various physical embodiments. Trained on hundreds of hours of video data spanning diverse human and robot embodiments without requiring explicit labels, Doppel improves prediction accuracy and object motion consistency over traditional action-only baseline models.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "118f3d692dd6": {
+      "ai_title": "Agentic Harness Engineering Beta Improves AI Model Capability Alignment",
+      "ai_summary": "Real-world harness engineering often relies on narrow patches and benchmark-specific metrics, overlooking implicit user needs. To address this, researchers introduced Agentic Harness Engineering Beta (AHE-Beta), a requirement-centered loop. AHE-Beta operates via a three-step process: user-driven evaluation where simulated users raise issues over multiple turns, team-based modification to implement generalizable changes, and requirement-driven selection that merges changes only after verifying they pass review. Empirical tests show AHE-Beta increases pass@1 performance while consuming fewer tokens than baseline models, outperforming several existing systems. Blind human A/B tests confirmed that human users consistently prefer AHE-Beta and rate it higher across multiple dimensions. Furthermore, these performance gains transfer directly to other models like GLM-5.3 and DeepSeek-V4.1-Flash without requiring further evolution, demonstrating a more general method for enhancing agent capabilities.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "e68fa8c9261c": {
+      "ai_title": "Ultrafast Optical Modulation Achieved via Inverse-Designed Transparent Conducting Oxide Cavities",
+      "ai_summary": "Achieving strong and ultrafast optical modulation remains a major hurdle in time-varying photonics. Researchers theoretically demonstrate that combining inverse-designed cavities using transparent conducting oxides at the epsilon-near-zero point with boundaries supporting carrier transport can overcome this challenge. The method leverages enhanced optical absorption, electron heating, and interface-engineered carrier relaxation. A multilayer framework combined with a structural disorder-aware correction loop preserves robust resonant absorption in ultrathin films under realistic material conditions. Compared to conventional geometries, these structures exhibit stronger light confinement, greater electron temperature modulation, and faster recovery. Additionally, interfacial barrier engineering and adjacent-layer doping allow co-design of spectral and temporal dynamics, enabling richer oscillatory transmittance and supporting ultrafast optical responses.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "ca8df8f6e61b": {
+      "ai_title": "Locally Infrared-Finite Two-Loop Amplitudes for Multi-Higgs Production",
+      "ai_summary": "Researchers studied two-loop amplitudes for multi-Higgs production through a massive top-quark loop associated with one jet, focusing on the quark-antiquark channel with a final-state gluon. By utilizing non-local Ward identities in momentum space, they factorized longitudinal and gauge degrees of freedom via exact identities between Feynman graphs without relying on an infrared region. Within genuine two-loop topologies, replacing internal gluons with physical degrees of freedom rendered the resulting amplitude free of collinear singularities. The remaining infrared divergence consists solely of a soft singularity tied to changes in the reference gauge vector. Explicit soft counterterms were constructed to yield a locally infrared-finite representation. This approach eliminates the need for collinear counterterms and successfully reproduces remaining infrared poles.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "9ca3628dce8b": {
+      "ai_title": "A Nonsecular Quantum Master Equation with Detailed Balance and Error Bounds",
+      "ai_summary": "Developing effective theories for open quantum systems requires preserving detailed balance from microscopic reversibility while maintaining accuracy during relaxation. This is especially difficult in quantum many-body systems where dense spectra invalidate the secular approximation. Researchers constructed a nonsecular quantum master equation that satisfies time-reversal Kubo-Martin-Schwinger detailed balance. They proved a time-uniform error bound on the difference between predicted and exact reduced density matrices based on the system-bath coupling strength. The approach successfully completes the Redfield generator by enforcing detailed balance while matching dissipative and coherent coefficients at resonance. Benchmarking against exact dynamics of coupled oscillators showed the equation maintains high accuracy across both secular and nonsecular regimes, providing a systematic pathway to thermodynamically consistent open quantum dynamics.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "539b4732d86f": {
+      "ai_title": "Dressed-State Quantum Information Processing Using Multilayer Ion Trap Chips",
+      "ai_summary": "Researchers demonstrated the experimental preparation, coherent operation, and selective readout of radio frequency (RF) dressed-state qubits using trapped 171Yb+ ions. They developed and characterized a microstructured multilayer ion trap chip featuring an integrated resonator. This integrated component generates a spatial gradient of the RF magnetic field amplitude along the axis of a linear ion crystal, enabling individual qubit addressing and qubit-qubit coupling within a two-ion Coulomb crystal. The system was experimentally evaluated using the electronic ground-state hyperfine states of laser-cooled ions driven by a global modulated RF field oscillating near 12.6 GHz. These developments establish a robust hardware foundation for advanced dressed-state quantum information processing.",
+      "content_source": "source_text",
+      "flow": []
     }
   }
 }
