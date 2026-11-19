@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T11:11:14.368264+00:00",
+  "generated": "2026-11-19T19:59:58.460841+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2400,22 +2400,6 @@
       "content_source": "source_text",
       "flow": []
     },
-    "9fa3fd2747c5": {
-      "ai_title": "Correction Issued for Study on Carbapenem Resistance in Peru",
-      "ai_summary": "A correction has been published regarding an error in Figure 5, panel D, of a previous study investigating carbapenem resistance and antibiotic susceptibility in Pseudomonas aeruginosa and Enterobacterales from a reference laboratory in Lima, Peru. In the original graphical representation, susceptibility values were inadvertently assigned to the incorrect carbapenemase-production categories. The revised publication provides the corrected graphical data for panel D, ensuring accurate visualization of antibiotic susceptibility profiles among carbapenem-resistant Pseudomonas aeruginosa according to carbapenemase production status.",
-      "content_source": "article",
-      "flow": [
-        "Identify the error in panel D of Figure 5 regarding assigned susceptibility values.",
-        "Review the correct data representation for carbapenem-resistant Pseudomonas aeruginosa.",
-        "Publish the official correction to update the graphical representation in the scientific record."
-      ]
-    },
-    "283aad82819f": {
-      "ai_title": "Study Finds No Significant Link Between TyG-BMI Index and Repeat PCI Risk",
-      "ai_summary": "Most patients undergoing percutaneous coronary intervention have coronary heart disease. The triglyceride glucose-body mass index has previously been associated with coronary heart disease, prompting researchers to investigate whether this index correlates with the risk of repeat percutaneous coronary intervention. Utilizing health-record follow-up data from a community health service center covering a ten-year period, investigators applied logistic regression models and restricted cubic spline analyses to evaluate post-procedure patients, including exploratory stratifications based on glucose metabolism status. The analyses revealed no significant linear or nonlinear association between the triglyceride glucose-body mass index and the likelihood of undergoing repeat percutaneous coronary intervention. Furthermore, stratified analyses based on glucose metabolism status showed no significant correlations. Consequently, the study identified no independent association between the index and repeat intervention risk, indicating that these findings require additional verification in broader prospective cohorts.",
-      "content_source": "source_text",
-      "flow": []
-    },
     "25b9c6c58b62": {
       "ai_title": "Celestial Conjunction Captures Moon, Venus, and Spica Over Poland",
       "ai_summary": "Planets shift relative to fixed stars in celestial movements known as conjunctions, which follow precise laws of celestial mechanics. An astronomical photo captured in Poland features a crescent Moon above the Tatra Mountains alongside bright Venus. Positioned near Venus is the bright star Spica, located in the constellation of Virgo. Spica, sitting about 250 light-years away, was historically identified as a binary star system containing two massive blue stars orbiting each other every four days. However, recent findings revealed that Spica functions as a triple star system.",
@@ -2475,93 +2459,6 @@
       "content_source": "rss",
       "flow": []
     },
-    "cb1512e84a8f": {
-      "ai_title": "Family Emotional Synchrony Impacts Adolescent Well-Being",
-      "ai_summary": "Recent research investigated how dynamic emotional synchrony within families affects adolescent well-being. Using ecological momentary assessment and network modeling on 40 family triads, scientists tracked emotional fluctuations across parents and adolescents. The study revealed greater synchrony in positive affect than negative affect. At the person level, positive affect synchrony correlated with higher adolescent well-being and lower distress. Conversely, momentary increases in negative affect synchrony temporarily aligned with higher concurrent well-being and lower stress. Between-family synchrony continued to predict adolescent outcomes even after controlling for general affect levels, highlighting the importance of system-level emotional dynamics.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "862dd0106d9e": {
-      "ai_title": "Umbrella Review Estimates Intimate Partner Violence Prevalence in Ethiopia",
-      "ai_summary": "A comprehensive umbrella review investigated the prevalence and predictors of intimate partner violence against women in Ethiopia by synthesizing six systematic reviews and meta-analyses, encompassing 80 primary studies and 43,785 women. The overall pooled prevalence of intimate partner violence was estimated at 35%. Specific forms included 18% for sexual violence, 19% for physical violence, and 27% for psychological violence. Subgroup analyses showed a 32% prevalence among pregnant women and 33% during the COVID-19 pandemic. Key predictors identified included educational status of partners and women, partner alcohol consumption, women's decision-making power, substance use, and pandemic-related income loss. Researchers emphasize the need for stronger policy implementation and expanded survivor-centered services.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "7a1547f0b643": {
-      "ai_title": "Evaluating SARS-CoV-2 3CLpro for Recombinant Protein Tag Removal",
-      "ai_summary": "Researchers evaluated the SARS-CoV-2 3C-like protease as a sequence-specific tool for removing fusion tags from recombinant proteins. Testing standard purification conditions, the protease successfully cleaved substrate containing the canonical recognition sequence AVLQSG, while a variant sequence showed no cleavage. The enzyme maintained its activity across diverse pH levels, temperatures, and typical protein stabilization reagents. Furthermore, the cleavage mechanism was successfully integrated into multiple processing workflows, including in-solution, on-column, and dialysis-coupled methods. Validating its practical utility with a modular expression vector and a botulinum neurotoxin model protein, the study highlights the protease as a viable option for recombinant protein processing.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "edbf42a8a976": {
-      "ai_title": "Study Examines Sun Protection Awareness Among Hajj Pilgrims and Nurses",
-      "ai_summary": "A qualitative study explored awareness, attitudes, and behaviors regarding sun protection among Saudi pilgrims and registered nurses following the 2025 Hajj season. Through remote semi-structured interviews, researchers identified five primary themes: the physical and emotional impact of sun exposure, limited awareness and knowledge gaps, cultural attitudes toward ultraviolet protection factor products, practical barriers like cost and availability, and recommendations for improvement. Many participants viewed sun exposure as a spiritual trial rather than a health risk, while ultraviolet protection factor items were poorly understood. The findings indicate an urgent need for targeted education distinguishing heat illness from ultraviolet risks, alongside better access to protective gear.",
-      "content_source": "source_text",
-      "flow": [
-        "Conduct retrospective semi-structured interviews with Saudi pilgrims and registered nurses after the Hajj season.",
-        "Explore participant perspectives on ultraviolet awareness, sun protection behaviors, and experienced barriers.",
-        "Analyze interview transcripts thematically using Braun and Clarke’s six-phase approach.",
-        "Identify key knowledge gaps and formulate recommendations for culturally appropriate sun safety education."
-      ]
-    },
-    "ba54c03320ec": {
-      "ai_title": "Elevated UHRF1 Expression Linked to Poor Outcomes in Adult T-Cell Leukemia/Linfoma",
-      "ai_summary": "This study examined the clinical and biological significance of the susceptibility gene UHRF1 in adult T-cell leukemia/lymphoma. Researchers performed immunohistochemistry on tumor tissues from 72 patients and 30 control subjects to evaluate UHRF1 protein expression levels. Additionally, cellular experiments using Western blotting, quantitative PCR, and shRNA-mediated knockdown were deployed to observe proliferation and apoptosis in cell lines. The investigation aims to clarify how UHRF1 influences pathogenesis and its utility as a prognostic marker for patient outcomes.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "f73882fb1c5e": {
-      "ai_title": "New Framework Enhances Bubble Feature Extraction in Flotation Froth Images",
-      "ai_summary": "Researchers have proposed a new flotation froth image analysis framework designed to overcome challenges such as bubble adhesion, overlap, weak boundaries, and uneven illumination. The method combines a boundary-aware U-Net segmentation model with a segmentation-guided adaptive Hough transform. In the first stage, the U-Net architecture uses explicit boundary-oriented supervision to better separate adherent and overlapping bubbles. In the second stage, geometric priors derived from the segmentation results constrain the Hough-based detection process to improve bubble counting and geometric feature extraction. Experiments show that the proposed approach achieves high accuracy and efficiency, offering a promising tool for intelligent monitoring in mineral processing.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "ef957ca93ea1": {
-      "ai_title": "Instance Causal Multiple Instance Learning Framework Improves Whole Slide Image Classification",
-      "ai_summary": "Whole slide images often have extremely high resolutions and lack fine-grained annotations, making multiple instance learning the standard weakly supervised classification paradigm. However, existing methods frequently overlook confounding factors, leading to spurious instance-level associations that hurt generalization. To resolve this, researchers developed the Instance Causal Multiple Instance Learning framework. This approach integrates a backdoor-adjustment-inspired prototype module during instance aggregation. By using clustered prototypes as proxy contextual patterns, the model reduces its reliance on potentially misleading confounding cues. Evaluations on the Camelyon16 and TCGA-NSCLC datasets show that the framework achieves competitive performance, improves existing baselines, and features a plug-and-play capability.",
-      "content_source": "source_text",
-      "flow": [
-        "Extract features and prepare whole slide images for multiple instance learning.",
-        "Introduce a backdoor-adjustment-inspired prototype module during instance aggregation.",
-        "Utilize clustered prototypes as proxy contextual patterns to reduce the impact of confounding cues.",
-        "Classify whole slide images using the refined instance-level associations."
-      ]
-    },
-    "1f331a0883d1": {
-      "ai_title": "Identifying Risk Factors for Chronic Evolution in Vogt–Koyanagi–Harada Disease",
-      "ai_summary": "A retrospective clinical cohort study investigated predictive factors for the risk of chronic evolution in Vogt–Koyanagi–Harada disease one month after pulse steroid therapy. Evaluating 121 eyes from 61 treatment-naïve patients, researchers categorized outcomes based on fundus results at 12 months. Multivariable and receiver operating characteristic curve analyses revealed that lower best-corrected visual acuity and increased corneal thickness at one month significantly correlate with subsequent development of sunrise-glow fundus. Determining these optimal cut-off values can help clinicians design more targeted therapeutic strategies for patients with acute Vogt–Koyanagi–Harada disease.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "2757e2f27173": {
-      "ai_title": "PLOS One Retracts Study on Hydrogen and Atrial Fibrillation Due to Image Concerns",
-      "ai_summary": "PLOS One has retracted a 2025 article examining the effects of hydrogen on AngII-induced atrial fibrillation and fibrosis. The decision follows concerns raised about panel overlaps across multiple figures, unauthorized reuse of previously published images from other sources without proper citation, and underlying dataset integrity issues. The first author attributed the errors to issues during image selection and figure assembly, but editorial assessments determined the explanations and provided data did not resolve the reliability concerns. All authors agreed with the retraction.",
-      "content_source": "article",
-      "flow": [
-        "Identify image overlaps and potential duplicate publication across figures",
-        "Request explanations, corrections, and original data from the authors",
-        "Evaluate the submitted data and determine that integrity concerns remain unresolved",
-        "Retract the article with the agreement of all authors"
-      ]
-    },
-    "e2f6c18250ec": {
-      "ai_title": "Study Analyzes Spatiotemporal Evolution of Organic Agriculture in Shandong",
-      "ai_summary": "Researchers investigated the spatiotemporal evolution and driving mechanisms of enterprise-led organic agriculture across 16 prefecture-level cities in Shandong Province, China, from 2014 to 2023. Using spatial statistical analysis, Local Moran's I, and two-way fixed-effects regression, the study revealed that certified organic production bases expanded significantly but became increasingly concentrated, establishing a core-periphery structure centered on the Jiaodong Peninsula. The findings indicate that factors such as transportation infrastructure, e-commerce connectivity, and geographical indication-protected products are positively associated with base expansion. Conversely, fiscal expenditure showed a negative association, likely pointing to compensatory policy allocations directed toward less-developed regions. Overall, the research highlights a layered Pressure-Transformation-Support-Market mechanism driving sustainable agricultural development.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "75329e253624": {
-      "ai_title": "Study Evaluates Machine Learning Model for Elephant Hospitalization Outcomes",
-      "ai_summary": "Researchers evaluated a random forest model designed to classify hospitalization outcomes for Asian elephants using data collected in 2025 across three Thai wildlife hospitals. The evaluation included temporal validation at the original development center alongside institutional validation at two additional facilities. Tested on a final cohort of 237 hospitalization episodes from 215 elephants, the model achieved an overall accuracy of 0.793 and a macro-averaged balanced accuracy of 0.732. Performance was notably stronger for ongoing and recovered cases compared to deceased cases, which were limited in number and created uncertainty. Because the model relies on length of stay as a predictor, it functions as a hospitalization-course classifier rather than an admission-time prognostic tool. Investigators emphasize that the modest performance improvements and reliance on duration data mean the findings require cautious interpretation before any routine clinical adoption.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "3e0fbb13e394": {
-      "ai_title": "Study Examines Sports Heritage and Tourism Coordination in China's Wuling Mountain Area",
-      "ai_summary": "Researchers analyzed the spatiotemporal patterns and county-level coordination between sports-related intangible cultural heritage and tourism development in China's Wuling Mountain Area. Examining 71 county-level units across specific years from 2010 to 2024, the study utilized geographical concentration indices, kernel density estimation, entropy weighting, and coupling coordination models. The findings show that while sports-related heritage coverage expanded and geographical concentration declined, tourism development experienced rapid growth prior to 2019 followed by slower increases, maintaining a clear core-periphery structure. The joint level between heritage and tourism rose over time, largely driven by newly added counties entering the official inventory, though heritage-lagging counties remained predominant. The results provide insights for cross-provincial regional safeguarding and tourism planning in ethnically diverse mountain regions.",
-      "content_source": "source_text",
-      "flow": []
-    },
     "e8dad5c8e21c": {
       "ai_title": "Hubble Gravitational Lenses Prepare Ground for Roman Space Telescope",
       "ai_summary": "A new gallery of gravitational lenses captured by the Hubble Space Telescope highlights diverse cosmic formations that will serve as targets for the upcoming Nancy Grace Roman Space Telescope. Gravitational lensing happens when a massive foreground object bends and magnifies the light of a distant background object. Researchers use these distorted light patterns to study mass distribution and dark matter. While Hubble excels at high-resolution images of individual lenses, Roman will capture broader cosmic panoramas. Combining data from both observatories allows scientists to build precise lens models, detect small dark matter clumps, and improve understanding of galaxy evolution.",
@@ -2579,46 +2476,6 @@
       "ai_summary": "A magnitude 4.5 earthquake occurred off the coast of Oregon on November 12, 2026, at 08:17 UTC. The seismic event took place at a depth of roughly 10 kilometers. Agency data and safety details remain subject to review and updates.",
       "content_source": "rss",
       "flow": []
-    },
-    "2b0af505743c": {
-      "ai_title": "Correction Issued for Aluminum Chip Recycling Study",
-      "ai_summary": "The journal PLOS ONE published a correction for a study regarding the optimization of strength in recycled aluminum chip parts via sustainable hot forging. The update amends the abstract to specify the optimal conditions for maximum ultimate tensile strength as 550 degrees Celsius, 120 minutes, and 15.4 square millimeters per cubic millimeter. Additionally, the correction replaces incorrect percentage-error values found in Table 11 of the original publication. The research continues to be distributed under an open access creative commons license.",
-      "content_source": "article",
-      "flow": [
-        "Identify errors within the published study's abstract and data tables.",
-        "Determine the correct parameters for the optimization process and artificial neural network error values.",
-        "Publish an official correction notice detailing the updated abstract sentence and Table 11 data."
-      ]
-    },
-    "4adaa2671a91": {
-      "ai_title": "PLOS One Retracts Study on Mangiferin and Hepatic Damage Due to Image Concerns",
-      "ai_summary": "PLOS One has retracted a 2013 paper examining the protective effects of mangiferin against liver damage after concerns were raised regarding repetitive clusters and unexpected similarities across multiple figures and panels. The corresponding author acknowledged some FACS similarities and attributed another overlap to a figure preparation error, but could not provide original raw data files. Without underlying data to resolve these integrity concerns, the journal decided to retract the article, drawing mixed agreements from the authors.",
-      "content_source": "article",
-      "flow": [
-        "Identify repetitive clusters and unexpected similarities across multiple figures",
-        "Request original raw data and explanations from the corresponding author",
-        "Evaluate the unresolvable data absence and issue a formal retraction"
-      ]
-    },
-    "23313e4d29f1": {
-      "ai_title": "Study Examines Impact of Concurrent Cognitive Tasks on Drop Jump Performance",
-      "ai_summary": "This study investigated how a concurrent cognitive task affects force-time metrics and reliability during drop jumps. Thirty-five healthy participants performed single-task and dual-task drop jumps in a randomized order. Results showed that performing a cognitive task concurrently reduced jump height and the reactive strength index while lengthening ground contact time. Additionally, vertical ground reaction force decreased during braking and propulsion phases and varied during landing. These findings indicate that cognitive loads alter force production and landing mechanics during explosive physical movements.",
-      "content_source": "source_text",
-      "flow": [
-        "Recruit healthy participants to perform drop jump trials under single-task and dual-task conditions",
-        "Collect force-time metrics and vertical ground reaction force waveforms during testing",
-        "Compare metrics between conditions using paired t-tests, Bayesian analysis, and statistical parametric mapping"
-      ]
-    },
-    "170cdb629529": {
-      "ai_title": "Computational Study Identifies Promising SARS-CoV-2 Protease Inhibitors",
-      "ai_summary": "Researchers used a multiscale computational strategy to evaluate chromone-phenyl-tetrazole hybrids as potential non-covalent inhibitors of the SARS-CoV-2 main protease. The evaluated compounds demonstrated favorable oral drug-like properties and manageable predicted acute toxicity profiles. Among the tested candidates, M2 exhibited the highest computed binding affinity driven by dispersion forces, while M4 showed direct catalytic engagement through key anchoring sites. Density functional theory and related analyses highlighted favorable electronic characteristics, suggesting these compounds serve as valuable lead chemotypes for future experimental validation against the viral protease.",
-      "content_source": "source_text",
-      "flow": [
-        "Prioritize chromone-phenyl-tetrazole hybrids using a multiscale computational strategy",
-        "Assess binding stability, free-energy ranking, and electronic features using molecular modeling and DFT",
-        "Identify lead compounds M2 and M4 based on computed affinity and catalytic engagement"
-      ]
     },
     "341a4664d13d": {
       "ai_title": "Katie Spicer's Path to NASA Lander Integration Lead",
@@ -4441,6 +4298,106 @@
     "539b4732d86f": {
       "ai_title": "Dressed-State Quantum Information Processing Using Multilayer Ion Trap Chips",
       "ai_summary": "Researchers demonstrated the experimental preparation, coherent operation, and selective readout of radio frequency (RF) dressed-state qubits using trapped 171Yb+ ions. They developed and characterized a microstructured multilayer ion trap chip featuring an integrated resonator. This integrated component generates a spatial gradient of the RF magnetic field amplitude along the axis of a linear ion crystal, enabling individual qubit addressing and qubit-qubit coupling within a two-ion Coulomb crystal. The system was experimentally evaluated using the electronic ground-state hyperfine states of laser-cooled ions driven by a global modulated RF field oscillating near 12.6 GHz. These developments establish a robust hardware foundation for advanced dressed-state quantum information processing.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "472edcef85ab": {
+      "ai_title": "NASA Launches Life in 2075 Conceptual Challenge",
+      "ai_summary": "NASA's Transformational Tools and Technologies project is inviting public conceptual ideas about life in 2075 across four challenge areas. The competition looks at how future aviation and aerospace systems can improve efficiency, resource management, and community connection. Registration opens November 2026 with a prize pool of $20,000.",
+      "content_source": "article",
+      "flow": []
+    },
+    "c25cb38a405c": {
+      "ai_title": "Magnitude 5.1 Earthquake Strikes Near Illapel, Chile",
+      "ai_summary": "A magnitude 5.1 earthquake occurred approximately 99 kilometers west-southwest of Illapel, Chile, at a depth of about 10 kilometers. The seismic event was recorded on November 19, 2026, with data subject to change upon further agency review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "230e1560daf2": {
+      "ai_title": "New Cryptography-Inspired Method Finds Pulsars Faster Using NASA Data",
+      "ai_summary": "Scientists have developed a breakthrough method using open data from NASA's Fermi Gamma-ray Space Telescope to discover pulsars a million times faster than before. By adapting geometry and lattice algorithms traditionally used in cryptography, researchers turned complex multi-dimensional signal searches into manageable mathematical problems. This technique allowed a standard computer processor to find an isolated pulsar in just ten hours of equivalent computing time, bypassing traditional methods that would have taken centuries. The open-access nature of NASA's Fermi data enabled researchers outside the primary mission to apply these novel approaches, opening up possibilities for discovering many more elusive pulsars in the future.",
+      "content_source": "article",
+      "flow": [
+        "Gather 15 years of open-access gamma-ray data from NASA's Fermi mission.",
+        "Convert the complex pulsar search into a geometry problem using lattice algorithms.",
+        "Run trial algorithms on a standard computer processor to identify candidate signals.",
+        "Confirm the pulsar discovery by analyzing the full data set for a strong signal."
+      ]
+    },
+    "470f7b58a80a": {
+      "ai_title": "Astronaut Photograph Captures Lake Pelku from Space",
+      "ai_summary": "An astronaut aboard the International Space Station photographed Lake Pelku while orbiting above Asia. The space station serves as an orbital platform utilizing hands-on and automated tools for astronauts to capture hundreds of thousands of Earth-observation images.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "634743bc9709": {
+      "ai_title": "NASA Tests RS-25 Engine for Artemis Program",
+      "ai_summary": "NASA successfully conducted a developmental hot fire test of the RS-25 engine at the Stennis Space Center in Mississippi. Operators fired engine No. 10001 for 200 seconds on the Fred Haise Test Stand to capture performance and reliability data. Although this specific developmental unit will not fly, the tests support future Artemis missions, including the planned Artemis IV Moon landing. Four RS-25 engines provide up to 2 million pounds of combined thrust to launch the Space Launch System rocket for each Artemis flight.",
+      "content_source": "article",
+      "flow": [
+        "Mount the developmental RS-25 engine on the Fred Haise Test Stand.",
+        "Fire the engine for the planned duration of 200 seconds.",
+        "Capture critical performance and reliability data during the hot fire test.",
+        "Use the collected data to improve engines for future Artemis missions."
+      ]
+    },
+    "4cc59e849f09": {
+      "ai_title": "Voyager 1 Reaches One Light-Day Distance From Earth After 49 Years",
+      "ai_summary": "NASA's Voyager 1 spacecraft has reached a milestone of one light-day away from Earth, equivalent to roughly 16.1 billion miles, following more than 49 years of space travel. Operating since 1977 alongside its twin Voyager 2, the probe continues to explore interstellar space while relying on a diminishing nuclear battery. Mission engineers confirmed the milestone using the spacecraft's carrier signal and trajectory calculations while analyzing a temporary loss of science and engineering data. Radio signals now require a full 24 hours to travel in each direction between Earth and the distant probe.",
+      "content_source": "article",
+      "flow": []
+    },
+    "483ffd8cae21": {
+      "ai_title": "Study Uncovers Role of SUMOylation in Apoptotic Cell Clearance",
+      "ai_summary": "Research demonstrates that SUMO modifications play a crucial role in the clearance of apoptotic cells by regulating phagosomal degradation in C. elegans. Specifically, the SUMO E3 ligase GEI-17 modifies the GDP dissociation inhibitor GDI-1 at a specific site, which triggers phagosomal degradation. This modification allows GDI-1 to release GDP-bound RAB-1, which is subsequently converted into its active GTP-bound form with the help of the displacement factor PRAF-3. The converted RAB-1 then enables RAB-7 to bind and move from the endoplasmic reticulum to the Golgi apparatus, promoting maturation and degradation activities. Without this targeted SUMOylation, GDI-1 traps RAB-1 in the cytoplasm, leading to impaired degradation. This regulatory mechanism is also conserved in mammals.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "2e906512d658": {
+      "ai_title": "High Altitude Hypoxia Blunted Varroa Mite Reproduction in Tibetan Bees",
+      "ai_summary": "Researchers investigating why beekeepers on the Tibetan Plateau rarely encounter Varroa mites discovered that high-altitude hypoxic conditions suppress the reproduction of these destructive parasites. Translocation experiments demonstrated that oxygen levels found at altitudes above 3,500 meters reduce mite fecundity and prevent offspring development, halting the persistence of local mite populations. Similar reproductive failures occurred when low-altitude honey bee colonies were subjected to comparable low-oxygen environments. This newly identified physiological vulnerability to reduced oxygen availability could inspire innovative, chemical-free methods for controlling mites in the beekeeping industry.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "87bb13c43488": {
+      "ai_title": "Local Feedback Regulates Cell Fate and Tumor Stability",
+      "ai_summary": "Cell-state transitions within hierarchical tumors determine overall cellular composition, but the exact regulatory mechanisms remain unclear. Using a Drosophila tumor model, researchers found that the differentiation of cancer stem cells into transit-amplifying progenitors depends directly on the proportion of immediate neighbors that are progenitors. This dynamic is governed by a local feedback transition rule that successfully predicts transition probabilities and replicates tumor growth patterns in 3D simulations. The feedback is driven by EGFR signaling from newly formed progenitors, which spreads differentiation across cell clusters. Furthermore, cell clustering shields the stem cell population from excessive depletion, showing that spatial architecture and lineage dynamics work together to maintain a stable stem cell fraction.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "2f50f71ee865": {
+      "ai_title": "Mechanistic Study Reveals How AlphaFold 3 Infers Protein Structures",
+      "ai_summary": "AlphaFold 3 predicts protein structures and biomolecular assemblies with high accuracy, but the internal transformation of evolutionary data into three-dimensional models has remained unclear. Using mechanistic interpretability techniques, researchers analyzed the model's forward pass to understand its structural inference process. The findings indicate that the model does not rely strictly on raw sequences or maximum multiple-sequence alignment depth. Instead, a small set of phylogenetically diverse homologues is sufficient to reconstruct predicted structures. The pairformer component translates this evolutionary signal into a latent space where spatial distances, contacts, and confidence metrics become decodable, showing that AlphaFold 3 constrains its geometric predictions using sequence variations found in alignments.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "3721d29aee16": {
+      "ai_title": "Correction Issued for Research on African Swine Fever Virus Protein pB318L",
+      "ai_summary": "A correction has been published for a study detailing how the African swine fever virus protein pB318L suppresses inflammatory responses through the inhibition of NF-κB activation and NLRP3 inflammasome formation. The notice addresses labeling errors in Fig 6D and corrects incorrect input Western blot panels and associated ratios in Fig 8C and Fig 8F. According to a member of the PLOS Pathogens Editorial Board, these replacements and corrections do not alter the validity of the original conclusions. The authors have formally apologized for the mistakes in the published work.",
+      "content_source": "article",
+      "flow": []
+    },
+    "684f8cc781e5": {
+      "ai_title": "Deltacoronavirus Triggers circRNA Upregulation to Drive Viral Replication",
+      "ai_summary": "Research demonstrates that deltacoronavirus infection significantly increases the levels of a previously uncharacterized circular RNA, circC3. The virus induces the host RNA-binding protein muscleblind-like 1 (MBNL1), which binds to specific motifs within the C3 gene to promote exon skipping and enhance circC3 biogenesis. Functionally, circC3 acts to suppress MBNL1's antiviral activity by accelerating the decay of MBNL1 mRNA via direct interaction, ultimately aiding viral replication. This discovery uncovers a regulatory mechanism by which viral infections manipulate host circular RNA production to evade innate immune defenses.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "e2706d6de799": {
+      "ai_title": "RNA Modification and Glycolysis Link Immunity to Virus Infection in Shrimp",
+      "ai_summary": "Viral infections depend heavily on cellular glycolysis for energy and materials, but the role of post-transcriptional RNA modifications in regulating this process in invertebrates remains largely unstudied. New findings show that white spot syndrome virus infection in shrimp increases METTL3-mediated N6-methyladenosine (m6A) modification of lactate dehydrogenase (LDH) mRNA. The m6A reader protein YTHDF3 recognizes this modification and recruits a translation initiation factor to stabilize mRNA and boost LDH translation. The resulting increase in LDH-derived lactate leads to histone lactylation, which directly stimulates mettl3 gene transcription from chromatin. This establishes a regulatory circuit connecting RNA epitranscriptomics, metabolic reprogramming, and innate immune responses during viral invasion.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "764cc564a394": {
+      "ai_title": "Low HLA-A Expression Associated with NK Cell Activity Linked to HIV Remission in Children",
+      "ai_summary": "Natural killer (NK) cells are vital for controlling HIV-1 in treatment-naive children and adults. By studying a cohort of 274 vertically infected children from KwaZulu-Natal, researchers evaluated the role of NK cell activity in post-treatment control following very early antiretroviral therapy. Results showed that low baseline total HIV-1 DNA load was linked to low HLA-A expression. At nine months of age, low viral DNA levels in virally suppressed infants correlated with reduced HLA-A expression alongside elevated levels of NKG2D and CD107a on specific NK cell subsets. Although female infants generally exhibited stronger NK responses, they frequently displayed higher total HIV-1 DNA loads—particularly those carrying protective HLA-B alleles with pro-inflammatory IL-17 pathway upregulation. These observations highlight an important connection between specialized NK cell phenotypes, low HLA-A expression, and HIV-1 remission in early-treated children.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "1d34fe0e3c81": {
+      "ai_title": "Feasibility Study Evaluates Handheld Raman Spectroscopy for Cervical Lesion Assessment",
+      "ai_summary": "Current diagnostic procedures for cervical lesions are limited by processing time and molecular-level assessment constraints. To address this, a methodological feasibility study investigated the use of a handheld 785-nm Raman spectrometer for label-free molecular profiling of ex vivo tissue sections from 74 patients. After testing various parameters, researchers selected optimal working acquisition conditions of 128 mW laser power, a 4000 ms integration time, and approximately 1-mm-thick tissue sections. Exploratory evaluations yielded promising area-under-the-curve metrics for classifying invasive cancer and high-grade lesions versus noncancer or benign states. However, predictive performance declined substantially under rigorous patient-independent cross-validation. While the findings confirm the methodological feasibility of handheld Raman acquisition and indicate lesion-associated spectral variations, the approach remains exploratory and requires larger, multicenter cohorts before clinical adoption.",
       "content_source": "source_text",
       "flow": []
     }
