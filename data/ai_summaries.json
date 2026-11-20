@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T02:03:59.802179+00:00",
+  "generated": "2026-11-20T10:58:43.338916+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -4530,6 +4530,66 @@
     "0135bd43936e": {
       "ai_title": "Custom 3D-Printed Insoles Outperform Standard Care for Diabetic Foot Offloading",
       "ai_summary": "Researchers evaluated whether novel 3D-printed custom accommodative insoles could improve plantar pressure offloading for individuals with diabetes compared to standard-of-care insoles and no insoles. Twenty-five adults with diabetes and high plantar pressure completed walking trials across different insole conditions. Peak plantar pressure and pressure-time integrals were measured across high-risk and adjacent areas, alongside participant comfort feedback. Results showed that all insoles significantly reduced peak plantar pressure and pressure-time integrals by over 14% in regions of interest compared to having no insole. The findings suggest that personalized, 3D-printed insoles represent a promising patient-centered approach to help prevent diabetic foot complications.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "acacd2136aa0": {
+      "ai_title": "Magnitude 5 Earthquake Strikes Southeast of Loyalty Islands",
+      "ai_summary": "Seismologists recorded a magnitude 5 earthquake southeast of the Loyalty Islands on November 20, 2026, at 10:30 UTC. The tremor struck at a depth of roughly 10 kilometers, with further updates expected as data is reviewed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "7eed02fea117": {
+      "ai_title": "Magnitude 5.4 Tremor Recorded at Carlsberg Ridge",
+      "ai_summary": "An earthquake measuring magnitude 5.4 hit the Carlsberg Ridge on November 20, 2026, at 08:44 UTC. The seismic event occurred at a depth of about 10 kilometers, and location details may change following further agency analysis.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "c45fda80dc28": {
+      "ai_title": "Magnitude 4.7 Earthquake Detected Along Carlsberg Ridge",
+      "ai_summary": "A magnitude 4.7 earthquake occurred at the Carlsberg Ridge on November 20, 2026, at 08:42 UTC. The seismic activity was registered at a depth of approximately 10 kilometers, subject to future data revisions by officials.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "3bc1e75a0988": {
+      "ai_title": "Magnitude 5 Quake Hits Near Pinnacles, California",
+      "ai_summary": "A magnitude 5 earthquake struck 10 kilometers northwest of Pinnacles, California, on November 20, 2026, at 06:49 UTC at a 7-kilometer depth. Nearly 2,876 residents reported feeling the tremor, and officials noted a potential tsunami threat.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "b1732c2ffc23": {
+      "ai_title": "Magnitude 4.9 Earthquake Strikes Near Madang, Papua New Guinea",
+      "ai_summary": "A magnitude 4.9 earthquake was registered 54 kilometers west of Madang, Papua New Guinea, on November 20, 2026, at 05:17 UTC. The seismic event had a depth of about 98 kilometers, with at least one person reporting feeling the shake.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "7d625a5cccdb": {
+      "ai_title": "Voyager 1 Reaches One Light-Day Distance Milestone",
+      "ai_summary": "Spaceflight enthusiasts marked the Voyager 1 spacecraft reaching a distance of one light-day on November 18, 2026, nearly fifty years after its 1977 launch. To commemorate the event, stargazers at the Emirates Astronomical Observatory flashed a Morse code message reading 'V-G-R' into the night sky. Traveling at the speed of light, it takes one full day for a signal to reach humanity's most distant interstellar spacecraft, currently located roughly 26 billion kilometers from Earth.",
+      "content_source": "article",
+      "flow": []
+    },
+    "ea6f6bfd95ee": {
+      "ai_title": "Severe Tropical Cyclone Xavier Stirs the Southwest Pacific",
+      "ai_summary": "A slow-moving tropical disturbance northeast of Samoa and the Cook Islands rapidly intensified into Tropical Cyclone Xavier, marking an unusually powerful start to the region's storm season. Fuelled by high sea surface temperatures and El Niño conditions, Xavier achieved peak winds of 220 kilometers per hour, making it the strongest November tropical cyclone on record east of the international date line. The storm damaged local homes and disrupted power supplies before weakening as it encountered dry air and moved westward. Meteorological services expect additional storms later in the season.",
+      "content_source": "article",
+      "flow": []
+    },
+    "77c0cfb6b0a4": {
+      "ai_title": "Magnitude 4.8 Earthquake Strikes Near Calingasta, Argentina",
+      "ai_summary": "A magnitude 4.8 earthquake occurred approximately 24 kilometers east-southeast of Calingasta, Argentina, on November 20, 2026. The tremor struck at a depth of about 114 kilometers and was lightly felt by a small number of residents.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "f4cbe022502f": {
+      "ai_title": "Magnitude 4.5 Earthquake Recorded West of Tual, Indonesia",
+      "ai_summary": "A magnitude 4.5 earthquake struck 236 kilometers west of Tual, Indonesia, on November 19, 2026. The seismic event originated at a depth of roughly 125 kilometers.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "cbcc9893b5b7": {
+      "ai_title": "Entropy Products and Black Hole Horizons in Scalar Theory",
+      "ai_summary": "Researchers analyzing regular black hole horizons in Einstein-Maxwell-scalar theory demonstrate that entropy products are not strictly fixed by charges and couplings. By constructing asymptotically flat branches, the study shows that horizon products can vary above or below squared extremal entropy while remaining constant as mass changes.",
       "content_source": "source_text",
       "flow": []
     }
