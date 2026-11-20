@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T19:59:58.460841+00:00",
+  "generated": "2026-11-20T02:03:59.802179+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -4213,12 +4213,6 @@
       "content_source": "rss",
       "flow": []
     },
-    "253ba0ca5474": {
-      "ai_title": "Astrophotography Captures the Iconic Horsehead and Flame Nebulae",
-      "ai_summary": "An astrophotography setup captured stunning details of the Horsehead Nebula and surrounding cosmic features, including the blue triple star system Alnitak and the Flame Nebula. The Horsehead Nebula is a dark cloud of dust and gas standing about five light-years tall, located approximately 1,500 light-years away. Its characteristic red background glow results from hydrogen gas ionized by the bright star Sigma Orionis. Nearby, the blue reflection nebula NGC 2023 actively forms stars. Data for this image were collected over nearly six hours at the Utah Desert Remote Observatories, operated remotely by an astrophotographer located more than 2,000 kilometers away in Illinois.",
-      "content_source": "source_text",
-      "flow": []
-    },
     "54225423c289": {
       "ai_title": "Z-sight Unifies Robot Vision-Language-Action with Latent World Modeling",
       "ai_summary": "Researchers introduced Z-sight, a robot foundation model that combines vision-language-action capabilities with generative latent world modeling. Unlike traditional models that incur heavy costs from pixel-level video generation or decouple feature spaces, Z-sight predicts future states directly within the visual token space used by its vision-language model. By pairing a foresight expert and a continuous action expert through a mixture-of-transformers architecture, the model jointly denoises future spatial tokens and actions without requiring pixel reconstruction or external encoders. Trained on human videos and robot trajectories, Z-sight achieves strong performance improvements across various manipulation tasks and benchmarks, maintaining an efficient processing speed of 110 milliseconds per chunk.",
@@ -4398,6 +4392,144 @@
     "1d34fe0e3c81": {
       "ai_title": "Feasibility Study Evaluates Handheld Raman Spectroscopy for Cervical Lesion Assessment",
       "ai_summary": "Current diagnostic procedures for cervical lesions are limited by processing time and molecular-level assessment constraints. To address this, a methodological feasibility study investigated the use of a handheld 785-nm Raman spectrometer for label-free molecular profiling of ex vivo tissue sections from 74 patients. After testing various parameters, researchers selected optimal working acquisition conditions of 128 mW laser power, a 4000 ms integration time, and approximately 1-mm-thick tissue sections. Exploratory evaluations yielded promising area-under-the-curve metrics for classifying invasive cancer and high-grade lesions versus noncancer or benign states. However, predictive performance declined substantially under rigorous patient-independent cross-validation. While the findings confirm the methodological feasibility of handheld Raman acquisition and indicate lesion-associated spectral variations, the approach remains exploratory and requires larger, multicenter cohorts before clinical adoption.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "d245c82efb53": {
+      "ai_title": "Magnitude 5.6 Earthquake Strikes Near Loyalty Islands",
+      "ai_summary": "A magnitude 5.6 earthquake occurred southeast of the Loyalty Islands on November 20, 2026, at 00:49 UTC. The seismic event struck at a shallow depth of approximately 10 kilometers. Authorities note that magnitude and location figures may be subject to revision as data is continually reviewed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "d00263bbdde2": {
+      "ai_title": "Stunning Astrophotography Captures Iconic Cosmic Nebulae",
+      "ai_summary": "Recent astrophotography data reveals a colorful cosmic landscape featuring the famous Horsehead Nebula, a towering dust and gas structure located roughly 1,500 light-years away. The scene also highlights the triple star system Alnitak, the hydrogen-illuminated Flame Nebula, and the active star-forming region NGC 2023. The underlying data was gathered over nearly six hours at the Utah Desert Remote Observatories, utilizing equipment operated remotely by an astrophotographer located more than 2,000 kilometers away in Illinois.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "6eb1f0a340ab": {
+      "ai_title": "Magnitude 5.3 Earthquake Hits South Georgia Island Region",
+      "ai_summary": "An earthquake measuring magnitude 5.3 was registered in the South Georgia Island region on November 19, 2026, at 20:07 UTC. The tremor took place at a depth of about 10 kilometers, with official agencies warning that locations and magnitudes could change following further review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "4573a0cf5125": {
+      "ai_title": "Magnitude 5.0 Earthquake Recorded in Central East Pacific Rise",
+      "ai_summary": "A magnitude 5.0 earthquake struck the central East Pacific Rise on November 19, 2026, at 20:07 UTC. The event registered a depth of approximately 10 kilometers, and monitoring agencies indicate that initial parameters might be updated as data analysis continues.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "cdccf53b31bb": {
+      "ai_title": "Magnitude 4.9 Earthquake Strikes Near Xichang, China",
+      "ai_summary": "A magnitude 4.9 earthquake hit 13 kilometers west-northwest of Xichang, China, on November 19, 2026, at 18:41 UTC. The earthquake occurred at a depth of roughly 10 kilometers, and data remains subject to potential updates by monitoring authorities.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "97ad0e6d06df": {
+      "ai_title": "Gray Bats Balance Social Spacing and Obstacle Navigation",
+      "ai_summary": "Recent research investigates how gray bats navigate group flight while encountering environmental obstacles. By collecting stereoscopic video data from a wild colony of Myotis grisescens on their normal foraging paths, scientists observed that the bats stay close to walls but maintain distance from one another during group flight. An agent-based model developed from this data indicates that social repulsion behavior intensifies when the bats face novel navigational challenges and physical clutter.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "3d246278c86f": {
+      "ai_title": "Gata2 Essential for Müllerian Duct Maintenance and Reproductive Tract Development",
+      "ai_summary": "Female embryos typically retain Müllerian ducts, the precursors to the reproductive tract, by default in the absence of anti-Müllerian hormone. However, whether active signaling is required to maintain these structures has remained unclear. Using mouse models, researchers found that the deletion of mesenchymal Gata2 causes selective regression of the cranial Müllerian duct, leading to conditions like uterine hypoplasia and vaginal atresia, while epithelial Gata2 is needed for uterine gland differentiation. This regression stems from the loss of region-specific signaling rather than ectopic hormone activity. Human data further support these findings, as patients with GATA2 deficiency exhibit similar reproductive tract anomalies, identifying Gata2 as a crucial regulator of female reproductive development.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "0b7bdcc3c6d8": {
+      "ai_title": "GPCR-Gaq Signaling Mediates Trametinib Resistance in Melanoma",
+      "ai_summary": "Oncogenic BRAF mutations drive MAPK signaling in various cancers, but resistance to MEK inhibitors like trametinib often limits their clinical success. To study how cells maintain MAPK activity during treatment, researchers utilized a Caenorhabditis elegans model mimicking oncogenic BRAF and identified high-dose trametinib resistance tied to increased egl-30 expression and EGL-30/Gaq-PLC-PKC signaling. In trametinib-resistant human melanoma cells, the gene F2RL1, which encodes the Gaq-coupled GPCR PAR2, was also upregulated. Inhibiting PAR2 or downstream Gaq signaling lowered ERK phosphorylation and reduced cell viability. Furthermore, combining MEK and Gaq-PLC-PKC inhibitors successfully suppressed tumor growth and restored drug sensitivity in xenograft models, highlighting a potential vulnerability in drug-resistant melanoma.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "33bb7dfd9333": {
+      "ai_title": "Genomic Analysis Reveals Antimalarial Resistance and Fitness Trade-Offs in Senegal",
+      "ai_summary": "Drug resistance in Plasmodium falciparum continues to threaten global malaria control efforts. Researchers analyzed whole-genome sequencing data from over 2,800 monogenomic parasite infections collected from patients in Senegal between 2006 and 2022. The results showed that wild-type, drug-sensitive alleles were rare, while known resistance-associated variants predominated across major loci. Laboratory cultures of clinical isolates demonstrated distinct drug and background-dependent effects on resistance profiles. Additionally, competitive growth assays revealed specific resistance-fitness trade-offs, where certain mutations reduced parasite competitive ability while others partially rescued it. These dynamics provide important insights into how parasite populations evolve in response to changing antimalarial treatments.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "2ce048207463": {
+      "ai_title": "A Single Amino Acid in PilO Controls Helicobacter pylori Motility and Biofilms",
+      "ai_summary": "Helicobacter pylori bacteria possess complex flagellar motors, yet certain wild-type strains exhibit delayed migration in semisolid agar assays. Researchers identified that loss-of-function mutations in specific genes, particularly pilO, eliminate this delay and reduce early biofilm formation. Epistasis analysis positioned PilO as an upstream regulatory hub governing both motility and biofilms. Sequence comparisons across multiple wild-type strains revealed that a single varying amino acid in PilO dictates whether a strain displays immediate or delayed migration behavior. Furthermore, experiments demonstrated that the loss of pilO results in severe stomach colonization defects, indicating that PilO acts as a critical regulatory switch for both lifestyle transitions and infection.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "455819619366": {
+      "ai_title": "IntiCom-DB v2.0 Expands Inter-Tissue Communication Resource",
+      "ai_summary": "Researchers have introduced IntiCom-DB v2.0, an updated literature-derived database designed to document experimentally supported inter-tissue and inter-organ communication events. The new version expands its curated collection to 1,862 entries derived from 1,485 publications, encompassing 651 unique molecules across proteins, RNAs, and metabolites. It identifies 398 distinct communication routes linking 51 source tissues with 53 target tissues, with protein-mediated interactions forming the largest group. To aid functional analysis, the database integrates single-cell expression data, secretion characteristics, post-translational modification sites, and proteolytic details. A redesigned web interface offers advanced search, browsing, and visualization tools to help researchers explore complex communication patterns and identify key disease mediators. The resource is freely accessible online.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "a7aa54277ddb": {
+      "ai_title": "Maillard Reaction Precursors Enhance Composting at Extreme Ratios",
+      "ai_summary": "Agricultural waste management often faces challenges when combining spent mushroom substrate and pig manure at extreme mixing ratios, leading to nutrient loss and suppressed humification. A 120-day aerobic incubation study investigated the application of exogenous Maillard reaction precursors—specifically catechol, glucose, and glycine—to address these issues. The results showed that all three precursors improved overall compost maturity, enhanced nutrient retention, and promoted humus synthesis. Glucose accelerated phytotoxin degradation and aided humic acid synthesis in high-pig-manure systems, while glycine optimized nitrogen fixation and reduced degradation in high-substrate systems. Catechol assisted with ion chelation but yielded a slower humification rate. Spectroscopic and elemental analyses confirmed that these precursors improved the structural stability and aromatization of humic acid, offering targeted strategies for better agricultural waste recycling.",
+      "content_source": "source_text",
+      "flow": [
+        "Mix spent mushroom substrate and pig manure at extreme mass ratios.",
+        "Apply exogenous Maillard reaction precursors such as catechol, glucose, or glycine during composting.",
+        "Conduct aerobic solid-state incubation over a 120-day period.",
+        "Evaluate compost maturity, nutrient retention, and humus synthesis using spectroscopic and chemical analyses."
+      ]
+    },
+    "ab856aee4898": {
+      "ai_title": "Comparing Platelet Function Tests for Aspirin Monitoring in Neuroendovascular Care",
+      "ai_summary": "Aspirin is commonly used for antiplatelet therapy during neuroendovascular procedures, but patient response variability presents clinical challenges. A retrospective review of 124 patients evaluated five platelet function tests across light transmission aggregometry using the CN-6000 device and the VerifyNow system. Assessments occurred prior to surgery, shortly after, and one month later, measuring parameters such as maximum aggregation induced by arachidonic acid, adenosine diphosphate, and collagen, alongside aspirin reaction units. Significant perioperative changes were detected exclusively through maximum aggregation induced by 1 millimolar arachidonic acid. While correlations between VerifyNow and aggregometry results were modest, the automated CN-6000 device offers a practical option for monitoring aspirin response, though further prospective studies are needed to confirm its clinical usefulness.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "614ab7a70668": {
+      "ai_title": "Structural Reorganization of Elite Men's Water Polo Following 2025 Rule Changes",
+      "ai_summary": "Recent rule revisions by World Aquatics for men's water polo modified the field length, shot clock duration, and possession reset times to quicken offensive tempo. A quasi-experimental study compared performance indicators from the 2024 and 2025 World Championships to assess the initial impacts of these changes. Multivariate analyses revealed significant differences across offensive performance, goalkeeping, exclusions, and game management domains. While shooting and save rates remained stable, univariate findings showed changes in event frequency and distribution. Teams in 2025 averaged more possessions, action shot attempts, and exclusions, but fewer counterattack attempts. These findings demonstrate that the rule changes induced a structural reorganization of match performance rather than isolated improvements in technical efficiency.",
+      "content_source": "source_text",
+      "flow": [
+        "Implement rule changes modifying field length, shot clock duration, and possession reset times.",
+        "Collect performance indicator data from consecutive international competitions in 2024 and 2025.",
+        "Analyze performance domains using multivariate and univariate analysis of variance.",
+        "Evaluate changes in match event frequency, distribution, and structural performance."
+      ]
+    },
+    "e6e8395e6e28": {
+      "ai_title": "Clinicopathological Factors Linked to Biochemical Recurrence After Prostate Surgery",
+      "ai_summary": "A systematic review and meta-analysis investigated the relationship between clinicopathological characteristics and biochemical recurrence following robot-assisted radical prostatectomy. Researchers reviewed 16 cohort studies encompassing 6,409 prostate cancer patients from multiple medical databases up to March 2026. The findings identified several factors significantly linked to a heightened risk of biochemical recurrence, including preoperative prostate-specific antigen levels of 10 nanograms per milliliter or higher, a Gleason score of 8 or greater, pathological stage T3a, positive surgical margins, increased International Society of Urological Pathology grades, and positive lymph nodes. The study synthesizes existing prognostic evidence but does not establish or validate a formal clinical prediction model for individual patient outcomes.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "f4edb2da6ab9": {
+      "ai_title": "Correction Issued for Figures in High-Fat Diet Colitis Study",
+      "ai_summary": "The publishers of PLOS ONE have issued a correction for an article examining the role of the AMPK/PPARalpha pathway in high-fat diet-aggravated ulcerative colitis. The notice states that Figures 1 and 2 were uploaded incorrectly in the original publication. The revised figures provide accurate data regarding body weight loss percentage, disease activity index, colonic section staining, colon length comparisons, and pro-inflammatory cytokine expression levels in mice subjected to a normal versus high-fat diet during a seven-day period.",
+      "content_source": "article",
+      "flow": [
+        "Identify the incorrectly uploaded figures in the original publication.",
+        "Review the updated and correct versions of Figures 1 and 2.",
+        "Examine the corrected data regarding body weight loss, disease activity, and cytokine levels."
+      ]
+    },
+    "644a3c788cb9": {
+      "ai_title": "Correction Published for Yeast Cell Cycle Study",
+      "ai_summary": "A correction has been issued for a research study investigating the regulation of cell cycle-specific expression of CLB1 and CLB2 in Saccharomyces cerevisiae. According to the notice, the scale bars in supporting information S3 Fig A and B were incorrectly labeled in the original publication. The authors have provided the correct figure and label details showcasing the morphology and nuclear images of mutant yeast cells synchronously cultured and collected during the research.",
+      "content_source": "article",
+      "flow": [
+        "Identify the incorrectly labeled scale bars in supporting information S3 Fig A and B.",
+        "Access the correct versions of S3 Fig provided in the correction notice.",
+        "Review the updated morphology and nuclear images for the mutant yeast cells."
+      ]
+    },
+    "c2d68f9dcda2": {
+      "ai_title": "Correction Issued for Dissociative Identity Disorder Memory Study",
+      "ai_summary": "A correction has been issued for a published study assessing recall and recognition in dissociative identity disorder. The update specifies that in Table 3, the vignette-dependent recognition hit rate for Vignette 2 in the patient group requires a numerical correction.",
+      "content_source": "article",
+      "flow": []
+    },
+    "ee246a077b0a": {
+      "ai_title": "Comparing Long-Term Complications of Adult Craniopharyngioma Resection Approaches",
+      "ai_summary": "A retrospective cohort study evaluated long-term complications following transsphenoidal and transcranial surgical resection of adult craniopharyngiomas using the TriNetX network. Researchers analyzed patient data to compare outcomes across approaches. The study found that adults with craniopharyngiomas experience substantial long-term visual, endocrine, and treatment-related morbidities. While both methods offer distinct profiles, transsphenoidal resection generally showed lower rates of hydrocephalus, blindness, epilepsy, and diabetes insipidus, but carried higher rates of cerebrospinal fluid leaks and hypopituitarism compared to transcranial resection. These findings provide population-level estimates to help guide surgical counseling and postoperative patient monitoring.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "0135bd43936e": {
+      "ai_title": "Custom 3D-Printed Insoles Outperform Standard Care for Diabetic Foot Offloading",
+      "ai_summary": "Researchers evaluated whether novel 3D-printed custom accommodative insoles could improve plantar pressure offloading for individuals with diabetes compared to standard-of-care insoles and no insoles. Twenty-five adults with diabetes and high plantar pressure completed walking trials across different insole conditions. Peak plantar pressure and pressure-time integrals were measured across high-risk and adjacent areas, alongside participant comfort feedback. Results showed that all insoles significantly reduced peak plantar pressure and pressure-time integrals by over 14% in regions of interest compared to having no insole. The findings suggest that personalized, 3D-printed insoles represent a promising patient-centered approach to help prevent diabetic foot complications.",
       "content_source": "source_text",
       "flow": []
     }
