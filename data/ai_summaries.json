@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T10:58:43.338916+00:00",
+  "generated": "2026-11-20T19:39:39.861049+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2589,23 +2589,6 @@
       "content_source": "source_text",
       "flow": []
     },
-    "d4dcef319ab8": {
-      "ai_title": "New Multiplex Real-Time PCR Assay Detects Parasites Directly in Canid Feces",
-      "ai_summary": "Echinococcus multilocularis and Echinococcus granulosus sensu lato cause alveolar and cystic echinococcosis, posing significant public health concerns. Traditional diagnostic methods like copromicroscopy are labor-intensive and require specialized personnel, while certain molecular assays lack adequate sensitivity or specificity. To address these limitations, researchers developed a real-time PCR assay utilizing species-specific probes to detect both parasites directly from domestic and wild canid fecal samples. The protocol demonstrated high analytical performance, achieving a limit of detection of a single egg per reaction and 100% specificity for both species. By extracting DNA directly from feces and eliminating sequencing requirements through specific probes, the method significantly reduces laboratory processing time and expenses during wildlife surveillance.",
-      "content_source": "source_text",
-      "flow": [
-        "Collect fresh canid fecal samples during field surveillance activities.",
-        "Extract DNA directly from the collected fecal material without standard scraping procedures.",
-        "Perform multiplex real-time PCR using species-specific probes for target parasites.",
-        "Evaluate analytical performance by estimating the limit of detection and assay specificity."
-      ]
-    },
-    "9a6e86cb09a1": {
-      "ai_title": "Study Explores Physiological and Cognitive Responses to Watching Long Videos",
-      "ai_summary": "As online learning and conferences expand, understanding how prolonged video viewing impacts psychological states and physiological regulation becomes increasingly important. Researchers evaluated autonomic nervous system and hypothalamo-pituitary-adrenal axis activities while twenty-six university students watched 90-minute high-interest comedy videos and low-interest lecture videos. Participants provided subjective ratings and submitted saliva samples for stress markers, while heart rate and heart rate variability were monitored. Subjective concentration, comprehension, and interest scores were significantly higher during the high-interest video, whereas fatigue was lower. Physiological metrics showed distinct temporal variations in heart rate and heart rate variability across time, and salivary cortisol decreased throughout viewing, though stress indicators like amylase showed no significant changes.",
-      "content_source": "source_text",
-      "flow": []
-    },
     "26e1ce34d009": {
       "ai_title": "Magnitude 4.7 Earthquake Strikes Near Labuan Lombok, Indonesia",
       "ai_summary": "An earthquake measuring magnitude 4.7 struck 27 kilometers north-northeast of Labuan Lombok, Indonesia, on November 13, 2026. The tremor occurred at a depth of 10 kilometers at 04:49 UTC, with potential for revisions as data is reviewed.",
@@ -4592,6 +4575,130 @@
       "ai_summary": "Researchers analyzing regular black hole horizons in Einstein-Maxwell-scalar theory demonstrate that entropy products are not strictly fixed by charges and couplings. By constructing asymptotically flat branches, the study shows that horizon products can vary above or below squared extremal entropy while remaining constant as mass changes.",
       "content_source": "source_text",
       "flow": []
+    },
+    "5c3a8792d8a6": {
+      "ai_title": "Moderate Earthquake Strikes Near Port-Olry, Vanuatu",
+      "ai_summary": "A magnitude 5.1 earthquake struck 32 kilometers northeast of Port-Olry, Vanuatu, at a depth of roughly 95 kilometers on November 20, 2026. Agency officials noted that initial measurements of location and magnitude may change as data is reviewed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "57bebe29f83b": {
+      "ai_title": "NASA Stennis Space Center Honors Employees and Teams",
+      "ai_summary": "NASA's Stennis Space Center in Mississippi recently hosted its annual Honor Awards ceremony to recognize staff contributions to agency missions and commercial space programs. Center Director Christine Powell and Artemis Program Manager Jeremy Parsons presented the honors on November 18. Several individuals received accolades for leadership, engineering excellence, customer service, and innovation, including Stephen Rawls, Bradley Tyree, Anna Lizana, Daniel Jones, Peyton Pinson, Joseph Schuyler, Michael McDaniel, Amer Arshad, and Claire O’Shaughnessy. Additionally, the Liquid Oxygen/Liquid Methane Assessment Confined by Missile Test Team received the Space Flight Awareness Team Award for critical safety testing. The event also acknowledged numerous civil service employees celebrating major career milestones ranging from 25 to 40 years of service.",
+      "content_source": "article",
+      "flow": [
+        "Review employee contributions and achievements across NASA Stennis programs.",
+        "Select individuals and teams for specific excellence and leadership categories.",
+        "Acknowledge civil service career milestone anniversaries.",
+        "Present awards during the center ceremony hosted by leadership."
+      ]
+    },
+    "3c75783da394": {
+      "ai_title": "Curiosity Rover Reaches 49 Martian Drill Holes",
+      "ai_summary": "A new collage reveals 49 rock-drilling sites sampled by NASA's Curiosity Mars rover as of November 2026. The robotic arm utilizes a drill to collect pulverized rock, dropping the samples directly into onboard scientific instruments for composition analysis.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "2ba13ff02bb5": {
+      "ai_title": "NOAA Highlights Recreational Fishing Data Initiatives",
+      "ai_summary": "NOAA published a message from Laura Grimm focusing on recreational fishing data and fisheries management. The update highlights ongoing economic data collection efforts involving anglers in locations such as the Florida Keys National Marine Sanctuary.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "f9661cda5e56": {
+      "ai_title": "Magnitude 4.7 Earthquake Recorded West of Illapel, Chile",
+      "ai_summary": "A magnitude 4.7 earthquake occurred 94 kilometers west of Illapel, Chile, on November 20, 2026. The tremor struck at a shallow depth of approximately 10 kilometers, and seismological agencies indicated that parameters may be updated as data analysis continues.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "ef451c3533f2": {
+      "ai_title": "Mathematical Modeling Tracks Infant and Toddler Sleep Development",
+      "ai_summary": "Researchers applied a mathematical model of adult sleep regulation to understand how sleep mechanisms mature from age one month to five years. Using a Bayesian approach to analyze parameter distributions, the study found that a decreasing rate of sleep homeostatic pressure accumulation explains shorter sleep durations as children grow. Meanwhile, a longer time scale in homeostatic drive accounts for the consolidation of sleep into fewer daily bouts. The analysis also revealed greater parameter variation among infants under six months compared to older children, establishing population-level trajectories for early childhood sleep maturation.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "b00c18044188": {
+      "ai_title": "Simulations Help Guide Exetendon Designs to Lower Running Costs",
+      "ai_summary": "Scientists developed a muscle-driven simulation framework to predict how passive foot devices called exotendons affect the energetic cost of running at higher speeds. The model correctly anticipated that an exotendon design reducing energy use at moderate speeds would also lower costs at a faster, untested speed of 4 meters per second, while other tested configurations would not yield significant savings. Although predictions for maximum savings did not translate directly to experimental results, a 5-kilometer time trial using the most effective exotendon showed participants experienced a lower average heart rate and increased cadence. The findings indicate that predictive simulations offer a reliable way to guide the design of assistive wearable devices for running.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "763d063b601f": {
+      "ai_title": "Pupil Dynamics Reveal How the Brain Processes Uncertainty During Learning",
+      "ai_summary": "A recent study investigated how human arousal systems manage uncertainty during probability learning tasks. Researchers combined pupillometry with an experiment where participants tracked hidden, frequently changing probabilities. Using a Bayesian model, the team measured trial-by-trial learning rates alongside change point probability and prior uncertainty. The results showed that participants adjusted their learning rates based on prior uncertainty in a rational manner. Furthermore, pupil measurements reflected distinct neural signals: phasic dilations tracked change point probabilities, while tonic dilations represented prior uncertainty. High tonic arousal also weakened the link between phasic responses and sudden change detection, influencing how individuals update their beliefs in changing environments.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "3417177a0e0d": {
+      "ai_title": "Investigating Immune Evasion Strategies in Mucorales Fungi",
+      "ai_summary": "Mucormycosis is a severe fungal infection driven by Mucorales species that employ various species- and stage-specific tactics to bypass host immune defenses. Research shows that resting spores of Rhizopus can survive inside macrophages because the immune cells restrict germination without fully killing the spores. As these fungi germinate, cell-wall remodeling increases exposure to beta-glucan, though immune responses vary by species. For example, Rhizopus spores remain dormant and block phagosome maturation, whereas Mucor circinelloides germinates using stress-response pathways. Additionally, certain species resist neutrophil damage or suppress nitric oxide production in macrophages. Rhizopus also triggers specific dendritic-cell activation and T-cell responses that can damage hyphae. Mapping these immune evasion mechanisms could aid the creation of targeted therapies.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "7ea6cc99e4ca": {
+      "ai_title": "New Antiviral Leads Target Crimean-Congo Hemorrhagic Fever Protein",
+      "ai_summary": "Crimean-Congo hemorrhagic fever virus lacks approved vaccines or treatments, posing a significant public health threat. The viral nucleocapsid protein is critical for viral replication and translation through its interaction with messenger RNA. Researchers designed a high-throughput assay to monitor this protein-RNA binding and screened nearly 109,000 small molecules. They identified and validated several promising inhibitors that noncompetitively block the nucleocapsid interaction without harming host cellular translation. Tested against a lower-safety-level surrogate virus, the prioritized compounds showed low cytotoxicity and strong antiviral activity, significantly reducing the production of infectious viral particles. These compounds offer promising starting points for developing desperately needed CCHFV therapeutics.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "419dc8c9775f": {
+      "ai_title": "Analysis of VYD222 Antibody Neutralization Against SARS-CoV-2 Variants",
+      "ai_summary": "Extensive mutations in the SARS-CoV-2 spike protein have rendered many therapeutic monoclonal antibodies ineffective, but the re-engineered human monoclonal antibody VYD222 (pemivibart) maintains strong neutralization capabilities against emerging variants. VYD222 received FDA Emergency Use Authorization for pre-exposure prophylaxis of COVID-19 in specific immunocompromised populations. Structural analysis reveals how VYD222 adapts to mutations that typically allow viruses to escape older treatments. Deep mutational scanning shows that the virus's ability to evade VYD222 is limited by structural constraints and the requirement to preserve receptor binding, offering crucial guidance for tracking variant risks.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "9d31236110eb": {
+      "ai_title": "Correction Issued for Study on Driver Pupillary Dynamics and Cognitive Load",
+      "ai_summary": "A correction has been published for a 2026 study investigating pupillary dynamics during hands-off level 2 driving and control transitions under high cognitive load.",
+      "content_source": "article",
+      "flow": []
+    },
+    "cc8b9c26f6d2": {
+      "ai_title": "New Narrative Comprehension Assessment Developed for Indian Children",
+      "ai_summary": "A study details the development and preliminary psychometric evaluation of the Narrative Comprehension Assessment (NCA), designed to measure English-language narrative skills in Indian children aged four to eight. Due to a scarcity of culturally relevant English narrative assessments in India, researchers created a picture-based tool consisting of literal and inferential comprehension questions. The evaluation utilized two wordless picture narratives split into four sequential tasks: Picture Walk, Retelling, Prompted Comprehension, and Guided Story Narration. Testing across 80 typically developing children showed high content validity, internal consistency, and test-retest reliability, alongside significant differences across age groups. These findings suggest the NCA is a stable and valid tool, though larger and more diverse samples are needed for future normative use.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "94eb47330256": {
+      "ai_title": "Affiliation Correction Published for Architectural Heritage Renovation Study",
+      "ai_summary": "A correction has been issued to add a missing institutional affiliation for the first author of a study exploring aesthetic pleasure and conservation intentions in architectural heritage renovation.",
+      "content_source": "article",
+      "flow": []
+    },
+    "fb830f94aaf3": {
+      "ai_title": "Correction Issued for Study on Human and Dog Nighttime Activity Patterns",
+      "ai_summary": "A correction has been published regarding incorrect confidence interval values presented in Table B of the supplemental files for a study examining the nighttime activity patterns of humans and dogs.",
+      "content_source": "article",
+      "flow": []
+    },
+    "9b8c42811910": {
+      "ai_title": "Study Examines Biosignals to Predict AI Health Recommendation Choices",
+      "ai_summary": "A cross-sectional laboratory study investigated whether facial-expression probabilities and galvanic skin response (GSR) features can predict a person's binary choice between AI-labeled and doctor-labeled health recommendations in a simulated assessment. Evaluating 60 participants using cross-validation and stacking meta-learners, researchers found that multimodal stacking did not significantly improve prediction compared to individual modalities, with early-window facial expressions outperforming the stacking model in certain comparisons. The authors emphasize that these exploratory findings do not establish direct trust detection or support clinical deployment, and they call for larger studies with independent measures and external validation.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "0a0a270c8af4": {
+      "ai_title": "Republication Notice Issued for Space Affective Polarization Study",
+      "ai_summary": "The research article concerning affective polarization of space under physical threat was republished to correct a website XML heading error that did not appear in the original PDF file.",
+      "content_source": "article",
+      "flow": []
+    },
+    "2b977ac03ab8": {
+      "ai_title": "Evaluating Single-Camera Pose Estimation for Gait Analysis Compared to Multi-Camera Systems",
+      "ai_summary": "A study compared a single iPad camera pose estimation method with an eight-camera markerless motion capture reference system to evaluate spatiotemporal gait parameters in thirty-six healthy adults. Participants completed walking trials under usual, bag-carrying, and phone-use conditions across four visits. While mean differences were small, proportional bias was present across all gait variables, and test-retest reliability varied by parameter and condition, with gait speed demonstrating the best reliability. The findings indicate that single-camera systems can offer an accessible approach for selected outcomes like gait speed, but the two methods are not interchangeable when comprehensive spatial and temporal characterization is required.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "472949f79c1c": {
+      "ai_title": "Qualitative Study Identifies Barriers to Preventing Perioperative Hypothermia in Elderly Orthopedic Patients",
+      "ai_summary": "Elderly patients undergoing total hip arthroplasty frequently experience perioperative hypothermia due to anesthetic suppression and diminished thermoregulation, leading to potential poor outcomes. To identify practical barriers to hypothermia prevention, researchers conducted a qualitative study using semi-structured face-to-face interviews with fifteen medical professionals, including anesthesiologists, anesthesia nurses, and operating room nurses, at a hospital in China. Content analysis revealed three primary levels of barriers: system and process issues regarding warm chain management and resource allocation, human resources and team atmosphere concerns involving staffing and organizational culture, and inadequacies in multidisciplinary collaboration and continuous improvement systems. The findings suggest that hospital managers should target these specific areas to enhance temperature management strategies for elderly surgical patients.",
+      "content_source": "source_text",
+      "flow": [
+        "Select participants including anesthesiologists, anesthesia nurses, and operating room nurses via purposive sampling",
+        "Conduct semi-structured face-to-face interviews regarding hypothermia prevention barriers",
+        "Analyze interview data using content analysis software to extract recurring themes",
+        "Categorize findings into system processes, human resources, and multidisciplinary collaboration dimensions"
+      ]
     }
   }
 }
