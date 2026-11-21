@@ -3,7 +3,7 @@
   "sources": [
     {
       "name": "arXiv - Quantum Physics",
-      "category": "Physics",
+      "category": "Science",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -23,7 +23,7 @@
     },
     {
       "name": "arXiv - Condensed Matter",
-      "category": "Physics",
+      "category": "Science",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -33,7 +33,7 @@
     },
     {
       "name": "arXiv - High Energy Physics Phenomenology",
-      "category": "Physics",
+      "category": "Science",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -43,7 +43,7 @@
     },
     {
       "name": "arXiv - High Energy Physics Theory",
-      "category": "Physics",
+      "category": "Science",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -53,7 +53,7 @@
     },
     {
       "name": "arXiv - Optics",
-      "category": "Physics",
+      "category": "Science",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -73,7 +73,7 @@
     },
     {
       "name": "arXiv - Artificial Intelligence",
-      "category": "AI & Robotics",
+      "category": "Technology",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -83,7 +83,7 @@
     },
     {
       "name": "arXiv - Machine Learning",
-      "category": "AI & Robotics",
+      "category": "Technology",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -93,7 +93,7 @@
     },
     {
       "name": "arXiv - Robotics",
-      "category": "AI & Robotics",
+      "category": "Technology",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -103,7 +103,7 @@
     },
     {
       "name": "arXiv - Quantitative Biology",
-      "category": "Biology",
+      "category": "Science",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -113,7 +113,7 @@
     },
     {
       "name": "arXiv - Materials Science",
-      "category": "Materials Science",
+      "category": "Science",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -122,129 +122,8 @@
       "url": "https://export.arxiv.org/api/query?search_query=cat:cond-mat.mtrl-sci&sortBy=submittedDate&sortOrder=descending&max_results=8"
     },
     {
-      "name": "APS - Physical Review A",
-      "category": "Physics",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/pra.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "APS - Physical Review B",
-      "category": "Physics",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/prb.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "APS - Physical Review C",
-      "category": "Physics",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/prc.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "APS - Physical Review D",
-      "category": "Physics",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/prd.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "APS - Physical Review E",
-      "category": "Physics",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/pre.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "APS - Physical Review Letters",
-      "category": "Physics",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/prl.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "APS - Physical Review X",
-      "category": "Physics",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/prx.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "APS - Physics Magazine",
-      "category": "Physics",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://feeds.aps.org/rss/recent/physics.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "ACS Central Science",
-      "category": "Chemistry",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://pubs.acs.org/rss/acscii/asap.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "ACS Chemical Biology",
-      "category": "Biology",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://pubs.acs.org/rss/acbcct/asap.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "ACS Applied Nano Materials",
-      "category": "Materials Science",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://pubs.acs.org/rss/aanmf6/asap.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
       "name": "PLOS Biology",
-      "category": "Biology",
+      "category": "Science",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -254,7 +133,7 @@
     },
     {
       "name": "PLOS Computational Biology",
-      "category": "Biology",
+      "category": "Science",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -264,7 +143,7 @@
     },
     {
       "name": "PLOS Genetics",
-      "category": "Biology",
+      "category": "Science",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -274,7 +153,7 @@
     },
     {
       "name": "PLOS Pathogens",
-      "category": "Biology",
+      "category": "Science",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -283,41 +162,8 @@
       "url": "https://journals.plos.org/plospathogens/feed/atom"
     },
     {
-      "name": "MOSDAC SCATSAT-1",
-      "category": "Earth",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://mosdac.gov.in/isrocast.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "MOSDAC INSAT-3D Imager",
-      "category": "Earth",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://mosdac.gov.in/3dimager.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "MOSDAC INSAT-3D Sounder",
-      "category": "Earth",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://mosdac.gov.in/3dsounder.xml",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
       "name": "arXiv",
-      "category": "Physics",
+      "category": "Science",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -326,7 +172,7 @@
     },
     {
       "name": "bioRxiv",
-      "category": "Research",
+      "category": "Science",
       "type": "biorxiv",
       "licence": "open",
       "full_summary": true,
@@ -335,7 +181,7 @@
     },
     {
       "name": "Europe PMC",
-      "category": "Research",
+      "category": "Science",
       "type": "europepmc",
       "licence": "open",
       "full_summary": true,
@@ -344,23 +190,12 @@
     },
     {
       "name": "PLOS ONE",
-      "category": "Research",
+      "category": "Science",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
       "og_image": true,
       "url": "https://journals.plos.org/plosone/feed/atom"
-    },
-    {
-      "name": "Nature",
-      "category": "Research",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "og_image": true,
-      "url": "https://www.nature.com/nature.rss",
-      "enabled": false,
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
     },
     {
       "name": "NASA APOD",
@@ -382,41 +217,8 @@
       "url": "https://www.nasa.gov/feed/"
     },
     {
-      "name": "ESA Space Science",
-      "category": "Space",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://www.esa.int/rss/science.rss",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "CERN",
-      "category": "Physics",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://home.cern/feed/",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "Symmetry Magazine",
-      "category": "Physics",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://www.symmetrymagazine.org/feed",
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
       "name": "USGS earthquakes",
-      "category": "Earth",
+      "category": "Disaster & Weather",
       "type": "usgs",
       "licence": "open",
       "full_summary": true,
@@ -425,7 +227,7 @@
     },
     {
       "name": "NASA EONET",
-      "category": "Earth",
+      "category": "Disaster & Weather",
       "type": "eonet",
       "licence": "open",
       "full_summary": true,
@@ -434,7 +236,7 @@
     },
     {
       "name": "NASA Earth Observatory - Image of the Day",
-      "category": "Earth",
+      "category": "Environment",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -445,7 +247,7 @@
     },
     {
       "name": "NASA Earth Observatory - Natural Events",
-      "category": "Earth",
+      "category": "Environment",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -456,7 +258,7 @@
     },
     {
       "name": "NOAA",
-      "category": "Earth",
+      "category": "Environment",
       "type": "feed",
       "licence": "open",
       "full_summary": true,
@@ -464,77 +266,26 @@
       "url": "https://www.noaa.gov/rss.xml"
     },
     {
-      "name": "Phys.org",
-      "category": "Science",
+      "name": "Press Information Bureau (PIB)",
+      "category": "India",
       "type": "feed",
-      "licence": "check",
-      "full_summary": false,
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
       "og_image": true,
-      "url": "https://phys.org/rss-feed/",
-      "enabled": false,
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
+      "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+      "note": "Reproduction is permitted with accurate attribution; exclude third-party material."
     },
     {
-      "name": "ScienceDaily",
-      "category": "Science",
+      "name": "World Trade Organization (WTO)",
+      "category": "Business & Economy",
       "type": "feed",
-      "licence": "check",
-      "full_summary": false,
+      "licence": "open",
+      "full_summary": true,
+      "enabled": true,
       "og_image": true,
-      "url": "https://www.sciencedaily.com/rss/top/science.xml",
-      "enabled": false,
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "BBC Science",
-      "category": "Science",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "og_image": true,
-      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "enabled": false,
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "Guardian Science",
-      "category": "Science",
-      "type": "guardian",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://content.guardianapis.com/search",
-      "env_key": "GUARDIAN_API_KEY",
-      "params": {
-        "section": "science"
-      },
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "BBC Sport",
-      "category": "Sports",
-      "type": "feed",
-      "licence": "check",
-      "full_summary": false,
-      "og_image": true,
-      "url": "https://feeds.bbci.co.uk/sport/rss.xml",
-      "enabled": false,
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
-    },
-    {
-      "name": "TheSportsDB",
-      "category": "Sports",
-      "type": "sportsdb",
-      "licence": "check",
-      "full_summary": false,
-      "enabled": false,
-      "og_image": true,
-      "url": "https://www.thesportsdb.com/api/v1/json/3/eventspastleague.php",
-      "params": {
-        "id": "4328"
-      },
-      "note": "Disabled for the paid version: reuse terms not confirmed. Re-enable only after checking them."
+      "url": "https://www.wto.org/library/rss/latest_news_e.xml",
+      "note": "Disseminate WTO news with attribution; do not use its logo or present it as another source."
     }
   ]
 }

@@ -71,7 +71,7 @@ Return valid JSON only, as a list of objects:
 
 SESSION = requests.Session()
 SESSION.headers.update({
-    "User-Agent": "ScienceInShortBot/1.0 (article text extraction)"
+    "User-Agent": "InBriefBot/1.0 (article text extraction)"
 })
 
 

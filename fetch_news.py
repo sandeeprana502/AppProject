@@ -1,6 +1,6 @@
 
 #!/usr/bin/env python3
-"""Science In-Short pipeline: fetch -> parse -> clean -> tag -> publish data/news.json.
+"""In-Brief pipeline: fetch -> parse -> clean -> tag -> publish data/news.json.
 
 Keeps articles from the last 21 days (or source-specific max_age_days).
 
@@ -37,7 +37,7 @@ WORK = ROOT / "work"
 TEXT = WORK / "source_text.json"
 
 UA = {
-    "User-Agent": "ScienceInShortBot/0.1 (+https://github.com/sandeeprana502)"
+    "User-Agent": "InBriefBot/0.1 (+https://github.com/sandeeprana502)"
 }
 
 TIMEOUT = 25
