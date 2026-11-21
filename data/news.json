@@ -1,7 +1,20 @@
 {
- "generated": "2026-11-21T07:44:19.133761+00:00",
- "count": 1577,
+ "generated": "2026-11-21T10:39:59.186697+00:00",
+ "count": 1576,
  "items": [
+  {
+   "id": "fa25383771c6",
+   "title": "M 6.8 - 103 km NE of Lospalos, Timor Leste",
+   "summary": "A magnitude 6.8 earthquake was recorded 103 km NE of Lospalos, Timor Leste. The event happened on 21 November 2026 at 09:42 UTC. It occurred at a depth of about 143 km. About 29 people reported feeling it. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "words": 60,
+   "category": "Disaster & Weather",
+   "source": "USGS earthquakes",
+   "author": "USGS",
+   "published": "2026-11-21T09:42:10.314000+00:00",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
+   "image": "",
+   "licence": "open"
+  },
   {
    "id": "225dad5531e8",
    "title": "M 4.9 - 65 km NNW of Port-Vila, Vanuatu",
@@ -70,13 +83,26 @@
   {
    "id": "8553ac1cc858",
    "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
-   "summary": "A magnitude 6.7 earthquake was recorded 9 km NE of Carhuamayo, Peru. The event happened on 21 November 2026 at 00:09 UTC. It occurred at a depth of about 108 km. The agency has flagged a possible tsunami threat. About 104 people reported feeling it. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
+   "summary": "A magnitude 6.7 earthquake was recorded 9 km NE of Carhuamayo, Peru. The event happened on 21 November 2026 at 00:09 UTC. It occurred at a depth of about 108 km. The agency has flagged a possible tsunami threat. About 105 people reported feeling it. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
    "words": 67,
    "category": "Disaster & Weather",
    "source": "USGS earthquakes",
    "author": "USGS",
    "published": "2026-11-21T00:09:19.667000+00:00",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+   "image": "",
+   "licence": "open"
+  },
+  {
+   "id": "4f4ffd5ae5f8",
+   "title": "Tropical Cyclone Xavier",
+   "summary": "NASA's Earth Observatory Natural Event Tracker lists an open event in the category severe storms. The tracker collects reports from official agencies and updates them as an event develops. Open the source page for the latest details and maps.",
+   "words": 39,
+   "category": "Disaster & Weather",
+   "source": "NASA EONET",
+   "author": "NASA EONET",
+   "published": "2026-11-21T00:00:00+00:00",
+   "url": "https://www.metoc.navy.mil/jtwc/products/sh0427.tcw",
    "image": "",
    "licence": "open"
   },
@@ -91,19 +117,6 @@
    "published": "2026-11-21T00:00:00+00:00",
    "url": "https://apod.nasa.gov/apod/ap261121.html",
    "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-   "licence": "open"
-  },
-  {
-   "id": "4f4ffd5ae5f8",
-   "title": "Tropical Cyclone Xavier",
-   "summary": "NASA's Earth Observatory Natural Event Tracker lists an open event in the category severe storms. The tracker collects reports from official agencies and updates them as an event develops. Open the source page for the latest details and maps.",
-   "words": 39,
-   "category": "Disaster & Weather",
-   "source": "NASA EONET",
-   "author": "NASA EONET",
-   "published": "2026-11-21T00:00:00+00:00",
-   "url": "https://www.metoc.navy.mil/jtwc/products/sh0427.tcw",
-   "image": "",
    "licence": "open"
   },
   {
@@ -1520,7 +1533,7 @@
    "author": "Shibo Zhou, Tianqi Hong, Zheng Yan et al.",
    "published": "2026-11-19T17:53:30+00:00",
    "url": "https://arxiv.org/abs/2611.26503v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1533,7 +1546,7 @@
    "author": "Jacopo Fumagalli, Keisuke Inomata",
    "published": "2026-11-19T17:48:45+00:00",
    "url": "https://arxiv.org/abs/2611.26495v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1546,7 +1559,7 @@
    "author": "Balint Varga, Sebastian Fritz, Gergely Kiss et al.",
    "published": "2026-11-19T17:41:08+00:00",
    "url": "https://arxiv.org/abs/2611.26485v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1559,7 +1572,7 @@
    "author": "Paul Herrgen, Stephan Wust, Christin Schmitt et al.",
    "published": "2026-11-19T17:40:29+00:00",
    "url": "https://arxiv.org/abs/2611.26482v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1572,7 +1585,7 @@
    "author": "William Good, Huey-Wen Lin",
    "published": "2026-11-19T17:15:22+00:00",
    "url": "https://arxiv.org/abs/2611.26443v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1585,7 +1598,7 @@
    "author": "Matheus Hostert, Stephan A. Meighen-Berger, Maxim Pospelov",
    "published": "2026-11-19T17:01:51+00:00",
    "url": "https://arxiv.org/abs/2611.26418v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1598,7 +1611,7 @@
    "author": "Callum J. Wilson, Terry Wright, Qing Yang et al.",
    "published": "2026-11-19T16:45:05+00:00",
    "url": "https://arxiv.org/abs/2611.26391v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -1611,7 +1624,7 @@
    "author": "Chao Mei, Weiye Huang, Junhong Yang et al.",
    "published": "2026-11-19T16:42:15+00:00",
    "url": "https://arxiv.org/abs/2611.26387v1",
-   "image": "",
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "licence": "open"
   },
   {
@@ -20474,32 +20487,6 @@
    "author": "USGS",
    "published": "2026-10-31T11:31:12.352000+00:00",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuif",
-   "image": "",
-   "licence": "open"
-  },
-  {
-   "id": "96c04cd06f2a",
-   "title": "M 4.9 - 236 km NW of Port-Olry, Vanuatu",
-   "summary": "A magnitude 4.9 earthquake was recorded 236 km NW of Port-Olry, Vanuatu. The event happened on 31 October 2026 at 09:18 UTC, at a depth of about 10 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
-   "words": 51,
-   "category": "Disaster & Weather",
-   "source": "USGS earthquakes",
-   "author": "USGS",
-   "published": "2026-10-31T09:18:32.051000+00:00",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuht",
-   "image": "",
-   "licence": "open"
-  },
-  {
-   "id": "5c44afe42e51",
-   "title": "M 4.9 - 213 km W of Sola, Vanuatu",
-   "summary": "A magnitude 4.9 earthquake was recorded 213 km W of Sola, Vanuatu. The event happened on 31 October 2026 at 09:15 UTC, at a depth of about 10 km. Magnitude and location can change as the agency reviews the data. The agency event page has the map, updates and safety information.",
-   "words": 51,
-   "category": "Disaster & Weather",
-   "source": "USGS earthquakes",
-   "author": "USGS",
-   "published": "2026-10-31T09:15:52.568000+00:00",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhs",
    "image": "",
    "licence": "open"
   }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T07:45:09.601712+00:00",
+  "generated": "2026-11-21T10:41:24.228360+00:00",
   "provider": "gemini",
   "items": {
     "b28d8df42295": {
@@ -3347,6 +3347,84 @@
     "74be91fd4865": {
       "ai_title": "Study Links Visual Field Extent to Visuo-Spatial Perception in Impaired Vision",
       "ai_summary": "Visual impairment is linked to lower academic qualifications, a challenge traditionally blamed on reduced visual acuity. However, some individuals maintain normal visual acuity despite a restricted visual field. To understand the functional impacts of these limitations, researchers assessed 97 patients using an elementary visuo-spatial perception test, focusing on conditions like Retinitis Pigmentosa and Albinism. The findings reveal that visuo-spatial perception deficits are more prevalent among visually impaired individuals and correlate significantly with visual field extent rather than visual acuity. This suggests that peripheral visual field restrictions play a major role in visuo-spatial processing difficulties, which may subsequently affect academic performance.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "fa25383771c6": {
+      "ai_title": "Magnitude 6.8 Earthquake Strikes Near Lospalos, Timor Leste",
+      "ai_summary": "A magnitude 6.8 earthquake occurred northeast of Lospalos, Timor Leste, at a depth of approximately 143 kilometers. Around 29 individuals reported feeling the tremor. Agencies are currently reviewing data, meaning specific measurements and locations may be subject to future adjustments.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "5963c1b5080d": {
+      "ai_title": "Correction Issued for Author Affiliations in Hand Fracture Infection Study",
+      "ai_summary": "A correction has been published regarding the author affiliations for a study investigating risk factors for surgical site infections in open hand fractures. The updated affiliations properly attribute researchers across institutions including Hebei Medical University Third Hospital, Handan Central Hospital, and various specialized engineering and key laboratories in China. The original research article focuses on nomogram prediction models for inadequate soft tissue coverage and bone loss complications. This correction ensures all contributing authors and their respective academic departments are correctly acknowledged under the open access publication terms.",
+      "content_source": "article",
+      "flow": [
+        "Identify the original article detailing risk factors for surgical site infections in hand fractures.",
+        "Review the updated author list and institutional affiliations provided in the correction notice.",
+        "Apply the corrected affiliations from Hebei Medical University, Handan Central Hospital, and associated laboratories."
+      ]
+    },
+    "e9c8814aa72d": {
+      "ai_title": "Study Examines Gender Distribution Among Authors in High-Impact Endodontic Literature",
+      "ai_summary": "An analysis of the 200 most-cited endodontic articles published between 2015 and 2024 reveals that women account for 31 percent of all authors. Researchers evaluated authorship patterns using automated databases and manual verification across 1,262 total authors. While women represented 36 percent of first authors and 33.5 percent of corresponding authors, they made up only 24.5 percent of last authors, pointing to a continued underrepresentation in senior roles. The study found that female first authorship was more frequent when the corresponding or last author was also a woman, and that external funding correlated positively with female authorship. However, author gender had no direct association with citation counts.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "2e818b067490": {
+      "ai_title": "PvCRT08 Regulation Found Critical for Legume-Rhizobium Infection and Nodule Formation",
+      "ai_summary": "Researchers investigated the role of the calreticulin gene PvCRT08 during the symbiosis between Phaseolus vulgaris and Rhizobium tropici CIAT 899. PvCRT08 showed dynamic transcript accumulation across various root and nodule cell types. Experiments demonstrated that RNAi-mediated downregulation of PvCRT08 increased the number of infection threads successfully reaching cortical cells. Conversely, overexpression of PvCRT08 caused infection threads to stall in root hairs, reduced the number of threads reaching the cortex, and decreased nodule size, quantity, and nitrogenase activity. These outcomes show that maintaining precise control over PvCRT08 expression levels is essential for successful rhizobial infection and proper nodule development, likely by influencing cellular calcium homeostasis and protein quality control within the endoplasmic reticulum.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "8f0a12944e96": {
+      "ai_title": "Lightweight Framework Enhances CT Liver Segmentation Accuracy and Boundary Fidelity",
+      "ai_summary": "Medical image segmentation frequently struggles in weak-contrast and structurally complex anatomical regions. To resolve this, researchers developed a boundary-sensitive and structure-adaptive lightweight network framework for CT liver segmentation, tested via patient-level cross-validation on the CHAOS dataset. The architecture integrates Boundary-Sensitive Semantic Recalibration Attention, Structure-Adaptive Scale Selection Fusion, and a Detail-Compensated Residual Lightweight Block. Testing demonstrated significant improvements in boundary F1-scores and overall segmentation metrics compared to standard baseline models. Furthermore, the lightweight variant drastically reduced parameter counts and floating-point operations while maintaining competitive accuracy. Additional validation on the LiTS dataset confirmed consistent performance trends, establishing an effective balance between model compactness and boundary fidelity.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "aac49755c0af": {
+      "ai_title": "UnifiedInternalMoE: A Heterogeneous Mixture-of-Experts Framework for Vessel Trajectory Prediction",
+      "ai_summary": "Long-horizon vessel trajectory prediction requires balancing rapid responses to maneuvers with the control of error accumulation. Researchers developed UnifiedInternalMoE, a framework that integrates a motion-prior residual expert with four temporal predictors in separate regional checkpoints. Convex weights are fitted to validation predictions at specific time intervals and then interpolated to generate complete future trajectories. Evaluations using independent regional subsets demonstrated that this fusion approach achieves low mean average displacement errors across multiple horizons, supporting its reliability for maritime traffic monitoring and route planning, though performance remains influenced by vessel counts and regional data variations.",
+      "content_source": "source_text",
+      "flow": [
+        "Combine a motion-prior residual expert with four temporal predictors across regional checkpoints.",
+        "Fit convex weights to validation predictions at 5, 10, and 60 minutes.",
+        "Interpolate the fitted weights to produce the complete future trajectory.",
+        "Evaluate performance using regional datasets and independent AIS subsets."
+      ]
+    },
+    "37c80dc938aa": {
+      "ai_title": "Study Links Higher Caffeine Intake to Poorer Sleep Hygiene Among University Students",
+      "ai_summary": "A cross-sectional study examined the relationships between caffeine consumption, sleep hygiene, and academic performance among university students in Palestine. Conducted between March and May 2026, the questionnaire-based study analyzed data from participants, including estimated caffeine intake, sleep hygiene scores, sleep duration, and grade point averages. The results indicated that higher estimated caffeine consumption was significantly correlated with poorer sleep hygiene scores. However, the study did not find a statistically significant association between caffeine intake and grade point average, and researchers noted that the cross-sectional design prevents definitive causal interpretations.",
+      "content_source": "source_text",
+      "flow": [
+        "Conduct a cross-sectional questionnaire to gather student data on caffeine intake and sleep habits.",
+        "Assess participant grade point averages alongside Sleep Hygiene Index scores and caffeine timing.",
+        "Analyze associations using analysis of variance, correlation, and multivariable linear regression."
+      ]
+    },
+    "3aa06424aa97": {
+      "ai_title": "Motor Imagery-Based Brain-Computer Interface Training Enhances Upper-Limb Recovery After Stroke",
+      "ai_summary": "A randomized controlled trial investigated whether motor imagery-based brain-computer interface training improves upper-limb motor function in subacute stroke patients compared to a high-fidelity sham-control group. Thirty-two participants underwent dose-matched training alongside standard rehabilitation for four weeks. The trial assessed motor outcomes using standardized scales and evaluated structural and functional brain changes using MRI. Patients in the brain-computer interface group achieved significantly greater motor recovery gains, accompanied by increased gray matter volume in the contralesional supplementary motor area and enhanced functional connectivity between motor regions. Further large-scale trials are needed to confirm these findings.",
+      "content_source": "source_text",
+      "flow": [
+        "Randomize subacute stroke patients into a motor imagery BCI group and a sham-control group.",
+        "Administer dose-matched training sessions alongside standard rehabilitation for four weeks.",
+        "Assess upper-limb motor outcomes using standardized functional assessment scales.",
+        "Acquire structural and resting-state functional MRI scans to measure neuroplastic changes."
+      ]
+    },
+    "7a923b5dcab3": {
+      "ai_title": "Impact of MRI Protocol Heterogeneity on Deep Learning-Based Brain Metastase Segmentation",
+      "ai_summary": "Clinical magnetic resonance imaging protocols vary widely, which can affect the generalizability of deep learning segmentation models. This study evaluated how heterogeneous T1-weighted imaging protocols impact brain metastase segmentation using two three-dimensional architectures: 3D Attention U-Net and DUCK-Net 3D. Analyzing a dataset of contrast-enhanced studies across multiple sequence configurations, researchers found that DUCK-Net 3D maintained more consistent performance across independent cohorts, particularly under cross-sequence conditions. Furthermore, multi-sequence training yielded the most stable cross-sequence results, whereas single-sequence models showed heightened sensitivity to protocol variations. Both architectures exhibited decreased accuracy when segmenting very small lesions.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "2ce9ae698549": {
+      "ai_title": "Forest Proximity and Habitat Heterogeneity Support Insectivorous Birds and Prey in Vineyards",
+      "ai_summary": "Agricultural intensification simplifies landscapes, altering multi-trophic communities such as insectivorous birds and their arthropod prey. Researchers surveyed birds and arthropods across organic and near-organic vineyards in Napa Valley, California, to evaluate how local and landscape habitat features influence these populations. The study found that foliage- and bark-gleaning birds were more abundant in locally heterogeneous vineyards situated near forest and riparian edges. Similarly, specific prey-related arthropod orders showed higher abundance closer to forests and in locally heterogeneous sites. Structural equation modeling revealed that forest proximity and landscape heterogeneity indirectly supported bird populations by enhancing the availability of large beetle and fly prey, offering insights for biological pest management.",
       "content_source": "source_text",
       "flow": []
     }
