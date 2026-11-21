@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T19:39:39.861049+00:00",
+  "generated": "2026-11-21T01:59:48.063627+00:00",
   "provider": "gemini",
   "items": {
     "6ecc3498d66b": {
@@ -2554,41 +2554,6 @@
       "content_source": "source_text",
       "flow": []
     },
-    "3fb276d70cc2": {
-      "ai_title": "Correction Published for Study on Intestinal Organoids and Lipopolysaccharide",
-      "ai_summary": "A correction has been issued for a research paper exploring lipopolysaccharide-induced changes in barrier integrity and inflammatory signaling within porcine small intestinal organoids, noting that S1 Table was originally uploaded incorrectly.",
-      "content_source": "article",
-      "flow": []
-    },
-    "85cc893e95e9": {
-      "ai_title": "Study Links Social Media Integration to PTSD Symptoms Among South African Students",
-      "ai_summary": "A cross-sectional study of 491 South African university students investigated how social media integration relates to PTSD-consistent symptomatology, with a focus on problem-solving appraisals and perceived social support. The findings indicate that higher social media integration correlates positively with increased PTSD symptom severity across multiple clusters. Conversely, effective problem-solving appraisals and perceived social support appear to act as protective factors. Problem-solving partially mediated the link between social media use and symptom severity, while social support moderated several specific symptom dimensions. Researchers suggest that interventions bolstering coping strategies and social networks could help mitigate trauma-related distress among frequent social media users.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "4dcc5410679f": {
-      "ai_title": "Study Examines Myeloid Transcriptional Programs and Ex Vivo Sensitivity in ARDS",
-      "ai_summary": "Acute respiratory distress syndrome (ARDS) is biologically diverse, prompting researchers to investigate how myeloid transcriptional programs relate across blood and lung compartments. The study evaluated whether a pre-specified neutrophil degranulation program and a perturbation-response module provide convergent evidence across public cohorts. Utilizing patient samples, purified neutrophil comparisons, and ex vivo treatments, researchers assessed gene coexpression networks and cellular responses. Results showed that the neutrophil degranulation program increased consistently in ARDS patients, rose after granulocyte-macrophage colony-stimulating factor exposure, and decreased following broad PI3K inhibition. However, the findings support an ARDS-associated myeloid effector program rather than establishing a prognostic signature, a causal outcome mechanism, or targeted therapeutic efficacy.",
-      "content_source": "source_text",
-      "flow": []
-    },
-    "2f78230f7e6c": {
-      "ai_title": "Study Links Social Media Dietary Habits and Behavioral Constructs in University Students",
-      "ai_summary": "University students frequently encounter nutrition information, peer norms, and food marketing on digital platforms, yet research connecting these exposures to Integrated Behavioral Model constructs remains limited. A cross-sectional study of 385 undergraduates at King Khalid University investigated these dynamics using an Arabic questionnaire on social media and dietary habits. The findings revealed that all model constructs were positively correlated with dietary habits. Multiple linear regression indicated that positive attitudes, regular physical activity, and moderate daily social media use of up to four hours were associated with higher dietary habit scores. These results highlight that behavioral beliefs and lifestyle contexts can inform digital nutrition programs aimed at young adults.",
-      "content_source": "source_text",
-      "flow": [
-        "Recruit 385 university undergraduates using convenience sampling between February and April 2026.",
-        "Administer the Arabic IBM-based Social Media and Dietary Habits Questionnaire.",
-        "Perform descriptive statistics, correlation analyses, and multiple linear regressions on the collected data.",
-        "Adjust regression coefficient p-values using the Holm-Bonferroni procedure across tested coefficients."
-      ]
-    },
-    "2d927e8c62a8": {
-      "ai_title": "Researchers Find Evidence of Cretaceous Strandline Deposit in Wyoming's Lance Formation",
-      "ai_summary": "Excavations at the Hanson Ranch within the Maastrichtian Lance Formation of Wyoming have historically uncovered tens of thousands of disarticulated vertebrate fossils across various bonebeds. Recently, however, seven newly discovered quarries yielded associated remains of multiple dinosaur taxa, including Triceratops, Edmontosaurus, Thescelosaurus, and Anzu, in a configuration previously unseen at the site. These quarries align along a southeasterly direction, matching the orientation of long axes in many elongate bones found within the deposits. The preservation of associated skeletal elements indicates that soft-tissue connections or integumentary containment remained intact during transport and burial. Scientists conclude that these encapsulated, floating carcasses were stranded along a shoreline of the Western Interior Seaway.",
-      "content_source": "source_text",
-      "flow": []
-    },
     "26e1ce34d009": {
       "ai_title": "Magnitude 4.7 Earthquake Strikes Near Labuan Lombok, Indonesia",
       "ai_summary": "An earthquake measuring magnitude 4.7 struck 27 kilometers north-northeast of Labuan Lombok, Indonesia, on November 13, 2026. The tremor occurred at a depth of 10 kilometers at 04:49 UTC, with potential for revisions as data is reviewed.",
@@ -4699,6 +4664,102 @@
         "Analyze interview data using content analysis software to extract recurring themes",
         "Categorize findings into system processes, human resources, and multidisciplinary collaboration dimensions"
       ]
+    },
+    "e9b882dde5c8": {
+      "ai_title": "Magnitude 4.9 Earthquake Strikes Reykjanes Ridge",
+      "ai_summary": "On November 21, 2026, a magnitude 4.9 earthquake struck the Reykjanes Ridge at a depth of roughly 10 km. Authorities note that locations and magnitudes may shift as data is reviewed.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "84f68b7dfa24": {
+      "ai_title": "Moderate Earthquake Recorded Near Calama, Chile",
+      "ai_summary": "A 4.7 magnitude earthquake hit 38 km northeast of Calama, Chile, on November 21, 2026. The tremor occurred at a depth of approximately 120 km and remains subject to review.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "8553ac1cc858": {
+      "ai_title": "Peru Hit by Magnitude 6.7 Earthquake with Tsunami Warning",
+      "ai_summary": "A 6.7 magnitude earthquake struck near Carhuamayo, Peru, on November 21, 2026, at a depth of 108 km. The event prompted a possible tsunami threat warning after being felt by about 86 people.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "d8f68dec72b5": {
+      "ai_title": "Magnitude 4.9 Tremor Detected East-Southeast of Pangai, Tonga",
+      "ai_summary": "An earthquake measuring magnitude 4.9 occurred 113 km east-southeast of Pangai, Tonga, on November 20, 2026. The seismic event struck at a depth of about 10 km.",
+      "content_source": "rss",
+      "flow": []
+    },
+    "b61998a18fb4": {
+      "ai_title": "Curiosity Rover Photographs Martian Twilight Clouds",
+      "ai_summary": "NASA's Curiosity rover used its navigation cameras to photograph drifting twilight clouds over Gale Crater on October 31, 2026. These seasonal post-sunset clouds appear briefly each fall during the rover's long-term exploration mission.",
+      "content_source": "article",
+      "flow": []
+    },
+    "2c15e84b8a09": {
+      "ai_title": "NASA Awards Seed Funding to Small Businesses for Deep Space Tech",
+      "ai_summary": "NASA has invested up to $171 million through its Small Business Innovation Research and Small Business Technology Transfer program, selecting 302 innovative projects to support upcoming lunar and Martian exploration. The initiative targets critical technological needs such as Artemis infrastructure, durable power generation, autonomous robotic mobility, and resilient energy storage for extreme environments. These contracts span across initial feasibility studies and advanced demonstration phases, helping entrepreneurs commercialize aerospace hardware. Selected efforts include modular rollable solar arrays, multi-functional robotic arms with tactile and visual sensing, cold-climate batteries capable of surviving the lunar night, and advanced surface preparation techniques to build reusable landing pads on the Moon.",
+      "content_source": "article",
+      "flow": []
+    },
+    "7f894184e346": {
+      "ai_title": "Examining the Barriers to Preregistration in Life Sciences",
+      "ai_summary": "Preregistration offers a way to enhance the credibility of published studies, yet its adoption remains notably low within experimental biology. A new perspective article investigates the obstacles hindering its widespread use and explores whether formatting adjustments could better align the practice with the everyday needs of researchers in the life sciences.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "6feec1f1453d": {
+      "ai_title": "Simulations Reveal How Metal Ions Shape Ribosomal Flexibility and Dynamics",
+      "ai_summary": "Metal cations like potassium and magnesium are known to stabilize ribosomal RNA structures, but their broader effects on ribosomal dynamics remain unclear. Researchers applied microsecond-scale coarse-grained molecular dynamics simulations to the bacterial 70S ribosome to observe how varying ionic compositions influence structural flexibility and long-range communication pathways. By comparing a native ribosome model against magnesium-enriched and hydrated magnesium variants, the team demonstrated that higher magnesium levels lower backbone mobility and increase core rigidity. Furthermore, dynamic flexibility and coupling analyses revealed that ionic shifts alter long-range communication over distances exceeding 30 angstroms, notably affecting functionally vital regions like the L1 and L7/12 stalks. These findings indicate that ionic conditions play a significant role in dictating global ribosomal dynamics, which can influence translational efficiency and fidelity.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "dfc2d3038b85": {
+      "ai_title": "Hybrid Mixture Model Improves High-Dimensional Biomedical Data Clustering",
+      "ai_summary": "Model-based clustering is frequently used to analyze heterogeneous biomedical data, but massive high-dimensional datasets often overwhelm standard algorithms or suffer from slow convergence. To address this, researchers developed a hybrid matrix-free computational framework for Gaussian mixture of factor analyzers that avoids constructing massive covariance matrices explicitly. This generalized approach permits different clusters to possess a varying number of latent factors, granting greater flexibility for group-specific characterization. Simulation studies demonstrated that the new method converges significantly faster than traditional techniques while maintaining high accuracy. Practical applications using breast cancer, lymphoma, and single-cell RNA sequencing datasets successfully identified distinct biological populations and revealed meaningful underlying structural differences among malignant tumors, lymphoma subtypes, and neural cell types.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "a3491e6f9ca6": {
+      "ai_title": "New Cognitive Model Explores Human Planning Through Mental Simulations",
+      "ai_summary": "Mental simulation, or rollout, is a proposed mechanism for how humans evaluate future actions during planning. While popular in artificial intelligence, corresponding cognitive models remain scarce due to the computational difficulty of fitting them to behavioral data using noisy simulations. Researchers introduced ROSETTE, a rollout-based model designed for finite goal-directed tasks that offers analytically tractable, simulation-free model fitting. The framework treats planning as an absorbing Markov chain, accumulating expected rollout evidence while executing policy-update cycles. Testing against human data from multi-step tasks showed that the model successfully accounts for complex behavioral patterns, providing a reliable way to study how humans simulate and evaluate possible futures.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "51b15bc52dce": {
+      "ai_title": "Study Identifies Treatment Barriers for Hepatitis C in Los Angeles County",
+      "ai_summary": "A recent mixed-methods study investigated the barriers and facilitators to Hepatitis C virus treatment access among underserved residents in Los Angeles County. Researchers analyzed data from 344 program participants and conducted semi-structured interviews. Over half of the case-residents reported obstacles to care, with personal challenges such as homelessness, drug addiction, and incarceration being the most common. Other obstacles included provider issues, insurance costs, and limited transportation. Conversely, personal motivation, family support, provider trust, and insurance coverage helped facilitate treatment. Local health interventions could improve access through language support, patient navigation, mobile clinics, and removal of insurance restrictions.",
+      "content_source": "source_text",
+      "flow": [
+        "Analyze de-identified data from a linkage-to-cure program representing 344 case-residents",
+        "Conduct thematic analysis of semi-structured interviews with ten study participants",
+        "Categorize reported obstacles into personal, provider-related, insurance, and medical care access barriers",
+        "Identify treatment facilitators such as personal motivation, social support, and provider trust",
+        "Propose actionable local strategies including mobile clinics and removal of prior authorization requirements"
+      ]
+    },
+    "8912e413fe6f": {
+      "ai_title": "Self-Care and Sleep Quality Link Cognition to Depression in Older Adults",
+      "ai_summary": "A cross-sectional analysis of 7,580 Chinese adults aged 65 and older explored the complex relationships between cognitive function, depressive symptoms, self-care ability, and sleep quality. Using data from a nationwide longitudinal survey, researchers evaluated participants using depression scales, activity of daily living assessments, and cognitive screening instruments. The findings indicate that self-care ability partially mediates the connection between cognitive function and depressive symptoms. Furthermore, sleep quality moderates the direct path between cognitive function and depression. While these insights suggest that timely interventions targeting self-care and sleep may lower depression risk in older populations, the study's cross-sectional design prevents definitive causal conclusions.",
+      "content_source": "source_text",
+      "flow": [
+        "Analyze data from 7,580 older adults participating in the nationwide longitudinal survey",
+        "Assess depressive symptoms, cognitive function, self-care ability, and sleep quality using standardized measures",
+        "Apply moderated mediation analysis to examine the relationships between the variables",
+        "Determine that self-care ability partially mediates cognitive function and depressive symptoms",
+        "Establish that sleep quality moderates the direct path between cognitive function and depression"
+      ]
+    },
+    "5eb2976bab0e": {
+      "ai_title": "High Blood Pressure Prevalence Studied in Ugandan Children with Type 1 Diabetes",
+      "ai_summary": "A multicenter cross-sectional study in Uganda examined 150 children and adolescents aged six months to 18 years with type 1 diabetes mellitus to determine the prevalence and risk factors of high blood pressure. The study found that 40.7 percent of participants had high blood pressure, with a vast majority of those individuals also experiencing poor glycemic control. Statistical analysis revealed that having diabetes for more than four years and maintaining poor glycemic control significantly increased the odds of high blood pressure. The findings highlight a critical need for comprehensive diabetes care, including routine blood pressure screening for pediatric patients in developing regions.",
+      "content_source": "source_text",
+      "flow": []
+    },
+    "536091c51dc5": {
+      "ai_title": "New Hydrogel Combines Plant Extract and Stem Cell Exosomes to Treat Acne",
+      "ai_summary": "Researchers have developed an alginate-based hydrogel co-loaded with Phellodendron bark extract and human umbilical cord mesenchymal stem cell-derived exosomes to target acne vulgaris. Traditional antibiotic treatments often face microbial resistance and poor tissue repair. Laboratory and animal tests demonstrated that the new gel exhibits potent broad-spectrum antibacterial activity, sustains drug release over 24 hours, and prolongs antibacterial effects past 72 hours. In a rat ear acne model, the treatment significantly resolved swelling, reduced bacterial load, lessened follicular hyperkeratosis, and improved collagen maturity. The plant extract suppresses inflammation-related markers, while the exosomes enhance angiogenesis and tissue remodeling, offering a promising non-antibiotic alternative for managing acne.",
+      "content_source": "source_text",
+      "flow": []
     }
   }
 }
