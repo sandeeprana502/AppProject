@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-21T01:58:35.999282+00:00",
- "sources_ok": 24,
- "sources_total": 27,
+ "generated": "2026-11-21T07:44:19.133761+00:00",
+ "sources_ok": 26,
+ "sources_total": 29,
  "sources": [
   {
    "source": "arXiv - Quantum Physics",
@@ -105,9 +105,8 @@
   },
   {
    "source": "NASA APOD",
-   "status": "failed",
-   "error": "HTTPError: 500 Server Error for url: https://api.nasa.gov/planetary/apod",
-   "kept_previous": 1
+   "status": "ok",
+   "items": 1
   },
   {
    "source": "NASA news",
@@ -117,7 +116,7 @@
   {
    "source": "USGS earthquakes",
    "status": "ok",
-   "items": 102
+   "items": 98
   },
   {
    "source": "NASA EONET",
@@ -140,6 +139,17 @@
    "source": "NOAA",
    "status": "ok",
    "items": 9
+  },
+  {
+   "source": "Press Information Bureau (PIB)",
+   "status": "failed",
+   "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+   "kept_previous": 0
+  },
+  {
+   "source": "World Trade Organization (WTO)",
+   "status": "ok",
+   "items": 10
   }
  ]
 }
